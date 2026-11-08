@@ -1,0 +1,102 @@
+{
+  "id": "ml:MLB59865891",
+  "slug": "detergente-para-maquina-lava-loucas-sevengel-5-litros-mlb59865891",
+  "title": "Detergente Para Maquina Lava Louças Sevengel 5 Litros",
+  "brand": null,
+  "model": null,
+  "category_slug": "eletrodomesticos-2",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_822346-MLA99406578036_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4248030625",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2009446636",
+        "name": null,
+        "reputation": null
+      },
+      "price": 145,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": false,
+      "available": false,
+      "url": "https://meli.la/1zGZ3Hp",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T23:35:16.183Z"
+    },
+    {
+      "offer_id": "ml:MLB4248030625",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2009446636",
+        "name": null,
+        "reputation": null
+      },
+      "price": 145,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/1zGZ3Hp",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T23:35:14.000Z"
+    },
+    {
+      "offer_id": "ml:MLB4248030625",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2009446636",
+        "name": null,
+        "reputation": null
+      },
+      "price": 145,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://meli.la/1zGZ3Hp",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T23:44:39.000Z"
+    },
+    {
+      "offer_id": "ml:MLB4796990421",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1051026131",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 175.3,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/1zGZ3Hp",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T23:35:14.000Z"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-06",
+      "min_price": 145,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 145,
+    "min_ever": 145,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 41
+}

@@ -1,0 +1,68 @@
+{
+  "id": "ml:MLB62038931",
+  "slug": "cama-pet-vitoria-mlb62038931",
+  "title": "Cama Pet Vitória",
+  "brand": null,
+  "model": null,
+  "category_slug": "pets-17",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_735614-MLA97518889392_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5926033900",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1906721692",
+        "name": null,
+        "reputation": null
+      },
+      "price": 561.64,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://www.mercadolivre.com.br/p/MLB62038931",
+      "affiliate": false,
+      "last_observed_at": "2026-11-07T21:59:45.000Z"
+    },
+    {
+      "offer_id": "ml:MLB5926033900",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1906721692",
+        "name": null,
+        "reputation": null
+      },
+      "price": 561.64,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": false,
+      "available": false,
+      "url": "https://www.mercadolivre.com.br/p/MLB62038931",
+      "affiliate": false,
+      "last_observed_at": "2026-11-07T21:59:48.763Z"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-07",
+      "min_price": 561.64,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 561.64,
+    "min_ever": 561.64,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "none",
+    "pct_below_median": 0,
+    "explanation": "Oferta indisponível não entra como oportunidade."
+  },
+  "score": 54
+}

@@ -1,0 +1,85 @@
+{
+  "id": "ml:MLB47743237",
+  "slug": "mangueira-jardim-trancada-30m-laranja-pabovi-mlb47743237",
+  "title": "Mangueira Jardim Trançada 30m Laranja Pabovi",
+  "brand": null,
+  "model": null,
+  "category_slug": "jardim-e-piscina-1",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_924409-MLA99936530813_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4362983165",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "18594474",
+        "name": null,
+        "reputation": null
+      },
+      "price": 183.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/1D9D21u",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T23:05:46.000Z"
+    },
+    {
+      "offer_id": "ml:MLB4362983165",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "18594474",
+        "name": null,
+        "reputation": null
+      },
+      "price": 183.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": false,
+      "available": false,
+      "url": "https://meli.la/1D9D21u",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T23:05:47.172Z"
+    },
+    {
+      "offer_id": "ml:MLB4362983165",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "18594474",
+        "name": null,
+        "reputation": null
+      },
+      "price": 183.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://meli.la/1D9D21u",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T23:09:51.000Z"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-06",
+      "min_price": 183.9,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 183.9,
+    "min_ever": 183.9,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 41
+}

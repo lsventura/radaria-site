@@ -1,0 +1,85 @@
+{
+  "id": "ml:MLB56120050",
+  "slug": "tapete-sala-200x250-tapete-sisal-sem-pelo-mlb56120050",
+  "title": "Tapete Sala 200x250 Tapete Sisal Sem Pelo",
+  "brand": null,
+  "model": null,
+  "category_slug": "casa-e-reforma-8",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_891753-MLA116217690656_092026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB6881971284",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "148644361",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 358,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/2jB46km",
+      "affiliate": true,
+      "last_observed_at": "2026-11-07T16:50:30.000Z"
+    },
+    {
+      "offer_id": "ml:MLB6881971284",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "148644361",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 358,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": false,
+      "available": false,
+      "url": "https://meli.la/2jB46km",
+      "affiliate": true,
+      "last_observed_at": "2026-11-07T16:50:37.021Z"
+    },
+    {
+      "offer_id": "ml:MLB6881971284",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "148644361",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 358,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://meli.la/2jB46km",
+      "affiliate": true,
+      "last_observed_at": "2026-11-07T23:06:23.000Z"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-07",
+      "min_price": 358,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 358,
+    "min_ever": 358,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 48
+}

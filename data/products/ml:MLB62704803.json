@@ -1,0 +1,85 @@
+{
+  "id": "ml:MLB62704803",
+  "slug": "racao-para-gatos-castrado-adulto-bompeti-premium-10-1kg-mlb62704803",
+  "title": "Ração Para Gatos Castrado Adulto Bompeti Premium 10,1kg",
+  "brand": null,
+  "model": null,
+  "category_slug": "pets-1",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_791907-MLA100029193409_122025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7717737006",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2517698160",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 123.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/2B5ADfE",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T21:49:29.000Z"
+    },
+    {
+      "offer_id": "ml:MLB4429825905",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2560367937",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 148,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/2B5ADfE",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T21:49:29.000Z"
+    },
+    {
+      "offer_id": "ml:MLB4429825905",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2560367937",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 148,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://meli.la/2B5ADfE",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T22:35:06.000Z"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-06",
+      "min_price": 148,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 148,
+    "min_ever": 148,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 41
+}

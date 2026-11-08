@@ -1,0 +1,85 @@
+{
+  "id": "ml:MLB51191195",
+  "slug": "oculos-natacao-arena-cobra-swipe-cor-vermelho-mlb51191195",
+  "title": "Óculos Natação Arena Cobra Swipe Cor Vermelho",
+  "brand": null,
+  "model": null,
+  "category_slug": "esportes-9",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_899102-MLA96676874619_102025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5432940194",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "208519018",
+        "name": null,
+        "reputation": null
+      },
+      "price": 625.92,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/1iHUwrq",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T22:56:16.000Z"
+    },
+    {
+      "offer_id": "ml:MLB5432940194",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "208519018",
+        "name": null,
+        "reputation": null
+      },
+      "price": 625.92,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": false,
+      "available": false,
+      "url": "https://meli.la/1iHUwrq",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T22:56:18.648Z"
+    },
+    {
+      "offer_id": "ml:MLB5432940194",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "208519018",
+        "name": null,
+        "reputation": null
+      },
+      "price": 625.92,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://meli.la/1iHUwrq",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T23:09:15.000Z"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-06",
+      "min_price": 625.92,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 625.92,
+    "min_ever": 625.92,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 41
+}

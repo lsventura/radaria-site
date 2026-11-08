@@ -1,0 +1,85 @@
+{
+  "id": "ml:MLB69720657",
+  "slug": "raquete-beach-tennis-pichau-nazareth-beach-carbono-18k-mlb69720657",
+  "title": "Raquete Beach Tennis Pichau Nazareth Beach, Carbono 18k",
+  "brand": null,
+  "model": null,
+  "category_slug": "esportes-4",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_906541-MLA110939121494_052026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB6785737196",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "304410345",
+        "name": null,
+        "reputation": null
+      },
+      "price": 410.31,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/1c5Q4EU",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T20:57:27.000Z"
+    },
+    {
+      "offer_id": "ml:MLB6786173810",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "304410345",
+        "name": null,
+        "reputation": null
+      },
+      "price": 410,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/1c5Q4EU",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T20:57:27.000Z"
+    },
+    {
+      "offer_id": "ml:MLB6786173810",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "304410345",
+        "name": null,
+        "reputation": null
+      },
+      "price": 410,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://meli.la/1c5Q4EU",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T21:48:00.000Z"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-06",
+      "min_price": 410,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 410,
+    "min_ever": 410,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 41
+}

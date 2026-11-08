@@ -1,0 +1,68 @@
+{
+  "id": "ml:MLB65783801",
+  "slug": "tocha-maquina-corte-plasma-40-e-50a-modelo-pt31-4-metros-mlb65783801",
+  "title": "Tocha Máquina Corte Plasma 40 E 50a - Modelo Pt31 - 4 Metros",
+  "brand": null,
+  "model": null,
+  "category_slug": "arte-e-artesanato-1",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_638146-MLA107429664223_022026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB6285918750",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "288700419",
+        "name": null,
+        "reputation": null
+      },
+      "price": 232.7,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/2Ngtpsj",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T20:55:06.000Z"
+    },
+    {
+      "offer_id": "ml:MLB6285918750",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "288700419",
+        "name": null,
+        "reputation": null
+      },
+      "price": 232.7,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://meli.la/2Ngtpsj",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T21:47:40.000Z"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-06",
+      "min_price": 232.7,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 232.7,
+    "min_ever": 232.7,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 41
+}

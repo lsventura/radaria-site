@@ -1,0 +1,68 @@
+{
+  "id": "ml:MLB56592225",
+  "slug": "resina-epoxi-artesanato-e-madeira-resina-endurecedor-1kg-mlb56592225",
+  "title": "Resina Epóxi Artesanato E Madeira (resina + Endurecedor) 1kg",
+  "brand": null,
+  "model": null,
+  "category_slug": "arte-e-artesanato-11",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_683162-MLA96431211794_102025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5716728776",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "211920078",
+        "name": null,
+        "reputation": null
+      },
+      "price": 143.01,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/2G4o84B",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T20:58:54.000Z"
+    },
+    {
+      "offer_id": "ml:MLB5716728776",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "211920078",
+        "name": null,
+        "reputation": null
+      },
+      "price": 143.01,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://meli.la/2G4o84B",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T21:46:44.000Z"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-06",
+      "min_price": 143.01,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 143.01,
+    "min_ever": 143.01,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 41
+}

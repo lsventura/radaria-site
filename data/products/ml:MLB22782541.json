@@ -1,0 +1,102 @@
+{
+  "id": "ml:MLB22782541",
+  "slug": "papel-sulfite-fosco-180g-a4-branco-500-folhas-suzano-mlb22782541",
+  "title": "Papel Sulfite Fosco 180g A4 Branco 500 Folhas Suzano",
+  "brand": null,
+  "model": null,
+  "category_slug": "livros-e-papelaria-16",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_809409-MLA93860795556_102025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5415165704",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "267650823",
+        "name": null,
+        "reputation": null
+      },
+      "price": 135.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/12ziGcs",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T22:58:25.000Z"
+    },
+    {
+      "offer_id": "ml:MLB4613683156",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "250374864",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 238.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/12ziGcs",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T22:58:25.000Z"
+    },
+    {
+      "offer_id": "ml:MLB4613683156",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "250374864",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 238.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": false,
+      "available": false,
+      "url": "https://meli.la/12ziGcs",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T22:58:29.698Z"
+    },
+    {
+      "offer_id": "ml:MLB4613683156",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "250374864",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 238.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://meli.la/12ziGcs",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T23:05:31.000Z"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-06",
+      "min_price": 238.9,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 238.9,
+    "min_ever": 238.9,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 41
+}

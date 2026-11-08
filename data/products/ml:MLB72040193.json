@@ -1,0 +1,107 @@
+{
+  "id": "ml:MLB72040193",
+  "slug": "naruto-box-set-1-ingles-mlb72040193",
+  "title": "Naruto Box Set 1 (inglês)",
+  "brand": "Viz",
+  "model": null,
+  "category_slug": "mangas",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_866304-MLA111621928710_062026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4735744691",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "44566626",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1587,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/2cQ1Q7U",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T23:38:45.000Z"
+    },
+    {
+      "offer_id": "ml:MLB4786694351",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3277837440",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 1395.81,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": false,
+      "available": false,
+      "url": "https://meli.la/2cQ1Q7U",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T23:38:46.114Z"
+    },
+    {
+      "offer_id": "ml:MLB4786694351",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3277837440",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 1395.81,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/2cQ1Q7U",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T23:38:45.000Z"
+    },
+    {
+      "offer_id": "ml:MLB4786694351",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3277837440",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 1395.81,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://meli.la/2cQ1Q7U",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T23:43:48.000Z"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-05",
+      "min_price": 1395.81,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 1395.81,
+      "observations": 4
+    }
+  ],
+  "stats": {
+    "median_90d": 1395.81,
+    "min_ever": 1395.81,
+    "min_ever_at": "2026-11-05",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 41
+}

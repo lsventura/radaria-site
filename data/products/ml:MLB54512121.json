@@ -1,0 +1,85 @@
+{
+  "id": "ml:MLB54512121",
+  "slug": "porta-joias-couro-nacional-caixa-p-joia-c-bandeja-e-gancho-cor-porta-joias-couro-mlb54512121",
+  "title": "Porta-joias Couro Nacional - Caixa P Joia C Bandeja E Gancho Cor Porta-joias Couro Preto",
+  "brand": null,
+  "model": null,
+  "category_slug": "relogios-e-joias-12",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_732012-MLA96667128108_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5662705382",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "759126411",
+        "name": null,
+        "reputation": null
+      },
+      "price": 430.12,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/2gHUjFn",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T21:50:10.000Z"
+    },
+    {
+      "offer_id": "ml:MLB6047199690",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "759126411",
+        "name": null,
+        "reputation": null
+      },
+      "price": 449.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/2gHUjFn",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T21:50:10.000Z"
+    },
+    {
+      "offer_id": "ml:MLB5662705382",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "759126411",
+        "name": null,
+        "reputation": null
+      },
+      "price": 430.12,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://meli.la/2gHUjFn",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T22:00:12.000Z"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-06",
+      "min_price": 430.12,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 430.12,
+    "min_ever": 430.12,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 41
+}

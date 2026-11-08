@@ -1,0 +1,107 @@
+{
+  "id": "ml:MLB72038979",
+  "slug": "attack-on-titan-season-1-part-1-box-set-ingles-mlb72038979",
+  "title": "Attack on Titan Season 1 Part 1 Box Set (inglês)",
+  "brand": "Kodansha",
+  "model": null,
+  "category_slug": "mangas",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_969545-MLA112696757315_062026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4736597147",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "44566626",
+        "name": null,
+        "reputation": null
+      },
+      "price": 429.62,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/2Frxxk9",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T23:02:58.000Z"
+    },
+    {
+      "offer_id": "ml:MLB7079076030",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3277837440",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 448.82,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": false,
+      "available": false,
+      "url": "https://meli.la/2Frxxk9",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T23:02:59.514Z"
+    },
+    {
+      "offer_id": "ml:MLB7079076030",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3277837440",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 448.82,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/2Frxxk9",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T23:02:58.000Z"
+    },
+    {
+      "offer_id": "ml:MLB7079076030",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3277837440",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 448.82,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://meli.la/2Frxxk9",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T23:43:49.000Z"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-05",
+      "min_price": 448.82,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 448.82,
+      "observations": 4
+    }
+  ],
+  "stats": {
+    "median_90d": 448.82,
+    "min_ever": 448.82,
+    "min_ever_at": "2026-11-05",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 41
+}

@@ -1,0 +1,68 @@
+{
+  "id": "ml:MLB44677559",
+  "slug": "barraca-camping-hawapi-barraca-wasi-verde-mlb44677559",
+  "title": "Barraca Camping Hawapi Barraca Wasi Verde",
+  "brand": null,
+  "model": null,
+  "category_slug": "viagem-e-outdoor-3",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_898784-MLA81332999519_122024-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5243347261",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "567951224",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 449,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://www.mercadolivre.com.br/p/MLB44677559",
+      "affiliate": false,
+      "last_observed_at": "2026-11-07T18:20:13.000Z"
+    },
+    {
+      "offer_id": "ml:MLB5243347261",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "567951224",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 449,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": false,
+      "available": false,
+      "url": "https://www.mercadolivre.com.br/p/MLB44677559",
+      "affiliate": false,
+      "last_observed_at": "2026-11-07T18:20:20.396Z"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-07",
+      "min_price": 449,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 449,
+    "min_ever": 449,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "none",
+    "pct_below_median": 0,
+    "explanation": "Oferta indisponível não entra como oportunidade."
+  },
+  "score": 50
+}

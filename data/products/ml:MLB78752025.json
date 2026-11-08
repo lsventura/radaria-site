@@ -1,0 +1,68 @@
+{
+  "id": "ml:MLB78752025",
+  "slug": "kimono-jiu-jitsu-a2-trancado-adulto-branco-aurium-mlb78752025",
+  "title": "KIMONO JIU JITSU A2 TRANÇADO ADULTO BRANCO AURIUM",
+  "brand": null,
+  "model": null,
+  "category_slug": "esportes-8",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_875367-MLA116990392649_082026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5172793395",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3594156615",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 267,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/2JNaD4a",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T20:53:57.000Z"
+    },
+    {
+      "offer_id": "ml:MLB5172793395",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3594156615",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 267,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://meli.la/2JNaD4a",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T21:49:08.000Z"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-06",
+      "min_price": 267,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 267,
+    "min_ever": 267,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 41
+}

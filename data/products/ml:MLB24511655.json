@@ -1,0 +1,136 @@
+{
+  "id": "ml:MLB24511655",
+  "slug": "ssd-nvme-512gb-ceamere-mlb24511655",
+  "title": "Ssd Nvme 512gb Ceamere",
+  "brand": null,
+  "model": null,
+  "category_slug": "informatica-1",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_894116-MLA99541938838_122025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5517572247",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2453009584",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 549,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/1pGwWCe",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T19:25:36.000Z"
+    },
+    {
+      "offer_id": "ml:MLB7072130728",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "631149868",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 559.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/1pGwWCe",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T19:25:36.000Z"
+    },
+    {
+      "offer_id": "ml:MLB4370668267",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1309504997",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 797,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/1pGwWCe",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T19:25:36.000Z"
+    },
+    {
+      "offer_id": "ml:MLB4370668267",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1309504997",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 797,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://meli.la/1pGwWCe",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T19:27:30.000Z"
+    },
+    {
+      "offer_id": "ml:MLB7294450320",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "192275937",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1170,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/1pGwWCe",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T19:25:36.000Z"
+    },
+    {
+      "offer_id": "ml:MLB4384282609",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "94011456",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 554.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/1pGwWCe",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T19:25:36.000Z"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-06",
+      "min_price": 797,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 797,
+    "min_ever": 797,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 41
+}

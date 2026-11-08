@@ -1,0 +1,102 @@
+{
+  "id": "ml:MLB47533267",
+  "slug": "chuteira-campo-umbro-score-mlb47533267",
+  "title": "Chuteira Campo Umbro Score",
+  "brand": null,
+  "model": null,
+  "category_slug": "esportes-2",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_617469-MLA82826239938_032025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB6786903344",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2553723292",
+        "name": null,
+        "reputation": null
+      },
+      "price": 230.28,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/1bo7EhG",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T20:57:32.000Z"
+    },
+    {
+      "offer_id": "ml:MLB7477249450",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3042004896",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 224.91,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/1bo7EhG",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T20:57:32.000Z"
+    },
+    {
+      "offer_id": "ml:MLB7477249450",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3042004896",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 224.91,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://meli.la/1bo7EhG",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T21:46:32.000Z"
+    },
+    {
+      "offer_id": "ml:MLB5041611769",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3412906421",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 237.4,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/1bo7EhG",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T20:57:32.000Z"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-06",
+      "min_price": 224.91,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 224.91,
+    "min_ever": 224.91,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 41
+}

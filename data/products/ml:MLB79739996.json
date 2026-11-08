@@ -1,0 +1,68 @@
+{
+  "id": "ml:MLB79739996",
+  "slug": "memoria-ram-adata-notebook-8gb-5600mhz-ddr5-mlb79739996",
+  "title": "Memória RAM ADATA Notebook 8GB 5600MHz DDR5",
+  "brand": null,
+  "model": null,
+  "category_slug": "informatica-5",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_789324-MLA118077027201_092026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5277461787",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "756707374",
+        "name": null,
+        "reputation": null
+      },
+      "price": 999,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/1hFbxrH",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T20:33:57.000Z"
+    },
+    {
+      "offer_id": "ml:MLB5277461787",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "756707374",
+        "name": null,
+        "reputation": null
+      },
+      "price": 999,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://meli.la/1hFbxrH",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T20:51:10.000Z"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-06",
+      "min_price": 999,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 999,
+    "min_ever": 999,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 41
+}

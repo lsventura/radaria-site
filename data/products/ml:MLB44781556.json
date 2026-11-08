@@ -1,0 +1,85 @@
+{
+  "id": "ml:MLB44781556",
+  "slug": "bomba-piscina-sibrape-bpf-025-eixo-inox-mlb44781556",
+  "title": "Bomba Piscina Sibrape Bpf 025 Eixo Inox",
+  "brand": null,
+  "model": null,
+  "category_slug": "jardim-e-piscina-11",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_626060-MLA99988486861_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5315360221",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "674882263",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1353.46,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/1BP3GHL",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T23:00:50.000Z"
+    },
+    {
+      "offer_id": "ml:MLB5315360221",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "674882263",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1353.46,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": false,
+      "available": false,
+      "url": "https://meli.la/1BP3GHL",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T23:00:51.101Z"
+    },
+    {
+      "offer_id": "ml:MLB5315360221",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "674882263",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1353.46,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://meli.la/1BP3GHL",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T23:07:57.000Z"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-06",
+      "min_price": 1353.46,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 1353.46,
+    "min_ever": 1353.46,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 41
+}

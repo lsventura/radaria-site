@@ -1,0 +1,68 @@
+{
+  "id": "ml:MLB21000730",
+  "slug": "difusor-aroma-tenue-700ml-mlb21000730",
+  "title": "Difusor Aroma Tênue- 700ml",
+  "brand": null,
+  "model": null,
+  "category_slug": "bem-estar-16",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_600466-MLB48690038387_122021-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB6456001666",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1573620425",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 467.28,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/2CKUxu8",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T21:51:23.000Z"
+    },
+    {
+      "offer_id": "ml:MLB6456001666",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1573620425",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 467.28,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://meli.la/2CKUxu8",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T21:55:15.000Z"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-06",
+      "min_price": 467.28,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 467.28,
+    "min_ever": 467.28,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 41
+}

@@ -1,0 +1,85 @@
+{
+  "id": "ml:MLB18486784",
+  "slug": "frigobar-midea-mrc10b1-branco-93l-mlb18486784",
+  "title": "Frigobar Midea MRC10B1 Branco 93L",
+  "brand": null,
+  "model": null,
+  "category_slug": "eletrodomesticos-11",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_727201-MLA99471159932_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5160925208",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1168726042",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1599,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://www.mercadolivre.com.br/p/MLB18486784",
+      "affiliate": false,
+      "last_observed_at": "2026-11-07T20:32:21.000Z"
+    },
+    {
+      "offer_id": "ml:MLB5366976524",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "14881651",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1349.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": false,
+      "available": false,
+      "url": "https://www.mercadolivre.com.br/p/MLB18486784",
+      "affiliate": false,
+      "last_observed_at": "2026-11-07T20:32:21.000Z"
+    },
+    {
+      "offer_id": "ml:MLB5160925208",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1168726042",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1599,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": false,
+      "available": false,
+      "url": "https://www.mercadolivre.com.br/p/MLB18486784",
+      "affiliate": false,
+      "last_observed_at": "2026-11-07T20:32:24.455Z"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-07",
+      "min_price": 1349.9,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 1349.9,
+    "min_ever": 1349.9,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "none",
+    "pct_below_median": 0,
+    "explanation": "Oferta indisponível não entra como oportunidade."
+  },
+  "score": 46
+}

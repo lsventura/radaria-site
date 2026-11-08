@@ -1,0 +1,85 @@
+{
+  "id": "ml:MLB23076913",
+  "slug": "monitor-bebe-wifi-infravermelho-vision-noctura-intercom-inteligente-mlb23076913",
+  "title": "Monitor Bebe Wifi Infravermelho Vision Noctura Intercom Inteligente",
+  "brand": null,
+  "model": null,
+  "category_slug": "bebes-13",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_782666-MLA99581406986_122025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4552727020",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "116020419",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 1394,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/1SJBHni",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T21:51:02.000Z"
+    },
+    {
+      "offer_id": "ml:MLB7262266178",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "398085180",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 1198.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/1SJBHni",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T21:51:02.000Z"
+    },
+    {
+      "offer_id": "ml:MLB4552727020",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "116020419",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 1394,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://meli.la/1SJBHni",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T21:57:54.000Z"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-06",
+      "min_price": 1394,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 1394,
+    "min_ever": 1394,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 41
+}

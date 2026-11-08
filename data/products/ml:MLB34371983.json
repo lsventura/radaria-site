@@ -1,0 +1,68 @@
+{
+  "id": "ml:MLB34371983",
+  "slug": "relogio-analogico-feminino-chilli-beans-cinza-0002-mlb34371983",
+  "title": "Relógio Analógico Feminino Chilli Beans Cinza 0002",
+  "brand": null,
+  "model": null,
+  "category_slug": "relogios-e-joias-2",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_957098-MLA96708834619_102025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4202886701",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "832051639",
+        "name": null,
+        "reputation": null
+      },
+      "price": 329.98,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/2TXEGpz",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T22:11:41.000Z"
+    },
+    {
+      "offer_id": "ml:MLB4202886701",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "832051639",
+        "name": null,
+        "reputation": null
+      },
+      "price": 329.98,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://meli.la/2TXEGpz",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T22:33:19.000Z"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-06",
+      "min_price": 329.98,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 329.98,
+    "min_ever": 329.98,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 41
+}

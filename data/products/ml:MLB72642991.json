@@ -1,0 +1,102 @@
+{
+  "id": "ml:MLB72642991",
+  "slug": "far-from-romance-ingles-mlb72642991",
+  "title": "Far From Romance - Inglês",
+  "brand": null,
+  "model": null,
+  "category_slug": "livros-e-papelaria-8",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_908977-MLA112800615943_062026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4743470683",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "44566626",
+        "name": null,
+        "reputation": null
+      },
+      "price": 206.18,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/2kxaEDW",
+      "affiliate": true,
+      "last_observed_at": "2026-11-07T02:39:44.000Z"
+    },
+    {
+      "offer_id": "ml:MLB7103362324",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3277837440",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 207.94,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/2kxaEDW",
+      "affiliate": true,
+      "last_observed_at": "2026-11-07T02:39:44.000Z"
+    },
+    {
+      "offer_id": "ml:MLB7103362324",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3277837440",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 207.94,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": false,
+      "available": false,
+      "url": "https://meli.la/2kxaEDW",
+      "affiliate": true,
+      "last_observed_at": "2026-11-07T02:39:45.746Z"
+    },
+    {
+      "offer_id": "ml:MLB7103362324",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3277837440",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 207.94,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://meli.la/2kxaEDW",
+      "affiliate": true,
+      "last_observed_at": "2026-11-07T02:42:29.000Z"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-06",
+      "min_price": 207.94,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 207.94,
+    "min_ever": 207.94,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 41
+}

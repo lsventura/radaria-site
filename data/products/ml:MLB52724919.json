@@ -1,0 +1,85 @@
+{
+  "id": "ml:MLB52724919",
+  "slug": "mangueira-jardim-duraflex-verde-siliconada-40m-mlb52724919",
+  "title": "Mangueira Jardim Duraflex Verde Siliconada 40m",
+  "brand": null,
+  "model": null,
+  "category_slug": "jardim-e-piscina-1",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_641137-MLA99966523743_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4128899333",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "381742751",
+        "name": null,
+        "reputation": null
+      },
+      "price": 154.26,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/2323tiB",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T23:06:57.000Z"
+    },
+    {
+      "offer_id": "ml:MLB4128899333",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "381742751",
+        "name": null,
+        "reputation": null
+      },
+      "price": 154.26,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": false,
+      "available": false,
+      "url": "https://meli.la/2323tiB",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T23:06:58.918Z"
+    },
+    {
+      "offer_id": "ml:MLB4128899333",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "381742751",
+        "name": null,
+        "reputation": null
+      },
+      "price": 154.26,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://meli.la/2323tiB",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T23:10:53.000Z"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-06",
+      "min_price": 154.26,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 154.26,
+    "min_ever": 154.26,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 41
+}

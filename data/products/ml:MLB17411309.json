@@ -1,0 +1,102 @@
+{
+  "id": "ml:MLB17411309",
+  "slug": "celular-motorola-moto-g-5g-otimo-mlb17411309",
+  "title": "Celular Motorola Moto G 5g - Ótimo",
+  "brand": null,
+  "model": null,
+  "category_slug": "celulares-5",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_683962-MLA99924158715_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4023202836",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1276311322",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 1499,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/23xot34",
+      "affiliate": true,
+      "last_observed_at": "2026-11-07T06:16:36.000Z"
+    },
+    {
+      "offer_id": "ml:MLB5119951547",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "698607917",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 1725,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/23xot34",
+      "affiliate": true,
+      "last_observed_at": "2026-11-07T06:16:36.000Z"
+    },
+    {
+      "offer_id": "ml:MLB5119951547",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "698607917",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 1725,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": false,
+      "available": false,
+      "url": "https://meli.la/23xot34",
+      "affiliate": true,
+      "last_observed_at": "2026-11-07T06:16:37.572Z"
+    },
+    {
+      "offer_id": "ml:MLB5119951547",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "698607917",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 1725,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://meli.la/23xot34",
+      "affiliate": true,
+      "last_observed_at": "2026-11-07T12:57:12.000Z"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-07",
+      "min_price": 1725,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 1725,
+    "min_ever": 1725,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 44
+}

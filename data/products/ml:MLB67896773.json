@@ -1,0 +1,85 @@
+{
+  "id": "ml:MLB67896773",
+  "slug": "mesa-cabeceira-marrom-yucatan-docstock-mlb67896773",
+  "title": "Mesa Cabeceira Marrom Yucatan | Docstock",
+  "brand": null,
+  "model": null,
+  "category_slug": "moveis-14",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_893679-MLA109456282124_042026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7209220514",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "656595011",
+        "name": null,
+        "reputation": null
+      },
+      "price": 387.12,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/2TD5KQC",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T22:59:11.000Z"
+    },
+    {
+      "offer_id": "ml:MLB7209220514",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "656595011",
+        "name": null,
+        "reputation": null
+      },
+      "price": 387.12,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": false,
+      "available": false,
+      "url": "https://meli.la/2TD5KQC",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T22:59:11.886Z"
+    },
+    {
+      "offer_id": "ml:MLB7209220514",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "656595011",
+        "name": null,
+        "reputation": null
+      },
+      "price": 387.12,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://meli.la/2TD5KQC",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T23:11:45.000Z"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-06",
+      "min_price": 387.12,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 387.12,
+    "min_ever": 387.12,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 41
+}

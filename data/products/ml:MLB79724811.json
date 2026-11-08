@@ -1,0 +1,85 @@
+{
+  "id": "ml:MLB79724811",
+  "slug": "chassi-base-carcaca-cortador-grama-cc45m-cc40m-tramontina-laranja-mlb79724811",
+  "title": "Chassi Base Carcaça Cortador Grama Cc45m / Cc40m Tramontina Laranja",
+  "brand": null,
+  "model": null,
+  "category_slug": "jardim-e-piscina-4",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_740502-MLA116518586378_092026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5274914431",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1095423268",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 528.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/2wxzYfo",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T23:03:58.000Z"
+    },
+    {
+      "offer_id": "ml:MLB5274914431",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1095423268",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 528.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": false,
+      "available": false,
+      "url": "https://meli.la/2wxzYfo",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T23:04:01.091Z"
+    },
+    {
+      "offer_id": "ml:MLB5274914431",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1095423268",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 528.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://meli.la/2wxzYfo",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T23:12:20.000Z"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-06",
+      "min_price": 528.9,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 528.9,
+    "min_ever": 528.9,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 41
+}

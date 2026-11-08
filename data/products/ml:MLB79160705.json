@@ -1,0 +1,85 @@
+{
+  "id": "ml:MLB79160705",
+  "slug": "placa-de-video-geforce-nvidia-gt730-4gb-ddr3-128bit-gt-730-mlb79160705",
+  "title": "Placa De Video Geforce Nvidia Gt730 4gb Ddr3 128bit Gt 730",
+  "brand": null,
+  "model": null,
+  "category_slug": "informatica-11",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_649104-MLA117461880649_092026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB6507373302",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "69438105",
+        "name": null,
+        "reputation": null
+      },
+      "price": 333.14,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/2fjStML",
+      "affiliate": true,
+      "last_observed_at": "2026-11-07T15:54:26.000Z"
+    },
+    {
+      "offer_id": "ml:MLB6507373302",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "69438105",
+        "name": null,
+        "reputation": null
+      },
+      "price": 333.14,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": false,
+      "available": false,
+      "url": "https://meli.la/2fjStML",
+      "affiliate": true,
+      "last_observed_at": "2026-11-07T15:54:30.597Z"
+    },
+    {
+      "offer_id": "ml:MLB6507373302",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "69438105",
+        "name": null,
+        "reputation": null
+      },
+      "price": 333.14,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://meli.la/2fjStML",
+      "affiliate": true,
+      "last_observed_at": "2026-11-07T23:47:24.000Z"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-07",
+      "min_price": 333.14,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 333.14,
+    "min_ever": 333.14,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 48
+}

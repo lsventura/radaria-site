@@ -1,0 +1,68 @@
+{
+  "id": "ml:MLB61497637",
+  "slug": "racao-umida-cesar-sache-frango-caes-adul-85g-40un-mlb61497637",
+  "title": "Ração Úmida Cesar Sachê Frango Cães Adul 85g 40un",
+  "brand": null,
+  "model": null,
+  "category_slug": "pets-13",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_974161-MLA106469573066_022026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4398225133",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "480265022",
+        "name": null,
+        "reputation": null
+      },
+      "price": 192.34,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/1def5Lc",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T22:18:41.000Z"
+    },
+    {
+      "offer_id": "ml:MLB4398225133",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "480265022",
+        "name": null,
+        "reputation": null
+      },
+      "price": 192.34,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://meli.la/1def5Lc",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T22:46:38.000Z"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-06",
+      "min_price": 192.34,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 192.34,
+    "min_ever": 192.34,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 41
+}

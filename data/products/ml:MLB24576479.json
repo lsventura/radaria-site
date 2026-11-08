@@ -1,0 +1,141 @@
+{
+  "id": "ml:MLB24576479",
+  "slug": "teclado-corsair-k70-mlb24576479",
+  "title": "Teclado Corsair K70",
+  "brand": "Corsair",
+  "model": null,
+  "category_slug": "perifericos",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_633101-MLA99534278724_122025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4295460035",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "83867908",
+        "name": null,
+        "reputation": null
+      },
+      "price": 839.45,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/2oK6Re4",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T23:02:55.000Z"
+    },
+    {
+      "offer_id": "ml:MLB5558429580",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "514600787",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 749,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/2oK6Re4",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T23:02:55.000Z"
+    },
+    {
+      "offer_id": "ml:MLB5159528394",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "756960592",
+        "name": null,
+        "reputation": null
+      },
+      "price": 643,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/2oK6Re4",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T23:02:55.000Z"
+    },
+    {
+      "offer_id": "ml:MLB5159528394",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "756960592",
+        "name": null,
+        "reputation": null
+      },
+      "price": 643,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": false,
+      "available": false,
+      "url": "https://meli.la/2oK6Re4",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T23:02:56.538Z"
+    },
+    {
+      "offer_id": "ml:MLB4295460035",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "83867908",
+        "name": null,
+        "reputation": null
+      },
+      "price": 839.45,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": false,
+      "available": false,
+      "url": "https://meli.la/2oK6Re4",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T23:02:56.538Z"
+    },
+    {
+      "offer_id": "ml:MLB5159528394",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "756960592",
+        "name": null,
+        "reputation": null
+      },
+      "price": 643,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://meli.la/2oK6Re4",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T23:43:50.000Z"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-05",
+      "min_price": 643,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 643,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 643,
+    "min_ever": 643,
+    "min_ever_at": "2026-11-05",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 41
+}

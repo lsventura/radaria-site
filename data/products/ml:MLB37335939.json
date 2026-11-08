@@ -1,0 +1,102 @@
+{
+  "id": "ml:MLB37335939",
+  "slug": "console-xbox-series-x-1tb-standard-mlb37335939",
+  "title": "Console Xbox Series X 1TB Standard",
+  "brand": null,
+  "model": null,
+  "category_slug": "games-2",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_955793-MLA95654286228_102025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7891576528",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "435221917",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 7999,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/1XTQSKz",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T22:35:22.000Z"
+    },
+    {
+      "offer_id": "ml:MLB3866053783",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "792166347",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 9995,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/1XTQSKz",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T22:35:22.000Z"
+    },
+    {
+      "offer_id": "ml:MLB5686797066",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "264615691",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 9500,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/1XTQSKz",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T22:35:22.000Z"
+    },
+    {
+      "offer_id": "ml:MLB5686797066",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "264615691",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 9500,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://meli.la/1XTQSKz",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T22:40:00.000Z"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-06",
+      "min_price": 9500,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 9500,
+    "min_ever": 9500,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 41
+}
