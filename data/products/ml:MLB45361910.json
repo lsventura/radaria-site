@@ -1,0 +1,68 @@
+{
+  "id": "ml:MLB45361910",
+  "slug": "kit-irrigacao-completo-profissional-9m-valvula-de-controle-mlb45361910",
+  "title": "Kit Irrigação Completo Profissional 9m Válvula De Controle",
+  "brand": null,
+  "model": null,
+  "category_slug": "jardim-e-piscina-7",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_922776-MLA99523350188_122025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB6256544510",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "271581951",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 248.82,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/1QjYwDr",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T22:34:56.000Z"
+    },
+    {
+      "offer_id": "ml:MLB6256544510",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "271581951",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 248.82,
+      "currency": "BRL",
+      "store_reference_price": 292.74,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1QjYwDr",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:57:06.834Z"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 248.82,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 248.82,
+    "min_ever": 248.82,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

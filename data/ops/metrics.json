@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-11-08T15:09:09.736Z",
+  "generated_at": "2026-11-08T20:12:39.251Z",
   "schema_version": "radaria-ops/v1",
   "funnel": {
     "discovered": 97751,
     "distinct": 48131,
     "with_photo": 47914,
-    "audited_approved": 3933,
-    "with_affiliate": 1747,
-    "published": 1747,
-    "fresh_history_24h": 669
+    "audited_approved": 4159,
+    "with_affiliate": 1657,
+    "published": 1657,
+    "fresh_history_24h": 1657
   },
   "activity_24h": {
-    "telegram_posted": 2,
-    "affiliate_links_generated": 3359
+    "telegram_posted": 14,
+    "affiliate_links_generated": 3414
   },
   "by_status": {
-    "approved": 3934,
-    "rejected": 4842,
-    "source_unavailable": 19788,
-    "pending": 19567
+    "approved": 4162,
+    "rejected": 5948,
+    "source_unavailable": 35079,
+    "pending": 2942
   },
   "by_root_category": [
     {
@@ -226,12 +226,12 @@
     {
       "from": "with_photo",
       "to": "audited_approved",
-      "ratio": 0.0821
+      "ratio": 0.0868
     },
     {
       "from": "audited_approved",
       "to": "with_affiliate",
-      "ratio": 0.4442
+      "ratio": 0.3984
     },
     {
       "from": "with_affiliate",
@@ -241,23 +241,20 @@
     {
       "from": "published",
       "to": "fresh_history_24h",
-      "ratio": 0.3829
+      "ratio": 1
     }
   ],
-  "queues": {
-    "audit": 21,
-    "refresh": 36
-  },
+  "queues": {},
   "errors_by_source": [
     {
       "source": "mercadolivre",
       "http_status": 404,
-      "count_24h": 1017
+      "count_24h": 28344
     },
     {
       "source": "mercadolivre",
       "http_status": 400,
-      "count_24h": 818
+      "count_24h": 841
     },
     {
       "source": "mercadolivre",
@@ -266,49 +263,47 @@
     }
   ],
   "last_success": {
-    "publish-telegram": "2026-11-08T15:01:39.884Z",
-    "export": "2026-11-08T15:04:17.422Z",
-    "curate": "2026-11-08T15:08:57.276Z",
-    "refresh": "2026-11-08T15:09:08.925Z",
-    "affiliate": "2026-11-08T15:08:57.445Z",
-    "audit": "2026-11-08T15:09:04.589Z"
+    "publish-telegram": "2026-11-08T20:05:15.727Z",
+    "export": "2026-11-08T19:55:48.642Z",
+    "curate": "2026-11-08T20:12:15.312Z",
+    "refresh": "2026-11-08T18:27:35.868Z",
+    "affiliate": "2026-11-08T18:42:31.475Z",
+    "audit": "2026-11-08T19:57:25.681Z"
   },
   "last_run": {
     "affiliate": {
-      "at": "2026-11-08T15:08:57.445Z",
-      "status": "success"
+      "at": "2026-11-08T20:12:15.121Z",
+      "status": "skipped"
     },
     "audit": {
-      "at": "2026-11-08T15:09:27.133Z",
+      "at": "2026-11-08T19:57:26.432Z",
       "status": "empty"
     },
     "curate": {
-      "at": "2026-11-08T15:08:57.276Z",
+      "at": "2026-11-08T20:12:15.312Z",
       "status": "success"
     },
     "discover": {
-      "at": "2026-11-08T15:08:56.160Z",
+      "at": "2026-11-08T20:12:15.323Z",
       "status": "empty"
     },
     "export": {
-      "at": "2026-11-08T15:04:17.422Z",
+      "at": "2026-11-08T19:55:48.642Z",
       "status": "success"
     },
     "publish-telegram": {
-      "at": "2026-11-08T15:01:39.884Z",
+      "at": "2026-11-08T20:05:15.727Z",
       "status": "success"
     },
     "refresh": {
-      "at": "2026-11-08T15:09:27.326Z",
+      "at": "2026-11-08T18:27:35.868Z",
       "status": "success"
     }
   },
   "throughput_per_hour": {
-    "publish-telegram": 2,
-    "export": 3,
-    "curate": 64,
-    "refresh": 777,
-    "audit": 217,
-    "affiliate": 38
+    "publish-telegram": 3,
+    "export": 2,
+    "curate": 58,
+    "audit": 1657
   }
 }

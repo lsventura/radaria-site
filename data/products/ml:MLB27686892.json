@@ -1,0 +1,68 @@
+{
+  "id": "ml:MLB27686892",
+  "slug": "rede-multisport-beach-tennis-futevolei-volei-praia-preta-mlb27686892",
+  "title": "Rede Multisport Beach Tennis, Futevôlei, Vôlei Praia Preta",
+  "brand": null,
+  "model": null,
+  "category_slug": "esportes-13",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_784342-MLA100001568395_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB3510828215",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "97936011",
+        "name": null,
+        "reputation": null
+      },
+      "price": 167,
+      "currency": "BRL",
+      "store_reference_price": 199.9,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB27686892",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T16:16:59.908Z"
+    },
+    {
+      "offer_id": "ml:MLB3510840473",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "97936011",
+        "name": null,
+        "reputation": null
+      },
+      "price": 171,
+      "currency": "BRL",
+      "store_reference_price": 209.89,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB27686892",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T16:16:59.908Z"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 167,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 167,
+    "min_ever": 167,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

@@ -1,0 +1,68 @@
+{
+  "id": "ml:MLB75939549",
+  "slug": "chaleira-eletrica-chaleira-inox-12cm-chaleira-pequena-mlb75939549",
+  "title": "Chaleira Eletrica Chaleira Inox 12cm Chaleira Pequena",
+  "brand": null,
+  "model": null,
+  "category_slug": "cozinha-12",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_995066-MLA113992823012_072026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7285928034",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3023715270",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 184.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://www.mercadolivre.com.br/p/MLB75939549",
+      "affiliate": false,
+      "last_observed_at": "2026-11-07T23:56:18.000Z"
+    },
+    {
+      "offer_id": "ml:MLB7285928034",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3023715270",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 179.39,
+      "currency": "BRL",
+      "store_reference_price": 220,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB75939549",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T17:00:03.821Z"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 179.39,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 179.39,
+    "min_ever": 179.39,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

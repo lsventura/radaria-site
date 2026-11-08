@@ -1,0 +1,68 @@
+{
+  "id": "ml:MLB44622477",
+  "slug": "varal-retratil-articulado-dobravel-vertical-3-andares-azul-mlb44622477",
+  "title": "Varal Retrátil Articulado Dobrável Vertical 3 Andares Azul",
+  "brand": null,
+  "model": null,
+  "category_slug": "organizacao-e-limpeza-14",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_841700-MLA99954027331_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7945581728",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "328317665",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 135,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/2H3arHc",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T22:19:23.000Z"
+    },
+    {
+      "offer_id": "ml:MLB7945581728",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "328317665",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 135,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2H3arHc",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:54:06.804Z"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 135,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 135,
+    "min_ever": 135,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

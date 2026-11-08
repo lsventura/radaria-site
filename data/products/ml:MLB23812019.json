@@ -1,0 +1,102 @@
+{
+  "id": "ml:MLB23812019",
+  "slug": "mesa-escritorio-reta-90cm-preto-mlb23812019",
+  "title": "Mesa Escritório Reta 90cm Preto",
+  "brand": null,
+  "model": null,
+  "category_slug": "moveis-5",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_631429-MLA112985985897_062026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB3342220863",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "457576896",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 390,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/1SisFZC",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T21:54:01.000Z"
+    },
+    {
+      "offer_id": "ml:MLB3342220863",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "457576896",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 390,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1SisFZC",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:11:44.117Z"
+    },
+    {
+      "offer_id": "ml:MLB4992045155",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "822717786",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 357,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/1SisFZC",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T21:54:01.000Z"
+    },
+    {
+      "offer_id": "ml:MLB4992045155",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "822717786",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 357,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1SisFZC",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:11:44.117Z"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 357,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 357,
+    "min_ever": 357,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

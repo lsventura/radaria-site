@@ -1,0 +1,68 @@
+{
+  "id": "ml:MLB46233908",
+  "slug": "carregador-bateria-automotiva-carro-moto-12v-5ah-flutuante-mlb46233908",
+  "title": "Carregador Bateria Automotiva Carro Moto 12v 5ah Flutuante",
+  "brand": null,
+  "model": null,
+  "category_slug": "automotivo-2",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_623821-MLA99361906716_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4204346683",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1938943727",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 85.74,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://www.mercadolivre.com.br/p/MLB46233908",
+      "affiliate": false,
+      "last_observed_at": "2026-11-07T19:29:57.000Z"
+    },
+    {
+      "offer_id": "ml:MLB4204346683",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1938943727",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 85.74,
+      "currency": "BRL",
+      "store_reference_price": 125.77,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB46233908",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T16:00:06.807Z"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 85.74,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 85.74,
+    "min_ever": 85.74,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

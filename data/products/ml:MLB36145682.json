@@ -1,0 +1,68 @@
+{
+  "id": "ml:MLB36145682",
+  "slug": "downy-infusions-calm-lenco-amaciante-secadora-180-folhas-mlb36145682",
+  "title": "Downy Infusions Calm Lenço Amaciante Secadora- 180 Folhas",
+  "brand": null,
+  "model": null,
+  "category_slug": "eletrodomesticos-9",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_725335-MLA99849786325_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7651423882",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1957991201",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 439.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://www.mercadolivre.com.br/p/MLB36145682",
+      "affiliate": false,
+      "last_observed_at": "2026-11-07T17:19:42.000Z"
+    },
+    {
+      "offer_id": "ml:MLB7651423882",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1957991201",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 439.99,
+      "currency": "BRL",
+      "store_reference_price": 499.99,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB36145682",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T15:29:24.632Z"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 439.99,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 439.99,
+    "min_ever": 439.99,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

@@ -11,6 +11,57 @@
   "attributes": {},
   "offers": [
     {
+      "offer_id": "ml:MLB7789075592",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "319440986",
+        "name": null,
+        "reputation": null
+      },
+      "price": 646.84,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/16z4Fdu",
+      "affiliate": true,
+      "last_observed_at": "2026-11-07T02:29:44.000Z"
+    },
+    {
+      "offer_id": "ml:MLB7789075592",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "319440986",
+        "name": null,
+        "reputation": null
+      },
+      "price": 646.84,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": false,
+      "available": false,
+      "url": "https://meli.la/16z4Fdu",
+      "affiliate": true,
+      "last_observed_at": "2026-11-07T02:29:45.008Z"
+    },
+    {
+      "offer_id": "ml:MLB7789075592",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "319440986",
+        "name": null,
+        "reputation": null
+      },
+      "price": 646.84,
+      "currency": "BRL",
+      "store_reference_price": 732.73,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/16z4Fdu",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T17:03:03.818Z"
+    },
+    {
       "offer_id": "ml:MLB7789075588",
       "store": "mercadolivre",
       "seller": {
@@ -62,6 +113,23 @@
       "last_observed_at": "2026-11-07T02:42:07.000Z"
     },
     {
+      "offer_id": "ml:MLB7789075588",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "319440986",
+        "name": null,
+        "reputation": null
+      },
+      "price": 628.6,
+      "currency": "BRL",
+      "store_reference_price": 661.75,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/16z4Fdu",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T17:03:03.818Z"
+    },
+    {
       "offer_id": "ml:MLB5364238401",
       "store": "mercadolivre",
       "seller": {
@@ -70,23 +138,6 @@
         "reputation": null
       },
       "price": 642.62,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "free_shipping": true,
-      "available": false,
-      "url": "https://meli.la/16z4Fdu",
-      "affiliate": true,
-      "last_observed_at": "2026-11-07T02:29:44.000Z"
-    },
-    {
-      "offer_id": "ml:MLB7789075592",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "319440986",
-        "name": null,
-        "reputation": null
-      },
-      "price": 646.84,
       "currency": "BRL",
       "store_reference_price": null,
       "free_shipping": true,
@@ -113,34 +164,34 @@
       "last_observed_at": "2026-11-07T02:29:45.008Z"
     },
     {
-      "offer_id": "ml:MLB7789075592",
+      "offer_id": "ml:MLB5364238401",
       "store": "mercadolivre",
       "seller": {
-        "id": "319440986",
+        "id": "194696410",
         "name": null,
         "reputation": null
       },
-      "price": 646.84,
+      "price": 642.62,
       "currency": "BRL",
-      "store_reference_price": null,
-      "free_shipping": false,
-      "available": false,
+      "store_reference_price": 703.97,
+      "free_shipping": true,
+      "available": true,
       "url": "https://meli.la/16z4Fdu",
       "affiliate": true,
-      "last_observed_at": "2026-11-07T02:29:45.008Z"
+      "last_observed_at": "2026-11-08T17:03:03.818Z"
     }
   ],
   "history": [
     {
-      "date": "2026-11-06",
+      "date": "2026-11-08",
       "min_price": 628.6,
-      "observations": 1
+      "observations": 3
     }
   ],
   "stats": {
     "median_90d": 628.6,
     "min_ever": 628.6,
-    "min_ever_at": "2026-11-06",
+    "min_ever_at": "2026-11-08",
     "distinct_days": 1,
     "window_days": 14
   },
@@ -149,5 +200,5 @@
     "pct_below_median": 0,
     "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
   },
-  "score": 41
+  "score": 60
 }

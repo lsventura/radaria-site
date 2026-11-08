@@ -45,40 +45,6 @@
       "last_observed_at": "2026-11-08T15:08:32.328Z"
     },
     {
-      "offer_id": "ml:MLB3948363257",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "74873405",
-        "name": null,
-        "reputation": null
-      },
-      "price": 6659,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "free_shipping": true,
-      "available": true,
-      "url": "https://www.mercadolivre.com.br/p/MLB21925250",
-      "affiliate": false,
-      "last_observed_at": "2026-11-08T15:08:32.328Z"
-    },
-    {
-      "offer_id": "ml:MLB5681559976",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "616922393",
-        "name": null,
-        "reputation": "5_green"
-      },
-      "price": 6816,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "free_shipping": true,
-      "available": true,
-      "url": "https://www.mercadolivre.com.br/p/MLB21925250",
-      "affiliate": false,
-      "last_observed_at": "2026-11-08T15:08:32.328Z"
-    },
-    {
       "offer_id": "ml:MLB5249818246",
       "store": "mercadolivre",
       "seller": {
@@ -111,6 +77,40 @@
       "url": "https://www.mercadolivre.com.br/p/MLB21925250",
       "affiliate": false,
       "last_observed_at": "2026-11-08T15:08:32.328Z"
+    },
+    {
+      "offer_id": "ml:MLB3948363257",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "74873405",
+        "name": null,
+        "reputation": null
+      },
+      "price": 6659,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB21925250",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T15:08:32.328Z"
+    },
+    {
+      "offer_id": "ml:MLB5681559976",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "616922393",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 6816,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB21925250",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T15:08:32.328Z"
     }
   ],
   "history": [
@@ -132,5 +132,5 @@
     "pct_below_median": 0,
     "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
   },
-  "score": 64
+  "score": 60
 }

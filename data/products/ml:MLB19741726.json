@@ -11,40 +11,6 @@
   "attributes": {},
   "offers": [
     {
-      "offer_id": "ml:MLB3116950334",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "467781418",
-        "name": null,
-        "reputation": null
-      },
-      "price": 172,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "free_shipping": true,
-      "available": false,
-      "url": "https://meli.la/2m9dRjk",
-      "affiliate": true,
-      "last_observed_at": "2026-11-07T19:33:17.000Z"
-    },
-    {
-      "offer_id": "ml:MLB3116950334",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "467781418",
-        "name": null,
-        "reputation": null
-      },
-      "price": 172,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "free_shipping": true,
-      "available": true,
-      "url": "https://meli.la/2m9dRjk",
-      "affiliate": true,
-      "last_observed_at": "2026-11-08T14:59:47.916Z"
-    },
-    {
       "offer_id": "ml:MLB6197363372",
       "store": "mercadolivre",
       "seller": {
@@ -138,6 +104,40 @@
         "reputation": null
       },
       "price": 174.85,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2m9dRjk",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T14:59:47.916Z"
+    },
+    {
+      "offer_id": "ml:MLB3116950334",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "467781418",
+        "name": null,
+        "reputation": null
+      },
+      "price": 172,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/2m9dRjk",
+      "affiliate": true,
+      "last_observed_at": "2026-11-07T19:33:17.000Z"
+    },
+    {
+      "offer_id": "ml:MLB3116950334",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "467781418",
+        "name": null,
+        "reputation": null
+      },
+      "price": 172,
       "currency": "BRL",
       "store_reference_price": null,
       "free_shipping": true,
@@ -166,5 +166,5 @@
     "pct_below_median": 0,
     "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
   },
-  "score": 43
+  "score": 39
 }

@@ -1,0 +1,68 @@
+{
+  "id": "ml:MLB67646704",
+  "slug": "chaveiro-teclado-mecanico-anti-estresse-branco-mlb67646704",
+  "title": "Chaveiro Teclado Mecânico Anti Estresse Branco",
+  "brand": null,
+  "model": null,
+  "category_slug": "informatica-3",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_955141-MLA109267256542_042026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4701055835",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1107256173",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 39.67,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/1GtPfKd",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T20:32:48.000Z"
+    },
+    {
+      "offer_id": "ml:MLB4701055835",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1107256173",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 39.67,
+      "currency": "BRL",
+      "store_reference_price": 40.9,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1GtPfKd",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T16:31:23.417Z"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 39.67,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 39.67,
+    "min_ever": 39.67,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

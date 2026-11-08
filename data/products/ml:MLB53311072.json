@@ -1,0 +1,51 @@
+{
+  "id": "ml:MLB53311072",
+  "slug": "cadeira-ergonomica-recline-mlb53311072",
+  "title": "Cadeira Ergonômica Recline",
+  "brand": null,
+  "model": null,
+  "category_slug": "moveis-4",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_737757-MLA95140358324_102025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5535908070",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1682673807",
+        "name": null,
+        "reputation": null
+      },
+      "price": 3842,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB53311072",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T18:53:54.064Z"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 3842,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 3842,
+    "min_ever": 3842,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

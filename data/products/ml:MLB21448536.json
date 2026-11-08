@@ -11,23 +11,6 @@
   "attributes": {},
   "offers": [
     {
-      "offer_id": "ml:MLB3715674109",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "174558962",
-        "name": null,
-        "reputation": "5_green"
-      },
-      "price": 106.49,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "free_shipping": true,
-      "available": false,
-      "url": "https://www.mercadolivre.com.br/p/MLB21448536",
-      "affiliate": false,
-      "last_observed_at": "2026-11-07T22:12:10.000Z"
-    },
-    {
       "offer_id": "ml:MLB5406171095",
       "store": "mercadolivre",
       "seller": {
@@ -40,8 +23,42 @@
       "store_reference_price": null,
       "free_shipping": true,
       "available": false,
-      "url": "https://www.mercadolivre.com.br/p/MLB21448536",
-      "affiliate": false,
+      "url": "https://meli.la/24mGche",
+      "affiliate": true,
+      "last_observed_at": "2026-11-07T22:12:10.000Z"
+    },
+    {
+      "offer_id": "ml:MLB5406171095",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "527924083",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 87.92,
+      "currency": "BRL",
+      "store_reference_price": 109.9,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/24mGche",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:05:55.711Z"
+    },
+    {
+      "offer_id": "ml:MLB3715674109",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "174558962",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 106.49,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/24mGche",
+      "affiliate": true,
       "last_observed_at": "2026-11-07T22:12:10.000Z"
     },
     {
@@ -57,8 +74,8 @@
       "store_reference_price": null,
       "free_shipping": true,
       "available": false,
-      "url": "https://www.mercadolivre.com.br/p/MLB21448536",
-      "affiliate": false,
+      "url": "https://meli.la/24mGche",
+      "affiliate": true,
       "last_observed_at": "2026-11-07T22:12:10.000Z"
     },
     {
@@ -74,8 +91,8 @@
       "store_reference_price": null,
       "free_shipping": false,
       "available": false,
-      "url": "https://www.mercadolivre.com.br/p/MLB21448536",
-      "affiliate": false,
+      "url": "https://meli.la/24mGche",
+      "affiliate": true,
       "last_observed_at": "2026-11-07T22:12:17.733Z"
     },
     {
@@ -91,25 +108,8 @@
       "store_reference_price": 116.25,
       "free_shipping": true,
       "available": true,
-      "url": "https://www.mercadolivre.com.br/p/MLB21448536",
-      "affiliate": false,
-      "last_observed_at": "2026-11-08T15:05:55.711Z"
-    },
-    {
-      "offer_id": "ml:MLB5406171095",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "527924083",
-        "name": null,
-        "reputation": "5_green"
-      },
-      "price": 87.92,
-      "currency": "BRL",
-      "store_reference_price": 109.9,
-      "free_shipping": true,
-      "available": true,
-      "url": "https://www.mercadolivre.com.br/p/MLB21448536",
-      "affiliate": false,
+      "url": "https://meli.la/24mGche",
+      "affiliate": true,
       "last_observed_at": "2026-11-08T15:05:55.711Z"
     },
     {
@@ -125,8 +125,8 @@
       "store_reference_price": 125.1,
       "free_shipping": true,
       "available": true,
-      "url": "https://www.mercadolivre.com.br/p/MLB21448536",
-      "affiliate": false,
+      "url": "https://meli.la/24mGche",
+      "affiliate": true,
       "last_observed_at": "2026-11-08T15:05:55.711Z"
     },
     {
@@ -142,8 +142,8 @@
       "store_reference_price": null,
       "free_shipping": true,
       "available": false,
-      "url": "https://www.mercadolivre.com.br/p/MLB21448536",
-      "affiliate": false,
+      "url": "https://meli.la/24mGche",
+      "affiliate": true,
       "last_observed_at": "2026-11-07T22:12:10.000Z"
     },
     {
@@ -159,8 +159,8 @@
       "store_reference_price": null,
       "free_shipping": false,
       "available": false,
-      "url": "https://www.mercadolivre.com.br/p/MLB21448536",
-      "affiliate": false,
+      "url": "https://meli.la/24mGche",
+      "affiliate": true,
       "last_observed_at": "2026-11-07T22:12:17.733Z"
     },
     {
@@ -176,8 +176,8 @@
       "store_reference_price": 125.1,
       "free_shipping": true,
       "available": true,
-      "url": "https://www.mercadolivre.com.br/p/MLB21448536",
-      "affiliate": false,
+      "url": "https://meli.la/24mGche",
+      "affiliate": true,
       "last_observed_at": "2026-11-08T15:05:55.711Z"
     }
   ],
@@ -200,5 +200,5 @@
     "pct_below_median": 0,
     "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
   },
-  "score": 64
+  "score": 60
 }

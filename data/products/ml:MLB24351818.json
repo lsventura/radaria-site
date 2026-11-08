@@ -1,0 +1,68 @@
+{
+  "id": "ml:MLB24351818",
+  "slug": "lapiseira-0-7-mint-cis-mlb24351818",
+  "title": "Lapiseira 0.7 Mint Cis",
+  "brand": null,
+  "model": null,
+  "category_slug": "livros-e-papelaria-14",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_926709-MLA95511445323_102025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7880015520",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "214602453",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 26,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1MTubB6",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:12:44.221Z"
+    },
+    {
+      "offer_id": "ml:MLB7880015520",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "214602453",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 26,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/1MTubB6",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T22:57:36.000Z"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 26,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 26,
+    "min_ever": 26,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

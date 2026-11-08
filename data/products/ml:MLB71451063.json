@@ -1,0 +1,68 @@
+{
+  "id": "ml:MLB71451063",
+  "slug": "livro-fisico-brinco-e-aprendo-4-mlb71451063",
+  "title": "Livro Fisico - Brinco E Aprendo - 4",
+  "brand": null,
+  "model": null,
+  "category_slug": "relogios-e-joias-16",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_784997-MLA111577060566_062026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4737430313",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "144261870",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 349,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/22Qw3Bj",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T23:05:02.000Z"
+    },
+    {
+      "offer_id": "ml:MLB4737430313",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "144261870",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 349,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/22Qw3Bj",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T16:45:08.219Z"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 349,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 349,
+    "min_ever": 349,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

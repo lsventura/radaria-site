@@ -28,6 +28,40 @@
       "last_observed_at": "2026-11-07T20:16:07.000Z"
     },
     {
+      "offer_id": "ml:MLB4446735465",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "186919119",
+        "name": null,
+        "reputation": null
+      },
+      "price": 899,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": false,
+      "available": false,
+      "url": "https://www.mercadolivre.com.br/p/MLB64988053",
+      "affiliate": false,
+      "last_observed_at": "2026-11-07T20:16:14.339Z"
+    },
+    {
+      "offer_id": "ml:MLB4446735465",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "186919119",
+        "name": null,
+        "reputation": null
+      },
+      "price": 899,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB64988053",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T16:22:04.833Z"
+    },
+    {
       "offer_id": "ml:MLB5059130409",
       "store": "mercadolivre",
       "seller": {
@@ -45,26 +79,26 @@
       "last_observed_at": "2026-11-07T20:16:07.000Z"
     },
     {
-      "offer_id": "ml:MLB4446735465",
+      "offer_id": "ml:MLB5059130409",
       "store": "mercadolivre",
       "seller": {
-        "id": "186919119",
+        "id": "245087751",
         "name": null,
-        "reputation": null
+        "reputation": "5_green"
       },
       "price": 899,
       "currency": "BRL",
       "store_reference_price": null,
-      "free_shipping": false,
-      "available": false,
+      "free_shipping": true,
+      "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB64988053",
       "affiliate": false,
-      "last_observed_at": "2026-11-07T20:16:14.339Z"
+      "last_observed_at": "2026-11-08T16:22:04.833Z"
     }
   ],
   "history": [
     {
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "min_price": 899,
       "observations": 2
     }
@@ -72,14 +106,14 @@
   "stats": {
     "median_90d": 899,
     "min_ever": 899,
-    "min_ever_at": "2026-11-07",
+    "min_ever_at": "2026-11-08",
     "distinct_days": 1,
     "window_days": 14
   },
   "deal": {
-    "label": "none",
+    "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Oferta indisponível não entra como oportunidade."
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
   },
-  "score": 50
+  "score": 60
 }

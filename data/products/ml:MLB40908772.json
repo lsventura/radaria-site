@@ -1,0 +1,68 @@
+{
+  "id": "ml:MLB40908772",
+  "slug": "racao-para-caes-nutre-fashion-dog-super-premium-15kg-mlb40908772",
+  "title": "Racao Para Caes Nutre Fashion Dog Super Premium 15kg",
+  "brand": null,
+  "model": null,
+  "category_slug": "pets-2",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_648371-MLU79096529634_092024-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7697087418",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1676189070",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 211.02,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://www.mercadolivre.com.br/p/MLB40908772",
+      "affiliate": false,
+      "last_observed_at": "2026-11-07T22:16:26.000Z"
+    },
+    {
+      "offer_id": "ml:MLB7697087418",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1676189070",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 211.02,
+      "currency": "BRL",
+      "store_reference_price": 229,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB40908772",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T15:41:57.426Z"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 211.02,
+      "observations": 4
+    }
+  ],
+  "stats": {
+    "median_90d": 211.02,
+    "min_ever": 211.02,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

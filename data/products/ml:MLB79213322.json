@@ -43,26 +43,43 @@
       "url": "https://www.mercadolivre.com.br/p/MLB79213322",
       "affiliate": false,
       "last_observed_at": "2026-11-07T21:51:44.201Z"
+    },
+    {
+      "offer_id": "ml:MLB7667205188",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "384416689",
+        "name": null,
+        "reputation": null
+      },
+      "price": 200,
+      "currency": "BRL",
+      "store_reference_price": 235.3,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB79213322",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T17:08:52.622Z"
     }
   ],
   "history": [
     {
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "min_price": 200,
-      "observations": 1
+      "observations": 2
     }
   ],
   "stats": {
     "median_90d": 200,
     "min_ever": 200,
-    "min_ever_at": "2026-11-07",
+    "min_ever_at": "2026-11-08",
     "distinct_days": 1,
     "window_days": 14
   },
   "deal": {
-    "label": "none",
+    "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Oferta indisponível não entra como oportunidade."
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
   },
-  "score": 50
+  "score": 60
 }

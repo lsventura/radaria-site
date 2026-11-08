@@ -79,6 +79,40 @@
       "last_observed_at": "2026-11-07T17:15:33.300Z"
     },
     {
+      "offer_id": "ml:MLB4830960729",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1039328561",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 5409,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2MxDxVB",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T16:54:03.768Z"
+    },
+    {
+      "offer_id": "ml:MLB7173683426",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "185808026",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 5409,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2MxDxVB",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T16:54:03.768Z"
+    },
+    {
       "offer_id": "ml:MLB7173580918",
       "store": "mercadolivre",
       "seller": {
@@ -145,11 +179,45 @@
       "url": "https://meli.la/2MxDxVB",
       "affiliate": true,
       "last_observed_at": "2026-11-07T17:15:33.300Z"
+    },
+    {
+      "offer_id": "ml:MLB7067510706",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1039328561",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 5425,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2MxDxVB",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T16:54:03.768Z"
+    },
+    {
+      "offer_id": "ml:MLB7173580918",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "185808026",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 5319,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2MxDxVB",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T16:54:03.768Z"
     }
   ],
   "history": [
     {
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "min_price": 5319,
       "observations": 4
     }
@@ -157,14 +225,14 @@
   "stats": {
     "median_90d": 5319,
     "min_ever": 5319,
-    "min_ever_at": "2026-11-07",
+    "min_ever_at": "2026-11-08",
     "distinct_days": 1,
     "window_days": 14
   },
   "deal": {
-    "label": "none",
+    "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Oferta indisponível não entra como oportunidade."
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
   },
-  "score": 50
+  "score": 60
 }

@@ -11,14 +11,14 @@
   "attributes": {},
   "offers": [
     {
-      "offer_id": "ml:MLB3420406562",
+      "offer_id": "ml:MLB3266203917",
       "store": "mercadolivre",
       "seller": {
         "id": "175994512",
         "name": null,
         "reputation": null
       },
-      "price": 89.95,
+      "price": 96.7,
       "currency": "BRL",
       "store_reference_price": null,
       "free_shipping": true,
@@ -28,14 +28,31 @@
       "last_observed_at": "2026-11-08T15:04:58.910Z"
     },
     {
-      "offer_id": "ml:MLB3266203917",
+      "offer_id": "ml:MLB3299380223",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "19139503",
+        "name": null,
+        "reputation": null
+      },
+      "price": 100.11,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB21568549",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T15:04:58.910Z"
+    },
+    {
+      "offer_id": "ml:MLB3420406562",
       "store": "mercadolivre",
       "seller": {
         "id": "175994512",
         "name": null,
         "reputation": null
       },
-      "price": 96.7,
+      "price": 89.95,
       "currency": "BRL",
       "store_reference_price": null,
       "free_shipping": true,
@@ -70,23 +87,6 @@
         "reputation": null
       },
       "price": 93.9,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "free_shipping": true,
-      "available": true,
-      "url": "https://www.mercadolivre.com.br/p/MLB21568549",
-      "affiliate": false,
-      "last_observed_at": "2026-11-08T15:04:58.910Z"
-    },
-    {
-      "offer_id": "ml:MLB3299380223",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "19139503",
-        "name": null,
-        "reputation": null
-      },
-      "price": 100.11,
       "currency": "BRL",
       "store_reference_price": null,
       "free_shipping": true,
@@ -132,5 +132,5 @@
     "pct_below_median": 0,
     "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
   },
-  "score": 64
+  "score": 60
 }

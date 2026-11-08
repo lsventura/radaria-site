@@ -1,0 +1,136 @@
+{
+  "id": "ml:MLB37079958",
+  "slug": "tomada-inteligente-capstone-mlb37079958",
+  "title": "Tomada Inteligente Capstone",
+  "brand": null,
+  "model": null,
+  "category_slug": "casa-e-reforma-16",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_649966-MLA95642106001_102025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4764872341",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1236904595",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 392.26,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/2yZye9Z",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T23:34:01.000Z"
+    },
+    {
+      "offer_id": "ml:MLB4764872341",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1236904595",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 392.26,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2yZye9Z",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:31:24.522Z"
+    },
+    {
+      "offer_id": "ml:MLB5146541165",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1055338368",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 288.09,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/2yZye9Z",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T23:34:01.000Z"
+    },
+    {
+      "offer_id": "ml:MLB5146541165",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1055338368",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 288.09,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2yZye9Z",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:31:24.522Z"
+    },
+    {
+      "offer_id": "ml:MLB5250301729",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1236904595",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 336.26,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/2yZye9Z",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T23:34:01.000Z"
+    },
+    {
+      "offer_id": "ml:MLB5250301729",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1236904595",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 336.26,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2yZye9Z",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:31:24.522Z"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 288.09,
+      "observations": 9
+    }
+  ],
+  "stats": {
+    "median_90d": 288.09,
+    "min_ever": 288.09,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

@@ -1,0 +1,68 @@
+{
+  "id": "ml:MLB80322602",
+  "slug": "barraca-camping-automatica-impermeavel-210x210x130-outlander-verde-musgo-mlb80322602",
+  "title": "Barraca Camping Automática Impermeável 210x210x130 Outlander Verde-musgo",
+  "brand": null,
+  "model": null,
+  "category_slug": "viagem-e-outdoor-3",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_855328-MLA117413284732_102026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7773423776",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3148552465",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 237,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://www.mercadolivre.com.br/p/MLB80322602",
+      "affiliate": false,
+      "last_observed_at": "2026-11-07T22:14:23.000Z"
+    },
+    {
+      "offer_id": "ml:MLB7773423776",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3148552465",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 237,
+      "currency": "BRL",
+      "store_reference_price": 385,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB80322602",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T17:11:52.510Z"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 237,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 237,
+    "min_ever": 237,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

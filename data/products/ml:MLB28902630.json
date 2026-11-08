@@ -1,0 +1,51 @@
+{
+  "id": "ml:MLB28902630",
+  "slug": "sensor-magnetico-de-abertura-porta-janela-com-fio-compatec-10-unidades-mlb28902630",
+  "title": "Sensor Magnético de Abertura Porta Janela Com Fio Compatec 10 Unidades",
+  "brand": null,
+  "model": null,
+  "category_slug": "casa-inteligente-4",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_740203-MLA84471760039_052025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB3542279615",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "94581889",
+        "name": null,
+        "reputation": null
+      },
+      "price": 130.5,
+      "currency": "BRL",
+      "store_reference_price": 144.99,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB28902630",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T16:52:35.950Z"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 130.5,
+      "observations": 8
+    }
+  ],
+  "stats": {
+    "median_90d": 130.5,
+    "min_ever": 130.5,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

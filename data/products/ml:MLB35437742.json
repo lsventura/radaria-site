@@ -111,26 +111,77 @@
       "url": "https://www.mercadolivre.com.br/p/MLB35437742",
       "affiliate": false,
       "last_observed_at": "2026-11-07T18:21:47.595Z"
+    },
+    {
+      "offer_id": "ml:MLB4143225435",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "161678522",
+        "name": null,
+        "reputation": null
+      },
+      "price": 139.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB35437742",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T15:27:24.809Z"
+    },
+    {
+      "offer_id": "ml:MLB5176187020",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1114901508",
+        "name": null,
+        "reputation": null
+      },
+      "price": 130.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB35437742",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T15:27:24.809Z"
+    },
+    {
+      "offer_id": "ml:MLB5531990940",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "161678522",
+        "name": null,
+        "reputation": null
+      },
+      "price": 139.95,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB35437742",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T15:27:24.809Z"
     }
   ],
   "history": [
     {
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "min_price": 130.9,
-      "observations": 3
+      "observations": 6
     }
   ],
   "stats": {
     "median_90d": 130.9,
     "min_ever": 130.9,
-    "min_ever_at": "2026-11-07",
+    "min_ever_at": "2026-11-08",
     "distinct_days": 1,
     "window_days": 14
   },
   "deal": {
-    "label": "none",
+    "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Oferta indisponível não entra como oportunidade."
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
   },
-  "score": 50
+  "score": 60
 }

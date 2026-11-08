@@ -1,0 +1,68 @@
+{
+  "id": "ml:MLB68683805",
+  "slug": "carregador-veicular-30w-com-usb-e-usb-c-turbo-mlb68683805",
+  "title": "Carregador Veicular 30w Com Usb E Usb C Turbo",
+  "brand": null,
+  "model": null,
+  "category_slug": "automotivo-9",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_759788-MLA110039647612_042026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7700548838",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "449516321",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 59,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://www.mercadolivre.com.br/p/MLB68683805",
+      "affiliate": false,
+      "last_observed_at": "2026-11-07T17:27:36.000Z"
+    },
+    {
+      "offer_id": "ml:MLB7700548838",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "449516321",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 59,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB68683805",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T16:34:05.550Z"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 59,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 59,
+    "min_ever": 59,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

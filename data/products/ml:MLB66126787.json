@@ -79,6 +79,40 @@
       "last_observed_at": "2026-11-07T02:29:34.000Z"
     },
     {
+      "offer_id": "ml:MLB4693375589",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "665660021",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 492.84,
+      "currency": "BRL",
+      "store_reference_price": 518.83,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1VDMruW",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T16:26:59.128Z"
+    },
+    {
+      "offer_id": "ml:MLB5335970157",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "319440986",
+        "name": null,
+        "reputation": null
+      },
+      "price": 529.53,
+      "currency": "BRL",
+      "store_reference_price": 557.46,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1VDMruW",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T16:26:59.128Z"
+    },
+    {
       "offer_id": "ml:MLB5335970169",
       "store": "mercadolivre",
       "seller": {
@@ -128,19 +162,36 @@
       "url": "https://meli.la/1VDMruW",
       "affiliate": true,
       "last_observed_at": "2026-11-07T02:41:44.000Z"
+    },
+    {
+      "offer_id": "ml:MLB5335970169",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "319440986",
+        "name": null,
+        "reputation": null
+      },
+      "price": 470.69,
+      "currency": "BRL",
+      "store_reference_price": 699.99,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1VDMruW",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T16:26:59.128Z"
     }
   ],
   "history": [
     {
-      "date": "2026-11-06",
+      "date": "2026-11-08",
       "min_price": 470.69,
-      "observations": 1
+      "observations": 3
     }
   ],
   "stats": {
     "median_90d": 470.69,
     "min_ever": 470.69,
-    "min_ever_at": "2026-11-06",
+    "min_ever_at": "2026-11-08",
     "distinct_days": 1,
     "window_days": 14
   },
@@ -149,5 +200,5 @@
     "pct_below_median": 0,
     "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
   },
-  "score": 41
+  "score": 60
 }

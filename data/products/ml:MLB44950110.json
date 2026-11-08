@@ -1,0 +1,68 @@
+{
+  "id": "ml:MLB44950110",
+  "slug": "chinelo-masculino-kivah-line-kenner-sem-desenho-mlb44950110",
+  "title": "Chinelo Masculino Kivah Line Kenner Sem Desenho",
+  "brand": null,
+  "model": null,
+  "category_slug": "moda-masculina-15",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_693145-MLA81501022579_122024-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7685286254",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3494830022",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 211.85,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://www.mercadolivre.com.br/p/MLB44950110",
+      "affiliate": false,
+      "last_observed_at": "2026-11-07T02:34:08.000Z"
+    },
+    {
+      "offer_id": "ml:MLB7685286254",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3494830022",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 211.85,
+      "currency": "BRL",
+      "store_reference_price": 229.9,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB44950110",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T15:55:06.799Z"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 211.85,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 211.85,
+    "min_ever": 211.85,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

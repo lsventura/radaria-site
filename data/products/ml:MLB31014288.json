@@ -11,6 +11,57 @@
   "attributes": {},
   "offers": [
     {
+      "offer_id": "ml:MLB7756254794",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1762888590",
+        "name": null,
+        "reputation": null
+      },
+      "price": 191.67,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://www.mercadolivre.com.br/p/MLB31014288",
+      "affiliate": false,
+      "last_observed_at": "2026-11-07T21:44:08.000Z"
+    },
+    {
+      "offer_id": "ml:MLB7756254794",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1762888590",
+        "name": null,
+        "reputation": null
+      },
+      "price": 191.67,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": false,
+      "available": false,
+      "url": "https://www.mercadolivre.com.br/p/MLB31014288",
+      "affiliate": false,
+      "last_observed_at": "2026-11-07T21:44:12.933Z"
+    },
+    {
+      "offer_id": "ml:MLB7756254794",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1762888590",
+        "name": null,
+        "reputation": null
+      },
+      "price": 191.67,
+      "currency": "BRL",
+      "store_reference_price": 249.9,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB31014288",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T15:23:24.914Z"
+    },
+    {
       "offer_id": "ml:MLB5341098483",
       "store": "mercadolivre",
       "seller": {
@@ -113,58 +164,75 @@
       "last_observed_at": "2026-11-07T21:44:12.933Z"
     },
     {
-      "offer_id": "ml:MLB7756254794",
+      "offer_id": "ml:MLB5341098483",
       "store": "mercadolivre",
       "seller": {
         "id": "1762888590",
         "name": null,
         "reputation": null
       },
-      "price": 191.67,
+      "price": 211.17,
+      "currency": "BRL",
+      "store_reference_price": 269.9,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB31014288",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T15:23:24.914Z"
+    },
+    {
+      "offer_id": "ml:MLB7802636012",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2240941393",
+        "name": null,
+        "reputation": null
+      },
+      "price": 213,
       "currency": "BRL",
       "store_reference_price": null,
       "free_shipping": true,
-      "available": false,
+      "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB31014288",
       "affiliate": false,
-      "last_observed_at": "2026-11-07T21:44:08.000Z"
+      "last_observed_at": "2026-11-08T15:23:24.914Z"
     },
     {
-      "offer_id": "ml:MLB7756254794",
+      "offer_id": "ml:MLB7802636014",
       "store": "mercadolivre",
       "seller": {
-        "id": "1762888590",
+        "id": "2240941393",
         "name": null,
         "reputation": null
       },
-      "price": 191.67,
+      "price": 222,
       "currency": "BRL",
       "store_reference_price": null,
-      "free_shipping": false,
-      "available": false,
+      "free_shipping": true,
+      "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB31014288",
       "affiliate": false,
-      "last_observed_at": "2026-11-07T21:44:12.933Z"
+      "last_observed_at": "2026-11-08T15:23:24.914Z"
     }
   ],
   "history": [
     {
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "min_price": 191.67,
-      "observations": 4
+      "observations": 8
     }
   ],
   "stats": {
     "median_90d": 191.67,
     "min_ever": 191.67,
-    "min_ever_at": "2026-11-07",
+    "min_ever_at": "2026-11-08",
     "distinct_days": 1,
     "window_days": 14
   },
   "deal": {
-    "label": "none",
+    "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Oferta indisponível não entra como oportunidade."
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
   },
-  "score": 50
+  "score": 60
 }

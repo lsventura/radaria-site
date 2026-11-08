@@ -1,0 +1,68 @@
+{
+  "id": "ml:MLB26297720",
+  "slug": "banheira-bebe-22l-plastibrasil-azul-perolado-cesto-roupa-mlb26297720",
+  "title": "Banheira Bebê 22L Plastibrasil Azul Perolado Cesto Roupa",
+  "brand": null,
+  "model": null,
+  "category_slug": "bebes-10",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_903768-MLA100009169115_122025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB3418546771",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1245511023",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 177.11,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://www.mercadolivre.com.br/p/MLB26297720",
+      "affiliate": false,
+      "last_observed_at": "2026-11-07T22:33:38.000Z"
+    },
+    {
+      "offer_id": "ml:MLB3418546771",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1245511023",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 177.11,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB26297720",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T15:15:44.033Z"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 177.11,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 177.11,
+    "min_ever": 177.11,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

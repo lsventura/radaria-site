@@ -1,0 +1,51 @@
+{
+  "id": "ml:MLB32491796",
+  "slug": "kit-de-estudante-arduino-akx00025-mlb32491796",
+  "title": "Kit de estudante Arduino [akx00025]",
+  "brand": null,
+  "model": null,
+  "category_slug": "notebooks-19",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_705908-MLA96229294570_102025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB3935723259",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "176526387",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1179.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB32491796",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T17:51:07.859Z"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 1179.9,
+      "observations": 5
+    }
+  ],
+  "stats": {
+    "median_90d": 1179.9,
+    "min_ever": 1179.9,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

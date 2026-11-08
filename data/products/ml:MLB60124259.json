@@ -11,6 +11,57 @@
   "attributes": {},
   "offers": [
     {
+      "offer_id": "ml:MLB4867348355",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3476436384",
+        "name": null,
+        "reputation": null
+      },
+      "price": 279.82,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/1tdqCtd",
+      "affiliate": true,
+      "last_observed_at": "2026-11-07T15:39:09.000Z"
+    },
+    {
+      "offer_id": "ml:MLB4867348355",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3476436384",
+        "name": null,
+        "reputation": null
+      },
+      "price": 279.82,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": false,
+      "available": false,
+      "url": "https://meli.la/1tdqCtd",
+      "affiliate": true,
+      "last_observed_at": "2026-11-07T15:39:12.896Z"
+    },
+    {
+      "offer_id": "ml:MLB4867348355",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3476436384",
+        "name": null,
+        "reputation": null
+      },
+      "price": 279.82,
+      "currency": "BRL",
+      "store_reference_price": 578.17,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1tdqCtd",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T16:13:07.028Z"
+    },
+    {
       "offer_id": "ml:MLB7288769202",
       "store": "mercadolivre",
       "seller": {
@@ -45,21 +96,21 @@
       "last_observed_at": "2026-11-07T15:39:12.896Z"
     },
     {
-      "offer_id": "ml:MLB4867348355",
+      "offer_id": "ml:MLB7288769202",
       "store": "mercadolivre",
       "seller": {
-        "id": "3476436384",
+        "id": "3479375339",
         "name": null,
         "reputation": null
       },
-      "price": 279.82,
+      "price": 276.26,
       "currency": "BRL",
-      "store_reference_price": null,
+      "store_reference_price": 786.26,
       "free_shipping": true,
-      "available": false,
+      "available": true,
       "url": "https://meli.la/1tdqCtd",
       "affiliate": true,
-      "last_observed_at": "2026-11-07T15:39:09.000Z"
+      "last_observed_at": "2026-11-08T16:13:07.028Z"
     },
     {
       "offer_id": "ml:MLB7794905152",
@@ -77,23 +128,6 @@
       "url": "https://meli.la/1tdqCtd",
       "affiliate": true,
       "last_observed_at": "2026-11-07T15:39:09.000Z"
-    },
-    {
-      "offer_id": "ml:MLB4867348355",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "3476436384",
-        "name": null,
-        "reputation": null
-      },
-      "price": 279.82,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "free_shipping": false,
-      "available": false,
-      "url": "https://meli.la/1tdqCtd",
-      "affiliate": true,
-      "last_observed_at": "2026-11-07T15:39:12.896Z"
     },
     {
       "offer_id": "ml:MLB7794905152",
@@ -128,19 +162,36 @@
       "url": "https://meli.la/1tdqCtd",
       "affiliate": true,
       "last_observed_at": "2026-11-07T23:22:38.000Z"
+    },
+    {
+      "offer_id": "ml:MLB7794905152",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3684052792",
+        "name": null,
+        "reputation": null
+      },
+      "price": 274.54,
+      "currency": "BRL",
+      "store_reference_price": 674.26,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1tdqCtd",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T16:13:07.028Z"
     }
   ],
   "history": [
     {
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "min_price": 274.54,
-      "observations": 1
+      "observations": 3
     }
   ],
   "stats": {
     "median_90d": 274.54,
     "min_ever": 274.54,
-    "min_ever_at": "2026-11-07",
+    "min_ever_at": "2026-11-08",
     "distinct_days": 1,
     "window_days": 14
   },
@@ -149,5 +200,5 @@
     "pct_below_median": 0,
     "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
   },
-  "score": 44
+  "score": 60
 }

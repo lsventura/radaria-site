@@ -77,11 +77,45 @@
       "url": "https://meli.la/135bKZX",
       "affiliate": true,
       "last_observed_at": "2026-11-07T17:04:34.532Z"
+    },
+    {
+      "offer_id": "ml:MLB4536800685",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "480263032",
+        "name": null,
+        "reputation": null
+      },
+      "price": 9360,
+      "currency": "BRL",
+      "store_reference_price": 11999,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/135bKZX",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T16:26:59.128Z"
+    },
+    {
+      "offer_id": "ml:MLB6433408498",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2654525875",
+        "name": null,
+        "reputation": null
+      },
+      "price": 10999,
+      "currency": "BRL",
+      "store_reference_price": 11999,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/135bKZX",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T16:26:59.128Z"
     }
   ],
   "history": [
     {
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "min_price": 9360,
       "observations": 2
     }
@@ -89,14 +123,14 @@
   "stats": {
     "median_90d": 9360,
     "min_ever": 9360,
-    "min_ever_at": "2026-11-07",
+    "min_ever_at": "2026-11-08",
     "distinct_days": 1,
     "window_days": 14
   },
   "deal": {
-    "label": "none",
+    "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Oferta indisponível não entra como oportunidade."
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
   },
-  "score": 50
+  "score": 60
 }

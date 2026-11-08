@@ -1,0 +1,68 @@
+{
+  "id": "ml:MLB44637988",
+  "slug": "piano-digital-spring-pd-188-mlb44637988",
+  "title": "Piano Digital Spring Pd-188",
+  "brand": null,
+  "model": null,
+  "category_slug": "instrumentos-musicais-4",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_671366-MLA99562292718_122025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5244198029",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "84699565",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 1099,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/23e98Aw",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T20:49:45.000Z"
+    },
+    {
+      "offer_id": "ml:MLB5244198029",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "84699565",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 1099,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/23e98Aw",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:54:06.804Z"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 1099,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 1099,
+    "min_ever": 1099,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

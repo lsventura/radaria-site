@@ -1,0 +1,68 @@
+{
+  "id": "ml:MLB67941600",
+  "slug": "parafusadeira-impacto-ipv-1818i-vonder-bateria-mlb67941600",
+  "title": "Parafusadeira Impacto Ipv 1818i Vonder Bateria",
+  "brand": null,
+  "model": null,
+  "category_slug": "ferramentas-17",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_651376-MLA109484692988_042026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4629019489",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "213860657",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 420.13,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://www.mercadolivre.com.br/p/MLB67941600",
+      "affiliate": false,
+      "last_observed_at": "2026-11-07T17:59:25.000Z"
+    },
+    {
+      "offer_id": "ml:MLB4629019489",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "213860657",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 420.13,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB67941600",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T16:32:23.358Z"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 420.13,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 420.13,
+    "min_ever": 420.13,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

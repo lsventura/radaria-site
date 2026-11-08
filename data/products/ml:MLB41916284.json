@@ -11,57 +11,6 @@
   "attributes": {},
   "offers": [
     {
-      "offer_id": "ml:MLB5177242126",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "230342188",
-        "name": null,
-        "reputation": null
-      },
-      "price": 254.22,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "free_shipping": true,
-      "available": false,
-      "url": "https://meli.la/12gZbF3",
-      "affiliate": true,
-      "last_observed_at": "2026-11-07T17:03:23.000Z"
-    },
-    {
-      "offer_id": "ml:MLB5177242126",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "230342188",
-        "name": null,
-        "reputation": null
-      },
-      "price": 254.22,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "free_shipping": false,
-      "available": false,
-      "url": "https://meli.la/12gZbF3",
-      "affiliate": true,
-      "last_observed_at": "2026-11-07T17:03:25.701Z"
-    },
-    {
-      "offer_id": "ml:MLB4561999335",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "200102492",
-        "name": null,
-        "reputation": null
-      },
-      "price": 267.3,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "free_shipping": true,
-      "available": false,
-      "url": "https://meli.la/12gZbF3",
-      "affiliate": true,
-      "last_observed_at": "2026-11-07T17:03:23.000Z"
-    },
-    {
       "offer_id": "ml:MLB5471617238",
       "store": "mercadolivre",
       "seller": {
@@ -96,6 +45,91 @@
       "last_observed_at": "2026-11-07T17:03:25.701Z"
     },
     {
+      "offer_id": "ml:MLB5471617238",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "230342188",
+        "name": null,
+        "reputation": null
+      },
+      "price": 250.88,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/12gZbF3",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:42:57.421Z"
+    },
+    {
+      "offer_id": "ml:MLB5177242126",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "230342188",
+        "name": null,
+        "reputation": null
+      },
+      "price": 254.22,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/12gZbF3",
+      "affiliate": true,
+      "last_observed_at": "2026-11-07T17:03:23.000Z"
+    },
+    {
+      "offer_id": "ml:MLB5177242126",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "230342188",
+        "name": null,
+        "reputation": null
+      },
+      "price": 254.22,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": false,
+      "available": false,
+      "url": "https://meli.la/12gZbF3",
+      "affiliate": true,
+      "last_observed_at": "2026-11-07T17:03:25.701Z"
+    },
+    {
+      "offer_id": "ml:MLB5177242126",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "230342188",
+        "name": null,
+        "reputation": null
+      },
+      "price": 254.22,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/12gZbF3",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:42:57.421Z"
+    },
+    {
+      "offer_id": "ml:MLB4561999335",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "200102492",
+        "name": null,
+        "reputation": null
+      },
+      "price": 267.3,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/12gZbF3",
+      "affiliate": true,
+      "last_observed_at": "2026-11-07T17:03:23.000Z"
+    },
+    {
       "offer_id": "ml:MLB4561999335",
       "store": "mercadolivre",
       "seller": {
@@ -111,26 +145,43 @@
       "url": "https://meli.la/12gZbF3",
       "affiliate": true,
       "last_observed_at": "2026-11-07T17:03:25.701Z"
+    },
+    {
+      "offer_id": "ml:MLB4561999335",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "200102492",
+        "name": null,
+        "reputation": null
+      },
+      "price": 267.3,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/12gZbF3",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:42:57.421Z"
     }
   ],
   "history": [
     {
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "min_price": 250.88,
-      "observations": 3
+      "observations": 12
     }
   ],
   "stats": {
     "median_90d": 250.88,
     "min_ever": 250.88,
-    "min_ever_at": "2026-11-07",
+    "min_ever_at": "2026-11-08",
     "distinct_days": 1,
     "window_days": 14
   },
   "deal": {
-    "label": "none",
+    "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Oferta indisponível não entra como oportunidade."
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
   },
-  "score": 50
+  "score": 60
 }

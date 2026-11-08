@@ -1,0 +1,68 @@
+{
+  "id": "ml:MLB68500940",
+  "slug": "brinquedo-dinossauro-recarregavel-com-controle-cor-velociraptor-mlb68500940",
+  "title": "Brinquedo Dinossauro Recarregavel Com Controle Cor Velociraptor",
+  "brand": null,
+  "model": null,
+  "category_slug": "brinquedos-11",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_701593-MLA110803588365_042026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5174489923",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "780621807",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 117.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://www.mercadolivre.com.br/p/MLB68500940",
+      "affiliate": false,
+      "last_observed_at": "2026-11-07T17:43:12.000Z"
+    },
+    {
+      "offer_id": "ml:MLB5174489923",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "780621807",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 117.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB68500940",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T16:33:06.268Z"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 117.99,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 117.99,
+    "min_ever": 117.99,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

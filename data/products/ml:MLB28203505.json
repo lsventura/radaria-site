@@ -1,0 +1,68 @@
+{
+  "id": "ml:MLB28203505",
+  "slug": "notebook-core-i5-dell-latitude-16gb-ram-256gb-ssd-m2-mlb28203505",
+  "title": "Notebook Core I5 Dell Latitude 16gb Ram 256gb Ssd M2",
+  "brand": null,
+  "model": null,
+  "category_slug": "notebooks-14",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_676409-MLA99451969418_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7855552920",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1761578427",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 3477.06,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://www.mercadolivre.com.br/p/MLB28203505",
+      "affiliate": false,
+      "last_observed_at": "2026-11-07T17:27:09.000Z"
+    },
+    {
+      "offer_id": "ml:MLB7855552920",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1761578427",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 3477.06,
+      "currency": "BRL",
+      "store_reference_price": 3699,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB28203505",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T15:19:22.734Z"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 3477.06,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 3477.06,
+    "min_ever": 3477.06,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

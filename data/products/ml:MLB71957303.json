@@ -1,0 +1,68 @@
+{
+  "id": "ml:MLB71957303",
+  "slug": "livro-brinco-de-ser-uma-mlb71957303",
+  "title": "Livro - Brinco De Ser Uma",
+  "brand": null,
+  "model": null,
+  "category_slug": "relogios-e-joias-16",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_750731-MLA111615426326_062026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB6899719268",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "144261870",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 449,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/1toYYG1",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T21:49:41.000Z"
+    },
+    {
+      "offer_id": "ml:MLB6899719268",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "144261870",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 449,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1toYYG1",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T16:47:03.768Z"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 449,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 449,
+    "min_ever": 449,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}
