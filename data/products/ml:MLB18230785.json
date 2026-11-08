@@ -1,0 +1,68 @@
+{
+  "id": "ml:MLB18230785",
+  "slug": "mouse-gamer-cougar-surpassion-preto-mlb18230785",
+  "title": "Mouse gamer Cougar Surpassion preto",
+  "brand": null,
+  "model": null,
+  "category_slug": "games-12",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_893035-MLA95243865270_102025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5838517114",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "189454803",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 188,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB18230785",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T08:18:09.573Z"
+    },
+    {
+      "offer_id": "ml:MLB4269553907",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "189454803",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 199,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB18230785",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T08:18:09.573Z"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 188,
+      "observations": 4
+    }
+  ],
+  "stats": {
+    "median_90d": 188,
+    "min_ever": 188,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

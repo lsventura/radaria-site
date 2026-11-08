@@ -1,41 +1,49 @@
 {
-  "generated_at": "2026-11-08T07:45:14.498Z",
+  "generated_at": "2026-11-08T14:46:43.556Z",
   "funnel": {
     "discovered": 97751,
     "distinct": 48131,
     "with_photo": 47914,
-    "audited_approved": 3930,
-    "with_affiliate": 1745,
-    "published": 1745,
-    "fresh_history_24h": 448
+    "audited_approved": 3949,
+    "with_affiliate": 1759,
+    "published": 1759,
+    "fresh_history_24h": 470
   },
   "queues": {
-    "refresh": 15,
-    "export": 1,
-    "audit": 16
+    "audit": 9,
+    "refresh": 1
   },
   "errors_by_source": [
     {
       "source": "mercadolivre",
-      "http_status": 403,
-      "count_24h": 2
+      "http_status": 404,
+      "count_24h": 479
     },
     {
       "source": "mercadolivre",
-      "http_status": 404,
-      "count_24h": 24
+      "http_status": 400,
+      "count_24h": 818
+    },
+    {
+      "source": "mercadolivre",
+      "http_status": 403,
+      "count_24h": 2
     }
   ],
   "last_success": {
-    "export": "2026-11-08T07:43:38.920Z",
-    "curate": "2026-11-08T07:44:54.964Z",
-    "refresh": "2026-11-08T07:45:00.753Z",
-    "audit": "2026-11-08T07:44:30.575Z"
+    "publish-telegram": "2026-11-08T14:39:58.705Z",
+    "export": "2026-11-08T14:28:39.115Z",
+    "curate": "2026-11-08T14:46:03.442Z",
+    "refresh": "2026-11-08T14:46:20.979Z",
+    "affiliate": "2026-11-08T14:46:01.775Z",
+    "audit": "2026-11-08T14:46:30.831Z"
   },
   "throughput_per_hour": {
-    "export": 1,
-    "curate": 3,
-    "refresh": 25,
-    "audit": 2
+    "publish-telegram": 1,
+    "export": 2,
+    "curate": 62,
+    "refresh": 39,
+    "audit": 20,
+    "affiliate": 13
   }
 }
