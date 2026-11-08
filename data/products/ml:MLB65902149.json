@@ -22,78 +22,10 @@
       "currency": "BRL",
       "store_reference_price": null,
       "free_shipping": true,
-      "available": false,
-      "url": "https://meli.la/21csvsH",
-      "affiliate": true,
-      "last_observed_at": "2026-11-06T22:57:43.000Z"
-    },
-    {
-      "offer_id": "ml:MLB6601276512",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "3120818969",
-        "name": null,
-        "reputation": "5_green"
-      },
-      "price": 109,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "free_shipping": false,
-      "available": false,
-      "url": "https://meli.la/21csvsH",
-      "affiliate": true,
-      "last_observed_at": "2026-11-06T22:57:45.791Z"
-    },
-    {
-      "offer_id": "ml:MLB6601276512",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "3120818969",
-        "name": null,
-        "reputation": "5_green"
-      },
-      "price": 109,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "free_shipping": false,
-      "available": true,
-      "url": "https://meli.la/21csvsH",
-      "affiliate": true,
-      "last_observed_at": "2026-11-06T23:11:21.000Z"
-    },
-    {
-      "offer_id": "ml:MLB6601276512",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "3120818969",
-        "name": null,
-        "reputation": "5_green"
-      },
-      "price": 109,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "free_shipping": true,
       "available": true,
       "url": "https://meli.la/21csvsH",
       "affiliate": true,
       "last_observed_at": "2026-11-08T16:24:59.829Z"
-    },
-    {
-      "offer_id": "ml:MLB4738236419",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "156430342",
-        "name": null,
-        "reputation": null
-      },
-      "price": 75.94,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "free_shipping": false,
-      "available": false,
-      "url": "https://meli.la/21csvsH",
-      "affiliate": true,
-      "last_observed_at": "2026-11-06T22:57:43.000Z"
     },
     {
       "offer_id": "ml:MLB4738236419",
@@ -118,19 +50,24 @@
       "date": "2026-11-08",
       "min_price": 75.94,
       "observations": 2
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 75.94,
+      "observations": 3
     }
   ],
   "stats": {
     "median_90d": 75.94,
     "min_ever": 75.94,
-    "min_ever_at": "2026-11-08",
-    "distinct_days": 1,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 2,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
   },
   "score": 52
 }

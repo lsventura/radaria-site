@@ -22,23 +22,6 @@
       "currency": "BRL",
       "store_reference_price": null,
       "free_shipping": false,
-      "available": false,
-      "url": "https://meli.la/2aFYmm9",
-      "affiliate": true,
-      "last_observed_at": "2026-11-06T21:50:30.000Z"
-    },
-    {
-      "offer_id": "ml:MLB3576446793",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "650661382",
-        "name": null,
-        "reputation": null
-      },
-      "price": 49.99,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "free_shipping": false,
       "available": true,
       "url": "https://meli.la/2aFYmm9",
       "affiliate": true,
@@ -56,78 +39,10 @@
       "currency": "BRL",
       "store_reference_price": null,
       "free_shipping": true,
-      "available": false,
-      "url": "https://meli.la/2aFYmm9",
-      "affiliate": true,
-      "last_observed_at": "2026-11-06T21:50:30.000Z"
-    },
-    {
-      "offer_id": "ml:MLB3713406483",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "56635304",
-        "name": null,
-        "reputation": null
-      },
-      "price": 105.15,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "free_shipping": true,
       "available": true,
       "url": "https://meli.la/2aFYmm9",
       "affiliate": true,
       "last_observed_at": "2026-11-08T15:13:44.035Z"
-    },
-    {
-      "offer_id": "ml:MLB7612754216",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "412138108",
-        "name": null,
-        "reputation": "5_green"
-      },
-      "price": 79.9,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "free_shipping": true,
-      "available": false,
-      "url": "https://meli.la/2aFYmm9",
-      "affiliate": true,
-      "last_observed_at": "2026-11-06T21:50:30.000Z"
-    },
-    {
-      "offer_id": "ml:MLB5744825316",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "2411686715",
-        "name": null,
-        "reputation": "5_green"
-      },
-      "price": 62.9,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "free_shipping": false,
-      "available": false,
-      "url": "https://meli.la/2aFYmm9",
-      "affiliate": true,
-      "last_observed_at": "2026-11-06T21:50:30.000Z"
-    },
-    {
-      "offer_id": "ml:MLB7612754216",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "412138108",
-        "name": null,
-        "reputation": "5_green"
-      },
-      "price": 79.9,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "free_shipping": false,
-      "available": true,
-      "url": "https://meli.la/2aFYmm9",
-      "affiliate": true,
-      "last_observed_at": "2026-11-06T22:02:09.000Z"
     },
     {
       "offer_id": "ml:MLB5744825316",
@@ -162,23 +77,6 @@
       "url": "https://meli.la/2aFYmm9",
       "affiliate": true,
       "last_observed_at": "2026-11-08T15:13:44.035Z"
-    },
-    {
-      "offer_id": "ml:MLB3389520287",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "1141861213",
-        "name": null,
-        "reputation": null
-      },
-      "price": 39.96,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "free_shipping": false,
-      "available": false,
-      "url": "https://meli.la/2aFYmm9",
-      "affiliate": true,
-      "last_observed_at": "2026-11-06T21:50:30.000Z"
     },
     {
       "offer_id": "ml:MLB3389520287",
@@ -203,19 +101,24 @@
       "date": "2026-11-08",
       "min_price": 39.96,
       "observations": 5
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 39.96,
+      "observations": 6
     }
   ],
   "stats": {
     "median_90d": 39.96,
     "min_ever": 39.96,
-    "min_ever_at": "2026-11-08",
-    "distinct_days": 1,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 2,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
   },
   "score": 52
 }

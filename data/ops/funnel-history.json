@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T20:12:39.251Z",
+  "generated_at": "2026-11-08T20:35:48.034Z",
   "timezone": "America/Sao_Paulo",
   "series": [
     {
@@ -9,7 +9,7 @@
         "discovered": 50513,
         "distinct": 49001,
         "with_photo": 48985,
-        "audited_approved": 4020,
+        "audited_approved": 4055,
         "with_affiliate": 1860,
         "published": 1855
       }
@@ -18,13 +18,13 @@
       "date": "2026-11-08",
       "version": "v3",
       "stages": {
-        "distinct": 48131,
         "with_photo": 47914,
         "audited_approved": 4159,
         "with_affiliate": 1657,
         "published": 1657,
         "fresh_history_24h": 1657,
-        "discovered": 97751
+        "discovered": 97751,
+        "distinct": 48131
       }
     }
   ]

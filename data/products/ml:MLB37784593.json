@@ -22,95 +22,10 @@
       "currency": "BRL",
       "store_reference_price": null,
       "free_shipping": true,
-      "available": false,
-      "url": "https://www.mercadolivre.com.br/p/MLB37784593",
-      "affiliate": false,
-      "last_observed_at": "2026-11-07T17:42:54.000Z"
-    },
-    {
-      "offer_id": "ml:MLB6142912906",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "60338212",
-        "name": null,
-        "reputation": null
-      },
-      "price": 499.99,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "free_shipping": true,
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB37784593",
       "affiliate": false,
       "last_observed_at": "2026-11-08T15:32:24.833Z"
-    },
-    {
-      "offer_id": "ml:MLB4264066903",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "2280609957",
-        "name": null,
-        "reputation": "5_green"
-      },
-      "price": 578.7,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "free_shipping": true,
-      "available": false,
-      "url": "https://www.mercadolivre.com.br/p/MLB37784593",
-      "affiliate": false,
-      "last_observed_at": "2026-11-07T17:42:54.000Z"
-    },
-    {
-      "offer_id": "ml:MLB6465121670",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "308108859",
-        "name": null,
-        "reputation": null
-      },
-      "price": 351.43,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "free_shipping": true,
-      "available": false,
-      "url": "https://www.mercadolivre.com.br/p/MLB37784593",
-      "affiliate": false,
-      "last_observed_at": "2026-11-07T17:42:54.000Z"
-    },
-    {
-      "offer_id": "ml:MLB6465121670",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "308108859",
-        "name": null,
-        "reputation": null
-      },
-      "price": 351.43,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "free_shipping": false,
-      "available": false,
-      "url": "https://www.mercadolivre.com.br/p/MLB37784593",
-      "affiliate": false,
-      "last_observed_at": "2026-11-07T17:43:00.024Z"
-    },
-    {
-      "offer_id": "ml:MLB4264066903",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "2280609957",
-        "name": null,
-        "reputation": "5_green"
-      },
-      "price": 578.7,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "free_shipping": false,
-      "available": false,
-      "url": "https://www.mercadolivre.com.br/p/MLB37784593",
-      "affiliate": false,
-      "last_observed_at": "2026-11-07T17:43:00.024Z"
     },
     {
       "offer_id": "ml:MLB4264066903",
@@ -145,74 +60,6 @@
       "url": "https://www.mercadolivre.com.br/p/MLB37784593",
       "affiliate": false,
       "last_observed_at": "2026-11-08T15:32:24.833Z"
-    },
-    {
-      "offer_id": "ml:MLB6136127706",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "113780326",
-        "name": null,
-        "reputation": "5_green"
-      },
-      "price": 312.61,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "free_shipping": true,
-      "available": false,
-      "url": "https://www.mercadolivre.com.br/p/MLB37784593",
-      "affiliate": false,
-      "last_observed_at": "2026-11-07T17:42:54.000Z"
-    },
-    {
-      "offer_id": "ml:MLB4264698325",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "502051812",
-        "name": null,
-        "reputation": null
-      },
-      "price": 578.7,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "free_shipping": true,
-      "available": false,
-      "url": "https://www.mercadolivre.com.br/p/MLB37784593",
-      "affiliate": false,
-      "last_observed_at": "2026-11-07T17:42:54.000Z"
-    },
-    {
-      "offer_id": "ml:MLB6136127706",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "113780326",
-        "name": null,
-        "reputation": "5_green"
-      },
-      "price": 312.61,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "free_shipping": false,
-      "available": false,
-      "url": "https://www.mercadolivre.com.br/p/MLB37784593",
-      "affiliate": false,
-      "last_observed_at": "2026-11-07T17:43:00.024Z"
-    },
-    {
-      "offer_id": "ml:MLB4264698325",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "502051812",
-        "name": null,
-        "reputation": null
-      },
-      "price": 578.7,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "free_shipping": false,
-      "available": false,
-      "url": "https://www.mercadolivre.com.br/p/MLB37784593",
-      "affiliate": false,
-      "last_observed_at": "2026-11-07T17:43:00.024Z"
     },
     {
       "offer_id": "ml:MLB4264698325",
@@ -254,19 +101,24 @@
       "date": "2026-11-08",
       "min_price": 312.61,
       "observations": 15
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 312.61,
+      "observations": 5
     }
   ],
   "stats": {
     "median_90d": 312.61,
     "min_ever": 312.61,
-    "min_ever_at": "2026-11-08",
-    "distinct_days": 1,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 2,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
   },
   "score": 60
 }

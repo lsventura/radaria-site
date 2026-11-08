@@ -20,40 +20,6 @@
       },
       "price": 1682.98,
       "currency": "BRL",
-      "store_reference_price": null,
-      "free_shipping": true,
-      "available": false,
-      "url": "https://www.mercadolivre.com.br/p/MLB77188949",
-      "affiliate": false,
-      "last_observed_at": "2026-11-07T17:52:52.000Z"
-    },
-    {
-      "offer_id": "ml:MLB5108378397",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "623089944",
-        "name": null,
-        "reputation": null
-      },
-      "price": 1682.98,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "free_shipping": false,
-      "available": false,
-      "url": "https://www.mercadolivre.com.br/p/MLB77188949",
-      "affiliate": false,
-      "last_observed_at": "2026-11-07T17:52:55.892Z"
-    },
-    {
-      "offer_id": "ml:MLB5108378397",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "623089944",
-        "name": null,
-        "reputation": null
-      },
-      "price": 1682.98,
-      "currency": "BRL",
       "store_reference_price": 2003.55,
       "free_shipping": true,
       "available": true,
@@ -71,80 +37,12 @@
       },
       "price": 1734,
       "currency": "BRL",
-      "store_reference_price": null,
-      "free_shipping": true,
-      "available": false,
-      "url": "https://www.mercadolivre.com.br/p/MLB77188949",
-      "affiliate": false,
-      "last_observed_at": "2026-11-07T17:52:52.000Z"
-    },
-    {
-      "offer_id": "ml:MLB7522945600",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "1305777326",
-        "name": null,
-        "reputation": null
-      },
-      "price": 1734,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "free_shipping": false,
-      "available": false,
-      "url": "https://www.mercadolivre.com.br/p/MLB77188949",
-      "affiliate": false,
-      "last_observed_at": "2026-11-07T17:52:55.892Z"
-    },
-    {
-      "offer_id": "ml:MLB7522945600",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "1305777326",
-        "name": null,
-        "reputation": null
-      },
-      "price": 1734,
-      "currency": "BRL",
       "store_reference_price": 2109,
       "free_shipping": true,
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB77188949",
       "affiliate": false,
       "last_observed_at": "2026-11-08T17:02:03.773Z"
-    },
-    {
-      "offer_id": "ml:MLB7480244174",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "623089944",
-        "name": null,
-        "reputation": null
-      },
-      "price": 1804.2,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "free_shipping": true,
-      "available": false,
-      "url": "https://www.mercadolivre.com.br/p/MLB77188949",
-      "affiliate": false,
-      "last_observed_at": "2026-11-07T17:52:52.000Z"
-    },
-    {
-      "offer_id": "ml:MLB7480244174",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "623089944",
-        "name": null,
-        "reputation": null
-      },
-      "price": 1804.2,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "free_shipping": false,
-      "available": false,
-      "url": "https://www.mercadolivre.com.br/p/MLB77188949",
-      "affiliate": false,
-      "last_observed_at": "2026-11-07T17:52:55.892Z"
     },
     {
       "offer_id": "ml:MLB7480244174",
@@ -169,19 +67,24 @@
       "date": "2026-11-08",
       "min_price": 1682.98,
       "observations": 3
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 1682.98,
+      "observations": 3
     }
   ],
   "stats": {
     "median_90d": 1682.98,
     "min_ever": 1682.98,
-    "min_ever_at": "2026-11-08",
-    "distinct_days": 1,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 2,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
   },
   "score": 60
 }

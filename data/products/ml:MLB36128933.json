@@ -20,74 +20,6 @@
       },
       "price": 125.62,
       "currency": "BRL",
-      "store_reference_price": null,
-      "free_shipping": true,
-      "available": false,
-      "url": "https://meli.la/1PVgBLb",
-      "affiliate": true,
-      "last_observed_at": "2026-11-07T06:38:32.000Z"
-    },
-    {
-      "offer_id": "ml:MLB5396783328",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "662611668",
-        "name": null,
-        "reputation": "5_green"
-      },
-      "price": 159.9,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "free_shipping": true,
-      "available": false,
-      "url": "https://meli.la/1PVgBLb",
-      "affiliate": true,
-      "last_observed_at": "2026-11-07T06:38:32.000Z"
-    },
-    {
-      "offer_id": "ml:MLB4645908195",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "302333461",
-        "name": null,
-        "reputation": "5_green"
-      },
-      "price": 125.62,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "free_shipping": false,
-      "available": false,
-      "url": "https://meli.la/1PVgBLb",
-      "affiliate": true,
-      "last_observed_at": "2026-11-07T06:38:32.619Z"
-    },
-    {
-      "offer_id": "ml:MLB4645908195",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "302333461",
-        "name": null,
-        "reputation": "5_green"
-      },
-      "price": 125.62,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "free_shipping": false,
-      "available": true,
-      "url": "https://meli.la/1PVgBLb",
-      "affiliate": true,
-      "last_observed_at": "2026-11-07T12:57:15.000Z"
-    },
-    {
-      "offer_id": "ml:MLB4645908195",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "302333461",
-        "name": null,
-        "reputation": "5_green"
-      },
-      "price": 125.62,
-      "currency": "BRL",
       "store_reference_price": 159.9,
       "free_shipping": true,
       "available": true,
@@ -118,19 +50,24 @@
       "date": "2026-11-08",
       "min_price": 125.62,
       "observations": 6
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 125.62,
+      "observations": 3
     }
   ],
   "stats": {
     "median_90d": 125.62,
     "min_ever": 125.62,
-    "min_ever_at": "2026-11-08",
-    "distinct_days": 1,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 2,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
   },
   "score": 60
 }

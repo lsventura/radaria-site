@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T20:12:39.251Z",
+  "generated_at": "2026-11-08T20:35:48.034Z",
   "schema_version": "radaria-ops/v1",
   "funnel": {
     "discovered": 97751,
@@ -11,8 +11,8 @@
     "fresh_history_24h": 1657
   },
   "activity_24h": {
-    "telegram_posted": 14,
-    "affiliate_links_generated": 3414
+    "telegram_posted": 15,
+    "affiliate_links_generated": 136
   },
   "by_status": {
     "approved": 4162,
@@ -244,7 +244,9 @@
       "ratio": 1
     }
   ],
-  "queues": {},
+  "queues": {
+    "publish-telegram": 1
+  },
   "errors_by_source": [
     {
       "source": "mercadolivre",
@@ -263,16 +265,16 @@
     }
   ],
   "last_success": {
-    "publish-telegram": "2026-11-08T20:05:15.727Z",
-    "export": "2026-11-08T19:55:48.642Z",
-    "curate": "2026-11-08T20:12:15.312Z",
-    "refresh": "2026-11-08T18:27:35.868Z",
+    "publish-telegram": "2026-11-08T20:28:04.360Z",
+    "export": "2026-11-08T20:13:12.579Z",
+    "curate": "2026-11-08T20:35:46.049Z",
+    "refresh": "2026-11-08T20:28:06.102Z",
     "affiliate": "2026-11-08T18:42:31.475Z",
     "audit": "2026-11-08T19:57:25.681Z"
   },
   "last_run": {
     "affiliate": {
-      "at": "2026-11-08T20:12:15.121Z",
+      "at": "2026-11-08T20:35:45.955Z",
       "status": "skipped"
     },
     "audit": {
@@ -280,30 +282,31 @@
       "status": "empty"
     },
     "curate": {
-      "at": "2026-11-08T20:12:15.312Z",
+      "at": "2026-11-08T20:35:46.049Z",
       "status": "success"
     },
     "discover": {
-      "at": "2026-11-08T20:12:15.323Z",
+      "at": "2026-11-08T20:35:45.160Z",
       "status": "empty"
     },
     "export": {
-      "at": "2026-11-08T19:55:48.642Z",
+      "at": "2026-11-08T20:13:12.579Z",
       "status": "success"
     },
     "publish-telegram": {
-      "at": "2026-11-08T20:05:15.727Z",
+      "at": "2026-11-08T20:28:04.360Z",
       "status": "success"
     },
     "refresh": {
-      "at": "2026-11-08T18:27:35.868Z",
+      "at": "2026-11-08T20:28:06.102Z",
       "status": "success"
     }
   },
   "throughput_per_hour": {
     "publish-telegram": 3,
     "export": 2,
-    "curate": 58,
-    "audit": 1657
+    "curate": 59,
+    "refresh": 4,
+    "audit": 714
   }
 }

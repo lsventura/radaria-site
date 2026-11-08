@@ -20,46 +20,12 @@
       },
       "price": 82.7,
       "currency": "BRL",
-      "store_reference_price": null,
-      "free_shipping": true,
-      "available": false,
-      "url": "https://www.mercadolivre.com.br/p/MLB80275079",
-      "affiliate": false,
-      "last_observed_at": "2026-11-07T16:47:36.000Z"
-    },
-    {
-      "offer_id": "ml:MLB7951380432",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "3681003907",
-        "name": null,
-        "reputation": "5_green"
-      },
-      "price": 82.7,
-      "currency": "BRL",
       "store_reference_price": 129.9,
       "free_shipping": true,
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB80275079",
       "affiliate": false,
       "last_observed_at": "2026-11-08T17:11:52.510Z"
-    },
-    {
-      "offer_id": "ml:MLB7900583420",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "3368685302",
-        "name": null,
-        "reputation": "5_green"
-      },
-      "price": 82.7,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "free_shipping": true,
-      "available": false,
-      "url": "https://www.mercadolivre.com.br/p/MLB80275079",
-      "affiliate": false,
-      "last_observed_at": "2026-11-07T16:47:36.000Z"
     },
     {
       "offer_id": "ml:MLB7900583420",
@@ -84,19 +50,24 @@
       "date": "2026-11-08",
       "min_price": 78.9,
       "observations": 2
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 82.7,
+      "observations": 2
     }
   ],
   "stats": {
-    "median_90d": 78.9,
+    "median_90d": 80.8,
     "min_ever": 78.9,
     "min_ever_at": "2026-11-08",
-    "distinct_days": 1,
+    "distinct_days": 2,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 0,
-    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+    "pct_below_median": 2.4,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
   },
   "score": 52
 }

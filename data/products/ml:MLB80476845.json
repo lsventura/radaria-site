@@ -20,57 +20,6 @@
       },
       "price": 96.99,
       "currency": "BRL",
-      "store_reference_price": null,
-      "free_shipping": true,
-      "available": false,
-      "url": "https://meli.la/2pDeCE9",
-      "affiliate": true,
-      "last_observed_at": "2026-11-07T15:54:43.000Z"
-    },
-    {
-      "offer_id": "ml:MLB5434861809",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "3141339440",
-        "name": null,
-        "reputation": "5_green"
-      },
-      "price": 96.99,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "free_shipping": false,
-      "available": false,
-      "url": "https://meli.la/2pDeCE9",
-      "affiliate": true,
-      "last_observed_at": "2026-11-07T15:54:50.625Z"
-    },
-    {
-      "offer_id": "ml:MLB5434861809",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "3141339440",
-        "name": null,
-        "reputation": "5_green"
-      },
-      "price": 96.99,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "free_shipping": false,
-      "available": true,
-      "url": "https://meli.la/2pDeCE9",
-      "affiliate": true,
-      "last_observed_at": "2026-11-07T23:47:33.000Z"
-    },
-    {
-      "offer_id": "ml:MLB5434861809",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "3141339440",
-        "name": null,
-        "reputation": "5_green"
-      },
-      "price": 96.99,
-      "currency": "BRL",
       "store_reference_price": 189,
       "free_shipping": true,
       "available": true,
@@ -84,19 +33,24 @@
       "date": "2026-11-08",
       "min_price": 96.99,
       "observations": 1
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 96.99,
+      "observations": 2
     }
   ],
   "stats": {
     "median_90d": 96.99,
     "min_ever": 96.99,
-    "min_ever_at": "2026-11-08",
-    "distinct_days": 1,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 2,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
   },
   "score": 60
 }
