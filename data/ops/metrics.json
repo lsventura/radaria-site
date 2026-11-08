@@ -1,23 +1,258 @@
 {
-  "generated_at": "2026-11-08T14:46:43.556Z",
+  "generated_at": "2026-11-08T15:03:58.075Z",
+  "schema_version": "radaria-ops/v1",
   "funnel": {
     "discovered": 97751,
     "distinct": 48131,
     "with_photo": 47914,
-    "audited_approved": 3949,
-    "with_affiliate": 1759,
-    "published": 1759,
-    "fresh_history_24h": 470
+    "audited_approved": 3916,
+    "with_affiliate": 1748,
+    "published": 1748,
+    "fresh_history_24h": 578
   },
+  "activity_24h": {
+    "telegram_posted": 2,
+    "affiliate_links_generated": 3349
+  },
+  "by_status": {
+    "approved": 3918,
+    "rejected": 4830,
+    "source_unavailable": 19627,
+    "pending": 19756
+  },
+  "by_root_category": [
+    {
+      "slug": "celulares",
+      "name": "Celulares",
+      "count": 1957
+    },
+    {
+      "slug": "acessorios-e-wearables",
+      "name": "Acessórios e Wearables",
+      "count": 1942
+    },
+    {
+      "slug": "casa-inteligente",
+      "name": "Casa Inteligente",
+      "count": 1848
+    },
+    {
+      "slug": "notebooks",
+      "name": "Notebooks",
+      "count": 1728
+    },
+    {
+      "slug": "cozinha",
+      "name": "Cozinha",
+      "count": 1714
+    },
+    {
+      "slug": "casa-e-reforma",
+      "name": "Casa e Reforma",
+      "count": 1700
+    },
+    {
+      "slug": "games",
+      "name": "Games",
+      "count": 1694
+    },
+    {
+      "slug": "informatica",
+      "name": "Informática",
+      "count": 1675
+    },
+    {
+      "slug": "eletrodomesticos",
+      "name": "Eletrodomésticos",
+      "count": 1664
+    },
+    {
+      "slug": "esportes",
+      "name": "Esportes",
+      "count": 1587
+    },
+    {
+      "slug": "ferramentas",
+      "name": "Ferramentas",
+      "count": 1587
+    },
+    {
+      "slug": "moveis",
+      "name": "Móveis",
+      "count": 1587
+    },
+    {
+      "slug": "bebes",
+      "name": "Bebês",
+      "count": 1562
+    },
+    {
+      "slug": "fotografia-e-video",
+      "name": "Fotografia e Vídeo",
+      "count": 1561
+    },
+    {
+      "slug": "relogios-e-joias",
+      "name": "Relógios e Joias",
+      "count": 1559
+    },
+    {
+      "slug": "brinquedos",
+      "name": "Brinquedos",
+      "count": 1551
+    },
+    {
+      "slug": "arte-e-artesanato",
+      "name": "Arte e Artesanato",
+      "count": 1549
+    },
+    {
+      "slug": "bem-estar",
+      "name": "Bem-estar",
+      "count": 1545
+    },
+    {
+      "slug": "viagem-e-outdoor",
+      "name": "Viagem e Outdoor",
+      "count": 1542
+    },
+    {
+      "slug": "beleza",
+      "name": "Beleza",
+      "count": 1537
+    },
+    {
+      "slug": "livros-e-papelaria",
+      "name": "Livros e Papelaria",
+      "count": 1530
+    },
+    {
+      "slug": "moda-masculina",
+      "name": "Moda Masculina",
+      "count": 1524
+    },
+    {
+      "slug": "pets",
+      "name": "Pets",
+      "count": 1524
+    },
+    {
+      "slug": "instrumentos-musicais",
+      "name": "Instrumentos Musicais",
+      "count": 1518
+    },
+    {
+      "slug": "organizacao-e-limpeza",
+      "name": "Organização e Limpeza",
+      "count": 1502
+    },
+    {
+      "slug": "jardim-e-piscina",
+      "name": "Jardim e Piscina",
+      "count": 1496
+    },
+    {
+      "slug": "tv-e-audio",
+      "name": "TV e Áudio",
+      "count": 1495
+    },
+    {
+      "slug": "moda-feminina",
+      "name": "Moda Feminina",
+      "count": 1460
+    },
+    {
+      "slug": "fitness",
+      "name": "Fitness",
+      "count": 1458
+    },
+    {
+      "slug": "automotivo",
+      "name": "Automotivo",
+      "count": 1431
+    },
+    {
+      "slug": "jogos",
+      "name": "jogos",
+      "count": 39
+    },
+    {
+      "slug": "perifericos",
+      "name": "perifericos",
+      "count": 16
+    },
+    {
+      "slug": "colecionaveis",
+      "name": "colecionaveis",
+      "count": 13
+    },
+    {
+      "slug": "controles",
+      "name": "controles",
+      "count": 10
+    },
+    {
+      "slug": "headsets",
+      "name": "headsets",
+      "count": 10
+    },
+    {
+      "slug": "lego",
+      "name": "lego",
+      "count": 9
+    },
+    {
+      "slug": "mangas",
+      "name": "mangas",
+      "count": 4
+    },
+    {
+      "slug": "ssd",
+      "name": "ssd",
+      "count": 3
+    }
+  ],
+  "conversion": [
+    {
+      "from": "discovered",
+      "to": "distinct",
+      "ratio": 0.4924
+    },
+    {
+      "from": "distinct",
+      "to": "with_photo",
+      "ratio": 0.9955
+    },
+    {
+      "from": "with_photo",
+      "to": "audited_approved",
+      "ratio": 0.0817
+    },
+    {
+      "from": "audited_approved",
+      "to": "with_affiliate",
+      "ratio": 0.4464
+    },
+    {
+      "from": "with_affiliate",
+      "to": "published",
+      "ratio": 1
+    },
+    {
+      "from": "published",
+      "to": "fresh_history_24h",
+      "ratio": 0.3307
+    }
+  ],
   "queues": {
-    "audit": 9,
-    "refresh": 1
+    "refresh": 116,
+    "audit": 46
   },
   "errors_by_source": [
     {
       "source": "mercadolivre",
       "http_status": 404,
-      "count_24h": 479
+      "count_24h": 856
     },
     {
       "source": "mercadolivre",
@@ -31,19 +266,49 @@
     }
   ],
   "last_success": {
-    "publish-telegram": "2026-11-08T14:39:58.705Z",
-    "export": "2026-11-08T14:28:39.115Z",
-    "curate": "2026-11-08T14:46:03.442Z",
-    "refresh": "2026-11-08T14:46:20.979Z",
-    "affiliate": "2026-11-08T14:46:01.775Z",
-    "audit": "2026-11-08T14:46:30.831Z"
+    "publish-telegram": "2026-11-08T15:01:39.884Z",
+    "export": "2026-11-08T14:46:44.709Z",
+    "curate": "2026-11-08T15:03:57.852Z",
+    "refresh": "2026-11-08T15:03:57.420Z",
+    "affiliate": "2026-11-08T15:02:58.352Z",
+    "audit": "2026-11-08T15:03:54.569Z"
+  },
+  "last_run": {
+    "affiliate": {
+      "at": "2026-11-08T15:03:58.330Z",
+      "status": "success"
+    },
+    "audit": {
+      "at": "2026-11-08T15:04:14.183Z",
+      "status": "empty"
+    },
+    "curate": {
+      "at": "2026-11-08T15:03:57.852Z",
+      "status": "success"
+    },
+    "discover": {
+      "at": "2026-11-08T15:03:56.230Z",
+      "status": "empty"
+    },
+    "export": {
+      "at": "2026-11-08T14:46:44.709Z",
+      "status": "success"
+    },
+    "publish-telegram": {
+      "at": "2026-11-08T15:01:39.884Z",
+      "status": "success"
+    },
+    "refresh": {
+      "at": "2026-11-08T15:04:14.587Z",
+      "status": "success"
+    }
   },
   "throughput_per_hour": {
-    "publish-telegram": 1,
+    "publish-telegram": 2,
     "export": 2,
-    "curate": 62,
-    "refresh": 39,
-    "audit": 20,
-    "affiliate": 13
+    "curate": 64,
+    "refresh": 395,
+    "audit": 150,
+    "affiliate": 32
   }
 }

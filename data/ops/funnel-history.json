@@ -1,0 +1,31 @@
+{
+  "generated_at": "2026-11-08T15:03:58.075Z",
+  "timezone": "America/Sao_Paulo",
+  "series": [
+    {
+      "date": "2026-11-08",
+      "version": "v2",
+      "stages": {
+        "discovered": 50083,
+        "distinct": 48589,
+        "with_photo": 48573,
+        "audited_approved": 3976,
+        "with_affiliate": 1860,
+        "published": 1822
+      }
+    },
+    {
+      "date": "2026-11-08",
+      "version": "v3",
+      "stages": {
+        "discovered": 97751,
+        "distinct": 48131,
+        "with_photo": 47914,
+        "audited_approved": 3916,
+        "with_affiliate": 1748,
+        "published": 1748,
+        "fresh_history_24h": 578
+      }
+    }
+  ]
+}

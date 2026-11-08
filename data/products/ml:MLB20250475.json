@@ -1,0 +1,136 @@
+{
+  "id": "ml:MLB20250475",
+  "slug": "headset-gamer-apolo-preto-mymax-mlb20250475",
+  "title": "Headset Gamer Apolo Preto Mymax",
+  "brand": null,
+  "model": null,
+  "category_slug": "games-6",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_939556-MLA99630020264_122025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4918167174",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1500470534",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 49.5,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": false,
+      "available": false,
+      "url": "https://meli.la/2qtiYiG",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T20:55:47.000Z"
+    },
+    {
+      "offer_id": "ml:MLB4655381407",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1126254303",
+        "name": null,
+        "reputation": null
+      },
+      "price": 149,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/2qtiYiG",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T20:55:47.000Z"
+    },
+    {
+      "offer_id": "ml:MLB4655381407",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1126254303",
+        "name": null,
+        "reputation": null
+      },
+      "price": 149,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2qtiYiG",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:02:47.811Z"
+    },
+    {
+      "offer_id": "ml:MLB4918167174",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1500470534",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 49.5,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://meli.la/2qtiYiG",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:02:47.811Z"
+    },
+    {
+      "offer_id": "ml:MLB5510050816",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "430360073",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 119.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/2qtiYiG",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T20:55:47.000Z"
+    },
+    {
+      "offer_id": "ml:MLB5510050816",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "430360073",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 119.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2qtiYiG",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:02:47.811Z"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 49.5,
+      "observations": 6
+    }
+  ],
+  "stats": {
+    "median_90d": 49.5,
+    "min_ever": 49.5,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

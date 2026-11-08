@@ -1,0 +1,68 @@
+{
+  "id": "ml:MLB19367295",
+  "slug": "pijama-vermelho-coelho-sergio-crv-capa-mole-mlb19367295",
+  "title": "Pijama vermelho - Coelho, Sérgio - Crv - Capa Mole",
+  "brand": null,
+  "model": null,
+  "category_slug": "moda-feminina-12",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_818601-MLU50500300036_062022-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5258629058",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "144261870",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 98,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/1HAS1xW",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T22:12:05.000Z"
+    },
+    {
+      "offer_id": "ml:MLB5258629058",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "144261870",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 98,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1HAS1xW",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T14:59:47.916Z"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 98,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 98,
+    "min_ever": 98,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}
