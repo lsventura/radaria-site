@@ -1,0 +1,68 @@
+{
+  "id": "ml:MLB21021716",
+  "slug": "lavadora-alta-pressao-jacto-j7600-trifasica-cor-preto-mlb21021716",
+  "title": "Lavadora Alta Pressão Jacto J7600 Trifásica Cor Preto",
+  "brand": null,
+  "model": null,
+  "category_slug": "ferramentas-5",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_932665-MLA95170549036_102025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB6716329864",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "195239002",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 6999,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB21021716",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T14:59:50.207Z"
+    },
+    {
+      "offer_id": "ml:MLB6143715070",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "132625001",
+        "name": null,
+        "reputation": null
+      },
+      "price": 7499,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB21021716",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T14:59:50.207Z"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 6999,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 6999,
+    "min_ever": 6999,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

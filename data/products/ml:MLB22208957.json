@@ -1,0 +1,68 @@
+{
+  "id": "ml:MLB22208957",
+  "slug": "bounce-c-240-folhas-secadora-perfuma-amacia-roupas-fresh-linen-mlb22208957",
+  "title": "Bounce C/ 240 Folhas Secadora Perfuma Amacia Roupas fresh linen",
+  "brand": null,
+  "model": null,
+  "category_slug": "eletrodomesticos-9",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_836515-MLA99833902203_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB6955676996",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1957991201",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 249,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://www.mercadolivre.com.br/p/MLB22208957",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T02:52:02.000Z"
+    },
+    {
+      "offer_id": "ml:MLB6955676996",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1957991201",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 249,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB22208957",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T15:07:55.740Z"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 249,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 249,
+    "min_ever": 249,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

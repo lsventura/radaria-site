@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-11-08T15:03:58.075Z",
+  "generated_at": "2026-11-08T15:09:09.736Z",
   "schema_version": "radaria-ops/v1",
   "funnel": {
     "discovered": 97751,
     "distinct": 48131,
     "with_photo": 47914,
-    "audited_approved": 3916,
-    "with_affiliate": 1748,
-    "published": 1748,
-    "fresh_history_24h": 578
+    "audited_approved": 3933,
+    "with_affiliate": 1747,
+    "published": 1747,
+    "fresh_history_24h": 669
   },
   "activity_24h": {
     "telegram_posted": 2,
-    "affiliate_links_generated": 3349
+    "affiliate_links_generated": 3359
   },
   "by_status": {
-    "approved": 3918,
-    "rejected": 4830,
-    "source_unavailable": 19627,
-    "pending": 19756
+    "approved": 3934,
+    "rejected": 4842,
+    "source_unavailable": 19788,
+    "pending": 19567
   },
   "by_root_category": [
     {
@@ -226,12 +226,12 @@
     {
       "from": "with_photo",
       "to": "audited_approved",
-      "ratio": 0.0817
+      "ratio": 0.0821
     },
     {
       "from": "audited_approved",
       "to": "with_affiliate",
-      "ratio": 0.4464
+      "ratio": 0.4442
     },
     {
       "from": "with_affiliate",
@@ -241,18 +241,18 @@
     {
       "from": "published",
       "to": "fresh_history_24h",
-      "ratio": 0.3307
+      "ratio": 0.3829
     }
   ],
   "queues": {
-    "refresh": 116,
-    "audit": 46
+    "audit": 21,
+    "refresh": 36
   },
   "errors_by_source": [
     {
       "source": "mercadolivre",
       "http_status": 404,
-      "count_24h": 856
+      "count_24h": 1017
     },
     {
       "source": "mercadolivre",
@@ -267,31 +267,31 @@
   ],
   "last_success": {
     "publish-telegram": "2026-11-08T15:01:39.884Z",
-    "export": "2026-11-08T14:46:44.709Z",
-    "curate": "2026-11-08T15:03:57.852Z",
-    "refresh": "2026-11-08T15:03:57.420Z",
-    "affiliate": "2026-11-08T15:02:58.352Z",
-    "audit": "2026-11-08T15:03:54.569Z"
+    "export": "2026-11-08T15:04:17.422Z",
+    "curate": "2026-11-08T15:08:57.276Z",
+    "refresh": "2026-11-08T15:09:08.925Z",
+    "affiliate": "2026-11-08T15:08:57.445Z",
+    "audit": "2026-11-08T15:09:04.589Z"
   },
   "last_run": {
     "affiliate": {
-      "at": "2026-11-08T15:03:58.330Z",
+      "at": "2026-11-08T15:08:57.445Z",
       "status": "success"
     },
     "audit": {
-      "at": "2026-11-08T15:04:14.183Z",
+      "at": "2026-11-08T15:09:27.133Z",
       "status": "empty"
     },
     "curate": {
-      "at": "2026-11-08T15:03:57.852Z",
+      "at": "2026-11-08T15:08:57.276Z",
       "status": "success"
     },
     "discover": {
-      "at": "2026-11-08T15:03:56.230Z",
+      "at": "2026-11-08T15:08:56.160Z",
       "status": "empty"
     },
     "export": {
-      "at": "2026-11-08T14:46:44.709Z",
+      "at": "2026-11-08T15:04:17.422Z",
       "status": "success"
     },
     "publish-telegram": {
@@ -299,16 +299,16 @@
       "status": "success"
     },
     "refresh": {
-      "at": "2026-11-08T15:04:14.587Z",
+      "at": "2026-11-08T15:09:27.326Z",
       "status": "success"
     }
   },
   "throughput_per_hour": {
     "publish-telegram": 2,
-    "export": 2,
+    "export": 3,
     "curate": 64,
-    "refresh": 395,
-    "audit": 150,
-    "affiliate": 32
+    "refresh": 777,
+    "audit": 217,
+    "affiliate": 38
   }
 }

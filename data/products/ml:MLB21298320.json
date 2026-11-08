@@ -113,6 +113,57 @@
       "last_observed_at": "2026-11-06T23:06:46.000Z"
     },
     {
+      "offer_id": "ml:MLB4478752969",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "230451813",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 10100,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/23gGXgR",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:04:55.835Z"
+    },
+    {
+      "offer_id": "ml:MLB5401138231",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1356812608",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 846.88,
+      "currency": "BRL",
+      "store_reference_price": 1072,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/23gGXgR",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:04:55.835Z"
+    },
+    {
+      "offer_id": "ml:MLB6207178876",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3147476328",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1000,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://meli.la/23gGXgR",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:04:55.835Z"
+    },
+    {
       "offer_id": "ml:MLB4836813977",
       "store": "mercadolivre",
       "seller": {
@@ -196,19 +247,87 @@
       "url": "https://meli.la/23gGXgR",
       "affiliate": true,
       "last_observed_at": "2026-11-06T22:59:27.000Z"
+    },
+    {
+      "offer_id": "ml:MLB3346590049",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1275650520",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 1399,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/23gGXgR",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:04:55.835Z"
+    },
+    {
+      "offer_id": "ml:MLB3355194727",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "84412785",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1599.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/23gGXgR",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:04:55.835Z"
+    },
+    {
+      "offer_id": "ml:MLB4836813977",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "230451813",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 9800,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/23gGXgR",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:04:55.835Z"
+    },
+    {
+      "offer_id": "ml:MLB7410029924",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "153736351",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 1790,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/23gGXgR",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:04:55.835Z"
     }
   ],
   "history": [
     {
-      "date": "2026-11-06",
+      "date": "2026-11-08",
       "min_price": 846.88,
-      "observations": 1
+      "observations": 14
     }
   ],
   "stats": {
     "median_90d": 846.88,
     "min_ever": 846.88,
-    "min_ever_at": "2026-11-06",
+    "min_ever_at": "2026-11-08",
     "distinct_days": 1,
     "window_days": 14
   },
@@ -217,5 +336,5 @@
     "pct_below_median": 0,
     "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
   },
-  "score": 41
+  "score": 64
 }

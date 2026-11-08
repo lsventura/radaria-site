@@ -1,0 +1,68 @@
+{
+  "id": "ml:MLB22372012",
+  "slug": "bebedouro-para-gatos-fonte-agua-corrente-vermelho-mlb22372012",
+  "title": "Bebedouro Para Gatos Fonte Agua Corrente Vermelho",
+  "brand": null,
+  "model": null,
+  "category_slug": "pets-11",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_886141-MLB49953471467_052022-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4966169703",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1140892555",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 149.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": false,
+      "url": "https://meli.la/2SNEioz",
+      "affiliate": true,
+      "last_observed_at": "2026-11-06T21:56:19.000Z"
+    },
+    {
+      "offer_id": "ml:MLB4966169703",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1140892555",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 149.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2SNEioz",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:07:55.740Z"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 149.9,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 149.9,
+    "min_ever": 149.9,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}
