@@ -1,0 +1,64 @@
+{
+  "id": "ml:MLB57058104",
+  "slug": "step-aerobico-kabooflex-fiteness-madeira-pinus-antiderrapante-50x29x15cm-200kg-mlb57058104",
+  "title": "Step Aeróbico Kabooflex Fiteness Madeira Pinus Antiderrapante 50x29x15cm 200kg",
+  "brand": null,
+  "model": null,
+  "category_slug": "fitness-12",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_746841-MLA99446577130_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4214563977",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1325982975",
+        "name": null,
+        "reputation": null
+      },
+      "price": 70,
+      "currency": "BRL",
+      "store_reference_price": 78.97,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB57058104",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T05:50:04.239Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 70,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 70,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 70,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 70,
+    "min_ever": 70,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

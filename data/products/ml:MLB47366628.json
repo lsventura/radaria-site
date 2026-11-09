@@ -1,0 +1,83 @@
+{
+  "id": "ml:MLB47366628",
+  "slug": "fogao-de-mesa-eletrico-inma-de-2-bocas-para-camping-e-viagem-em-inox-mlb47366628",
+  "title": "Fogão de Mesa Elétrico INMA de 2 Bocas para Camping e Viagem, em Inox",
+  "brand": null,
+  "model": null,
+  "category_slug": "eletrodomesticos-4",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_774263-MLA82972047382_032025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5326437586",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "251637638",
+        "name": null,
+        "reputation": null
+      },
+      "price": 94.44,
+      "currency": "BRL",
+      "store_reference_price": 168.65,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1z4iFba",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T05:27:04.070Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4013422755",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "251637638",
+        "name": null,
+        "reputation": null
+      },
+      "price": 97.89,
+      "currency": "BRL",
+      "store_reference_price": 168.79,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1z4iFba",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T05:27:04.070Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 94.44,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 94.44,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 94.44,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 94.44,
+    "min_ever": 94.44,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

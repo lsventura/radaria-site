@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB46238443",
+  "slug": "chinelo-masculino-folie-levitech-em-couro-pegada-liso-mlb46238443",
+  "title": "Chinelo Masculino Folie Levitech Em Couro Pegada Liso",
+  "brand": null,
+  "model": null,
+  "category_slug": "moda-masculina-15",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_625959-MLA96419491087_102025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5466783808",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "817786701",
+        "name": null,
+        "reputation": null
+      },
+      "price": 137.99,
+      "currency": "BRL",
+      "store_reference_price": 159.9,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB46238443",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T08:56:04.757Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 139.99,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 137.99,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 138.99,
+    "min_ever": 137.99,
+    "min_ever_at": "2026-11-09",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0.7,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

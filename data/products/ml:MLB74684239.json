@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB74684239",
+  "slug": "colchonete-academia-caneleira-4kg-corda-pular-full-preto-mlb74684239",
+  "title": "Colchonete Academia Caneleira 4kg Corda Pular Full Preto",
+  "brand": null,
+  "model": null,
+  "category_slug": "fitness-10",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_657101-MLA112776721478_062026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7488121448",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "726037876",
+        "name": null,
+        "reputation": null
+      },
+      "price": 178.31,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB74684239",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T03:56:04.204Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 178.31,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 178.31,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 178.31,
+    "min_ever": 178.31,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

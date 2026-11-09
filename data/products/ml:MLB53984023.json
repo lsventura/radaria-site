@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB53984023",
+  "slug": "adesivo-vinil-decoracao-formica-atlantico-glacial-0-61x3m-mlb53984023",
+  "title": "Adesivo Vinil Decoração Fórmica Atlântico Glacial 0,61x3m",
+  "brand": null,
+  "model": null,
+  "category_slug": "arte-e-artesanato-16",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_854723-MLA99986950369_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4166947193",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "629406085",
+        "name": null,
+        "reputation": null
+      },
+      "price": 119.78,
+      "currency": "BRL",
+      "store_reference_price": 139.9,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB53984023",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T08:10:04.175Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 119.78,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 119.78,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 119.78,
+    "min_ever": 119.78,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

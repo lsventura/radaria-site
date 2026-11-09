@@ -1,0 +1,78 @@
+{
+  "id": "ml:MLB66655775",
+  "slug": "kit-ferramentas-com-maleta-completa-profissional-preto-mlb66655775",
+  "title": "Kit Ferramentas Com Maleta Completa Profissional Preto",
+  "brand": null,
+  "model": null,
+  "category_slug": "casa-e-reforma-7",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_869442-MLA108709965463_032026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB6499326610",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "350362613",
+        "name": null,
+        "reputation": null
+      },
+      "price": 309.9,
+      "currency": "BRL",
+      "store_reference_price": 349.11,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB66655775",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T07:12:04.609Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6456076754",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "350362613",
+        "name": null,
+        "reputation": null
+      },
+      "price": 297.9,
+      "currency": "BRL",
+      "store_reference_price": 326.6,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB66655775",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T07:12:04.609Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 297.9,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 297.9,
+      "observations": 4
+    }
+  ],
+  "stats": {
+    "median_90d": 297.9,
+    "min_ever": 297.9,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

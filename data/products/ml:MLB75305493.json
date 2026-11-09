@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB75305493",
+  "slug": "fonte-carregador-notebook-ibm-92p1014-72w-preto-mlb75305493",
+  "title": "Fonte Carregador Notebook Ibm 92p1014 - 72w Preto",
+  "brand": null,
+  "model": null,
+  "category_slug": "notebooks-20",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_892333-MLA113105910510_072026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4871131675",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "84636219",
+        "name": null,
+        "reputation": null
+      },
+      "price": 106.95,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB75305493",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T03:58:04.339Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 106.95,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 106.95,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 106.95,
+    "min_ever": 106.95,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

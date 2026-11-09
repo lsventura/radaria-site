@@ -1,0 +1,140 @@
+{
+  "id": "ml:MLB19714945",
+  "slug": "lava-loucas-brastemp-8-servicos-branca-blf08bb-mlb19714945",
+  "title": "Lava-Louças Brastemp 8 Serviços Branca - BLF08BB",
+  "brand": null,
+  "model": null,
+  "category_slug": "eletrodomesticos-4",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_819093-MLA99949519887_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB3654064301",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "227912041",
+        "name": null,
+        "reputation": null
+      },
+      "price": 3428.83,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1fdh2Vc",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T06:04:04.376Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB3435480170",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "171882737",
+        "name": null,
+        "reputation": null
+      },
+      "price": 2788.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1fdh2Vc",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T06:04:04.376Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB2933416122",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "480263032",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1890.42,
+      "currency": "BRL",
+      "store_reference_price": 2019,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1fdh2Vc",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T06:04:04.376Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB3343178662",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "227912041",
+        "name": null,
+        "reputation": null
+      },
+      "price": 3085.27,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1fdh2Vc",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T06:04:04.376Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB3435618906",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "171882737",
+        "name": null,
+        "reputation": null
+      },
+      "price": 2882.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1fdh2Vc",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T06:04:04.376Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 1890.42,
+      "observations": 5
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 1890.42,
+      "observations": 10
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 1929,
+      "observations": 6
+    }
+  ],
+  "stats": {
+    "median_90d": 1890.42,
+    "min_ever": 1890.42,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

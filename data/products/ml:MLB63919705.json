@@ -1,0 +1,83 @@
+{
+  "id": "ml:MLB63919705",
+  "slug": "sensor-estacionamento-lateral-gm-13447592-primer-mlb63919705",
+  "title": "Sensor Estacionamento Lateral Gm 13447592 Primer",
+  "brand": null,
+  "model": null,
+  "category_slug": "automotivo-11",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_966763-MLA103355187892_012026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5346747791",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2586854791",
+        "name": null,
+        "reputation": null
+      },
+      "price": 581.56,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB63919705",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T08:31:04.203Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6463796426",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "247206024",
+        "name": null,
+        "reputation": null
+      },
+      "price": 618.47,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB63919705",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T08:31:04.203Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 581.56,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 581.56,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 581.56,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 581.56,
+    "min_ever": 581.56,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

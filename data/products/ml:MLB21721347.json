@@ -1,0 +1,78 @@
+{
+  "id": "ml:MLB21721347",
+  "slug": "apoio-para-teclado-gamer-redragon-meteor-m-mlb21721347",
+  "title": "Apoio para Teclado Gamer Redragon Meteor M",
+  "brand": null,
+  "model": null,
+  "category_slug": "games-11",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_914032-MLA99627341850_122025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4105712645",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "265750819",
+        "name": null,
+        "reputation": null
+      },
+      "price": 118,
+      "currency": "BRL",
+      "store_reference_price": 157.9,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB21721347",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T08:24:04.338Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5414708208",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "265750819",
+        "name": null,
+        "reputation": null
+      },
+      "price": 115.83,
+      "currency": "BRL",
+      "store_reference_price": 142.9,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB21721347",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T08:24:04.338Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 118,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 115.83,
+      "observations": 8
+    }
+  ],
+  "stats": {
+    "median_90d": 116.92,
+    "min_ever": 115.83,
+    "min_ever_at": "2026-11-09",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0.9,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

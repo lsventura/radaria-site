@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB77158422",
+  "slug": "pelucia-surpresa-kimmon-mimon-boneco-colecionavel-kawaii-colorido-mlb77158422",
+  "title": "Pelúcia Surpresa Kimmon Mimon Boneco Colecionável Kawaii Colorido",
+  "brand": null,
+  "model": null,
+  "category_slug": "brinquedos-3",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_735828-MLA116048205871_082026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5088478187",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "515236372",
+        "name": null,
+        "reputation": null
+      },
+      "price": 174.59,
+      "currency": "BRL",
+      "store_reference_price": 179.99,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB77158422",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T07:49:04.146Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 174.59,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 174.59,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 174.59,
+    "min_ever": 174.59,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

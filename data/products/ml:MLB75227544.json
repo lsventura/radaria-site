@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB75227544",
+  "slug": "kit-com-2-cadeiras-de-praia-dobraveis-mor-brancas-e-caixa-termica-rosa-18-litros-mlb75227544",
+  "title": "Kit Com 2 Cadeiras de Praia Dobráveis Mor Brancas e Caixa Térmica Rosa 18 Litros",
+  "brand": null,
+  "model": null,
+  "category_slug": "viagem-e-outdoor-5",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_688475-MLA113075492988_072026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7138354608",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "80297710",
+        "name": null,
+        "reputation": null
+      },
+      "price": 414.98,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB75227544",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T03:58:04.339Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 414.98,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 414.98,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 414.98,
+    "min_ever": 414.98,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

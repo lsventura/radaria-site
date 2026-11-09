@@ -1,0 +1,64 @@
+{
+  "id": "ml:MLB29375381",
+  "slug": "furadeira-parafusadeira-bateria-kit-13-acessorios-cor-cinza-e-amarelo-frequencia-mlb29375381",
+  "title": "Furadeira Parafusadeira Bateria Kit 13 Acessórios Cor Cinza e Amarelo Frequência 60Hz",
+  "brand": null,
+  "model": null,
+  "category_slug": "ferramentas-2",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_787623-MLA100001195627_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4142064643",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2425446631",
+        "name": null,
+        "reputation": null
+      },
+      "price": 252.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB29375381",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T06:24:04.432Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 252.9,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 252.9,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 252.9,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 252.9,
+    "min_ever": 252.9,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

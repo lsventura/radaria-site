@@ -1,0 +1,64 @@
+{
+  "id": "ml:MLB38404757",
+  "slug": "furadeira-parafusadeira-bateria-12v-kit-wap-bpf-12k3-black-mlb38404757",
+  "title": "Furadeira Parafusadeira Bateria 12V Kit WAP BPF 12K3 BLACK",
+  "brand": null,
+  "model": null,
+  "category_slug": "ferramentas-2",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_645093-MLA99955987563_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4897074831",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "768826009",
+        "name": null,
+        "reputation": null
+      },
+      "price": 136.16,
+      "currency": "BRL",
+      "store_reference_price": 272,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB38404757",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T07:28:04.237Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 136.16,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 136.16,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 139.33,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 136.16,
+    "min_ever": 136.16,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

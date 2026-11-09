@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB31970832",
+  "slug": "kit-jogo-chaves-intercambiaveis-wester-6-pontas-fenda-phillips-mlb31970832",
+  "title": "Kit Jogo Chaves Intercambiáveis Wester 6 Pontas Fenda Phillips",
+  "brand": null,
+  "model": null,
+  "category_slug": "ferramentas-13",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_630386-MLA100081919055_122025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB3621453699",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "432145874",
+        "name": null,
+        "reputation": null
+      },
+      "price": 81,
+      "currency": "BRL",
+      "store_reference_price": 87.9,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB31970832",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T04:42:04.210Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 81,
+      "observations": 7
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 81,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 81,
+    "min_ever": 81,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

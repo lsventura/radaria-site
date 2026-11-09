@@ -1,0 +1,78 @@
+{
+  "id": "ml:MLB67626384",
+  "slug": "pistola-lavadora-alta-pressao-profissional-hd-hds-karcher-preto-mlb67626384",
+  "title": "Pistola Lavadora Alta Pressão Profissional Hd/hds - Karcher Preto",
+  "brand": null,
+  "model": null,
+  "category_slug": "ferramentas-5",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_622842-MLA109214077456_042026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4589582989",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "12142975",
+        "name": null,
+        "reputation": null
+      },
+      "price": 268.58,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB67626384",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T08:44:04.359Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6582441670",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "12142975",
+        "name": null,
+        "reputation": null
+      },
+      "price": 242.78,
+      "currency": "BRL",
+      "store_reference_price": 254.36,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB67626384",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T08:44:04.359Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 242.78,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 242.78,
+      "observations": 4
+    }
+  ],
+  "stats": {
+    "median_90d": 242.78,
+    "min_ever": 242.78,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

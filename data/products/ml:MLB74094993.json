@@ -18,14 +18,14 @@
         "name": null,
         "reputation": "5_green"
       },
-      "price": 2499,
+      "price": 2359,
       "currency": "BRL",
-      "store_reference_price": null,
+      "store_reference_price": 2499,
       "free_shipping": true,
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB74094993",
       "affiliate": false,
-      "last_observed_at": "2026-11-08T16:53:03.837Z",
+      "last_observed_at": "2026-11-09T06:40:04.613Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -38,6 +38,11 @@
       "observations": 1
     },
     {
+      "date": "2026-11-09",
+      "min_price": 2359,
+      "observations": 1
+    },
+    {
       "date": "2026-11-07",
       "min_price": 2499,
       "observations": 1
@@ -45,15 +50,15 @@
   ],
   "stats": {
     "median_90d": 2499,
-    "min_ever": 2499,
-    "min_ever_at": "2026-11-07",
-    "distinct_days": 2,
+    "min_ever": 2359,
+    "min_ever_at": "2026-11-09",
+    "distinct_days": 3,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 0,
-    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+    "pct_below_median": 5.6,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
   },
-  "score": 56
+  "score": 60
 }

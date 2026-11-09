@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB26792285",
+  "slug": "brinquedo-educativo-controle-remoto-cachorrinho-fisher-price-mlb26792285",
+  "title": "Brinquedo Educativo Controle Remoto Cachorrinho Fisher Price",
+  "brand": null,
+  "model": null,
+  "category_slug": "brinquedos-7",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_855370-MLA99998110017_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB3496070277",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "10750326",
+        "name": null,
+        "reputation": null
+      },
+      "price": 137.99,
+      "currency": "BRL",
+      "store_reference_price": 149.99,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB26792285",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T08:39:04.144Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 149.99,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 137.99,
+      "observations": 4
+    }
+  ],
+  "stats": {
+    "median_90d": 143.99,
+    "min_ever": 137.99,
+    "min_ever_at": "2026-11-09",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 4.2,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

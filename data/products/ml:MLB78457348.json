@@ -1,0 +1,83 @@
+{
+  "id": "ml:MLB78457348",
+  "slug": "kit-10-pote-de-vidro-marmita-hermetico-370ml-freezer-vitrex-mlb78457348",
+  "title": "Kit 10 Pote De Vidro Marmita Hermético 370ml Freezer Vitrex",
+  "brand": null,
+  "model": null,
+  "category_slug": "cozinha-20",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_920107-MLA116822226917_082026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4597935647",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "571954063",
+        "name": null,
+        "reputation": null
+      },
+      "price": 140,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/17ZAzxG",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T06:56:04.354Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5886490002",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "571954063",
+        "name": null,
+        "reputation": null
+      },
+      "price": 95,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/17ZAzxG",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T06:56:04.354Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 95,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 95,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 95,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 95,
+    "min_ever": 95,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

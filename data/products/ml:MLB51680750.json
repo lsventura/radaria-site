@@ -1,0 +1,83 @@
+{
+  "id": "ml:MLB51680750",
+  "slug": "smartphone-oppo-a5-5g-256gb-8gb-ram-fisica-8gb-ram-virtual-bateria-6-ah-camera-5-mlb51680750",
+  "title": "Smartphone OPPO A5 5G 256GB 8GB RAM Física, 8GB RAM Virtual Bateria 6 Ah Camera 50 MP AI NFC IP65 Verde",
+  "brand": null,
+  "model": null,
+  "category_slug": "celulares-10",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_948729-MLA99501235256_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5745453190",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "480263032",
+        "name": null,
+        "reputation": null
+      },
+      "price": 2099.34,
+      "currency": "BRL",
+      "store_reference_price": 2299,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB51680750",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T04:39:03.876Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4483996957",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2654525875",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1999,
+      "currency": "BRL",
+      "store_reference_price": 2499,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB51680750",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T04:39:03.876Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 1921.11,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 1999,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 1921.11,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 1921.11,
+    "min_ever": 1921.11,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": -4.1,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

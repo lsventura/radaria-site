@@ -1,0 +1,64 @@
+{
+  "id": "ml:MLB38816236",
+  "slug": "saco-dormir-solteiro-impermeavel-acampar-azul-claro-wct-cor-azul-claro-mlb38816236",
+  "title": "Saco Dormir Solteiro Impermeável Acampar Azul Claro Wct Cor Azul-claro",
+  "brand": null,
+  "model": null,
+  "category_slug": "viagem-e-outdoor-16",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_997487-MLA99505061916_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB3802411365",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "141958250",
+        "name": null,
+        "reputation": null
+      },
+      "price": 199.99,
+      "currency": "BRL",
+      "store_reference_price": 275.9,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1SEkfgz",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T06:33:04.402Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 199.99,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 199.99,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 199.99,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 199.99,
+    "min_ever": 199.99,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

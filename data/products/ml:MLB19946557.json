@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB19946557",
+  "slug": "bebedouro-e-purificador-fonte-agua-caes-e-gatos-petit-127v-mlb19946557",
+  "title": "Bebedouro E Purificador Fonte Agua Cães E Gatos Petit 127v",
+  "brand": null,
+  "model": null,
+  "category_slug": "pets-11",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_708354-MLB45627579174_042021-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5048543134",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "12893935",
+        "name": null,
+        "reputation": null
+      },
+      "price": 95.51,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1PJpAGR",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T02:55:04.066Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 95.51,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 95.51,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 95.51,
+    "min_ever": 95.51,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

@@ -1,0 +1,97 @@
+{
+  "id": "ml:MLB66236427",
+  "slug": "display-sensor-estacionamento-tras-acessorios-chevrolet-preto-mlb66236427",
+  "title": "Display Sensor Estacionamento Tras Acessórios Chevrolet Preto",
+  "brand": null,
+  "model": null,
+  "category_slug": "automotivo-11",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_903626-MLA107499178750_032026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB6505208230",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2586854791",
+        "name": null,
+        "reputation": null
+      },
+      "price": 289.25,
+      "currency": "BRL",
+      "store_reference_price": 298.2,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB66236427",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T03:37:04.046Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6418407260",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "222306264",
+        "name": null,
+        "reputation": null
+      },
+      "price": 372.96,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB66236427",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T03:37:04.046Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7538840320",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1453914678",
+        "name": null,
+        "reputation": null
+      },
+      "price": 369.59,
+      "currency": "BRL",
+      "store_reference_price": 389.05,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB66236427",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T03:37:04.046Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 289.25,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 289.25,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 289.25,
+    "min_ever": 289.25,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB24081968",
+  "slug": "mixer-lenoxx-200w-preto-pmx407-misturador-2-velocidades-cozinha-mlb24081968",
+  "title": "Mixer Lenoxx 200W Preto PMX407 Misturador 2 Velocidades Cozinha",
+  "brand": null,
+  "model": null,
+  "category_slug": "cozinha-6",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_974427-MLA99928126927_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4057267923",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1066070218",
+        "name": null,
+        "reputation": null
+      },
+      "price": 87.21,
+      "currency": "BRL",
+      "store_reference_price": 169.89,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB24081968",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T02:42:03.889Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 87.21,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 87.21,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 87.21,
+    "min_ever": 87.21,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

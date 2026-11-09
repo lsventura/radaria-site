@@ -1,0 +1,102 @@
+{
+  "id": "ml:MLB27186057",
+  "slug": "carrinho-de-boneca-infantil-rosa-estampado-mlb27186057",
+  "title": "Carrinho De Boneca Infantil Rosa (estampado)",
+  "brand": null,
+  "model": null,
+  "category_slug": "brinquedos-8",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_743113-MLA100074750993_122025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5310092005",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3098768732",
+        "name": null,
+        "reputation": null
+      },
+      "price": 48.88,
+      "currency": "BRL",
+      "store_reference_price": 53.72,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB27186057",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T04:15:04.747Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4334145211",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2997714932",
+        "name": null,
+        "reputation": null
+      },
+      "price": 31.16,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB27186057",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T04:15:04.747Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5310084423",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3098768732",
+        "name": null,
+        "reputation": null
+      },
+      "price": 53.32,
+      "currency": "BRL",
+      "store_reference_price": 58.6,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB27186057",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T04:15:04.747Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 31.16,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 31.16,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 31.16,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 31.16,
+    "min_ever": 31.16,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

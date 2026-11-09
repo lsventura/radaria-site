@@ -1,0 +1,64 @@
+{
+  "id": "ml:MLB46747445",
+  "slug": "suporte-sepo-torre-para-6-halteres-de-chao-pintura-epoxi-branco-mlb46747445",
+  "title": "Suporte Sepo Torre para 6 Halteres de Chão Pintura Epóxi Branco",
+  "brand": null,
+  "model": null,
+  "category_slug": "fitness-17",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_723441-MLA99494494732_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5309792298",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "737006899",
+        "name": null,
+        "reputation": null
+      },
+      "price": 174.67,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB46747445",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T05:05:04.364Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 174.67,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 174.67,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 174.67,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 174.67,
+    "min_ever": 174.67,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

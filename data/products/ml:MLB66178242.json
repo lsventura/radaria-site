@@ -1,0 +1,64 @@
+{
+  "id": "ml:MLB66178242",
+  "slug": "aspirador-robo-base-carregamento-automatico-wifi-app-cinza-mlb66178242",
+  "title": "Aspirador Robô Base Carregamento Automático Wifi App Cinza",
+  "brand": null,
+  "model": null,
+  "category_slug": "games-9",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_692643-MLA107404481178_032026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4639425353",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1173860823",
+        "name": null,
+        "reputation": null
+      },
+      "price": 499.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB66178242",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T07:16:04.161Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 499.99,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 499.99,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 499.99,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 499.99,
+    "min_ever": 499.99,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

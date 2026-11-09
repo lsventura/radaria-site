@@ -1,0 +1,102 @@
+{
+  "id": "ml:MLB26150713",
+  "slug": "regador-plastico-8l-preto-famastil-mlb26150713",
+  "title": "Regador Plástico 8l Preto Famastil",
+  "brand": null,
+  "model": null,
+  "category_slug": "jardim-e-piscina-8",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_926574-MLA100119149001_122025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4166574683",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "154380831",
+        "name": null,
+        "reputation": null
+      },
+      "price": 143.86,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2iARYUA",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T06:28:04.045Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5052961132",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1342041981",
+        "name": null,
+        "reputation": null
+      },
+      "price": 91.09,
+      "currency": "BRL",
+      "store_reference_price": 114.96,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2iARYUA",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T06:28:04.045Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5245411049",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "154380831",
+        "name": null,
+        "reputation": null
+      },
+      "price": 158.71,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2iARYUA",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T06:28:04.045Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 91.09,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 91.09,
+      "observations": 6
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 91.09,
+      "observations": 4
+    }
+  ],
+  "stats": {
+    "median_90d": 91.09,
+    "min_ever": 91.09,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

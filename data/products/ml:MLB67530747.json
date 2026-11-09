@@ -1,0 +1,78 @@
+{
+  "id": "ml:MLB67530747",
+  "slug": "colchao-espuma-d23-casal-orthocrin-diamante-128x188x12-bege-mlb67530747",
+  "title": "Colchão Espuma D23 Casal Orthocrin Diamante 128x188x12 Bege",
+  "brand": null,
+  "model": null,
+  "category_slug": "moveis-12",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_806159-MLA109132591734_042026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB6564027486",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "560912973",
+        "name": null,
+        "reputation": null
+      },
+      "price": 785.99,
+      "currency": "BRL",
+      "store_reference_price": 1210.06,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB67530747",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T03:40:03.975Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6564254394",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "560912973",
+        "name": null,
+        "reputation": null
+      },
+      "price": 785.99,
+      "currency": "BRL",
+      "store_reference_price": 1210.06,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB67530747",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T03:40:03.975Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 785.99,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 785.99,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 785.99,
+    "min_ever": 785.99,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

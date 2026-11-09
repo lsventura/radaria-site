@@ -1,0 +1,64 @@
+{
+  "id": "ml:MLB24222777",
+  "slug": "mesa-computador-escrivaninha-notebook-home-office-inovare-cor-preto-mlb24222777",
+  "title": "Mesa Computador Escrivaninha Notebook Home Office Inovare Cor Preto",
+  "brand": null,
+  "model": null,
+  "category_slug": "notebooks-18",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_884732-MLA87866318787_072025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB6937694414",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "29762679",
+        "name": null,
+        "reputation": null
+      },
+      "price": 625.55,
+      "currency": "BRL",
+      "store_reference_price": 644.9,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1dzJvgJ",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T03:18:04.078Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 625.55,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 625.55,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 625.55,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 625.55,
+    "min_ever": 625.55,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

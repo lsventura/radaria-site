@@ -1,0 +1,78 @@
+{
+  "id": "ml:MLB67839654",
+  "slug": "bastao-de-caminhada-simond-mt500-vermelho-mlb67839654",
+  "title": "Bastão de Caminhada Simond MT500 Vermelho",
+  "brand": null,
+  "model": null,
+  "category_slug": "fitness-14",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_948225-MLA110283420671_042026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB6660302590",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "546392726",
+        "name": null,
+        "reputation": null
+      },
+      "price": 139.99,
+      "currency": "BRL",
+      "store_reference_price": 153.99,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB67839654",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T03:58:04.339Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6661244812",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "546392726",
+        "name": null,
+        "reputation": null
+      },
+      "price": 139.99,
+      "currency": "BRL",
+      "store_reference_price": 153.99,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB67839654",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T03:58:04.339Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 139.99,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 139.99,
+      "observations": 4
+    }
+  ],
+  "stats": {
+    "median_90d": 139.99,
+    "min_ever": 139.99,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

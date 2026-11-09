@@ -1,0 +1,64 @@
+{
+  "id": "ml:MLB35979796",
+  "slug": "torneira-cozinha-ar-articulado-mesa-inox-escovado-alavanca-mlb35979796",
+  "title": "Torneira Cozinha Ar.articulado Mesa Inox Escovado Alavanca",
+  "brand": null,
+  "model": null,
+  "category_slug": "casa-e-reforma-1",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_805192-MLA95583905079_102025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4625750894",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "414281214",
+        "name": null,
+        "reputation": null
+      },
+      "price": 117.94,
+      "currency": "BRL",
+      "store_reference_price": 199.9,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB35979796",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T06:20:04.557Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 117.94,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 117.94,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 117.94,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 117.94,
+    "min_ever": 117.94,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

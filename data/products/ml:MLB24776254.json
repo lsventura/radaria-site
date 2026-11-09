@@ -1,0 +1,78 @@
+{
+  "id": "ml:MLB24776254",
+  "slug": "regador-de-agua-para-jardim-galvanizado-10-litros-cor-cinza-mlb24776254",
+  "title": "Regador De Água Para Jardim Galvanizado 10 Litros Cor Cinza",
+  "brand": null,
+  "model": null,
+  "category_slug": "jardim-e-piscina-8",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_929871-MLA95393461894_102025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4160339949",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "793625296",
+        "name": null,
+        "reputation": null
+      },
+      "price": 149.89,
+      "currency": "BRL",
+      "store_reference_price": 179.9,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2D2QoKf",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T04:47:03.985Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5574849174",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "793620816",
+        "name": null,
+        "reputation": null
+      },
+      "price": 184.89,
+      "currency": "BRL",
+      "store_reference_price": 239.9,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2D2QoKf",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T04:47:03.985Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 149.89,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 149.89,
+      "observations": 4
+    }
+  ],
+  "stats": {
+    "median_90d": 149.89,
+    "min_ever": 149.89,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

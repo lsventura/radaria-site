@@ -1,0 +1,78 @@
+{
+  "id": "ml:MLB47458438",
+  "slug": "secadora-de-roupa-electrolux-11kg-branco-premium-care-svb11-mlb47458438",
+  "title": "Secadora De Roupa Electrolux 11kg Branco Premium Care Svb11",
+  "brand": null,
+  "model": null,
+  "category_slug": "eletrodomesticos-9",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_985572-MLA99850384801_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7585934028",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3592255542",
+        "name": null,
+        "reputation": null
+      },
+      "price": 2279.05,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB47458438",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T07:27:04.388Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7585933404",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3592255542",
+        "name": null,
+        "reputation": null
+      },
+      "price": 2279.05,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB47458438",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T07:27:04.388Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 2399,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 2279.05,
+      "observations": 8
+    }
+  ],
+  "stats": {
+    "median_90d": 2339.03,
+    "min_ever": 2279.05,
+    "min_ever_at": "2026-11-09",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 2.6,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

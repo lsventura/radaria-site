@@ -1,0 +1,83 @@
+{
+  "id": "ml:MLB41413135",
+  "slug": "lampada-smart-wi-fi-y-blue-de-800-lumens-rgbww-govee-rgb-light-mlb41413135",
+  "title": "Lâmpada Smart Wi-Fi Y Blue de 800 lúmens Rgbww - Govee Rgb Light",
+  "brand": null,
+  "model": null,
+  "category_slug": "casa-inteligente-8",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_747130-MLA99472629364_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5145861509",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3369234512",
+        "name": null,
+        "reputation": null
+      },
+      "price": 99.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2SdkBBA",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T08:01:04.268Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5145848837",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3369234512",
+        "name": null,
+        "reputation": null
+      },
+      "price": 92.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2SdkBBA",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T08:01:04.268Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 92.99,
+      "observations": 10
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 92.99,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 92.99,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 92.99,
+    "min_ever": 92.99,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

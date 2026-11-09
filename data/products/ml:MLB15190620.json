@@ -25,7 +25,7 @@
       "available": true,
       "url": "https://meli.la/1dUQwfj",
       "affiliate": true,
-      "last_observed_at": "2026-11-08T14:46:00.431Z",
+      "last_observed_at": "2026-11-09T02:47:04.253Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -44,7 +44,7 @@
       "available": true,
       "url": "https://meli.la/1dUQwfj",
       "affiliate": true,
-      "last_observed_at": "2026-11-08T14:46:00.431Z",
+      "last_observed_at": "2026-11-09T02:47:04.253Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -63,7 +63,7 @@
       "available": true,
       "url": "https://meli.la/1dUQwfj",
       "affiliate": true,
-      "last_observed_at": "2026-11-08T14:46:00.431Z",
+      "last_observed_at": "2026-11-09T02:47:04.253Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,7 +82,7 @@
       "available": true,
       "url": "https://meli.la/1dUQwfj",
       "affiliate": true,
-      "last_observed_at": "2026-11-08T14:46:00.431Z",
+      "last_observed_at": "2026-11-09T02:47:04.253Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -101,7 +101,7 @@
       "available": true,
       "url": "https://meli.la/1dUQwfj",
       "affiliate": true,
-      "last_observed_at": "2026-11-08T14:46:00.431Z",
+      "last_observed_at": "2026-11-09T02:47:04.253Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -120,7 +120,7 @@
       "available": true,
       "url": "https://meli.la/1dUQwfj",
       "affiliate": true,
-      "last_observed_at": "2026-11-08T14:46:00.431Z",
+      "last_observed_at": "2026-11-09T02:47:04.253Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -139,7 +139,45 @@
       "available": true,
       "url": "https://meli.la/1dUQwfj",
       "affiliate": true,
-      "last_observed_at": "2026-11-08T14:46:00.431Z",
+      "last_observed_at": "2026-11-09T02:47:04.253Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6881742462",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "468499446",
+        "name": null,
+        "reputation": null
+      },
+      "price": 389.21,
+      "currency": "BRL",
+      "store_reference_price": 457.9,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1dUQwfj",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T02:47:04.253Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6880796578",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "468499446",
+        "name": null,
+        "reputation": null
+      },
+      "price": 369.75,
+      "currency": "BRL",
+      "store_reference_price": 435,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1dUQwfj",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T02:47:04.253Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -149,12 +187,12 @@
     {
       "date": "2026-11-08",
       "min_price": 213.1,
-      "observations": 7
+      "observations": 18
     },
     {
       "date": "2026-11-06",
       "min_price": 213.1,
-      "observations": 8
+      "observations": 10
     }
   ],
   "stats": {

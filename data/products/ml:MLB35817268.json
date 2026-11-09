@@ -11,6 +11,25 @@
   "attributes": {},
   "offers": [
     {
+      "offer_id": "ml:MLB7939116834",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "56635304",
+        "name": null,
+        "reputation": null
+      },
+      "price": 175.35,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB35817268",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T07:14:04.087Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
       "offer_id": "ml:MLB7198112346",
       "store": "mercadolivre",
       "seller": {
@@ -25,7 +44,45 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB35817268",
       "affiliate": false,
-      "last_observed_at": "2026-11-08T15:28:24.823Z",
+      "last_observed_at": "2026-11-09T07:14:04.087Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5442831642",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "348588982",
+        "name": null,
+        "reputation": null
+      },
+      "price": 144.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB35817268",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T07:14:04.087Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4858211028",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "348588982",
+        "name": null,
+        "reputation": null
+      },
+      "price": 159.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB35817268",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T07:14:04.087Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -35,25 +92,30 @@
     {
       "date": "2026-11-08",
       "min_price": 89,
-      "observations": 3
+      "observations": 12
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 89,
+      "observations": 8
     },
     {
       "date": "2026-11-07",
       "min_price": 89,
-      "observations": 1
+      "observations": 4
     }
   ],
   "stats": {
     "median_90d": 89,
     "min_ever": 89,
     "min_ever_at": "2026-11-07",
-    "distinct_days": 2,
+    "distinct_days": 3,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
   },
-  "score": 56
+  "score": 64
 }

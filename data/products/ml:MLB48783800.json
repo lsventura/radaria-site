@@ -1,0 +1,64 @@
+{
+  "id": "ml:MLB48783800",
+  "slug": "sandiario-ah6-barraca-camping-barraca-grande-4-6-pessoas-preto-mlb48783800",
+  "title": "Sandiario Ah6 Barraca Camping Barraca Grande 4-6 Pessoas Preto",
+  "brand": null,
+  "model": null,
+  "category_slug": "viagem-e-outdoor-3",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_817462-MLA83889256331_042025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB6819877370",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2361941835",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1804.67,
+      "currency": "BRL",
+      "store_reference_price": 2199,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB48783800",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T06:15:04.047Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 1804.67,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 1804.67,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 1786.62,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 1804.67,
+    "min_ever": 1786.62,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

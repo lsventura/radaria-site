@@ -1,0 +1,83 @@
+{
+  "id": "ml:MLB46487556",
+  "slug": "camera-mirrorless-panasonic-lumix-s9-com-transmissao-ao-vivo-preto-mlb46487556",
+  "title": "Câmera Mirrorless Panasonic Lumix S9 Com Transmissão Ao Vivo Preto",
+  "brand": null,
+  "model": null,
+  "category_slug": "fotografia-e-video-1",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_777164-MLA99936117945_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5448452350",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "70184883",
+        "name": null,
+        "reputation": null
+      },
+      "price": 9627.49,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB46487556",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T07:53:04.035Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5448464886",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "70184883",
+        "name": null,
+        "reputation": null
+      },
+      "price": 9423.44,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB46487556",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T07:53:04.035Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 9423.44,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 9423.44,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 9423.44,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 9423.44,
+    "min_ever": 9423.44,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

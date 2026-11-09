@@ -1,0 +1,64 @@
+{
+  "id": "ml:MLB80506360",
+  "slug": "mesa-computador-escrivaninha-com-suporte-notebook-mousepad-off-white-champagne-mlb80506360",
+  "title": "Mesa Computador Escrivaninha Com Suporte Notebook Mousepad Off White/champagne",
+  "brand": null,
+  "model": null,
+  "category_slug": "informatica-8",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_732801-MLA119220916267_102026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7810695154",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "753751490",
+        "name": null,
+        "reputation": null
+      },
+      "price": 479.9,
+      "currency": "BRL",
+      "store_reference_price": 599,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB80506360",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T07:01:04.410Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 479.9,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 479.9,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 479.9,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 479.9,
+    "min_ever": 479.9,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

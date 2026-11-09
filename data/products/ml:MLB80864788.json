@@ -1,0 +1,64 @@
+{
+  "id": "ml:MLB80864788",
+  "slug": "mochila-viagem-impermeavel-executiva-grande-para-notebook-mlb80864788",
+  "title": "Mochila Viagem Impermeavel Executiva Grande Para Notebook",
+  "brand": null,
+  "model": null,
+  "category_slug": "viagem-e-outdoor-2",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_897012-MLA118976354774_112026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7880391282",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "170663725",
+        "name": null,
+        "reputation": null
+      },
+      "price": 105,
+      "currency": "BRL",
+      "store_reference_price": 168,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB80864788",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T06:51:04.033Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 105,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 105,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 105,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 105,
+    "min_ever": 105,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

@@ -1,0 +1,64 @@
+{
+  "id": "ml:MLB73594014",
+  "slug": "kit-20-cabide-veludo-adulto-slim-40-presilha-veludo-closet-bege-mlb73594014",
+  "title": "Kit 20 Cabide Veludo Adulto Slim + 40 Presilha Veludo Closet Bege",
+  "brand": null,
+  "model": null,
+  "category_slug": "organizacao-e-limpeza-3",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_715683-MLA113208359793_062026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB6965038320",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "533253975",
+        "name": null,
+        "reputation": null
+      },
+      "price": 227.88,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB73594014",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T08:38:04.110Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 227.88,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 227.88,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 227.88,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 227.88,
+    "min_ever": 227.88,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

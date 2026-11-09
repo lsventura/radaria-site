@@ -1,0 +1,83 @@
+{
+  "id": "ml:MLB24770882",
+  "slug": "hashi-bugatti-perola-anel-banhado-prata-para-comida-japonesa-mlb24770882",
+  "title": "Hashi Bugatti Pérola Anel Banhado Prata para Comida Japonesa",
+  "brand": null,
+  "model": null,
+  "category_slug": "relogios-e-joias-9",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_604398-MLA94047765024_102025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5876856796",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "646255790",
+        "name": null,
+        "reputation": null
+      },
+      "price": 262.4,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2HWKzwY",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T03:21:04.241Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5877009990",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "646255790",
+        "name": null,
+        "reputation": null
+      },
+      "price": 262.4,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2HWKzwY",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T03:21:04.241Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 262.4,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 262.4,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 262.4,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 262.4,
+    "min_ever": 262.4,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

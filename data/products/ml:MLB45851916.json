@@ -1,0 +1,64 @@
+{
+  "id": "ml:MLB45851916",
+  "slug": "chinelo-masculino-slide-sereno-olympikus-mlb45851916",
+  "title": "Chinelo Masculino Slide Sereno Olympikus",
+  "brand": null,
+  "model": null,
+  "category_slug": "moda-masculina-15",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_872845-MLA82225405485_022025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5168763023",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1794863693",
+        "name": null,
+        "reputation": null
+      },
+      "price": 139.9,
+      "currency": "BRL",
+      "store_reference_price": 154.9,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2XGBC45",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T07:31:04.183Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 139.9,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 139.9,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 139.9,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 139.9,
+    "min_ever": 139.9,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

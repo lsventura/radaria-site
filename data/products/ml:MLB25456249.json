@@ -1,0 +1,64 @@
+{
+  "id": "ml:MLB25456249",
+  "slug": "cabo-instrumento-santo-angelo-ninja-7-6-m-25ft-plug-reto-mlb25456249",
+  "title": "Cabo Instrumento Santo Angelo Ninja 7,6 M 25ft Plug Reto",
+  "brand": null,
+  "model": null,
+  "category_slug": "instrumentos-musicais-13",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_612772-MLA99898005815_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB6744942430",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "11830393",
+        "name": null,
+        "reputation": null
+      },
+      "price": 103.2,
+      "currency": "BRL",
+      "store_reference_price": 106.39,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1tTtozX",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T05:28:04.764Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 103.2,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 103.2,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 103.2,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 103.2,
+    "min_ever": 103.2,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

@@ -1,0 +1,64 @@
+{
+  "id": "ml:MLB49504056",
+  "slug": "monitor-gamer-alienware-32-aw3225dm-preto-mlb49504056",
+  "title": "Monitor Gamer Alienware 32 - Aw3225dm Preto",
+  "brand": null,
+  "model": null,
+  "category_slug": "informatica-2",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_888575-MLA99464125968_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4058822561",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "242175264",
+        "name": null,
+        "reputation": null
+      },
+      "price": 4905,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB49504056",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T04:00:04.893Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 4905,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 4905,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 4905,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 4905,
+    "min_ever": 4905,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

@@ -1,0 +1,64 @@
+{
+  "id": "ml:MLB75416299",
+  "slug": "barraca-camping-ntk-cherokee-4-pessoas-impermeavel-1500mm-mlb75416299",
+  "title": "Barraca Camping Ntk Cherokee 4 Pessoas Impermeável 1500mm",
+  "brand": null,
+  "model": null,
+  "category_slug": "viagem-e-outdoor-11",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_699971-MLA113217584430_072026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7153021674",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "232817849",
+        "name": null,
+        "reputation": null
+      },
+      "price": 599.9,
+      "currency": "BRL",
+      "store_reference_price": 799.9,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB75416299",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T06:46:04.183Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 599.9,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 599.9,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 599.9,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 599.9,
+    "min_ever": 599.9,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

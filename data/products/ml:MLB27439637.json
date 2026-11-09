@@ -1,0 +1,64 @@
+{
+  "id": "ml:MLB27439637",
+  "slug": "caderno-inteligente-a5-magali-mlb27439637",
+  "title": "Caderno Inteligente A5 Magali",
+  "brand": null,
+  "model": null,
+  "category_slug": "livros-e-papelaria-3",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_821756-MLA99932127767_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB3570290789",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "177928932",
+        "name": null,
+        "reputation": null
+      },
+      "price": 149.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2rkxbLr",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T08:17:04.078Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 149.9,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 149.9,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 149.9,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 149.9,
+    "min_ever": 149.9,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

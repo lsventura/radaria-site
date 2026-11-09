@@ -1,0 +1,54 @@
+{
+  "id": "ml:MLB22859565",
+  "slug": "relogio-masculino-nautica-napcnf109-mlb22859565",
+  "title": "Relógio masculino Nautica Napcnf109",
+  "brand": null,
+  "model": null,
+  "category_slug": "moda-masculina-2",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_754141-MLU77119512873_062024-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7328858448",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "231786374",
+        "name": null,
+        "reputation": null
+      },
+      "price": 640,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB22859565",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T02:52:04.243Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 640,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 640,
+    "min_ever": 640,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

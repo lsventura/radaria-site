@@ -1,0 +1,64 @@
+{
+  "id": "ml:MLB47415020",
+  "slug": "memoria-ram-corsair-dominator-platinum-ddr5-5200mhz-64gb-mlb47415020",
+  "title": "Memória Ram Corsair Dominator Platinum Ddr5 5200mhz 64gb",
+  "brand": null,
+  "model": null,
+  "category_slug": "informatica-5",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_948006-MLA99445995154_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB6486813816",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "756960592",
+        "name": null,
+        "reputation": null
+      },
+      "price": 7999,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB47415020",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T07:54:04.210Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 7999,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 7999,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 7999,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 7999,
+    "min_ever": 7999,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

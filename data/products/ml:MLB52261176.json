@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB52261176",
+  "slug": "garrafa-squeeze-aluminio-500ml-metal-academia-esporte-agua-cor-preta-mlb52261176",
+  "title": "Garrafa Squeeze Alumínio 500ml Metal Academia Esporte Água Cor Preta",
+  "brand": null,
+  "model": null,
+  "category_slug": "esportes-18",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_976089-MLA99572278736_122025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5865454302",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "578372438",
+        "name": null,
+        "reputation": null
+      },
+      "price": 517.4,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1rQj33S",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T06:59:04.073Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 517.4,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 517.4,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 517.4,
+    "min_ever": 517.4,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

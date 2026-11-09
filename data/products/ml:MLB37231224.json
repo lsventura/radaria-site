@@ -1,0 +1,78 @@
+{
+  "id": "ml:MLB37231224",
+  "slug": "filtro-piscina-nautilus-f300p-16-000l-2m-h-polietileno-rotomoldado-mlb37231224",
+  "title": "Filtro Piscina Nautilus F300P 16.000L 2m³/h Polietileno Rotomoldado",
+  "brand": null,
+  "model": null,
+  "category_slug": "jardim-e-piscina-14",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_953465-MLA99851242583_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4974158170",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "767519699",
+        "name": null,
+        "reputation": null
+      },
+      "price": 458.8,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/24aeHc3",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T09:03:04.199Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4974173818",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "767519699",
+        "name": null,
+        "reputation": null
+      },
+      "price": 479,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/24aeHc3",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T09:03:04.199Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 458.8,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 458.8,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 458.8,
+    "min_ever": 458.8,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

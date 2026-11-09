@@ -1,0 +1,64 @@
+{
+  "id": "ml:MLB73614754",
+  "slug": "kit-100-cabide-veludo-slim-adulto-antideslizante-ultrafino-preto-mlb73614754",
+  "title": "Kit 100 Cabide Veludo Slim Adulto Antideslizante Ultrafino Preto",
+  "brand": null,
+  "model": null,
+  "category_slug": "organizacao-e-limpeza-3",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_748077-MLA112073270806_062026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4778247293",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "533253975",
+        "name": null,
+        "reputation": null
+      },
+      "price": 261,
+      "currency": "BRL",
+      "store_reference_price": 296.68,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB73614754",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T08:56:04.757Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 261,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 261,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 261,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 261,
+    "min_ever": 261,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

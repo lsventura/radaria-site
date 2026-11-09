@@ -1,0 +1,64 @@
+{
+  "id": "ml:MLB32440595",
+  "slug": "aparador-cerca-viva-makita-uh201-com-bateria-e-carregador-mlb32440595",
+  "title": "Aparador Cerca Viva Makita Uh201 Com Bateria E Carregador",
+  "brand": null,
+  "model": null,
+  "category_slug": "jardim-e-piscina-3",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_710894-MLA99504582942_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5885406640",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1354276965",
+        "name": null,
+        "reputation": null
+      },
+      "price": 671.25,
+      "currency": "BRL",
+      "store_reference_price": 768.9,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB32440595",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T07:42:04.400Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 671.25,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 671.25,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 671.25,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 671.25,
+    "min_ever": 671.25,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

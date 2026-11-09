@@ -1,0 +1,83 @@
+{
+  "id": "ml:MLB72994754",
+  "slug": "jogo-chaves-autoajustaveis-vonder-2-pecas-9mm-a-32mm-mlb72994754",
+  "title": "Jogo Chaves Autoajustáveis Vonder 2 Peças 9mm A 32mm",
+  "brand": null,
+  "model": null,
+  "category_slug": "ferramentas-13",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_805224-MLA112982922645_062026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5399662913",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "113880599",
+        "name": null,
+        "reputation": null
+      },
+      "price": 135.91,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB72994754",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T06:35:04.283Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7820024856",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "113880599",
+        "name": null,
+        "reputation": null
+      },
+      "price": 139.91,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB72994754",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T06:35:04.283Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 135.91,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 135.91,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 135.91,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 135.91,
+    "min_ever": 135.91,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

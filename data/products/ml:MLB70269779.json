@@ -1,0 +1,78 @@
+{
+  "id": "ml:MLB70269779",
+  "slug": "compressor-ar-automotivo-150psi-portatil-viagem-kit-reparo-mlb70269779",
+  "title": "Compressor Ar Automotivo 150psi Portátil Viagem Kit Reparo",
+  "brand": null,
+  "model": null,
+  "category_slug": "ferramentas-15",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_699160-MLA111233145264_052026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB6857188444",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "35701188",
+        "name": null,
+        "reputation": null
+      },
+      "price": 125.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1MqgLV5",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T06:42:04.180Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4719367091",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "35701188",
+        "name": null,
+        "reputation": null
+      },
+      "price": 109.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1MqgLV5",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T06:42:04.180Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 109.99,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 109.99,
+      "observations": 4
+    }
+  ],
+  "stats": {
+    "median_90d": 109.99,
+    "min_ever": 109.99,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

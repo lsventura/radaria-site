@@ -1,0 +1,116 @@
+{
+  "id": "ml:MLB77331159",
+  "slug": "carrinho-bebe-galzerano-de-passeio-romano-toffee-mlb77331159",
+  "title": "Carrinho Bebê Galzerano De Passeio Romano Toffee",
+  "brand": null,
+  "model": null,
+  "category_slug": "bebes-1",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_679036-MLA116193488515_082026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5233072699",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "704266825",
+        "name": null,
+        "reputation": null
+      },
+      "price": 799,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB77331159",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T08:31:04.203Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7498661538",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "345807973",
+        "name": null,
+        "reputation": null
+      },
+      "price": 759.99,
+      "currency": "BRL",
+      "store_reference_price": 1286.45,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB77331159",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T08:31:04.203Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7497824284",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3383565508",
+        "name": null,
+        "reputation": null
+      },
+      "price": 673.44,
+      "currency": "BRL",
+      "store_reference_price": 1330.95,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB77331159",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T08:31:04.203Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5063108039",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "768826009",
+        "name": null,
+        "reputation": null
+      },
+      "price": 675.21,
+      "currency": "BRL",
+      "store_reference_price": 869,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB77331159",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T08:31:04.203Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 673.44,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 673.44,
+      "observations": 8
+    }
+  ],
+  "stats": {
+    "median_90d": 673.44,
+    "min_ever": 673.44,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

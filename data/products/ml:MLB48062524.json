@@ -1,0 +1,78 @@
+{
+  "id": "ml:MLB48062524",
+  "slug": "racao-para-gatos-adultos-e-filhotes-salmao-10-1-kg-mlb48062524",
+  "title": "Ração para Gatos Adultos e Filhotes Salmão 10,1 Kg",
+  "brand": null,
+  "model": null,
+  "category_slug": "pets-1",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_617495-MLA118639600186_102026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4262721417",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "12893935",
+        "name": null,
+        "reputation": null
+      },
+      "price": 123.56,
+      "currency": "BRL",
+      "store_reference_price": 168.8,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB48062524",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T09:05:04.393Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4974886471",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2588820288",
+        "name": null,
+        "reputation": null
+      },
+      "price": 139.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB48062524",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T09:05:04.393Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 123.56,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 123.56,
+      "observations": 4
+    }
+  ],
+  "stats": {
+    "median_90d": 123.56,
+    "min_ever": 123.56,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

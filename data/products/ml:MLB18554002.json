@@ -25,7 +25,7 @@
       "available": true,
       "url": "https://meli.la/16AL7wu",
       "affiliate": true,
-      "last_observed_at": "2026-11-08T14:55:20.633Z",
+      "last_observed_at": "2026-11-09T02:44:03.964Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -44,7 +44,83 @@
       "available": true,
       "url": "https://meli.la/16AL7wu",
       "affiliate": true,
-      "last_observed_at": "2026-11-08T14:55:20.633Z",
+      "last_observed_at": "2026-11-09T02:44:03.964Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4077239951",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "708389270",
+        "name": null,
+        "reputation": null
+      },
+      "price": 178.06,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/16AL7wu",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T02:44:03.964Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB3896663115",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "316731300",
+        "name": null,
+        "reputation": null
+      },
+      "price": 120,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/16AL7wu",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T02:44:03.964Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6474998432",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1221062052",
+        "name": null,
+        "reputation": null
+      },
+      "price": 329,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/16AL7wu",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T02:44:03.964Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB2750555312",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "137106003",
+        "name": null,
+        "reputation": null
+      },
+      "price": 256.45,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/16AL7wu",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T02:44:03.964Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -63,7 +139,26 @@
       "available": true,
       "url": "https://meli.la/16AL7wu",
       "affiliate": true,
-      "last_observed_at": "2026-11-08T14:55:20.633Z",
+      "last_observed_at": "2026-11-09T02:44:03.964Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB2695233581",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "137106003",
+        "name": null,
+        "reputation": null
+      },
+      "price": 256.45,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/16AL7wu",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T02:44:03.964Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -72,18 +167,18 @@
   "history": [
     {
       "date": "2026-11-08",
-      "min_price": 256.45,
-      "observations": 3
+      "min_price": 120,
+      "observations": 16
     },
     {
       "date": "2026-11-07",
-      "min_price": 256.45,
-      "observations": 3
+      "min_price": 120,
+      "observations": 8
     }
   ],
   "stats": {
-    "median_90d": 256.45,
-    "min_ever": 256.45,
+    "median_90d": 120,
+    "min_ever": 120,
     "min_ever_at": "2026-11-07",
     "distinct_days": 2,
     "window_days": 14

@@ -1,0 +1,154 @@
+{
+  "id": "ml:MLB26325909",
+  "slug": "roda-abdominal-everlast-cor-preto-mlb26325909",
+  "title": "Roda Abdominal Everlast Cor Preto",
+  "brand": null,
+  "model": null,
+  "category_slug": "fitness-15",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_658747-MLA99502697358_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7617594416",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3420584672",
+        "name": null,
+        "reputation": null
+      },
+      "price": 96.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB26325909",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T05:04:03.870Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7616024812",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3420584672",
+        "name": null,
+        "reputation": null
+      },
+      "price": 106.85,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB26325909",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T05:04:03.870Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7616024234",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "455509533",
+        "name": null,
+        "reputation": null
+      },
+      "price": 96.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB26325909",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T05:04:03.870Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4251506140",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "56635304",
+        "name": null,
+        "reputation": null
+      },
+      "price": 89,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB26325909",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T05:04:03.870Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7616024236",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "455509533",
+        "name": null,
+        "reputation": null
+      },
+      "price": 106.85,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB26325909",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T05:04:03.870Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4147912272",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "56635304",
+        "name": null,
+        "reputation": null
+      },
+      "price": 106.15,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB26325909",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T05:04:03.870Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 89,
+      "observations": 12
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 89,
+      "observations": 12
+    }
+  ],
+  "stats": {
+    "median_90d": 89,
+    "min_ever": 89,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

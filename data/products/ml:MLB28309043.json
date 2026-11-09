@@ -1,0 +1,102 @@
+{
+  "id": "ml:MLB28309043",
+  "slug": "aquecedor-ambiente-externo-patio-a-gas-nagano-naepg-prateado-mlb28309043",
+  "title": "Aquecedor Ambiente Externo Pátio A Gás Nagano naepg Prateado",
+  "brand": null,
+  "model": null,
+  "category_slug": "eletrodomesticos-14",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_950915-MLA84833358397_052025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB3716679053",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "257800600",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1289.84,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB28309043",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T03:07:04.206Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4408373362",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "126468711",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1289.21,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB28309043",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T03:07:04.206Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5405131170",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "216450976",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1530.22,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB28309043",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T03:07:04.206Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 1289.21,
+      "observations": 6
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 1289.21,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 1289.21,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 1289.21,
+    "min_ever": 1289.21,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

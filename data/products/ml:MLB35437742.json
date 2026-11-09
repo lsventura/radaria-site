@@ -1,0 +1,102 @@
+{
+  "id": "ml:MLB35437742",
+  "slug": "kit-pintura-terapeutica-tucano-mlb35437742",
+  "title": "Kit Pintura Terapêutica - Tucano",
+  "brand": null,
+  "model": null,
+  "category_slug": "arte-e-artesanato-5",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_841357-MLA99896558905_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5176187020",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1114901508",
+        "name": null,
+        "reputation": null
+      },
+      "price": 130.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB35437742",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T06:35:04.283Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4143225435",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "161678522",
+        "name": null,
+        "reputation": null
+      },
+      "price": 139.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB35437742",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T06:35:04.283Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5531990940",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "161678522",
+        "name": null,
+        "reputation": null
+      },
+      "price": 139.95,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB35437742",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T06:35:04.283Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 130.9,
+      "observations": 6
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 130.9,
+      "observations": 6
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 130.9,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 130.9,
+    "min_ever": 130.9,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

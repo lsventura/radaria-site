@@ -11,6 +11,25 @@
   "attributes": {},
   "offers": [
     {
+      "offer_id": "ml:MLB3765670943",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "56635304",
+        "name": null,
+        "reputation": null
+      },
+      "price": 829,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/23Dw7m3",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T02:43:04.057Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
       "offer_id": "ml:MLB4189112027",
       "store": "mercadolivre",
       "seller": {
@@ -25,7 +44,26 @@
       "available": true,
       "url": "https://meli.la/23Dw7m3",
       "affiliate": true,
-      "last_observed_at": "2026-11-08T15:07:55.740Z",
+      "last_observed_at": "2026-11-09T02:43:04.057Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB3632124277",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "56635304",
+        "name": null,
+        "reputation": null
+      },
+      "price": 854.45,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/23Dw7m3",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T02:43:04.057Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -44,7 +82,7 @@
       "available": true,
       "url": "https://meli.la/23Dw7m3",
       "affiliate": true,
-      "last_observed_at": "2026-11-08T15:07:55.740Z",
+      "last_observed_at": "2026-11-09T02:43:04.057Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -54,12 +92,12 @@
     {
       "date": "2026-11-08",
       "min_price": 375,
-      "observations": 2
+      "observations": 8
     },
     {
       "date": "2026-11-06",
       "min_price": 375,
-      "observations": 3
+      "observations": 5
     }
   ],
   "stats": {

@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB66941497",
+  "slug": "bloco-desenho-de-chao-romitec-a2-90g-m-branco-c-30fls-livro-mlb66941497",
+  "title": "Bloco Desenho De Chão Romitec A2 90g/m² Branco C/30fls+livro",
+  "brand": null,
+  "model": null,
+  "category_slug": "arte-e-artesanato-7",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_663588-MLA108368222298_032026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB6491852118",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2635775741",
+        "name": null,
+        "reputation": null
+      },
+      "price": 69.04,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB66941497",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T03:39:04.386Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 69.04,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 69.04,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 69.04,
+    "min_ever": 69.04,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

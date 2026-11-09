@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB79382614",
+  "slug": "travesseiro-viscoelastico-cervical-alivio-dor-pescoco-ombro-cor-cinza-mlb79382614",
+  "title": "Travesseiro Viscoelástico Cervical Alívio Dor Pescoço Ombro Cor cinza",
+  "brand": null,
+  "model": null,
+  "category_slug": "bem-estar-10",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_978983-MLA117725483821_092026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5246510655",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3135534560",
+        "name": null,
+        "reputation": null
+      },
+      "price": 96.03,
+      "currency": "BRL",
+      "store_reference_price": 187.38,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB79382614",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T07:36:04.675Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 96.03,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 96.03,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 96.03,
+    "min_ever": 96.03,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

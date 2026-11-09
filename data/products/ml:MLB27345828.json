@@ -1,0 +1,64 @@
+{
+  "id": "ml:MLB27345828",
+  "slug": "cabo-de-forca-md9-tripolar-1-5m-3x0-75mm-para-fonte-pc-mlb27345828",
+  "title": "Cabo de Força MD9 Tripolar 1,5m 3x0,75mm para Fonte PC",
+  "brand": null,
+  "model": null,
+  "category_slug": "informatica-16",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_778348-MLA99841437725_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7575104120",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3595234463",
+        "name": null,
+        "reputation": null
+      },
+      "price": 17.53,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB27345828",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T04:45:04.141Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 17.53,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 17.53,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 17.53,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 17.53,
+    "min_ever": 17.53,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

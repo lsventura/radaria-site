@@ -1,0 +1,78 @@
+{
+  "id": "ml:MLB62351284",
+  "slug": "serra-circular-a-bateria-makita-dhs680z-mlb62351284",
+  "title": "Serra Circular A Bateria - Makita Dhs680z",
+  "brand": null,
+  "model": null,
+  "category_slug": "ferramentas-4",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_705882-MLA98427061016_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5277271681",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "74873405",
+        "name": null,
+        "reputation": null
+      },
+      "price": 2049,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB62351284",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T06:06:04.576Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7691299016",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "74873405",
+        "name": null,
+        "reputation": null
+      },
+      "price": 2199,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB62351284",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T06:06:04.576Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 2049,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 2049,
+      "observations": 4
+    }
+  ],
+  "stats": {
+    "median_90d": 2049,
+    "min_ever": 2049,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

@@ -11,6 +11,25 @@
   "attributes": {},
   "offers": [
     {
+      "offer_id": "ml:MLB3558752851",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "572335146",
+        "name": null,
+        "reputation": null
+      },
+      "price": 499.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1zu4Zfa",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T02:48:04.239Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
       "offer_id": "ml:MLB4715580759",
       "store": "mercadolivre",
       "seller": {
@@ -25,7 +44,26 @@
       "available": true,
       "url": "https://meli.la/1zu4Zfa",
       "affiliate": true,
-      "last_observed_at": "2026-11-08T09:55:53.028Z",
+      "last_observed_at": "2026-11-09T02:48:04.239Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB3558739731",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "572335146",
+        "name": null,
+        "reputation": null
+      },
+      "price": 599.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1zu4Zfa",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T02:48:04.239Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -35,12 +73,12 @@
     {
       "date": "2026-11-08",
       "min_price": 499,
-      "observations": 1
+      "observations": 6
     },
     {
       "date": "2026-11-06",
       "min_price": 499,
-      "observations": 2
+      "observations": 4
     }
   ],
   "stats": {
@@ -55,5 +93,5 @@
     "pct_below_median": 0,
     "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
   },
-  "score": 52
+  "score": 56
 }

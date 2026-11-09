@@ -11,6 +11,82 @@
   "attributes": {},
   "offers": [
     {
+      "offer_id": "ml:MLB4134041591",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "480263032",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1599.99,
+      "currency": "BRL",
+      "store_reference_price": 3099,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB53150303",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T09:06:04.226Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5249302187",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3592255542",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1804.05,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB53150303",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T09:06:04.226Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5174864593",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3592255542",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1804.05,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB53150303",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T09:06:04.226Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4986633153",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1116518230",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1599.99,
+      "currency": "BRL",
+      "store_reference_price": 2100,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB53150303",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T09:06:04.226Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
       "offer_id": "ml:MLB7626347994",
       "store": "mercadolivre",
       "seller": {
@@ -25,7 +101,26 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB53150303",
       "affiliate": false,
-      "last_observed_at": "2026-11-08T18:53:33.657Z",
+      "last_observed_at": "2026-11-09T09:06:04.226Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5701906566",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1158756553",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1999,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB53150303",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T09:06:04.226Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -34,21 +129,26 @@
   "history": [
     {
       "date": "2026-11-08",
-      "min_price": 1823,
-      "observations": 1
+      "min_price": 1599.99,
+      "observations": 6
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 1599.99,
+      "observations": 24
     }
   ],
   "stats": {
-    "median_90d": 1823,
-    "min_ever": 1823,
+    "median_90d": 1599.99,
+    "min_ever": 1599.99,
     "min_ever_at": "2026-11-08",
-    "distinct_days": 1,
+    "distinct_days": 2,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
   },
-  "score": 56
+  "score": 64
 }

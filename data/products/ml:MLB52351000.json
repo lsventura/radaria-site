@@ -1,0 +1,78 @@
+{
+  "id": "ml:MLB52351000",
+  "slug": "kit-manicure-m2-mesa-carrinho-estante-esmalte-trio-de-nichos-mlb52351000",
+  "title": "Kit Manicure M2 Mesa Carrinho Estante Esmalte Trio De Nichos",
+  "brand": null,
+  "model": null,
+  "category_slug": "beleza-17",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_688932-MLA87481788590_072025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4124162521",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "70460235",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1013.79,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB52351000",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T07:36:04.675Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4124119725",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "70460235",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1031.05,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB52351000",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T07:36:04.675Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 1013.79,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 1013.79,
+      "observations": 4
+    }
+  ],
+  "stats": {
+    "median_90d": 1013.79,
+    "min_ever": 1013.79,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

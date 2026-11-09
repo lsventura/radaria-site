@@ -1,0 +1,78 @@
+{
+  "id": "ml:MLB23570892",
+  "slug": "rodo-mop-com-spray-limpeza-geral-vonder-mlb23570892",
+  "title": "Rodo Mop Com Spray - Limpeza Geral Vonder",
+  "brand": null,
+  "model": null,
+  "category_slug": "organizacao-e-limpeza-6",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_676684-MLA99350443078_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB3888706369",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "187653329",
+        "name": null,
+        "reputation": null
+      },
+      "price": 246.34,
+      "currency": "BRL",
+      "store_reference_price": 266.16,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2eWpyG7",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T05:54:04.082Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5139583982",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "187653329",
+        "name": null,
+        "reputation": null
+      },
+      "price": 231.01,
+      "currency": "BRL",
+      "store_reference_price": 243.17,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2eWpyG7",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T05:54:04.082Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 231.01,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 231.01,
+      "observations": 4
+    }
+  ],
+  "stats": {
+    "median_90d": 231.01,
+    "min_ever": 231.01,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

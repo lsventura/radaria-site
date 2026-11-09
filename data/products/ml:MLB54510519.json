@@ -1,0 +1,83 @@
+{
+  "id": "ml:MLB54510519",
+  "slug": "porta-joias-couro-nacional-caixa-p-joia-c-bandeja-e-gancho-cor-porta-joias-couro-mlb54510519",
+  "title": "Porta-joias Couro Nacional - Caixa P Joia C Bandeja E Gancho Cor Porta-joias Couro Marrom",
+  "brand": null,
+  "model": null,
+  "category_slug": "relogios-e-joias-12",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_699650-MLA91160552604_092025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB6046931062",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "759126411",
+        "name": null,
+        "reputation": null
+      },
+      "price": 449.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1g3bqsM",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T07:07:03.976Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4225674681",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "759126411",
+        "name": null,
+        "reputation": null
+      },
+      "price": 430.12,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1g3bqsM",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T07:07:03.976Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 430.12,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 430.12,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 430.12,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 430.12,
+    "min_ever": 430.12,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

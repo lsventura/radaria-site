@@ -1,0 +1,78 @@
+{
+  "id": "ml:MLB70638766",
+  "slug": "barraca-camping-2-pessoas-acampamento-impermeavel-mosquiteir-azul-mlb70638766",
+  "title": "Barraca Camping 2 Pessoas Acampamento Impermeável Mosquiteir Azul",
+  "brand": null,
+  "model": null,
+  "category_slug": "viagem-e-outdoor-11",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_837508-MLA112540346775_052026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB6884118706",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "537714337",
+        "name": null,
+        "reputation": null
+      },
+      "price": 173.13,
+      "currency": "BRL",
+      "store_reference_price": 216.41,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB70638766",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T03:49:03.976Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6884116068",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "537714337",
+        "name": null,
+        "reputation": null
+      },
+      "price": 155.55,
+      "currency": "BRL",
+      "store_reference_price": 222.21,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB70638766",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T03:49:03.976Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 155.55,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 155.55,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 155.55,
+    "min_ever": 155.55,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

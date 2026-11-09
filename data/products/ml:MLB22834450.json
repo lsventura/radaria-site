@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB22834450",
+  "slug": "nicho-prateleira-parede-arnad-100x2c-cm-cobre-villandry-cor-cobre-villandry-mlb22834450",
+  "title": "Nicho Prateleira Parede Arnad 100x2c Cm Cobre/villandry Cor Cobre-villandry",
+  "brand": null,
+  "model": null,
+  "category_slug": "moveis-19",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_862487-MLA95569040559_102025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB3924863952",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "471866172",
+        "name": null,
+        "reputation": null
+      },
+      "price": 412.83,
+      "currency": "BRL",
+      "store_reference_price": 458.71,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB22834450",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T04:28:04.459Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 412.83,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 412.83,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 412.83,
+    "min_ever": 412.83,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

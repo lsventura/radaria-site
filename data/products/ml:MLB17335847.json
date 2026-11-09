@@ -1,0 +1,83 @@
+{
+  "id": "ml:MLB17335847",
+  "slug": "huggies-fralda-descartavel-maxima-protecao-xg-26-un-mlb17335847",
+  "title": "Huggies Fralda Descartável Máxima Proteção XG - 26 Un",
+  "brand": null,
+  "model": null,
+  "category_slug": "bebes-8",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_877548-MLA110519095493_042026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB6631736632",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2672766939",
+        "name": null,
+        "reputation": null
+      },
+      "price": 95.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2RR6Pkp",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T03:01:04.021Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4683537809",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "830159780",
+        "name": null,
+        "reputation": null
+      },
+      "price": 133.27,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2RR6Pkp",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T03:01:04.021Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 95.99,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 95.99,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 95.99,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 95.99,
+    "min_ever": 95.99,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

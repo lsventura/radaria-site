@@ -1,0 +1,64 @@
+{
+  "id": "ml:MLB37836237",
+  "slug": "fita-led-rgb-5050-rolo-5m-controle-fonte-mlb37836237",
+  "title": "Fita Led Rgb 5050 Rolo 5m + Controle + Fonte",
+  "brand": null,
+  "model": null,
+  "category_slug": "casa-inteligente-9",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_932190-MLA100100347181_122025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5467593751",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2211235206",
+        "name": null,
+        "reputation": null
+      },
+      "price": 26.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1H3Sh3h",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T06:57:04.231Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 26.9,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 26.9,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 26.9,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 26.9,
+    "min_ever": 26.9,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

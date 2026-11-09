@@ -1,0 +1,97 @@
+{
+  "id": "ml:MLB63188823",
+  "slug": "perfume-feminino-lattafa-yara-tous-mlb63188823",
+  "title": "Perfume Feminino Lattafa Yara Tous",
+  "brand": null,
+  "model": null,
+  "category_slug": "beleza-8",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_864503-MLA100941798998_122025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7871528778",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3726774560",
+        "name": null,
+        "reputation": null
+      },
+      "price": 149,
+      "currency": "BRL",
+      "store_reference_price": 269,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB63188823",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T05:59:04.202Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4016774631",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "476605395",
+        "name": null,
+        "reputation": null
+      },
+      "price": 899.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB63188823",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T05:59:04.202Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7608781820",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3656678270",
+        "name": null,
+        "reputation": null
+      },
+      "price": 163,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB63188823",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T05:59:04.202Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 149,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 149,
+      "observations": 6
+    }
+  ],
+  "stats": {
+    "median_90d": 149,
+    "min_ever": 149,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

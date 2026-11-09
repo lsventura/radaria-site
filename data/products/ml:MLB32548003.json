@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB32548003",
+  "slug": "kit-maquiagem-infantil-bolsa-maleta-sombra-batons-gloss-mlb32548003",
+  "title": "Kit Maquiagem Infantil Bolsa Maleta Sombra - Batons - Gloss",
+  "brand": null,
+  "model": null,
+  "category_slug": "beleza-14",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_707126-MLA84175995012_052025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB3933477577",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "436836109",
+        "name": null,
+        "reputation": null
+      },
+      "price": 99.41,
+      "currency": "BRL",
+      "store_reference_price": 102.48,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB32548003",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T03:50:04.548Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 99.41,
+      "observations": 6
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 99.41,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 99.41,
+    "min_ever": 99.41,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

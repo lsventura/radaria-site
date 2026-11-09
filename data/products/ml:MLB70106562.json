@@ -1,0 +1,64 @@
+{
+  "id": "ml:MLB70106562",
+  "slug": "lg-home-theater-sound-bar-s70tr-mlb70106562",
+  "title": "LG Home Theater Sound Bar S70TR",
+  "brand": null,
+  "model": null,
+  "category_slug": "tv-e-audio-7",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_880525-MLA111071287524_052026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB6972451006",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "480263032",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1764.22,
+      "currency": "BRL",
+      "store_reference_price": 2799,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1enWMoX",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T07:34:04.335Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 1764.22,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 1764.22,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 1999,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 1764.22,
+    "min_ever": 1764.22,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

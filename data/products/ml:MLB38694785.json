@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB38694785",
+  "slug": "mochila-viagem-camping-trilha-tatica-impermeavel-preto-wct-mlb38694785",
+  "title": "Mochila Viagem Camping Trilha Tática Impermeável Preto Wct",
+  "brand": null,
+  "model": null,
+  "category_slug": "viagem-e-outdoor-2",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_610593-MLU78003692361_072024-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4973902222",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "141958250",
+        "name": null,
+        "reputation": null
+      },
+      "price": 256.87,
+      "currency": "BRL",
+      "store_reference_price": 473.9,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB38694785",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T02:57:04.049Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 256.87,
+      "observations": 5
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 256.87,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 256.87,
+    "min_ever": 256.87,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

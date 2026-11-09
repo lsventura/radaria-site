@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB46350334",
+  "slug": "caixa-areia-gato-grande-animaux-banheiro-fechado-antiodor-gg-cor-rosa-mlb46350334",
+  "title": "Caixa Areia Gato Grande Animaux Banheiro Fechado Antiodor Gg Cor Rosa",
+  "brand": null,
+  "model": null,
+  "category_slug": "pets-9",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_978297-MLA112154396092_062026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5398506866",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "189307109",
+        "name": null,
+        "reputation": null
+      },
+      "price": 295.7,
+      "currency": "BRL",
+      "store_reference_price": 320.9,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB46350334",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T06:50:04.484Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 295.7,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 295.7,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 295.7,
+    "min_ever": 295.7,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB27618830",
+  "slug": "interruptor-inteligente-2-botoes-wi-fi-smart-touch-elgin-mlb27618830",
+  "title": "Interruptor Inteligente 2 Botões Wi-fi Smart Touch - Elgin",
+  "brand": null,
+  "model": null,
+  "category_slug": "casa-e-reforma-15",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_954729-MLA109034019182_032026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4472165437",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "331888701",
+        "name": null,
+        "reputation": null
+      },
+      "price": 128.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB27618830",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T06:20:04.557Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 128.9,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 128.9,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 128.9,
+    "min_ever": 128.9,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

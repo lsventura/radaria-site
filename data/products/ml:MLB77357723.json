@@ -1,0 +1,102 @@
+{
+  "id": "ml:MLB77357723",
+  "slug": "suporte-para-tablet-ipad-celular-dobravel-liga-aluminio-360-prata-mlb77357723",
+  "title": "Suporte Para Tablet iPad Celular Dobrável Liga Alumínio 360° Prata",
+  "brand": null,
+  "model": null,
+  "category_slug": "celulares-6",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_611505-MLA114831781320_082026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5118198309",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2004076185",
+        "name": null,
+        "reputation": null
+      },
+      "price": 91.23,
+      "currency": "BRL",
+      "store_reference_price": 99,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2ZYUWsr",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T08:33:04.341Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7916011558",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "472821693",
+        "name": null,
+        "reputation": null
+      },
+      "price": 96.03,
+      "currency": "BRL",
+      "store_reference_price": 99,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2ZYUWsr",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T08:33:04.341Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7916011556",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "472821693",
+        "name": null,
+        "reputation": null
+      },
+      "price": 75.66,
+      "currency": "BRL",
+      "store_reference_price": 78,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2ZYUWsr",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T08:33:04.341Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 75.66,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 75.66,
+      "observations": 6
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 75.66,
+      "observations": 4
+    }
+  ],
+  "stats": {
+    "median_90d": 75.66,
+    "min_ever": 75.66,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

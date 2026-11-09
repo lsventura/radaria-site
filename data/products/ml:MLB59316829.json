@@ -1,0 +1,83 @@
+{
+  "id": "ml:MLB59316829",
+  "slug": "smartphone-realme-15-pro-5g-512gb-12gb-ram-prata-flowing-mlb59316829",
+  "title": "Smartphone Realme 15 Pro 5g 512gb 12gb Ram Prata Flowing",
+  "brand": null,
+  "model": null,
+  "category_slug": "celulares-8",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_831200-MLA99566848892_122025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5124112699",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "375320366",
+        "name": null,
+        "reputation": null
+      },
+      "price": 3399,
+      "currency": "BRL",
+      "store_reference_price": 3699,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2Kxqg69",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T07:38:04.257Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7499565326",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "375320366",
+        "name": null,
+        "reputation": null
+      },
+      "price": 3659,
+      "currency": "BRL",
+      "store_reference_price": 3999,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2Kxqg69",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T07:38:04.257Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 3399,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 3399,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 3399,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 3399,
+    "min_ever": 3399,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

@@ -1,0 +1,83 @@
+{
+  "id": "ml:MLB74135784",
+  "slug": "eu-duvido-voce-terminar-este-livro-mafra-giuliana-editora-planeta-capa-mole-mlb74135784",
+  "title": "Eu duvido você terminar este livro - Mafra, Giuliana - Editora Planeta - Capa Mole",
+  "brand": null,
+  "model": null,
+  "category_slug": "livros-e-papelaria-1",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_716741-MLA113066519028_072026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7301912622",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "645867596",
+        "name": null,
+        "reputation": null
+      },
+      "price": 53.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB74135784",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T06:40:04.613Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4811259715",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "480263032",
+        "name": null,
+        "reputation": null
+      },
+      "price": 36.53,
+      "currency": "BRL",
+      "store_reference_price": 59.9,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB74135784",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T06:40:04.613Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 36.53,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 36.53,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 36.53,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 36.53,
+    "min_ever": 36.53,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

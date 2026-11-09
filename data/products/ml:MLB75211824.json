@@ -1,0 +1,83 @@
+{
+  "id": "ml:MLB75211824",
+  "slug": "travesseiro-cervical-airgelly-2-0-iws-hipoalergenico-mlb75211824",
+  "title": "Travesseiro Cervical Airgelly® 2.0 - Iws Hipoalergênico",
+  "brand": null,
+  "model": null,
+  "category_slug": "viagem-e-outdoor-6",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_978760-MLA113063326296_072026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4893356091",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1238801769",
+        "name": null,
+        "reputation": null
+      },
+      "price": 437,
+      "currency": "BRL",
+      "store_reference_price": 549,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2FcRswo",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T06:45:04.315Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5282789675",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1238801769",
+        "name": null,
+        "reputation": null
+      },
+      "price": 437,
+      "currency": "BRL",
+      "store_reference_price": 549,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2FcRswo",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T06:45:04.315Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 423,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 437,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 423,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 423,
+    "min_ever": 423,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": -3.3,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

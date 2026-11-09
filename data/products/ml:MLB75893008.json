@@ -1,0 +1,83 @@
+{
+  "id": "ml:MLB75893008",
+  "slug": "balanca-bioimpedancia-aolink-a80-s-bluetooth-app-preto-mlb75893008",
+  "title": "Balança Bioimpedância Aolink A80-s Bluetooth App + Preto",
+  "brand": null,
+  "model": null,
+  "category_slug": "bem-estar-14",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_990232-MLA115281020259_072026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4962524429",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "64430539",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1469.49,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2aStZW4",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T07:48:04.108Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4962537461",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "64430539",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1586.11,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2aStZW4",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T07:48:04.108Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 1469.49,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 1469.49,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 1469.49,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 1469.49,
+    "min_ever": 1469.49,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

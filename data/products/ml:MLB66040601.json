@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB66040601",
+  "slug": "soprador-termico-2000w-hg7720-tks-mlb66040601",
+  "title": "Soprador Termico 2000w Hg7720 Tks",
+  "brand": null,
+  "model": null,
+  "category_slug": "ferramentas-11",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_897364-MLA107758403083_022026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB6308265378",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "212870073",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1122.93,
+      "currency": "BRL",
+      "store_reference_price": 1220.58,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB66040601",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T08:44:04.359Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 1122.93,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 1122.93,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 1122.93,
+    "min_ever": 1122.93,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

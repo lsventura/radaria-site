@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB50714351",
+  "slug": "casa-de-boneca-salonica-branco-rosa-8-comodos-casah-mdf-mdp-15mm-mlb50714351",
+  "title": "Casa de Boneca Salónica Branco Rosa 8 Cômodos CasaH MDF/MDP 15mm",
+  "brand": null,
+  "model": null,
+  "category_slug": "brinquedos-18",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_912122-MLA95550809991_102025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4080561491",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "213652563",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1082.31,
+      "currency": "BRL",
+      "store_reference_price": 1303.99,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB50714351",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T04:59:04.272Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 1082.31,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 1082.31,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 1082.31,
+    "min_ever": 1082.31,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

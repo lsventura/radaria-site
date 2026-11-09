@@ -1,0 +1,64 @@
+{
+  "id": "ml:MLB51883539",
+  "slug": "slackline-kit-20m-x-5cm-zamboo-azul-catraca-reforcada-protetores-mlb51883539",
+  "title": "Slackline Kit 20m X 5cm Zamboo Azul Catraca Reforçada Protetores",
+  "brand": null,
+  "model": null,
+  "category_slug": "esportes-20",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_914991-MLA99495459634_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4238388107",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "39949284",
+        "name": null,
+        "reputation": null
+      },
+      "price": 252.15,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2BRz4yn",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T07:51:04.052Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 252.15,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 252.15,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 252.15,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 252.15,
+    "min_ever": 252.15,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

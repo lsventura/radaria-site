@@ -1,0 +1,64 @@
+{
+  "id": "ml:MLB46367989",
+  "slug": "redinha-pronta-fio-malha-10cm-50mm-fio-0-25-alt-1-6m-mlb46367989",
+  "title": "Redinha Pronta Fio Malha 10cm (50mm) Fio 0.25 Alt. 1,6m",
+  "brand": null,
+  "model": null,
+  "category_slug": "arte-e-artesanato-14",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_650717-MLA96672121323_102025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5297302758",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "30119263",
+        "name": null,
+        "reputation": null
+      },
+      "price": 168.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB46367989",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T07:58:04.380Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 168.9,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 168.9,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 168.9,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 168.9,
+    "min_ever": 168.9,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

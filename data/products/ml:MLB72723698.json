@@ -1,0 +1,64 @@
+{
+  "id": "ml:MLB72723698",
+  "slug": "espremedor-manual-de-alho-xpert-premium-1-unidade-inox-mlb72723698",
+  "title": "Espremedor Manual De Alho Xpert Premium - 1 Unidade Inox",
+  "brand": null,
+  "model": null,
+  "category_slug": "cozinha-19",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_666084-MLA112848407427_062026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4745112251",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "51386555",
+        "name": null,
+        "reputation": null
+      },
+      "price": 53.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1pRyhwR",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T07:26:04.151Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 53.99,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 53.99,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 53.99,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 53.99,
+    "min_ever": 53.99,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

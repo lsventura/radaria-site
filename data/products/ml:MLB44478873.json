@@ -1,0 +1,83 @@
+{
+  "id": "ml:MLB44478873",
+  "slug": "coleira-peitoral-para-cachorro-pet-snoopy-stripeblueorange-p-mlb44478873",
+  "title": "Coleira Peitoral Para Cachorro Pet Snoopy Stripeblueorange P",
+  "brand": null,
+  "model": null,
+  "category_slug": "pets-15",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_807477-MLA100002977973_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5212186788",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1291186562",
+        "name": null,
+        "reputation": null
+      },
+      "price": 93.8,
+      "currency": "BRL",
+      "store_reference_price": 106.3,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/12cBScE",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T05:13:04.073Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4220936685",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1291186562",
+        "name": null,
+        "reputation": null
+      },
+      "price": 96.7,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/12cBScE",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T05:13:04.073Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 93.8,
+      "observations": 6
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 93.8,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 93.8,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 93.8,
+    "min_ever": 93.8,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

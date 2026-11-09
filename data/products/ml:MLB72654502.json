@@ -1,0 +1,64 @@
+{
+  "id": "ml:MLB72654502",
+  "slug": "3-caixa-plastica-hortifruti-organizadora-multiuso-kit-cor-branco-mlb72654502",
+  "title": "3 Caixa Plástica Hortifruti Organizadora Multiuso Kit Cor Branco",
+  "brand": null,
+  "model": null,
+  "category_slug": "organizacao-e-limpeza-2",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_633225-MLA111719814864_062026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB6910536080",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "401899394",
+        "name": null,
+        "reputation": null
+      },
+      "price": 289.98,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB72654502",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T06:33:04.402Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 289.98,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 289.98,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 289.98,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 289.98,
+    "min_ever": 289.98,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

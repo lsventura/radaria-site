@@ -1,0 +1,64 @@
+{
+  "id": "ml:MLB47536440",
+  "slug": "chinelo-masculino-drifter-basic-fila-liso-mlb47536440",
+  "title": "Chinelo Masculino Drifter Basic Fila Liso",
+  "brand": null,
+  "model": null,
+  "category_slug": "moda-masculina-15",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_830830-MLA96176211019_102025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB6669914136",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "477970556",
+        "name": null,
+        "reputation": null
+      },
+      "price": 144.99,
+      "currency": "BRL",
+      "store_reference_price": 195.91,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1DGnQ53",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T05:28:04.764Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 144.99,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 144.99,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 144.99,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 144.99,
+    "min_ever": 144.99,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

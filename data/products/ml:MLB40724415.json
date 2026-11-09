@@ -1,0 +1,83 @@
+{
+  "id": "ml:MLB40724415",
+  "slug": "nao-e-como-nos-filmes-painter-lynn-intrinseca-capa-mole-mlb40724415",
+  "title": "Não é como nos filmes - Painter, Lynn - Intrínseca - Capa Mole",
+  "brand": null,
+  "model": null,
+  "category_slug": "livros-e-papelaria-1",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_606947-MLU78999855738_092024-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB3956721899",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "480263032",
+        "name": null,
+        "reputation": null
+      },
+      "price": 43.85,
+      "currency": "BRL",
+      "store_reference_price": 69.9,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1yzRNNs",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T08:55:03.978Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4028655581",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "645867596",
+        "name": null,
+        "reputation": null
+      },
+      "price": 62.82,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1yzRNNs",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T08:55:03.978Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 43.85,
+      "observations": 8
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 43.85,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 43.85,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 43.85,
+    "min_ever": 43.85,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

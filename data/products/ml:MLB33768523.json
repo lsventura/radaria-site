@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB33768523",
+  "slug": "sonoff-interruptor-wifi-2ch-canais-dual-r3-lite-mlb33768523",
+  "title": "Sonoff Interruptor Wifi 2ch Canais Dual R3 Lite",
+  "brand": null,
+  "model": null,
+  "category_slug": "casa-inteligente-16",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_918140-MLU74599668265_022024-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB6087208302",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "321364452",
+        "name": null,
+        "reputation": null
+      },
+      "price": 130.44,
+      "currency": "BRL",
+      "store_reference_price": 149.9,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB33768523",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T05:42:04.162Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 130.44,
+      "observations": 6
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 130.44,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 130.44,
+    "min_ever": 130.44,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

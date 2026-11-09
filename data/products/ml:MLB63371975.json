@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB63371975",
+  "slug": "persiana-rolo-blecaute-linho-mesclado-cor-creme-mlb63371975",
+  "title": "Persiana Rolô Blecaute (linho Mesclado) Cor Creme",
+  "brand": null,
+  "model": null,
+  "category_slug": "casa-e-reforma-10",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_921901-MLA101496515960_122025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB6082220444",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "549790725",
+        "name": null,
+        "reputation": null
+      },
+      "price": 137.2,
+      "currency": "BRL",
+      "store_reference_price": 183.15,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB63371975",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T06:38:04.264Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 137.2,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 137.2,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 137.2,
+    "min_ever": 137.2,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

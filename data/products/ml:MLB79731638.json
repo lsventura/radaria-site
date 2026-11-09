@@ -1,0 +1,78 @@
+{
+  "id": "ml:MLB79731638",
+  "slug": "monitor-gamer-tcl-27p1ad-fhd-280hz-mlb79731638",
+  "title": "Monitor Gamer TCL 27P1AD FHD 280Hz",
+  "brand": null,
+  "model": null,
+  "category_slug": "informatica-2",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_698638-MLA118060527283_092026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7818363390",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2440975613",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1499,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB79731638",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T06:27:04.175Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5398812459",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2440975613",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1799,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB79731638",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T06:27:04.175Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 1499,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 1499,
+      "observations": 4
+    }
+  ],
+  "stats": {
+    "median_90d": 1499,
+    "min_ever": 1499,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

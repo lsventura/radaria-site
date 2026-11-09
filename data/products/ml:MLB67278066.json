@@ -1,0 +1,64 @@
+{
+  "id": "ml:MLB67278066",
+  "slug": "cadeira-de-escritorio-ergonomica-nr17-glorious-marqs-home-giratoria-resistente-r-mlb67278066",
+  "title": "Cadeira De Escritorio Ergonomica Nr17 Glorious Marqs Home Giratoria Resistente Reforçada 180kg Confortavel Reuniao Mesh Cinza",
+  "brand": null,
+  "model": null,
+  "category_slug": "casa-e-reforma-6",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_753310-MLA110181632751_042026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4577264861",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "355605564",
+        "name": null,
+        "reputation": null
+      },
+      "price": 405.9,
+      "currency": "BRL",
+      "store_reference_price": 588.27,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB67278066",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T08:51:04.358Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 401,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 405.9,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 401,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 401,
+    "min_ever": 401,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": -1.2,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

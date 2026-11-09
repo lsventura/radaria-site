@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB21450501",
+  "slug": "ducha-chuveiro-fria-piscina-jardim-quintal-10-pol-cromada-acabamento-cromado-cor-mlb21450501",
+  "title": "Ducha Chuveiro Fria Piscina Jardim Quintal 10 Pol. Cromada Acabamento Cromado Cor Prateado Luconi",
+  "brand": null,
+  "model": null,
+  "category_slug": "jardim-e-piscina-15",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_999578-MLA99576763366_122025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4776362317",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3336421252",
+        "name": null,
+        "reputation": null
+      },
+      "price": 59.75,
+      "currency": "BRL",
+      "store_reference_price": 65.9,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB21450501",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T03:38:04.161Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 59.75,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 59.75,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 59.75,
+    "min_ever": 59.75,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

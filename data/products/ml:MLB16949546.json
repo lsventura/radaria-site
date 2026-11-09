@@ -1,0 +1,73 @@
+{
+  "id": "ml:MLB16949546",
+  "slug": "bicicleta-spinning-evolution-fitness-sp2600-cor-preto-laranja-mlb16949546",
+  "title": "Bicicleta Spinning Evolution Fitness Sp2600 Cor Preto/Laranja",
+  "brand": null,
+  "model": null,
+  "category_slug": "esportes-11",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_682744-MLA99991512953_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7285019402",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "223395366",
+        "name": null,
+        "reputation": null
+      },
+      "price": 4190,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2WU93df",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T02:43:04.057Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7275701242",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "223395366",
+        "name": null,
+        "reputation": null
+      },
+      "price": 4590,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2WU93df",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T02:43:04.057Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 4190,
+      "observations": 8
+    }
+  ],
+  "stats": {
+    "median_90d": 4190,
+    "min_ever": 4190,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

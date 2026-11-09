@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB74606112",
+  "slug": "brinquedo-pista-carrinho-rosa-de-montar-pink-speed-52-pecas-presente-menina-mlb74606112",
+  "title": "Brinquedo Pista Carrinho Rosa de Montar Pink Speed 52 Peças Presente Menina",
+  "brand": null,
+  "model": null,
+  "category_slug": "brinquedos-10",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_614038-MLA112772119246_062026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4832679489",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1188593733",
+        "name": null,
+        "reputation": null
+      },
+      "price": 97.27,
+      "currency": "BRL",
+      "store_reference_price": 137,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB74606112",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T08:59:04.309Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 97.27,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 97.27,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 97.27,
+    "min_ever": 97.27,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

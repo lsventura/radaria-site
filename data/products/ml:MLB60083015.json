@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB60083015",
+  "slug": "smart-tv-hisense-75-qled-q6-4k-mlb60083015",
+  "title": "Smart TV Hisense 75\" Qled Q6 4k",
+  "brand": null,
+  "model": null,
+  "category_slug": "tv-e-audio-9",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_863985-MLA94660655194_102025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5243837345",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "584911659",
+        "name": null,
+        "reputation": null
+      },
+      "price": 4199,
+      "currency": "BRL",
+      "store_reference_price": 5713,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB60083015",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T03:22:03.982Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 4199,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 4199,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 4199,
+    "min_ever": 4199,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

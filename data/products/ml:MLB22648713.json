@@ -1,0 +1,97 @@
+{
+  "id": "ml:MLB22648713",
+  "slug": "nicho-prateleira-parede-arnad-decoracao-100x20-prata-vulcano-cor-prata-vulcano-mlb22648713",
+  "title": "Nicho Prateleira Parede Arnad Decoração 100x20 Prata/vulcano Cor Prata-vulcano",
+  "brand": null,
+  "model": null,
+  "category_slug": "moveis-19",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_993944-MLB52518647891_112022-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB3751110986",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "178286681",
+        "name": null,
+        "reputation": null
+      },
+      "price": 363.65,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB22648713",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T04:05:03.976Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4807693629",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "96861488",
+        "name": null,
+        "reputation": null
+      },
+      "price": 329.9,
+      "currency": "BRL",
+      "store_reference_price": 399.9,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB22648713",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T04:05:03.976Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4807693829",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "96861488",
+        "name": null,
+        "reputation": null
+      },
+      "price": 354.9,
+      "currency": "BRL",
+      "store_reference_price": 499.9,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB22648713",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T04:05:03.976Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 329.9,
+      "observations": 6
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 329.9,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 329.9,
+    "min_ever": 329.9,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

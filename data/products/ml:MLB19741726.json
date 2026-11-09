@@ -1,0 +1,83 @@
+{
+  "id": "ml:MLB19741726",
+  "slug": "headset-gamer-draxen-dn101-rgb-mlb19741726",
+  "title": "Headset Gamer Draxen Dn101 Rgb",
+  "brand": null,
+  "model": null,
+  "category_slug": "games-6",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_671509-MLA99988990275_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB6197287520",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "83867908",
+        "name": null,
+        "reputation": null
+      },
+      "price": 187.35,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2m9dRjk",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T04:00:04.893Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6197363372",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "83867908",
+        "name": null,
+        "reputation": null
+      },
+      "price": 174.85,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2m9dRjk",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T04:00:04.893Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 174.85,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 174.85,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 174.85,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 174.85,
+    "min_ever": 174.85,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

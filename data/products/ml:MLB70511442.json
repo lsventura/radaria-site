@@ -11,6 +11,44 @@
   "attributes": {},
   "offers": [
     {
+      "offer_id": "ml:MLB7931618646",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2528387281",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 1300,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1JFWia2",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T07:03:04.285Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7885435370",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2528387281",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 1215,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1JFWia2",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T07:03:04.285Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
       "offer_id": "ml:MLB7939825246",
       "store": "mercadolivre",
       "seller": {
@@ -25,7 +63,7 @@
       "available": true,
       "url": "https://meli.la/1JFWia2",
       "affiliate": true,
-      "last_observed_at": "2026-11-08T16:39:51.541Z",
+      "last_observed_at": "2026-11-09T07:03:04.285Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -38,22 +76,27 @@
       "observations": 1
     },
     {
+      "date": "2026-11-09",
+      "min_price": 1215,
+      "observations": 3
+    },
+    {
       "date": "2026-11-06",
-      "min_price": 1599,
-      "observations": 1
+      "min_price": 1215,
+      "observations": 3
     }
   ],
   "stats": {
-    "median_90d": 1599,
-    "min_ever": 1599,
+    "median_90d": 1215,
+    "min_ever": 1215,
     "min_ever_at": "2026-11-06",
-    "distinct_days": 2,
+    "distinct_days": 3,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
   },
-  "score": 56
+  "score": 60
 }

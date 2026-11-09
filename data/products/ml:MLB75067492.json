@@ -1,0 +1,83 @@
+{
+  "id": "ml:MLB75067492",
+  "slug": "ombrelone-central-2-30-metros-com-mesa-jardim-piscina-uv-azul-escuro-liso-mlb75067492",
+  "title": "Ombrelone Central 2,30 Metros Com Mesa Jardim Piscina Uv Azul-escuro Liso",
+  "brand": null,
+  "model": null,
+  "category_slug": "jardim-e-piscina-18",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_676124-MLA114227955543_072026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7126631244",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1180302113",
+        "name": null,
+        "reputation": null
+      },
+      "price": 567.33,
+      "currency": "BRL",
+      "store_reference_price": 658,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1b2SgGy",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T06:28:04.045Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7126631440",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1180302113",
+        "name": null,
+        "reputation": null
+      },
+      "price": 528.69,
+      "currency": "BRL",
+      "store_reference_price": 621,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1b2SgGy",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T06:28:04.045Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 528.69,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 528.69,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 528.69,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 528.69,
+    "min_ever": 528.69,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

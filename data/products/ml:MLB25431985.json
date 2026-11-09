@@ -1,0 +1,83 @@
+{
+  "id": "ml:MLB25431985",
+  "slug": "bola-volei-molten-v5m2700-volleyball-tricolor-mlb25431985",
+  "title": "Bola Volei Molten V5m2700 - Volleyball Tricolor",
+  "brand": null,
+  "model": null,
+  "category_slug": "esportes-12",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_773800-MLA99956568355_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7818870260",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "629254788",
+        "name": null,
+        "reputation": null
+      },
+      "price": 290.9,
+      "currency": "BRL",
+      "store_reference_price": 299.9,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1uZyCeW",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T04:19:03.937Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5625664432",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "139003313",
+        "name": null,
+        "reputation": null
+      },
+      "price": 299.87,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1uZyCeW",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T04:19:03.937Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 290.9,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 290.9,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 290.9,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 290.9,
+    "min_ever": 290.9,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

@@ -1,0 +1,102 @@
+{
+  "id": "ml:MLB67941228",
+  "slug": "raquete-padel-compass-touch-junior-infantil-2026-mlb67941228",
+  "title": "Raquete Padel Compass Touch Junior Infantil 2026",
+  "brand": null,
+  "model": null,
+  "category_slug": "esportes-6",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_914130-MLA110352403961_042026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7092794122",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2026958410",
+        "name": null,
+        "reputation": null
+      },
+      "price": 949,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1xbBmwK",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T06:21:04.233Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6666287196",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1367078380",
+        "name": null,
+        "reputation": null
+      },
+      "price": 949.05,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1xbBmwK",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T06:21:04.233Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6666290610",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1367078380",
+        "name": null,
+        "reputation": null
+      },
+      "price": 999,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1xbBmwK",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T06:21:04.233Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 949,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 949,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 949,
+      "observations": 4
+    }
+  ],
+  "stats": {
+    "median_90d": 949,
+    "min_ever": 949,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

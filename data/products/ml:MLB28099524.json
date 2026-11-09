@@ -11,6 +11,25 @@
   "attributes": {},
   "offers": [
     {
+      "offer_id": "ml:MLB4233287506",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "749102064",
+        "name": null,
+        "reputation": null
+      },
+      "price": 899,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/16QUBWT",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T04:12:04.331Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
       "offer_id": "ml:MLB4367014019",
       "store": "mercadolivre",
       "seller": {
@@ -25,7 +44,7 @@
       "available": true,
       "url": "https://meli.la/16QUBWT",
       "affiliate": true,
-      "last_observed_at": "2026-11-08T15:19:22.734Z",
+      "last_observed_at": "2026-11-09T04:12:04.331Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -44,7 +63,26 @@
       "available": true,
       "url": "https://meli.la/16QUBWT",
       "affiliate": true,
-      "last_observed_at": "2026-11-08T15:19:22.734Z",
+      "last_observed_at": "2026-11-09T04:12:04.331Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4233203338",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "749102064",
+        "name": null,
+        "reputation": null
+      },
+      "price": 849,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/16QUBWT",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T04:12:04.331Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -63,7 +101,7 @@
       "available": true,
       "url": "https://meli.la/16QUBWT",
       "affiliate": true,
-      "last_observed_at": "2026-11-08T15:19:22.734Z",
+      "last_observed_at": "2026-11-09T04:12:04.331Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,7 +120,45 @@
       "available": true,
       "url": "https://meli.la/16QUBWT",
       "affiliate": true,
-      "last_observed_at": "2026-11-08T15:19:22.734Z",
+      "last_observed_at": "2026-11-09T04:12:04.331Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB3734228145",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "768826009",
+        "name": null,
+        "reputation": null
+      },
+      "price": 575,
+      "currency": "BRL",
+      "store_reference_price": 799,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/16QUBWT",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T04:12:04.331Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB3675479947",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "345807973",
+        "name": null,
+        "reputation": null
+      },
+      "price": 674,
+      "currency": "BRL",
+      "store_reference_price": 1083.55,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/16QUBWT",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T04:12:04.331Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -91,26 +167,31 @@
   "history": [
     {
       "date": "2026-11-08",
-      "min_price": 849,
-      "observations": 4
+      "min_price": 575,
+      "observations": 8
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 575,
+      "observations": 8
     },
     {
       "date": "2026-11-07",
-      "min_price": 849,
-      "observations": 4
+      "min_price": 575,
+      "observations": 8
     }
   ],
   "stats": {
-    "median_90d": 849,
-    "min_ever": 849,
+    "median_90d": 575,
+    "min_ever": 575,
     "min_ever_at": "2026-11-07",
-    "distinct_days": 2,
+    "distinct_days": 3,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
   },
-  "score": 56
+  "score": 60
 }

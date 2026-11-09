@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB49280948",
+  "slug": "kit-5-reparos-bico-pistola-pintura-airless-lcte-compativel-mma-mlb49280948",
+  "title": "Kit 5 Reparos Bico Pistola Pintura Airless LCTE Compatível MMA",
+  "brand": null,
+  "model": null,
+  "category_slug": "ferramentas-16",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_868918-MLA99439699400_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5382985004",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "593207637",
+        "name": null,
+        "reputation": null
+      },
+      "price": 124.67,
+      "currency": "BRL",
+      "store_reference_price": 135.29,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB49280948",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T03:11:04.080Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 124.67,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 124.67,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 124.67,
+    "min_ever": 124.67,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

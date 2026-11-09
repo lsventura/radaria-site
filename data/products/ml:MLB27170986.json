@@ -1,0 +1,83 @@
+{
+  "id": "ml:MLB27170986",
+  "slug": "banheira-bebe-classic-dino-galzerano-mlb27170986",
+  "title": "Banheira Bebê Classic Dino - Galzerano",
+  "brand": null,
+  "model": null,
+  "category_slug": "bebes-10",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_899923-MLA99533129948_122025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5011707026",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "768826009",
+        "name": null,
+        "reputation": null
+      },
+      "price": 466.38,
+      "currency": "BRL",
+      "store_reference_price": 599,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB27170986",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T04:34:03.967Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4526989069",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "704266825",
+        "name": null,
+        "reputation": null
+      },
+      "price": 699,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB27170986",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T04:34:03.967Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 466.38,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 466.38,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 466.38,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 466.38,
+    "min_ever": 466.38,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

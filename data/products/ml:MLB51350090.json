@@ -1,0 +1,64 @@
+{
+  "id": "ml:MLB51350090",
+  "slug": "torneira-cozinha-monocomando-gourmet-preto-extensivel-mlb51350090",
+  "title": "Torneira Cozinha Monocomando Gourmet Preto Extensível",
+  "brand": null,
+  "model": null,
+  "category_slug": "casa-e-reforma-1",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_609692-MLA93345032150_092025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5714841912",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1583077679",
+        "name": null,
+        "reputation": null
+      },
+      "price": 145.98,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB51350090",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T07:24:04.650Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 145.98,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 145.98,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 145.98,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 145.98,
+    "min_ever": 145.98,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

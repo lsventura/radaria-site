@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB74717532",
+  "slug": "panela-antiaderente-grafite-18-cm-premium-stone-panelux-mlb74717532",
+  "title": "Panela Antiaderente Grafite 18 Cm Premium Stone Panelux",
+  "brand": null,
+  "model": null,
+  "category_slug": "cozinha-8",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_938580-MLA112778952538_062026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7071394842",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3138352063",
+        "name": null,
+        "reputation": null
+      },
+      "price": 87,
+      "currency": "BRL",
+      "store_reference_price": 116,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB74717532",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T06:41:04.419Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 87,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 87,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 87,
+    "min_ever": 87,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

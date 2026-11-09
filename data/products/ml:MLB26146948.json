@@ -1,0 +1,64 @@
+{
+  "id": "ml:MLB26146948",
+  "slug": "varal-retratil-parede-aco-sanfonado-80cm-varal-sul-aluminio-mlb26146948",
+  "title": "Varal Retrátil Parede Aço Sanfonado 80cm Varal Sul Alumínio",
+  "brand": null,
+  "model": null,
+  "category_slug": "organizacao-e-limpeza-14",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_846044-MLA100018727757_122025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB3426513831",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "139440721",
+        "name": null,
+        "reputation": null
+      },
+      "price": 95.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB26146948",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T05:33:04.197Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 95.9,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 95.9,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 95.9,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 95.9,
+    "min_ever": 95.9,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

@@ -1,0 +1,64 @@
+{
+  "id": "ml:MLB39039419",
+  "slug": "carrinho-multiuso-dobravel-keep-25kg-ac352-mlb39039419",
+  "title": "Carrinho Multiuso Dobrável Keep 25kg Ac352",
+  "brand": null,
+  "model": null,
+  "category_slug": "organizacao-e-limpeza-12",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_863909-MLU78203532687_082024-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5282516403",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2430946590",
+        "name": null,
+        "reputation": null
+      },
+      "price": 240.35,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1mfpPod",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T05:53:04.190Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 240.35,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 240.35,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 240.35,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 240.35,
+    "min_ever": 240.35,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

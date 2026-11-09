@@ -1,0 +1,78 @@
+{
+  "id": "ml:MLB76436156",
+  "slug": "interruptor-inteligente-safira-zigbee-4x4-6-sessao-mlb76436156",
+  "title": "Interruptor Inteligente Safira Zigbee 4x4 6 Sessão",
+  "brand": null,
+  "model": null,
+  "category_slug": "casa-e-reforma-15",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_669322-MLA114335695492_082026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7447554558",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "523812887",
+        "name": null,
+        "reputation": null
+      },
+      "price": 180.47,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB76436156",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T04:02:04.262Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7447220328",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "523812887",
+        "name": null,
+        "reputation": null
+      },
+      "price": 198.3,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB76436156",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T04:02:04.262Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 180.47,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 180.47,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 180.47,
+    "min_ever": 180.47,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

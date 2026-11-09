@@ -1,0 +1,92 @@
+{
+  "id": "ml:MLB22737153",
+  "slug": "sensor-infravermelho-alarme-autonomo-wifi-lider-spi9000-mlb22737153",
+  "title": "Sensor Infravermelho Alarme Autônomo Wifi Lider Spi9000",
+  "brand": null,
+  "model": null,
+  "category_slug": "casa-inteligente-6",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_667485-MLA99505265288_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB3366305905",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "230342188",
+        "name": null,
+        "reputation": null
+      },
+      "price": 169,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB22737153",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T02:40:04.225Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB3366341419",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "230342188",
+        "name": null,
+        "reputation": null
+      },
+      "price": 159,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB22737153",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T02:40:04.225Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5385737325",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3271563576",
+        "name": null,
+        "reputation": null
+      },
+      "price": 185.09,
+      "currency": "BRL",
+      "store_reference_price": 254,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB22737153",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T02:40:04.225Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 159,
+      "observations": 9
+    }
+  ],
+  "stats": {
+    "median_90d": 159,
+    "min_ever": 159,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

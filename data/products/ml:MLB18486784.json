@@ -1,0 +1,64 @@
+{
+  "id": "ml:MLB18486784",
+  "slug": "frigobar-midea-mrc10b1-branco-93l-mlb18486784",
+  "title": "Frigobar Midea MRC10B1 Branco 93L",
+  "brand": null,
+  "model": null,
+  "category_slug": "eletrodomesticos-11",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_727201-MLA99471159932_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5160925208",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1168726042",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1599,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1phUpqT",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T03:31:04.147Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 1599,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 1599,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 1599,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 1599,
+    "min_ever": 1599,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

@@ -1,0 +1,78 @@
+{
+  "id": "ml:MLB75886780",
+  "slug": "robo-aspirador-liectroux-t9-com-base-autolimpante-aspira-varre-e-passa-pano-para-mlb75886780",
+  "title": "Robô Aspirador Liectroux T9 com Base Autolimpante, Aspira, Varre e Passa Pano para Carpetes e Pelo de Animais",
+  "brand": null,
+  "model": null,
+  "category_slug": "pets-18",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_832845-MLA115274585139_072026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7277441080",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1184249468",
+        "name": null,
+        "reputation": null
+      },
+      "price": 2469.99,
+      "currency": "BRL",
+      "store_reference_price": 2899,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB75886780",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T04:01:03.938Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4962531711",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1184249468",
+        "name": null,
+        "reputation": null
+      },
+      "price": 2310.99,
+      "currency": "BRL",
+      "store_reference_price": 2899,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB75886780",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T04:01:03.938Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 2310.99,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 2310.99,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 2310.99,
+    "min_ever": 2310.99,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

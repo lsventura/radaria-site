@@ -1,0 +1,83 @@
+{
+  "id": "ml:MLB70508905",
+  "slug": "volante-gamer-com-pedal-usb-pc-ps4-ps3-xbox-one-series-x-s-switch-simulador-corr-mlb70508905",
+  "title": "Volante Gamer Com Pedal Usb Pc Ps4 Ps3 Xbox One Series X/s Switch Simulador Corrida 180° Paddle Shift",
+  "brand": null,
+  "model": null,
+  "category_slug": "games-8",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_834191-MLA112440809907_052026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB6867369542",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "269235654",
+        "name": null,
+        "reputation": null
+      },
+      "price": 429.99,
+      "currency": "BRL",
+      "store_reference_price": 589.9,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB70508905",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T06:31:04.280Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4724339483",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "269235654",
+        "name": null,
+        "reputation": null
+      },
+      "price": 386.99,
+      "currency": "BRL",
+      "store_reference_price": 539.9,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB70508905",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T06:31:04.280Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 390,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 386.99,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 390,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 390,
+    "min_ever": 386.99,
+    "min_ever_at": "2026-11-09",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0.8,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

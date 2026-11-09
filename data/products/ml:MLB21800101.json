@@ -1,0 +1,78 @@
+{
+  "id": "ml:MLB21800101",
+  "slug": "fone-de-ouvido-profissional-samson-sr880-fechado-para-estudio-preto-mlb21800101",
+  "title": "Fone de ouvido profissional Samson Sr880 - fechado para estúdio - preto",
+  "brand": null,
+  "model": null,
+  "category_slug": "instrumentos-musicais-15",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_937779-MLA99937748695_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB3556629261",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "11830393",
+        "name": null,
+        "reputation": null
+      },
+      "price": 751.96,
+      "currency": "BRL",
+      "store_reference_price": 775.22,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1KwVU9k",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T04:01:03.938Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6456417118",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "321726286",
+        "name": null,
+        "reputation": null
+      },
+      "price": 663.12,
+      "currency": "BRL",
+      "store_reference_price": 867.99,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1KwVU9k",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T04:01:03.938Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 663.12,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 663.12,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 663.12,
+    "min_ever": 663.12,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

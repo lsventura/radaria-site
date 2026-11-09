@@ -1,0 +1,78 @@
+{
+  "id": "ml:MLB49676446",
+  "slug": "colchao-espuma-queen-orthocrin-diamante-bege-d33-158x198x20-mlb49676446",
+  "title": "Colchão Espuma Queen Orthocrin Diamante Bege D33 158x198x20",
+  "brand": null,
+  "model": null,
+  "category_slug": "moveis-12",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_644273-MLA95672340531_102025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4264153009",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "560912973",
+        "name": null,
+        "reputation": null
+      },
+      "price": 2148.99,
+      "currency": "BRL",
+      "store_reference_price": 3311.38,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB49676446",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T03:12:04.580Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4264433923",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "560912973",
+        "name": null,
+        "reputation": null
+      },
+      "price": 2148.99,
+      "currency": "BRL",
+      "store_reference_price": 3311.38,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB49676446",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T03:12:04.580Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 2148.99,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 2148.99,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 2148.99,
+    "min_ever": 2148.99,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

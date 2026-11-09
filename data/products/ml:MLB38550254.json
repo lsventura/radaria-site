@@ -11,6 +11,25 @@
   "attributes": {},
   "offers": [
     {
+      "offer_id": "ml:MLB5311637496",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1367078380",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1520,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1Wj4irp",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T05:45:04.205Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
       "offer_id": "ml:MLB5125765369",
       "store": "mercadolivre",
       "seller": {
@@ -25,7 +44,26 @@
       "available": true,
       "url": "https://meli.la/1Wj4irp",
       "affiliate": true,
-      "last_observed_at": "2026-11-08T15:34:55.906Z",
+      "last_observed_at": "2026-11-09T05:45:04.205Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5311753904",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1367078380",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1445,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1Wj4irp",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T05:45:04.205Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -34,26 +72,31 @@
   "history": [
     {
       "date": "2026-11-08",
-      "min_price": 1500,
-      "observations": 4
+      "min_price": 1445,
+      "observations": 12
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 1445,
+      "observations": 6
     },
     {
       "date": "2026-11-06",
-      "min_price": 1500,
-      "observations": 1
+      "min_price": 1445,
+      "observations": 4
     }
   ],
   "stats": {
-    "median_90d": 1500,
-    "min_ever": 1500,
+    "median_90d": 1445,
+    "min_ever": 1445,
     "min_ever_at": "2026-11-06",
-    "distinct_days": 2,
+    "distinct_days": 3,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
   },
-  "score": 56
+  "score": 60
 }

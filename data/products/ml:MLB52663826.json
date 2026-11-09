@@ -1,0 +1,64 @@
+{
+  "id": "ml:MLB52663826",
+  "slug": "motor-para-bomba-piscina-igui-1-2-cv-mlb52663826",
+  "title": "Motor Para Bomba Piscina Igui 1/2 Cv",
+  "brand": null,
+  "model": null,
+  "category_slug": "jardim-e-piscina-11",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_614130-MLA88116582187_072025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB6884220290",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "723421555",
+        "name": null,
+        "reputation": null
+      },
+      "price": 629.9,
+      "currency": "BRL",
+      "store_reference_price": 999.8,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2uMFnMB",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T05:39:04.244Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 629.9,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 629.9,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 629.9,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 629.9,
+    "min_ever": 629.9,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

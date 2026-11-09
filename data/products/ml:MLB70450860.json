@@ -1,0 +1,64 @@
+{
+  "id": "ml:MLB70450860",
+  "slug": "fundo-fotografico-cenario-profissional-escritorio-2-60x1-70-cor-estante-livros-f-mlb70450860",
+  "title": "Fundo Fotográfico Cenário Profissional Escritório 2,60x1,70 Cor Estante Livros Fm-1398",
+  "brand": null,
+  "model": null,
+  "category_slug": "moveis-16",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_968086-MLA112397587607_052026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB6859538332",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1000465422",
+        "name": null,
+        "reputation": null
+      },
+      "price": 129.9,
+      "currency": "BRL",
+      "store_reference_price": 168.9,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB70450860",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T06:31:04.280Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 129.9,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 129.9,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 129.9,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 129.9,
+    "min_ever": 129.9,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

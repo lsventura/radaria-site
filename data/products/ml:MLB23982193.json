@@ -1,0 +1,83 @@
+{
+  "id": "ml:MLB23982193",
+  "slug": "sanduicheira-grill-best-mlb23982193",
+  "title": "Sanduicheira Grill Best",
+  "brand": null,
+  "model": null,
+  "category_slug": "cozinha-11",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_772502-MLA95501954642_102025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7851761392",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "786848187",
+        "name": null,
+        "reputation": null
+      },
+      "price": 129.31,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2L4iS6D",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T04:18:04.374Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7848972370",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "786848187",
+        "name": null,
+        "reputation": null
+      },
+      "price": 142.35,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2L4iS6D",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T04:18:04.374Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 129.31,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 129.31,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 129.31,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 129.31,
+    "min_ever": 129.31,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

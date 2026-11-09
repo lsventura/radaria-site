@@ -1,0 +1,83 @@
+{
+  "id": "ml:MLB64857258",
+  "slug": "esteira-eletrica-dobravel-compacta-para-caminhada-residencial-6km-h-com-controle-mlb64857258",
+  "title": "Esteira Elétrica Dobrável Compacta para Caminhada Residencial 6km/h com Controle Remoto e Display LED",
+  "brand": null,
+  "model": null,
+  "category_slug": "fitness-3",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_616023-MLA117931308999_092026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5477714383",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "325204160",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1299.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB64857258",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T05:05:04.364Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6966261004",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3118421917",
+        "name": null,
+        "reputation": null
+      },
+      "price": 644,
+      "currency": "BRL",
+      "store_reference_price": 1999.99,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB64857258",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T05:05:04.364Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 644,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 644,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 644,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 644,
+    "min_ever": 644,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

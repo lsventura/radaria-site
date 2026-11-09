@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB65180091",
+  "slug": "papel-parede-paisagem-adesivo-2-10x1-60m-cidade-predio-s85-multicolorido-mlb65180091",
+  "title": "Papel Parede Paisagem Adesivo 2,10x1,60m Cidade Prédio S85 Multicolorido",
+  "brand": null,
+  "model": null,
+  "category_slug": "casa-e-reforma-12",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_868744-MLA105746519976_022026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4456754701",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "19796747",
+        "name": null,
+        "reputation": null
+      },
+      "price": 194.02,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB65180091",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T03:35:04.343Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 194.02,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 194.02,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 194.02,
+    "min_ever": 194.02,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

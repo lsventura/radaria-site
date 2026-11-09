@@ -1,0 +1,83 @@
+{
+  "id": "ml:MLB47027755",
+  "slug": "nivel-laser-12-linhas-360-tresnna-mlb47027755",
+  "title": "Nível Laser 12 Linhas 360° Tresnna",
+  "brand": null,
+  "model": null,
+  "category_slug": "ferramentas-19",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_874710-MLA82970313467_032025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4971728683",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "617710508",
+        "name": null,
+        "reputation": null
+      },
+      "price": 675,
+      "currency": "BRL",
+      "store_reference_price": 987,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB47027755",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T07:00:04.639Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4971574719",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "617710508",
+        "name": null,
+        "reputation": null
+      },
+      "price": 615.97,
+      "currency": "BRL",
+      "store_reference_price": 668.45,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB47027755",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T07:00:04.639Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 615.97,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 615.97,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 615.97,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 615.97,
+    "min_ever": 615.97,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

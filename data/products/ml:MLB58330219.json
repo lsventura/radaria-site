@@ -1,0 +1,97 @@
+{
+  "id": "ml:MLB58330219",
+  "slug": "geladeira-frost-free-duplex-394l-inverter-cor-inox-inox-mlb58330219",
+  "title": "Geladeira Frost Free Duplex 394l Inverter Cor Inox Inox",
+  "brand": null,
+  "model": null,
+  "category_slug": "eletrodomesticos-1",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_624183-MLA93296143480_092025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7034852272",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "257072993",
+        "name": null,
+        "reputation": null
+      },
+      "price": 3613.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB58330219",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T06:04:04.376Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4370622181",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "480263032",
+        "name": null,
+        "reputation": null
+      },
+      "price": 2599,
+      "currency": "BRL",
+      "store_reference_price": 3449,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB58330219",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T06:04:04.376Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7035512454",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "257072993",
+        "name": null,
+        "reputation": null
+      },
+      "price": 3505.48,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB58330219",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T06:04:04.376Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 2599,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 2599,
+      "observations": 6
+    }
+  ],
+  "stats": {
+    "median_90d": 2599,
+    "min_ever": 2599,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

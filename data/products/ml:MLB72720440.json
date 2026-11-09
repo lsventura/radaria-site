@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB72720440",
+  "slug": "kit-lavabo-difusor-aromatizador-banheiro-dispenser-liquido-branco-mlb72720440",
+  "title": "Kit Lavabo Difusor Aromatizador Banheiro Dispenser Líquido Branco",
+  "brand": null,
+  "model": null,
+  "category_slug": "casa-e-reforma-18",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_723282-MLA112847918281_062026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB6914223386",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "31613560",
+        "name": null,
+        "reputation": null
+      },
+      "price": 132,
+      "currency": "BRL",
+      "store_reference_price": 139.9,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB72720440",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T03:51:04.063Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 132,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 132,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 132,
+    "min_ever": 132,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

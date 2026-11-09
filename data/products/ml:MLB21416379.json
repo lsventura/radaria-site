@@ -25,7 +25,7 @@
       "available": true,
       "url": "https://meli.la/12yDDkq",
       "affiliate": true,
-      "last_observed_at": "2026-11-08T23:02:47.440Z",
+      "last_observed_at": "2026-11-09T05:05:04.364Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -44,7 +44,7 @@
       "available": true,
       "url": "https://meli.la/12yDDkq",
       "affiliate": true,
-      "last_observed_at": "2026-11-08T23:02:47.440Z",
+      "last_observed_at": "2026-11-09T05:05:04.364Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -63,7 +63,7 @@
       "available": true,
       "url": "https://meli.la/12yDDkq",
       "affiliate": true,
-      "last_observed_at": "2026-11-08T23:02:47.440Z",
+      "last_observed_at": "2026-11-09T05:05:04.364Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,7 +82,7 @@
       "available": true,
       "url": "https://meli.la/12yDDkq",
       "affiliate": true,
-      "last_observed_at": "2026-11-08T23:02:47.440Z",
+      "last_observed_at": "2026-11-09T05:05:04.364Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -101,7 +101,26 @@
       "available": true,
       "url": "https://meli.la/12yDDkq",
       "affiliate": true,
-      "last_observed_at": "2026-11-08T23:02:47.440Z",
+      "last_observed_at": "2026-11-09T05:05:04.364Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB3648972611",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "70184883",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1149.44,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/12yDDkq",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T05:05:04.364Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -120,7 +139,7 @@
       "available": true,
       "url": "https://meli.la/12yDDkq",
       "affiliate": true,
-      "last_observed_at": "2026-11-08T23:02:47.440Z",
+      "last_observed_at": "2026-11-09T05:05:04.364Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -132,14 +151,33 @@
         "name": null,
         "reputation": "5_green"
       },
-      "price": 1002.9,
+      "price": 983.99,
       "currency": "BRL",
       "store_reference_price": null,
       "free_shipping": true,
       "available": true,
       "url": "https://meli.la/12yDDkq",
       "affiliate": true,
-      "last_observed_at": "2026-11-08T23:02:47.440Z",
+      "last_observed_at": "2026-11-09T05:05:04.364Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB3648972579",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "70184883",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1176.94,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/12yDDkq",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T05:05:04.364Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -149,20 +187,25 @@
     {
       "date": "2026-11-08",
       "min_price": 780,
-      "observations": 14
+      "observations": 18
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 780,
+      "observations": 18
     }
   ],
   "stats": {
     "median_90d": 780,
     "min_ever": 780,
     "min_ever_at": "2026-11-08",
-    "distinct_days": 1,
+    "distinct_days": 2,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
   },
   "score": 60
 }

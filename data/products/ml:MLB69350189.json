@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB69350189",
+  "slug": "capa-piscina-4x6-reforcada-protecao-contra-folhas-sujeiras-4x6-alcas-mlb69350189",
+  "title": "Capa Piscina 4x6 Reforçada Proteção Contra Folhas Sujeiras 4x6-alças",
+  "brand": null,
+  "model": null,
+  "category_slug": "jardim-e-piscina-13",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_850615-MLA111409288145_052026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB6740372712",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "762510787",
+        "name": null,
+        "reputation": null
+      },
+      "price": 292.78,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB69350189",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T08:17:04.078Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 292.78,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 292.78,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 292.78,
+    "min_ever": 292.78,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

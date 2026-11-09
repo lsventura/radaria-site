@@ -1,0 +1,64 @@
+{
+  "id": "ml:MLB47815788",
+  "slug": "smartphone-xiaomi-redmi-14c-4g-256gb-ram-4gb-preto-mlb47815788",
+  "title": "Smartphone Xiaomi Redmi 14c 4g 256gb Ram 4gb Preto",
+  "brand": null,
+  "model": null,
+  "category_slug": "celulares-4",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_937460-MLA99498687452_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4028271041",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "780816970",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1529,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2mYnH1B",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T05:29:04.142Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 1529,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 1529,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 1529,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 1529,
+    "min_ever": 1529,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

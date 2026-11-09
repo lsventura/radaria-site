@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB73850159",
+  "slug": "conjunto-infantil-de-inverno-masculino-moletom-faixa-lateral-mescla-2-mlb73850159",
+  "title": "Conjunto Infantil De Inverno Masculino Moletom Faixa Lateral Mescla 2",
+  "brand": null,
+  "model": null,
+  "category_slug": "moda-masculina-19",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_701454-MLA112209550192_062026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB6981259112",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "779715356",
+        "name": null,
+        "reputation": null
+      },
+      "price": 119.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB73850159",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T03:54:04.251Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 119.9,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 119.9,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 119.9,
+    "min_ever": 119.9,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

@@ -1,0 +1,99 @@
+{
+  "id": "ml:MLB20275956",
+  "slug": "kirkland-vitamina-c-500mg-500-capsulas-mastigaveis-mlb20275956",
+  "title": "Kirkland Vitamina C 500mg - 500 Cápsulas Mastigáveis",
+  "brand": "Kirkland Signature",
+  "model": null,
+  "category_slug": "geral",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_749270-MLA99494743668_112025-F.jpg"
+  ],
+  "attributes": {
+    "GTIN": "96619985012",
+    "BRAND": "Kirkland Signature",
+    "FLAVOR": "Laranja",
+    "IS_VEGAN": "Não",
+    "IS_ORGANIC": "Não",
+    "NET_WEIGHT": "500 mg",
+    "TRADE_NAME": "Vitamina C",
+    "INGREDIENTS": "Ácido ascórbico",
+    "SALE_FORMAT": "Unidade",
+    "IS_GLUTEN_FREE": "Sim",
+    "PACKAGING_TYPE": "Caixa",
+    "SERVING_WEIGHT": "0.5 g",
+    "UNITS_PER_PACK": "1",
+    "SERVINGS_NUMBER": "500",
+    "SUPPLEMENT_TYPE": "Nutricional",
+    "CONTAINS_LACTOSE": "Não",
+    "SUPPLEMENT_CLASS": "Vitaminas/Multivitamínicos/Minerais",
+    "SUPPLEMENT_FORMAT": "Cápsula",
+    "UNITS_PER_PACKAGE": "500",
+    "MIN_RECOMMENDED_AGE": "18 anos",
+    "PACKAGE_DATA_SOURCE": "CERTIFIED_MEASUREMENT",
+    "WITH_EXPIRATION_DATE": "Sim",
+    "NUTRITIONAL_VALUES_PER_SERVING": "500mg",
+    "IS_SUITABLE_FOR_PREGNANT_PEOPLE": "Não",
+    "IS_SUITABLE_FOR_LACTANTING_PEOPLE": "Não"
+  },
+  "offers": [
+    {
+      "offer_id": "ml:MLB7705963734",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1777383890",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 277,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB20275956",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T08:54:04.189Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4121206601",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "763726031",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 277,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB20275956",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T08:54:04.189Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-09",
+      "min_price": 277,
+      "observations": 16
+    }
+  ],
+  "stats": {
+    "median_90d": 277,
+    "min_ever": 277,
+    "min_ever_at": "2026-11-09",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

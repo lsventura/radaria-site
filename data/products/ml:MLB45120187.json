@@ -1,0 +1,83 @@
+{
+  "id": "ml:MLB45120187",
+  "slug": "placa-mae-computador-lenovo-m910q-01lm269-mlb45120187",
+  "title": "Placa Mãe Computador Lenovo M910q 01lm269",
+  "brand": null,
+  "model": null,
+  "category_slug": "informatica-14",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_831193-MLA99996666783_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4264277499",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1403892769",
+        "name": null,
+        "reputation": null
+      },
+      "price": 5413,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB45120187",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T03:36:04.263Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4263640951",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1403892769",
+        "name": null,
+        "reputation": null
+      },
+      "price": 5101.91,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB45120187",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T03:36:04.263Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 5101.91,
+      "observations": 6
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 5101.91,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 5101.91,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 5101.91,
+    "min_ever": 5101.91,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}
