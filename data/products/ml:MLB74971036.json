@@ -25,9 +25,12 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB74971036",
       "affiliate": false,
-      "last_observed_at": "2026-11-08T19:38:00.987Z"
+      "last_observed_at": "2026-11-08T19:38:00.987Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
     }
   ],
+  "payment_offers": [],
   "history": [
     {
       "date": "2026-11-08",
@@ -47,5 +50,5 @@
     "pct_below_median": 0,
     "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
   },
-  "score": 64
+  "score": 60
 }

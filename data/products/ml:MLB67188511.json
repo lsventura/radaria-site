@@ -25,31 +25,17 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB67188511",
       "affiliate": false,
-      "last_observed_at": "2026-11-08T19:23:02.025Z"
-    },
-    {
-      "offer_id": "ml:MLB4861090639",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "2527998244",
-        "name": null,
-        "reputation": null
-      },
-      "price": 249.99,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "free_shipping": true,
-      "available": true,
-      "url": "https://www.mercadolivre.com.br/p/MLB67188511",
-      "affiliate": false,
-      "last_observed_at": "2026-11-08T19:23:02.025Z"
+      "last_observed_at": "2026-11-08T19:23:02.025Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
     }
   ],
+  "payment_offers": [],
   "history": [
     {
       "date": "2026-11-08",
       "min_price": 98,
-      "observations": 2
+      "observations": 1
     }
   ],
   "stats": {
@@ -64,5 +50,5 @@
     "pct_below_median": 0,
     "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
   },
-  "score": 64
+  "score": 56
 }

@@ -25,116 +25,17 @@
       "available": true,
       "url": "https://meli.la/25duzuk",
       "affiliate": true,
-      "last_observed_at": "2026-11-08T18:54:15.971Z"
-    },
-    {
-      "offer_id": "ml:MLB4237801863",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "635420724",
-        "name": null,
-        "reputation": "5_green"
-      },
-      "price": 141.9,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "free_shipping": true,
-      "available": true,
-      "url": "https://meli.la/25duzuk",
-      "affiliate": true,
-      "last_observed_at": "2026-11-08T18:54:15.971Z"
-    },
-    {
-      "offer_id": "ml:MLB4149392449",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "296533262",
-        "name": null,
-        "reputation": "5_green"
-      },
-      "price": 153.14,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "free_shipping": true,
-      "available": true,
-      "url": "https://meli.la/25duzuk",
-      "affiliate": true,
-      "last_observed_at": "2026-11-08T18:54:15.971Z"
-    },
-    {
-      "offer_id": "ml:MLB4149392461",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "1059191124",
-        "name": null,
-        "reputation": null
-      },
-      "price": 161.9,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "free_shipping": true,
-      "available": true,
-      "url": "https://meli.la/25duzuk",
-      "affiliate": true,
-      "last_observed_at": "2026-11-08T18:54:15.971Z"
-    },
-    {
-      "offer_id": "ml:MLB5543024676",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "635420724",
-        "name": null,
-        "reputation": "5_green"
-      },
-      "price": 161.9,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "free_shipping": true,
-      "available": true,
-      "url": "https://meli.la/25duzuk",
-      "affiliate": true,
-      "last_observed_at": "2026-11-08T18:54:15.971Z"
-    },
-    {
-      "offer_id": "ml:MLB5543024682",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "296533262",
-        "name": null,
-        "reputation": "5_green"
-      },
-      "price": 141.9,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "free_shipping": true,
-      "available": true,
-      "url": "https://meli.la/25duzuk",
-      "affiliate": true,
-      "last_observed_at": "2026-11-08T18:54:15.971Z"
-    },
-    {
-      "offer_id": "ml:MLB5543024664",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "1059191124",
-        "name": null,
-        "reputation": null
-      },
-      "price": 141.9,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "free_shipping": true,
-      "available": true,
-      "url": "https://meli.la/25duzuk",
-      "affiliate": true,
-      "last_observed_at": "2026-11-08T18:54:15.971Z"
+      "last_observed_at": "2026-11-08T18:54:15.971Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
     }
   ],
+  "payment_offers": [],
   "history": [
     {
       "date": "2026-11-08",
       "min_price": 128.69,
-      "observations": 7
+      "observations": 1
     }
   ],
   "stats": {
@@ -149,5 +50,5 @@
     "pct_below_median": 0,
     "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
   },
-  "score": 64
+  "score": 56
 }

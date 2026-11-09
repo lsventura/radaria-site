@@ -1,0 +1,78 @@
+{
+  "id": "ml:MLB15052632",
+  "slug": "maquina-de-costura-genius-plus-jx-4035-elgin-cor-branco-mlb15052632",
+  "title": "Máquina De Costura Genius Plus Jx-4035 Elgin Cor Branco",
+  "brand": null,
+  "model": null,
+  "category_slug": "arte-e-artesanato-2",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_773820-MLA99473274654_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB1643801682",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "480263032",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1399,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1NoG7MD",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T00:55:10.873Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5519095615",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3790707520",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 2477,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1NoG7MD",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T00:55:10.873Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 1399,
+      "observations": 6
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 599,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 999,
+    "min_ever": 599,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": -40,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

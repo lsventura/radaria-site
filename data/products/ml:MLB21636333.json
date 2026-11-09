@@ -1,0 +1,54 @@
+{
+  "id": "ml:MLB21636333",
+  "slug": "d-addario-ez900-violao-acustico-mlb21636333",
+  "title": "D'addario Ez900 Violão Acústico",
+  "brand": null,
+  "model": null,
+  "category_slug": "instrumentos-musicais-1",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_684188-MLA99509334034_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB3661450138",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "482274717",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 104,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2ffnM6i",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T23:06:47.379Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 104,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 104,
+    "min_ever": 104,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

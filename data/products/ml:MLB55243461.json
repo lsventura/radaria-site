@@ -1,0 +1,54 @@
+{
+  "id": "ml:MLB55243461",
+  "slug": "expansao-kingom-legacy-mercadores-meeple-br-jogo-tabuleiro-mlb55243461",
+  "title": "Expansão Kingom Legacy Mercadores Meeple Br Jogo Tabuleiro",
+  "brand": null,
+  "model": null,
+  "category_slug": "brinquedos-2",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_604824-MLA99468894010_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5755249056",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1101844318",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 108.3,
+      "currency": "BRL",
+      "store_reference_price": 114,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB55243461",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T18:56:59.231Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 108.3,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 108.3,
+    "min_ever": 108.3,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}
