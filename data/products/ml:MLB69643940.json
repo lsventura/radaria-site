@@ -1,0 +1,131 @@
+{
+  "id": "ml:MLB69643940",
+  "slug": "pneu-255-70r16-bridgestone-dueler-h-t-685-111t-t-mlb69643940",
+  "title": "Pneu 255/70r16 Bridgestone Dueler H/t 685 111t T",
+  "brand": "Bridgestone",
+  "model": "DUELER H/T 685",
+  "category_slug": "geral",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_641079-MLA110703465380_052026-F.jpg"
+  ],
+  "attributes": {
+    "GTIN": "07893091035364",
+    "LINE": "DUELER H/T 685",
+    "UTQG": "520AA",
+    "BRAND": "Bridgestone",
+    "MODEL": "DUELER H/T 685",
+    "LOAD_INDEX": "111",
+    "IS_RUN_FLAT": "Não",
+    "SPEED_INDEX": "T",
+    "RIM_DIAMETER": "16 \"",
+    "TERRAIN_TYPE": "HT",
+    "TIRES_NUMBER": "1",
+    "VEHICLE_TYPE": "Carro/Caminhonete",
+    "SECTION_WIDTH": "255 mm",
+    "WITH_ICE_GRIP": "Não",
+    "UNITS_PER_PACK": "1",
+    "WITH_SNOW_GRIP": "Não",
+    "BEARING_RESISTANCE": "b",
+    "VEHICLE_TIRE_SEASON": "Todas as estações",
+    "AUTOMOTIVE_TIRE_ASPECT_RATIO": "70"
+  },
+  "offers": [
+    {
+      "offer_id": "ml:MLB4856816389",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "630414245",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1537.76,
+      "currency": "BRL",
+      "store_reference_price": 1780.33,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1zAaPqW",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T18:16:42.669Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4856638475",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "630414245",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1537.76,
+      "currency": "BRL",
+      "store_reference_price": 1780.33,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1zAaPqW",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T18:16:42.669Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4856816353",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "630414245",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1666.81,
+      "currency": "BRL",
+      "store_reference_price": 1942.17,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1zAaPqW",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T18:16:42.669Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4856638515",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "630414245",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1666.81,
+      "currency": "BRL",
+      "store_reference_price": 1942.17,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1zAaPqW",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T18:16:42.669Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-09",
+      "min_price": 1537.76,
+      "observations": 80
+    }
+  ],
+  "stats": {
+    "median_90d": 1537.76,
+    "min_ever": 1537.76,
+    "min_ever_at": "2026-11-09",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

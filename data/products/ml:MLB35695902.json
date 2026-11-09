@@ -1,0 +1,77 @@
+{
+  "id": "ml:MLB35695902",
+  "slug": "mini-moto-eletrica-infantil-mxf-ferinha-eletrica-500w-cor-vermelho-mlb35695902",
+  "title": "Mini Moto Elétrica Infantil Mxf Ferinha Elétrica 500w Cor Vermelho",
+  "brand": "MXF",
+  "model": "Ferinha Eletric",
+  "category_slug": "geral",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_642404-MLU79145351533_092024-F.jpg"
+  ],
+  "attributes": {
+    "GTIN": "7793867893269",
+    "LINE": "Minimotos",
+    "BRAND": "MXF",
+    "COLOR": "Vermelho",
+    "MODEL": "Ferinha Eletric",
+    "WIDTH": "560 cm",
+    "HEIGHT": "800 cm",
+    "LENGTH": "1245 cm",
+    "WEIGHT": "27 kg",
+    "MAX_SPEED": "25 km/h",
+    "CONTROL_TYPES": "Manual",
+    "WHEELS_NUMBER": "2",
+    "SPEED_SETTINGS": "3",
+    "BATTERY_VOLTAGE": "36V",
+    "NUMBER_OF_SEATS": "1",
+    "WHEELS_MATERIAL": "Borracha",
+    "ACCELERATION_MODE": "Guidão",
+    "POWER_SUPPLY_TYPE": "Elétrica",
+    "MIN_RECOMMENDED_AGE": "4 anos",
+    "IS_REMOTE_CONTROLLED": "Não",
+    "MAX_WEIGHT_SUPPORTED": "60 kg",
+    "WITH_TRAINING_WHEELS": "Não"
+  },
+  "offers": [
+    {
+      "offer_id": "ml:MLB6191782554",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "323769440",
+        "name": null,
+        "reputation": null
+      },
+      "price": 5335,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB35695902",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T18:05:42.611Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-09",
+      "min_price": 5335,
+      "observations": 39
+    }
+  ],
+  "stats": {
+    "median_90d": 5335,
+    "min_ever": 5335,
+    "min_ever_at": "2026-11-09",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

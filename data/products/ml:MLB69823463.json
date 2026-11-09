@@ -18,14 +18,14 @@
         "name": null,
         "reputation": null
       },
-      "price": 79.48,
+      "price": 63.96,
       "currency": "BRL",
       "store_reference_price": 88.32,
-      "free_shipping": true,
+      "free_shipping": false,
       "available": true,
-      "url": "https://www.mercadolivre.com.br/p/MLB69823463",
-      "affiliate": false,
-      "last_observed_at": "2026-11-09T06:27:04.175Z",
+      "url": "https://meli.la/2TRsXP2",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T17:51:42.742Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -39,8 +39,8 @@
     },
     {
       "date": "2026-11-09",
-      "min_price": 79.48,
-      "observations": 1
+      "min_price": 63.96,
+      "observations": 3
     },
     {
       "date": "2026-11-07",
@@ -50,15 +50,15 @@
   ],
   "stats": {
     "median_90d": 79.48,
-    "min_ever": 79.48,
-    "min_ever_at": "2026-11-07",
+    "min_ever": 63.96,
+    "min_ever_at": "2026-11-09",
     "distinct_days": 3,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 0,
+    "pct_below_median": 19.5,
     "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
   },
-  "score": 60
+  "score": 52
 }

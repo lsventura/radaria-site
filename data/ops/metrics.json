@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-11-09T09:08:20.727Z",
+  "generated_at": "2026-11-09T20:25:12.757Z",
   "schema_version": "radaria-ops/v1",
   "funnel": {
-    "discovered": 100180,
-    "distinct": 50440,
-    "with_photo": 50208,
-    "audited_approved": 6677,
-    "with_affiliate": 2558,
-    "published": 1999,
-    "fresh_history_24h": 1999
+    "discovered": 100184,
+    "distinct": 50444,
+    "with_photo": 50212,
+    "audited_approved": 6864,
+    "with_affiliate": 3592,
+    "published": 2693,
+    "fresh_history_24h": 2693
   },
   "activity_24h": {
-    "telegram_posted": 26,
-    "affiliate_links_generated": 409
+    "telegram_posted": 38,
+    "affiliate_links_generated": 1326
   },
   "by_status": {
-    "approved": 6021,
+    "approved": 5787,
     "rejected": 0,
-    "source_unavailable": 37012,
-    "pending": 7407
+    "source_unavailable": 37479,
+    "pending": 7178
   },
   "by_root_category": [
     {
       "slug": "geral",
       "name": "Geral",
-      "count": 2309
+      "count": 2313
     },
     {
       "slug": "celulares",
@@ -231,17 +231,17 @@
     {
       "from": "with_photo",
       "to": "audited_approved",
-      "ratio": 0.133
+      "ratio": 0.1367
     },
     {
       "from": "audited_approved",
       "to": "with_affiliate",
-      "ratio": 0.3831
+      "ratio": 0.5233
     },
     {
       "from": "with_affiliate",
       "to": "published",
-      "ratio": 0.7815
+      "ratio": 0.7497
     },
     {
       "from": "published",
@@ -253,59 +253,70 @@
   "errors_by_source": [
     {
       "source": "mercadolivre",
+      "http_status": 429,
+      "count_24h": 1
+    },
+    {
+      "source": "mercadolivre",
       "http_status": 404,
-      "count_24h": 43928
+      "count_24h": 50753
     },
     {
       "source": "mercadolivre",
       "http_status": 400,
-      "count_24h": 563
+      "count_24h": 48
     }
   ],
   "last_success": {
-    "publish-telegram": "2026-11-09T00:37:33.863Z",
-    "export": "2026-11-09T09:07:43.589Z",
-    "refresh": "2026-11-09T09:08:20.572Z",
-    "affiliate": "2026-11-09T07:30:07.543Z",
-    "discover": "2026-11-09T09:08:14.729Z",
-    "curate": "2026-11-09T09:08:10.113Z",
-    "audit": "2026-11-09T09:08:18.558Z"
+    "affiliate": "2026-11-09T20:24:58.029Z",
+    "audit": "2026-11-09T18:10:14.002Z",
+    "coupons": "2026-11-09T20:19:21.120Z",
+    "curate": "2026-11-09T20:24:49.932Z",
+    "discover": "2026-11-09T18:10:03.919Z",
+    "export": "2026-11-09T20:11:33.777Z",
+    "publish-telegram": "2026-11-09T20:12:37.211Z",
+    "refresh": "2026-11-09T20:25:01.919Z"
   },
   "last_run": {
     "affiliate": {
-      "at": "2026-11-09T09:08:07.145Z",
-      "status": "skipped"
+      "at": "2026-11-09T20:24:58.029Z",
+      "status": "success"
     },
     "audit": {
-      "at": "2026-11-09T09:08:37.030Z",
+      "at": "2026-11-09T18:10:16.537Z",
+      "status": "skipped"
+    },
+    "coupons": {
+      "at": "2026-11-09T20:19:21.120Z",
       "status": "success"
     },
     "curate": {
-      "at": "2026-11-09T09:08:10.113Z",
+      "at": "2026-11-09T20:24:49.932Z",
       "status": "success"
     },
     "discover": {
-      "at": "2026-11-09T09:08:14.729Z",
-      "status": "success"
+      "at": "2026-11-09T20:24:42.887Z",
+      "status": "skipped"
     },
     "export": {
-      "at": "2026-11-09T09:07:43.589Z",
+      "at": "2026-11-09T20:11:33.777Z",
       "status": "success"
     },
     "publish-telegram": {
-      "at": "2026-11-09T09:01:05.712Z",
-      "status": "skipped"
+      "at": "2026-11-09T20:22:44.509Z",
+      "status": "empty"
     },
     "refresh": {
-      "at": "2026-11-09T09:08:35.760Z",
+      "at": "2026-11-09T20:25:01.919Z",
       "status": "success"
     }
   },
   "throughput_per_hour": {
-    "audit": 876,
+    "affiliate": 60,
+    "coupons": 3,
     "curate": 60,
-    "discover": 60,
     "export": 2,
-    "refresh": 1852
+    "publish-telegram": 2,
+    "refresh": 2131
   }
 }

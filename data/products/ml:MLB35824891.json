@@ -1,0 +1,96 @@
+{
+  "id": "ml:MLB35824891",
+  "slug": "pneu-175-70-r14-88-t-dunlop-grandtrek-at5-aro-14-mlb35824891",
+  "title": "Pneu 175/70 R14 88 T Dunlop Grandtrek At5 Aro 14",
+  "brand": "Dunlop",
+  "model": "Grandtrek AT5",
+  "category_slug": "geral",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_634632-MLA99882248887_112025-F.jpg"
+  ],
+  "attributes": {
+    "LINE": "Grandtrek AT5",
+    "UTQG": "500BB",
+    "BRAND": "Dunlop",
+    "MODEL": "Grandtrek AT5",
+    "LOAD_INDEX": "88 - 560Kg",
+    "LOAD_RANGE": "XL",
+    "IS_RUN_FLAT": "Não",
+    "SPEED_INDEX": "T",
+    "RIM_DIAMETER": "14 \"",
+    "SERVICE_TYPE": "P",
+    "TERRAIN_TYPE": "AT",
+    "TIRES_NUMBER": "1",
+    "VEHICLE_TYPE": "Carro/Caminhonete",
+    "SECTION_WIDTH": "175 mm",
+    "UNITS_PER_PACK": "1",
+    "BEARING_RESISTANCE": "F",
+    "VEHICLE_TIRE_SEASON": "Todas as estações",
+    "WET_GRIP_EFFICIENCY": "A",
+    "MANUFACTURER_TIRE_SIZE": "175/70R14",
+    "AUTOMOTIVE_TIRE_ASPECT_RATIO": "70",
+    "EXTERNAL_NOISE_REDUCTION_LEVEL": "72 dBA",
+    "EXTERNAL_NOISE_REDUCTION_EFFICIENCY": "A"
+  },
+  "offers": [
+    {
+      "offer_id": "ml:MLB5537221792",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "630414245",
+        "name": null,
+        "reputation": null
+      },
+      "price": 520.87,
+      "currency": "BRL",
+      "store_reference_price": 789.9,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB35824891",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T18:05:42.611Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5537452318",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "630414245",
+        "name": null,
+        "reputation": null
+      },
+      "price": 497.05,
+      "currency": "BRL",
+      "store_reference_price": 674.9,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB35824891",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T18:05:42.611Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-09",
+      "min_price": 497.05,
+      "observations": 40
+    }
+  ],
+  "stats": {
+    "median_90d": 497.05,
+    "min_ever": 497.05,
+    "min_ever_at": "2026-11-09",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

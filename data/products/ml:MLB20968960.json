@@ -25,7 +25,7 @@
       "available": true,
       "url": "https://meli.la/2TeYT6Z",
       "affiliate": true,
-      "last_observed_at": "2026-11-09T03:09:04.110Z",
+      "last_observed_at": "2026-11-09T18:48:42.951Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -37,14 +37,14 @@
         "name": null,
         "reputation": null
       },
-      "price": 1289.95,
+      "price": 1251.25,
       "currency": "BRL",
       "store_reference_price": 1375.95,
       "free_shipping": true,
       "available": true,
       "url": "https://meli.la/2TeYT6Z",
       "affiliate": true,
-      "last_observed_at": "2026-11-09T03:09:04.110Z",
+      "last_observed_at": "2026-11-09T18:48:42.951Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -63,7 +63,7 @@
       "available": true,
       "url": "https://meli.la/2TeYT6Z",
       "affiliate": true,
-      "last_observed_at": "2026-11-09T03:09:04.110Z",
+      "last_observed_at": "2026-11-09T18:48:42.951Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,7 +82,7 @@
       "available": true,
       "url": "https://meli.la/2TeYT6Z",
       "affiliate": true,
-      "last_observed_at": "2026-11-09T03:09:04.110Z",
+      "last_observed_at": "2026-11-09T18:48:42.951Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -96,21 +96,21 @@
     },
     {
       "date": "2026-11-09",
-      "min_price": 1289.95,
-      "observations": 4
+      "min_price": 1251.25,
+      "observations": 12
     }
   ],
   "stats": {
-    "median_90d": 1289.95,
-    "min_ever": 1289.95,
-    "min_ever_at": "2026-11-08",
+    "median_90d": 1270.6,
+    "min_ever": 1251.25,
+    "min_ever_at": "2026-11-09",
     "distinct_days": 2,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 0,
+    "pct_below_median": 1.5,
     "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
   },
-  "score": 60
+  "score": 64
 }

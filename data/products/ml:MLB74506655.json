@@ -18,14 +18,14 @@
         "name": null,
         "reputation": null
       },
-      "price": 269.9,
+      "price": 107.96,
       "currency": "BRL",
-      "store_reference_price": null,
+      "store_reference_price": 269.9,
       "free_shipping": true,
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB74506655",
       "affiliate": false,
-      "last_observed_at": "2026-11-09T08:31:04.203Z",
+      "last_observed_at": "2026-11-09T19:58:42.591Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -39,8 +39,8 @@
     },
     {
       "date": "2026-11-09",
-      "min_price": 269.9,
-      "observations": 2
+      "min_price": 107.96,
+      "observations": 5
     },
     {
       "date": "2026-11-07",
@@ -57,7 +57,7 @@
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": -150.1,
+    "pct_below_median": -0.1,
     "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
   },
   "score": 64

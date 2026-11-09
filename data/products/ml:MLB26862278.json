@@ -25,7 +25,7 @@
       "available": true,
       "url": "https://meli.la/1YRSz8y",
       "affiliate": true,
-      "last_observed_at": "2026-11-09T08:37:04.172Z",
+      "last_observed_at": "2026-11-09T16:02:07.843Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -37,14 +37,14 @@
         "name": null,
         "reputation": "5_green"
       },
-      "price": 216.11,
+      "price": 217.28,
       "currency": "BRL",
       "store_reference_price": null,
       "free_shipping": true,
       "available": true,
       "url": "https://meli.la/1YRSz8y",
       "affiliate": true,
-      "last_observed_at": "2026-11-09T08:37:04.172Z",
+      "last_observed_at": "2026-11-09T16:02:07.843Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -63,7 +63,7 @@
       "available": true,
       "url": "https://meli.la/1YRSz8y",
       "affiliate": true,
-      "last_observed_at": "2026-11-09T08:37:04.172Z",
+      "last_observed_at": "2026-11-09T16:02:07.843Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -75,14 +75,14 @@
         "name": null,
         "reputation": "5_green"
       },
-      "price": 222.4,
+      "price": 223.61,
       "currency": "BRL",
       "store_reference_price": null,
       "free_shipping": true,
       "available": true,
       "url": "https://meli.la/1YRSz8y",
       "affiliate": true,
-      "last_observed_at": "2026-11-09T08:37:04.172Z",
+      "last_observed_at": "2026-11-09T16:02:07.843Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -97,7 +97,7 @@
     {
       "date": "2026-11-09",
       "min_price": 216.11,
-      "observations": 4
+      "observations": 8
     },
     {
       "date": "2026-11-05",
@@ -119,8 +119,8 @@
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 0,
+    "pct_below_median": -0.5,
     "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
   },
-  "score": 64
+  "score": 60
 }

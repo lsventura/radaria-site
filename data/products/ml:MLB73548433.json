@@ -18,14 +18,14 @@
         "name": null,
         "reputation": "5_green"
       },
-      "price": 114.99,
+      "price": 119.14,
       "currency": "BRL",
       "store_reference_price": 169.99,
       "free_shipping": true,
       "available": true,
-      "url": "https://www.mercadolivre.com.br/p/MLB73548433",
-      "affiliate": false,
-      "last_observed_at": "2026-11-08T16:51:03.812Z",
+      "url": "https://meli.la/1fKG4jS",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T16:35:07.711Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -38,22 +38,27 @@
       "observations": 1
     },
     {
+      "date": "2026-11-09",
+      "min_price": 119.14,
+      "observations": 2
+    },
+    {
       "date": "2026-11-07",
       "min_price": 119.14,
       "observations": 1
     }
   ],
   "stats": {
-    "median_90d": 117.07,
+    "median_90d": 119.14,
     "min_ever": 114.99,
     "min_ever_at": "2026-11-08",
-    "distinct_days": 2,
+    "distinct_days": 3,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 1.8,
-    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
   },
-  "score": 52
+  "score": 60
 }

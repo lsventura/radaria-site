@@ -1,0 +1,72 @@
+{
+  "id": "ml:MLB51977916",
+  "slug": "pneu-175-75-r14-xbri-forza-86t-at-mlb51977916",
+  "title": "Pneu 175/75 R14 Xbri Forza 86t At",
+  "brand": "Xbri",
+  "model": "XBRI FORZA",
+  "category_slug": "geral",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_955723-MLA99399437298_112025-F.jpg"
+  ],
+  "attributes": {
+    "GTIN": "9963748202963",
+    "LINE": "Passeio",
+    "BRAND": "Xbri",
+    "MODEL": "XBRI FORZA",
+    "SIDEWALL": "BLT",
+    "LOAD_INDEX": "86",
+    "LOAD_RANGE": "LL",
+    "IS_RUN_FLAT": "Não",
+    "SPEED_INDEX": "T",
+    "RIM_DIAMETER": "14 \"",
+    "SERVICE_TYPE": "P",
+    "TERRAIN_TYPE": "HT",
+    "TIRES_NUMBER": "1",
+    "VEHICLE_TYPE": "Carro/Caminhonete",
+    "SECTION_WIDTH": "127 mm",
+    "UNITS_PER_PACK": "1",
+    "AUTOMOTIVE_TIRE_ASPECT_RATIO": "75"
+  },
+  "offers": [
+    {
+      "offer_id": "ml:MLB4113554329",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "132418341",
+        "name": null,
+        "reputation": null
+      },
+      "price": 384.4,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1YsMzGm",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T18:10:42.749Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-09",
+      "min_price": 384.4,
+      "observations": 20
+    }
+  ],
+  "stats": {
+    "median_90d": 384.4,
+    "min_ever": 384.4,
+    "min_ever_at": "2026-11-09",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

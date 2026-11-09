@@ -25,45 +25,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB59142103",
       "affiliate": false,
-      "last_observed_at": "2026-11-09T05:41:04.263Z",
-      "payment_context": "channel_marketplace",
-      "payment_method": null
-    },
-    {
-      "offer_id": "ml:MLB5775814344",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "289951903",
-        "name": null,
-        "reputation": null
-      },
-      "price": 225.9,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "free_shipping": true,
-      "available": true,
-      "url": "https://www.mercadolivre.com.br/p/MLB59142103",
-      "affiliate": false,
-      "last_observed_at": "2026-11-09T05:41:04.263Z",
-      "payment_context": "channel_marketplace",
-      "payment_method": null
-    },
-    {
-      "offer_id": "ml:MLB5775865868",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "289951903",
-        "name": null,
-        "reputation": null
-      },
-      "price": 245.9,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "free_shipping": true,
-      "available": true,
-      "url": "https://www.mercadolivre.com.br/p/MLB59142103",
-      "affiliate": false,
-      "last_observed_at": "2026-11-09T05:41:04.263Z",
+      "last_observed_at": "2026-11-09T13:34:04.774Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,7 +44,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB59142103",
       "affiliate": false,
-      "last_observed_at": "2026-11-09T05:41:04.263Z",
+      "last_observed_at": "2026-11-09T13:34:04.774Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -92,12 +54,12 @@
     {
       "date": "2026-11-08",
       "min_price": 225.9,
-      "observations": 4
+      "observations": 2
     },
     {
       "date": "2026-11-09",
       "min_price": 225.9,
-      "observations": 8
+      "observations": 6
     }
   ],
   "stats": {
@@ -112,5 +74,5 @@
     "pct_below_median": 0,
     "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
   },
-  "score": 60
+  "score": 56
 }

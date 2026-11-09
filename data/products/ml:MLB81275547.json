@@ -18,14 +18,14 @@
         "name": null,
         "reputation": "5_green"
       },
-      "price": 1990,
+      "price": 1890,
       "currency": "BRL",
       "store_reference_price": 4699,
       "free_shipping": true,
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB81275547",
       "affiliate": false,
-      "last_observed_at": "2026-11-08T17:13:52.448Z",
+      "last_observed_at": "2026-11-09T17:56:42.367Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -38,22 +38,27 @@
       "observations": 1
     },
     {
+      "date": "2026-11-09",
+      "min_price": 1890,
+      "observations": 2
+    },
+    {
       "date": "2026-11-07",
       "min_price": 1890,
       "observations": 1
     }
   ],
   "stats": {
-    "median_90d": 1940,
+    "median_90d": 1890,
     "min_ever": 1890,
     "min_ever_at": "2026-11-07",
-    "distinct_days": 2,
+    "distinct_days": 3,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": -2.6,
-    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
   },
-  "score": 52
+  "score": 60
 }

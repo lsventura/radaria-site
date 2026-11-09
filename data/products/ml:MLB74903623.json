@@ -18,14 +18,14 @@
         "name": null,
         "reputation": null
       },
-      "price": 174.89,
+      "price": 179.91,
       "currency": "BRL",
       "store_reference_price": 199.9,
       "free_shipping": true,
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB74903623",
       "affiliate": false,
-      "last_observed_at": "2026-11-09T06:44:04.470Z",
+      "last_observed_at": "2026-11-09T17:34:42.610Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -40,7 +40,7 @@
     {
       "date": "2026-11-09",
       "min_price": 174.89,
-      "observations": 1
+      "observations": 3
     },
     {
       "date": "2026-11-07",
@@ -57,7 +57,7 @@
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 2.8,
+    "pct_below_median": 0,
     "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
   },
   "score": 60

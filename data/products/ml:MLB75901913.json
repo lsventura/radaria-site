@@ -18,14 +18,14 @@
         "name": null,
         "reputation": null
       },
-      "price": 4599,
+      "price": 3332,
       "currency": "BRL",
-      "store_reference_price": null,
+      "store_reference_price": 4599,
       "free_shipping": true,
       "available": true,
-      "url": "https://www.mercadolivre.com.br/p/MLB75901913",
-      "affiliate": false,
-      "last_observed_at": "2026-11-09T06:49:04.112Z",
+      "url": "https://meli.la/1PVfqjb",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T19:06:42.349Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -39,8 +39,8 @@
     },
     {
       "date": "2026-11-09",
-      "min_price": 4599,
-      "observations": 1
+      "min_price": 3332,
+      "observations": 4
     },
     {
       "date": "2026-11-07",
@@ -50,15 +50,15 @@
   ],
   "stats": {
     "median_90d": 3699,
-    "min_ever": 3699,
-    "min_ever_at": "2026-11-07",
+    "min_ever": 3332,
+    "min_ever_at": "2026-11-09",
     "distinct_days": 3,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": -24.3,
+    "pct_below_median": 9.9,
     "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
   },
-  "score": 60
+  "score": 64
 }

@@ -25,7 +25,7 @@
       "available": true,
       "url": "https://meli.la/11pcekQ",
       "affiliate": true,
-      "last_observed_at": "2026-11-09T08:09:04.281Z",
+      "last_observed_at": "2026-11-09T15:35:47.646Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -37,14 +37,14 @@
         "name": null,
         "reputation": null
       },
-      "price": 1749,
+      "price": 1769,
       "currency": "BRL",
       "store_reference_price": 2899.9,
       "free_shipping": true,
       "available": true,
       "url": "https://meli.la/11pcekQ",
       "affiliate": true,
-      "last_observed_at": "2026-11-09T08:09:04.281Z",
+      "last_observed_at": "2026-11-09T15:35:47.646Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -63,7 +63,7 @@
       "available": true,
       "url": "https://meli.la/11pcekQ",
       "affiliate": true,
-      "last_observed_at": "2026-11-09T08:09:04.281Z",
+      "last_observed_at": "2026-11-09T15:35:47.646Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -78,7 +78,7 @@
     {
       "date": "2026-11-09",
       "min_price": 1749,
-      "observations": 6
+      "observations": 9
     },
     {
       "date": "2026-11-06",
@@ -95,8 +95,8 @@
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 1.1,
+    "pct_below_median": 0,
     "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
   },
-  "score": 64
+  "score": 60
 }

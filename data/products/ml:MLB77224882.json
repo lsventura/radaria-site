@@ -18,14 +18,14 @@
         "name": null,
         "reputation": "5_green"
       },
-      "price": 309,
+      "price": 319,
       "currency": "BRL",
       "store_reference_price": 499,
       "free_shipping": true,
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB77224882",
       "affiliate": false,
-      "last_observed_at": "2026-11-09T08:22:04.153Z",
+      "last_observed_at": "2026-11-09T15:48:47.790Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -40,7 +40,7 @@
     {
       "date": "2026-11-09",
       "min_price": 309,
-      "observations": 2
+      "observations": 3
     }
   ],
   "stats": {
@@ -52,8 +52,8 @@
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 0,
+    "pct_below_median": -3.2,
     "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
   },
-  "score": 64
+  "score": 60
 }

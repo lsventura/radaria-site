@@ -25,7 +25,7 @@
       "available": true,
       "url": "https://meli.la/2VQTnuX",
       "affiliate": true,
-      "last_observed_at": "2026-11-09T04:56:04.358Z",
+      "last_observed_at": "2026-11-09T20:03:42.672Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -44,7 +44,7 @@
       "available": true,
       "url": "https://meli.la/2VQTnuX",
       "affiliate": true,
-      "last_observed_at": "2026-11-09T04:56:04.358Z",
+      "last_observed_at": "2026-11-09T20:03:42.672Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -63,7 +63,7 @@
       "available": true,
       "url": "https://meli.la/2VQTnuX",
       "affiliate": true,
-      "last_observed_at": "2026-11-09T04:56:04.358Z",
+      "last_observed_at": "2026-11-09T20:03:42.672Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,7 +82,7 @@
       "available": true,
       "url": "https://meli.la/2VQTnuX",
       "affiliate": true,
-      "last_observed_at": "2026-11-09T04:56:04.358Z",
+      "last_observed_at": "2026-11-09T20:03:42.672Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -94,14 +94,14 @@
         "name": null,
         "reputation": null
       },
-      "price": 645.51,
+      "price": 510.47,
       "currency": "BRL",
       "store_reference_price": 709,
       "free_shipping": true,
       "available": true,
       "url": "https://meli.la/2VQTnuX",
       "affiliate": true,
-      "last_observed_at": "2026-11-09T04:56:04.358Z",
+      "last_observed_at": "2026-11-09T20:03:42.672Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -115,8 +115,8 @@
     },
     {
       "date": "2026-11-09",
-      "min_price": 629,
-      "observations": 10
+      "min_price": 510.47,
+      "observations": 20
     },
     {
       "date": "2026-11-06",
@@ -125,7 +125,7 @@
     }
   ],
   "stats": {
-    "median_90d": 629,
+    "median_90d": 510.47,
     "min_ever": 499.9,
     "min_ever_at": "2026-11-06",
     "distinct_days": 3,
@@ -136,5 +136,5 @@
     "pct_below_median": 0,
     "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
   },
-  "score": 60
+  "score": 64
 }

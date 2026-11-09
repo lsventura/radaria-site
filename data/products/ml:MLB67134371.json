@@ -18,14 +18,14 @@
         "name": null,
         "reputation": "5_green"
       },
-      "price": 208.05,
+      "price": 220.95,
       "currency": "BRL",
       "store_reference_price": 275.75,
       "free_shipping": true,
       "available": true,
       "url": "https://meli.la/27fPx68",
       "affiliate": true,
-      "last_observed_at": "2026-11-08T16:30:23.369Z",
+      "last_observed_at": "2026-11-09T16:46:08.128Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -44,7 +44,7 @@
       "available": true,
       "url": "https://meli.la/27fPx68",
       "affiliate": true,
-      "last_observed_at": "2026-11-08T16:30:23.369Z",
+      "last_observed_at": "2026-11-09T16:46:08.128Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -56,14 +56,14 @@
         "name": null,
         "reputation": "5_green"
       },
-      "price": 217.55,
+      "price": 220.45,
       "currency": "BRL",
       "store_reference_price": 298.04,
       "free_shipping": true,
       "available": true,
       "url": "https://meli.la/27fPx68",
       "affiliate": true,
-      "last_observed_at": "2026-11-08T16:30:23.369Z",
+      "last_observed_at": "2026-11-09T16:46:08.128Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -76,22 +76,27 @@
       "observations": 3
     },
     {
+      "date": "2026-11-09",
+      "min_price": 208.05,
+      "observations": 6
+    },
+    {
       "date": "2026-11-06",
       "min_price": 203.69,
       "observations": 4
     }
   ],
   "stats": {
-    "median_90d": 205.87,
+    "median_90d": 208.05,
     "min_ever": 203.69,
     "min_ever_at": "2026-11-06",
-    "distinct_days": 2,
+    "distinct_days": 3,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": -1.1,
-    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+    "pct_below_median": -0.9,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
   },
-  "score": 52
+  "score": 60
 }

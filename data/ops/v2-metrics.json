@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-11-09T09:08:20.727Z",
-  "measured_at": "2026-11-09T09:08:00.019Z",
+  "generated_at": "2026-11-09T20:25:12.757Z",
+  "measured_at": "2026-11-09T20:24:00.018Z",
   "stale": false,
   "error": null,
   "funnel": {
-    "discovered": 51287,
-    "distinct": 49719,
-    "with_photo": 49703,
-    "audited_approved": 4142,
+    "discovered": 52062,
+    "distinct": 50480,
+    "with_photo": 50464,
+    "audited_approved": 4184,
     "with_affiliate": 1860,
     "published": 1855
   },
   "activity_24h": {
-    "affiliate_links_generated": 120,
-    "publication_checks": 152
+    "affiliate_links_generated": 0,
+    "publication_checks": 0
   },
   "queues": {
-    "affiliate": 2282,
-    "publication": 0
+    "affiliate": 2324,
+    "publication": 2
   }
 }

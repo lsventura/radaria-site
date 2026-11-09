@@ -18,14 +18,14 @@
         "name": null,
         "reputation": null
       },
-      "price": 169.9,
+      "price": 159.9,
       "currency": "BRL",
       "store_reference_price": 239.99,
       "free_shipping": true,
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB55937279",
       "affiliate": false,
-      "last_observed_at": "2026-11-09T05:48:03.989Z",
+      "last_observed_at": "2026-11-09T19:07:42.671Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -39,8 +39,8 @@
     },
     {
       "date": "2026-11-09",
-      "min_price": 169.9,
-      "observations": 1
+      "min_price": 159.9,
+      "observations": 4
     },
     {
       "date": "2026-11-07",
@@ -57,8 +57,8 @@
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": -14.6,
+    "pct_below_median": -7.8,
     "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
   },
-  "score": 60
+  "score": 64
 }

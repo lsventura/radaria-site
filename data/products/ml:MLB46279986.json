@@ -1,0 +1,93 @@
+{
+  "id": "ml:MLB46279986",
+  "slug": "pneu-175-80-r14-comforser-cf1100-92t-mlb46279986",
+  "title": "Pneu 175/80 R14 Comforser Cf1100 92t",
+  "brand": "Comforser",
+  "model": "CF1100",
+  "category_slug": "geral",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_653255-MLA88403265811_072025-F.jpg"
+  ],
+  "attributes": {
+    "GTIN": "7890014777776",
+    "LINE": "Passeio",
+    "BRAND": "Comforser",
+    "MODEL": "CF1100",
+    "SIDEWALL": "BLT",
+    "LOAD_INDEX": "92",
+    "LOAD_RANGE": "LL",
+    "IS_RUN_FLAT": "Não",
+    "SPEED_INDEX": "T",
+    "RIM_DIAMETER": "14 \"",
+    "SERVICE_TYPE": "P",
+    "TERRAIN_TYPE": "HT",
+    "TIRES_NUMBER": "1",
+    "VEHICLE_TYPE": "Carro/Caminhonete",
+    "SECTION_WIDTH": "152.4 mm",
+    "UNITS_PER_PACK": "1",
+    "BEARING_RESISTANCE": "C",
+    "AUTOMOTIVE_TIRE_ASPECT_RATIO": "80",
+    "EXTERNAL_NOISE_REDUCTION_LEVEL": "71 dBA"
+  },
+  "offers": [
+    {
+      "offer_id": "ml:MLB5324983720",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "132418341",
+        "name": null,
+        "reputation": null
+      },
+      "price": 584.1,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1K7bJxX",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T18:08:42.446Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB3984018625",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "132418341",
+        "name": null,
+        "reputation": null
+      },
+      "price": 594.37,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1K7bJxX",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T18:08:42.446Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-09",
+      "min_price": 584.1,
+      "observations": 40
+    }
+  ],
+  "stats": {
+    "median_90d": 584.1,
+    "min_ever": 584.1,
+    "min_ever_at": "2026-11-09",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

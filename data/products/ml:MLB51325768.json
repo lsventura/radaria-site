@@ -1,0 +1,87 @@
+{
+  "id": "ml:MLB51325768",
+  "slug": "pneu-sunny-225-60r17-99v-nu025-h-t-mlb51325768",
+  "title": "Pneu Sunny 225/60r17 99v Nu025 H/t",
+  "brand": "Sunny",
+  "model": "NU025 H/T",
+  "category_slug": "geral",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_711263-MLA99399027760_112025-F.jpg"
+  ],
+  "attributes": {
+    "GTIN": "7908249313130",
+    "BRAND": "Sunny",
+    "MODEL": "NU025 H/T",
+    "LOAD_INDEX": "99",
+    "SPEED_INDEX": "V",
+    "RIM_DIAMETER": "17 \"",
+    "SERVICE_TYPE": "P",
+    "TERRAIN_TYPE": "HT",
+    "TIRES_NUMBER": "1",
+    "VEHICLE_TYPE": "Carro/Caminhonete",
+    "SECTION_WIDTH": "2250 mm",
+    "UNITS_PER_PACK": "1",
+    "AUTOMOTIVE_TIRE_ASPECT_RATIO": "60"
+  },
+  "offers": [
+    {
+      "offer_id": "ml:MLB4097163389",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1484189531",
+        "name": null,
+        "reputation": null
+      },
+      "price": 711.39,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB51325768",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T18:10:42.749Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5517958060",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1484189531",
+        "name": null,
+        "reputation": null
+      },
+      "price": 746.29,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB51325768",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T18:10:42.749Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-09",
+      "min_price": 711.39,
+      "observations": 40
+    }
+  ],
+  "stats": {
+    "median_90d": 711.39,
+    "min_ever": 711.39,
+    "min_ever_at": "2026-11-09",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

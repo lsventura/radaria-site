@@ -1,0 +1,104 @@
+{
+  "id": "ml:MLB68445160",
+  "slug": "bateria-unipower-12v-5ah-moto-eletrica-carrinho-infantil-mlb68445160",
+  "title": "Bateria Unipower 12v 5ah Moto Elétrica Carrinho Infantil",
+  "brand": "Unipower",
+  "model": "UP1250",
+  "category_slug": "geral",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_648917-MLA110761966525_042026-F.jpg"
+  ],
+  "attributes": {
+    "GTIN": "07899097452822",
+    "BRAND": "Unipower",
+    "MODEL": "UP1250",
+    "WIDTH": "6.3 cm",
+    "HEIGHT": "9 cm",
+    "LENGTH": "10 cm",
+    "WEIGHT": "1.7 kg",
+    "TECHNOLOGY": "VRLA",
+    "BATTERY_VOLTAGE": "12V",
+    "BATTERY_CAPACITY": "5 Ah",
+    "PACKAGE_DATA_SOURCE": "SELLER"
+  },
+  "offers": [
+    {
+      "offer_id": "ml:MLB6670492868",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1429145276",
+        "name": null,
+        "reputation": null
+      },
+      "price": 99.88,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2LB9Eah",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T18:14:42.754Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6673267376",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1277687041",
+        "name": null,
+        "reputation": null
+      },
+      "price": 92.23,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2LB9Eah",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T18:14:42.754Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6673370588",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1277687041",
+        "name": null,
+        "reputation": null
+      },
+      "price": 95.75,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2LB9Eah",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T18:14:42.754Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-09",
+      "min_price": 92.23,
+      "observations": 63
+    }
+  ],
+  "stats": {
+    "median_90d": 92.23,
+    "min_ever": 92.23,
+    "min_ever_at": "2026-11-09",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

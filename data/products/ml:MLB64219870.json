@@ -1,0 +1,80 @@
+{
+  "id": "ml:MLB64219870",
+  "slug": "rastreador-veicular-kytrack-905-conexao-4g-com-ima-qualidade-mlb64219870",
+  "title": "Rastreador Veicular Kytrack 905 Conexão 4g Com Imã Qualidade",
+  "brand": "Kytrack",
+  "model": "Ky905 4g",
+  "category_slug": "geral",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_840687-MLA104663550577_012026-F.jpg"
+  ],
+  "attributes": {
+    "BRAND": "Kytrack",
+    "MODEL": "Ky905 4g",
+    "MANUFACTURER": "Kytrack",
+    "GPS_PRECISION": "5 m",
+    "BATTERY_DURATION": "20 dias",
+    "TRANSMISSION_NETWORK": "GPRS"
+  },
+  "offers": [
+    {
+      "offer_id": "ml:MLB4435103561",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "385018281",
+        "name": null,
+        "reputation": null
+      },
+      "price": 341.99,
+      "currency": "BRL",
+      "store_reference_price": 379.99,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1W4z9FY",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T18:12:42.453Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4435103553",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "385018281",
+        "name": null,
+        "reputation": null
+      },
+      "price": 353.33,
+      "currency": "BRL",
+      "store_reference_price": 387.99,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1W4z9FY",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T18:12:42.453Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-09",
+      "min_price": 341.99,
+      "observations": 40
+    }
+  ],
+  "stats": {
+    "median_90d": 341.99,
+    "min_ever": 341.99,
+    "min_ever_at": "2026-11-09",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

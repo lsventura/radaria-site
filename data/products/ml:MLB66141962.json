@@ -18,14 +18,14 @@
         "name": null,
         "reputation": null
       },
-      "price": 999,
+      "price": 1399,
       "currency": "BRL",
       "store_reference_price": 1499,
       "free_shipping": true,
       "available": true,
       "url": "https://meli.la/17RQpJW",
       "affiliate": true,
-      "last_observed_at": "2026-11-09T08:02:04.272Z",
+      "last_observed_at": "2026-11-09T19:31:42.819Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -44,7 +44,7 @@
       "available": true,
       "url": "https://meli.la/17RQpJW",
       "affiliate": true,
-      "last_observed_at": "2026-11-09T08:02:04.272Z",
+      "last_observed_at": "2026-11-09T19:31:42.819Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -56,14 +56,14 @@
         "name": null,
         "reputation": null
       },
-      "price": 1234.05,
+      "price": 1299,
       "currency": "BRL",
       "store_reference_price": null,
       "free_shipping": true,
       "available": true,
       "url": "https://meli.la/17RQpJW",
       "affiliate": true,
-      "last_observed_at": "2026-11-09T08:02:04.272Z",
+      "last_observed_at": "2026-11-09T19:31:42.819Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,7 +82,7 @@
       "available": true,
       "url": "https://meli.la/17RQpJW",
       "affiliate": true,
-      "last_observed_at": "2026-11-09T08:02:04.272Z",
+      "last_observed_at": "2026-11-09T19:31:42.819Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -101,7 +101,7 @@
       "available": true,
       "url": "https://meli.la/17RQpJW",
       "affiliate": true,
-      "last_observed_at": "2026-11-09T08:02:04.272Z",
+      "last_observed_at": "2026-11-09T19:31:42.819Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -116,7 +116,7 @@
     {
       "date": "2026-11-09",
       "min_price": 999,
-      "observations": 10
+      "observations": 25
     },
     {
       "date": "2026-11-07",
@@ -133,7 +133,7 @@
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 0,
+    "pct_below_median": -15.1,
     "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
   },
   "score": 64

@@ -18,14 +18,14 @@
         "name": null,
         "reputation": "5_green"
       },
-      "price": 4429.03,
+      "price": 4453.1,
       "currency": "BRL",
-      "store_reference_price": 4566.03,
+      "store_reference_price": 4590.85,
       "free_shipping": true,
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB62971919",
       "affiliate": false,
-      "last_observed_at": "2026-11-09T03:31:04.147Z",
+      "last_observed_at": "2026-11-09T17:38:42.559Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -40,7 +40,7 @@
     {
       "date": "2026-11-09",
       "min_price": 4429.03,
-      "observations": 1
+      "observations": 3
     }
   ],
   "stats": {
@@ -52,7 +52,7 @@
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 0,
+    "pct_below_median": -0.5,
     "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
   },
   "score": 60

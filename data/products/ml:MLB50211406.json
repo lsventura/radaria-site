@@ -18,14 +18,14 @@
         "name": null,
         "reputation": null
       },
-      "price": 429.22,
+      "price": 416.34,
       "currency": "BRL",
       "store_reference_price": 536.53,
       "free_shipping": true,
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB50211406",
       "affiliate": false,
-      "last_observed_at": "2026-11-09T03:41:04.139Z",
+      "last_observed_at": "2026-11-09T19:10:42.554Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -39,21 +39,21 @@
     },
     {
       "date": "2026-11-09",
-      "min_price": 429.22,
-      "observations": 2
+      "min_price": 416.34,
+      "observations": 4
     }
   ],
   "stats": {
-    "median_90d": 429.22,
-    "min_ever": 429.22,
-    "min_ever_at": "2026-11-08",
+    "median_90d": 422.78,
+    "min_ever": 416.34,
+    "min_ever_at": "2026-11-09",
     "distinct_days": 2,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 0,
+    "pct_below_median": 1.5,
     "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
   },
-  "score": 60
+  "score": 64
 }

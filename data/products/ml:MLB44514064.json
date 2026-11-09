@@ -1,0 +1,58 @@
+{
+  "id": "ml:MLB44514064",
+  "slug": "conjunto-gatilho-pistola-airsoft-co2-wingun-c11-6mm-mlb44514064",
+  "title": "Conjunto Gatilho Pistola Airsoft Co2 Wingun C11 6mm",
+  "brand": "Wingun",
+  "model": "C11 6mm",
+  "category_slug": "geral",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_798451-MLA99498858290_112025-F.jpg"
+  ],
+  "attributes": {
+    "GTIN": "7890000096966",
+    "BRAND": "Wingun",
+    "MODEL": "C11 6mm"
+  },
+  "offers": [
+    {
+      "offer_id": "ml:MLB5212173280",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "92541850",
+        "name": null,
+        "reputation": null
+      },
+      "price": 81.09,
+      "currency": "BRL",
+      "store_reference_price": 99.9,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB44514064",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T18:07:42.764Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-09",
+      "min_price": 81.09,
+      "observations": 20
+    }
+  ],
+  "stats": {
+    "median_90d": 81.09,
+    "min_ever": 81.09,
+    "min_ever_at": "2026-11-09",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

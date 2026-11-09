@@ -1,0 +1,78 @@
+{
+  "id": "ml:MLB74509501",
+  "slug": "processador-amd-ryzen-7-5700x3d-oem-4-1ghz-8-nucleos-16-th-mlb74509501",
+  "title": "Processador Amd Ryzen 7 5700x3d Oem 4.1ghz 8 Núcleos 16 Th",
+  "brand": "AMD",
+  "model": "5700X3D OEM",
+  "category_slug": "informatica-12",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_885940-MLA113725835675_062026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7952990350",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "585528512",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 2635,
+      "currency": "BRL",
+      "store_reference_price": 3100,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB74509501",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T17:32:08.651Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5265470389",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "827106164",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 2662,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB74509501",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T17:32:08.651Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 2635,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 2635,
+      "observations": 40
+    }
+  ],
+  "stats": {
+    "median_90d": 2635,
+    "min_ever": 2635,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}
