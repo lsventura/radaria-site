@@ -1,0 +1,73 @@
+{
+  "id": "ml:MLB22846497",
+  "slug": "motobomba-com-pr-filtro-piscina-1-hp-pf42e0315as1-syllent-mlb22846497",
+  "title": "Motobomba Com Pr Filtro Piscina 1 Hp - Pf42e0315as1 Syllent",
+  "brand": null,
+  "model": null,
+  "category_slug": "jardim-e-piscina-14",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_879298-MLA117930590469_092026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7436285116",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "47401054",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 1699,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/26qfoHi",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T23:17:47.414Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB3303971537",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "92979771",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 1945.85,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/26qfoHi",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T23:17:47.414Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 1699,
+      "observations": 4
+    }
+  ],
+  "stats": {
+    "median_90d": 1699,
+    "min_ever": 1699,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

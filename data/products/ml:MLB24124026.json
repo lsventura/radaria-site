@@ -1,0 +1,97 @@
+{
+  "id": "ml:MLB24124026",
+  "slug": "bolsa-transporte-flexivel-sao-pet-para-viagem-aerea-racas-pequenas-e-medias-mlb24124026",
+  "title": "Bolsa Transporte Flexível São Pet Para Viagem Aérea Raças Pequenas e Médias",
+  "brand": null,
+  "model": null,
+  "category_slug": "pets-6",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_907136-MLA99970601735_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5354013543",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2043160173",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 193.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/31RVg2Q",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:12:44.221Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4066212343",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "464618787",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 184.28,
+      "currency": "BRL",
+      "store_reference_price": 277.15,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/31RVg2Q",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:12:44.221Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4613049373",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "336765721",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 179.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/31RVg2Q",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:12:44.221Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 179.99,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 138,
+      "observations": 5
+    }
+  ],
+  "stats": {
+    "median_90d": 159,
+    "min_ever": 138,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": -13.2,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

@@ -1,0 +1,116 @@
+{
+  "id": "ml:MLB29034046",
+  "slug": "bateria-eletronica-waldman-virtual-mesh-vm-9-mlb29034046",
+  "title": "Bateria Eletrônica Waldman Virtual Mesh Vm-9",
+  "brand": null,
+  "model": null,
+  "category_slug": "instrumentos-musicais-5",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_811063-MLA99468138460_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5770619650",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1743481486",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 1666.67,
+      "currency": "BRL",
+      "store_reference_price": 2399.99,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1Cz8shy",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:21:22.912Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6556406140",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2564558751",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 1943,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1Cz8shy",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:21:22.912Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6568546282",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2564558751",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 1473.04,
+      "currency": "BRL",
+      "store_reference_price": 1864,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1Cz8shy",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:21:22.912Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB3605887333",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "236489303",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 1874.33,
+      "currency": "BRL",
+      "store_reference_price": 2105.99,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1Cz8shy",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:21:22.912Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 1473.04,
+      "observations": 8
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 1473.04,
+      "observations": 4
+    }
+  ],
+  "stats": {
+    "median_90d": 1473.04,
+    "min_ever": 1473.04,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

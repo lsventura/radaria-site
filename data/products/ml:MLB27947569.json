@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB27947569",
+  "slug": "nicho-organizador-e-estante-livros-industrial-com-rodizios-branco-mlb27947569",
+  "title": "Nicho Organizador E Estante Livros Industrial Com Rodizios Branco",
+  "brand": null,
+  "model": null,
+  "category_slug": "moveis-16",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_814291-MLU78371710721_082024-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4096815541",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1181478672",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 319.99,
+      "currency": "BRL",
+      "store_reference_price": 336.6,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB27947569",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T15:19:22.734Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 319.99,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 319.99,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 319.99,
+    "min_ever": 319.99,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

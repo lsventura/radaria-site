@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB26878122",
+  "slug": "smartphone-motorola-moto-e13-dual-sim-64-gb-grafite-4-gb-ram-mlb26878122",
+  "title": "Smartphone Motorola Moto E13 Dual Sim 64 Gb Grafite 4 Gb Ram",
+  "brand": null,
+  "model": null,
+  "category_slug": "celulares-3",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_810067-MLA99992146021_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7652348752",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1365334600",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 1299,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB26878122",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T15:17:44.021Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 1299,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 1299,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 1299,
+    "min_ever": 1299,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

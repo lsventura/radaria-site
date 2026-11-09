@@ -1,0 +1,97 @@
+{
+  "id": "ml:MLB27199303",
+  "slug": "interruptor-wifi-touch-inteligente-2-botoes-tomada-20a-preto-mlb27199303",
+  "title": "Interruptor Wifi Touch Inteligente 2 Botões Tomada 20a Preto",
+  "brand": null,
+  "model": null,
+  "category_slug": "casa-inteligente-16",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_995726-MLA99374910748_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4141881371",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2593906484",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 152,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1YP3Z2h",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:17:44.021Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5530240944",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2593906484",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 145,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1YP3Z2h",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:17:44.021Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4065422378",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "18526921",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 157.57,
+      "currency": "BRL",
+      "store_reference_price": 175.08,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1YP3Z2h",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:17:44.021Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 145,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 145,
+      "observations": 4
+    }
+  ],
+  "stats": {
+    "median_90d": 145,
+    "min_ever": 145,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

@@ -1,0 +1,97 @@
+{
+  "id": "ml:MLB11585067",
+  "slug": "maleta-para-furadeira-parafusadeira-14-pol-vd6002-vonder-mlb11585067",
+  "title": "Maleta Para Furadeira / Parafusadeira 14 Pol Vd6002 Vonder",
+  "brand": null,
+  "model": null,
+  "category_slug": "organizacao-e-limpeza-16",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_888524-MLA95940196693_102025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB6002282564",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1130050731",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 105.4,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/16qMNAy",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T09:11:53.032Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4558992581",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1595267060",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 47,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/16qMNAy",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T09:07:53.019Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5341909125",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "624099456",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 83.66,
+      "currency": "BRL",
+      "store_reference_price": 89,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/16qMNAy",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T09:09:53.128Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 47,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 47,
+      "observations": 4
+    }
+  ],
+  "stats": {
+    "median_90d": 47,
+    "min_ever": 47,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 52
+}

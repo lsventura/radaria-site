@@ -1,0 +1,54 @@
+{
+  "id": "ml:MLB26037116",
+  "slug": "cafeteira-espresso-eos-latte-italiana-inox-ecf05ecl-cor-preto-mlb26037116",
+  "title": "Cafeteira Espresso Eos Latte Italiana Inox Ecf05ecl Cor Preto",
+  "brand": null,
+  "model": null,
+  "category_slug": "cozinha-2",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_979617-MLA99927470521_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4209812567",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "95874027",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 1329,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB26037116",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T23:54:47.427Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 1329,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 1329,
+    "min_ever": 1329,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

@@ -1,0 +1,97 @@
+{
+  "id": "ml:MLB41319528",
+  "slug": "cadeira-gamer-otello-100-preto-e-vermelho-material-do-estofamento-couro-sintetic-mlb41319528",
+  "title": "Cadeira Gamer Otello 100 Preto E Vermelho Material Do Estofamento Couro Sintético",
+  "brand": null,
+  "model": null,
+  "category_slug": "games-7",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_898741-MLA95531733724_102025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7562230328",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3181165525",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 599.94,
+      "currency": "BRL",
+      "store_reference_price": 999.9,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2hbe6aQ",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:41:57.426Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7889049794",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3174207326",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 590,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2hbe6aQ",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:41:57.426Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7209204498",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2233543859",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 618,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2hbe6aQ",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:41:57.426Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 590,
+      "observations": 12
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 590,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 590,
+    "min_ever": 590,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

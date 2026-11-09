@@ -1,0 +1,111 @@
+{
+  "id": "ml:MLB12792863",
+  "slug": "nivel-laser-cruz-eda-9ry-30m-mlb12792863",
+  "title": "Nível laser cruz Eda 9RY 30m",
+  "brand": null,
+  "model": null,
+  "category_slug": "ferramentas-19",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_712789-MLA99939103763_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5055474154",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1082446411",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 133.39,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2Y8MgqJ",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T00:26:47.530Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6138144248",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "19698264",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 160.32,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2Y8MgqJ",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T00:26:47.530Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB3561991807",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "87131420",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 147.5,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2Y8MgqJ",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T00:26:47.530Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB1944809422",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "143446249",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 131.89,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2Y8MgqJ",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T00:26:47.530Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 131.89,
+      "observations": 12
+    }
+  ],
+  "stats": {
+    "median_90d": 131.89,
+    "min_ever": 131.89,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

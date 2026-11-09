@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB21389185",
+  "slug": "forno-eletrico-luxo-45l-grafite-mlb21389185",
+  "title": "Forno Eletrico Luxo 45l Grafite",
+  "brand": null,
+  "model": null,
+  "category_slug": "cozinha-13",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_619936-MLU77370346421_072024-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4428007961",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1174896542",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 839,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1kha13J",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:05:55.711Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 839,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 839,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 839,
+    "min_ever": 839,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

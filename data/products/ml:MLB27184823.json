@@ -1,0 +1,54 @@
+{
+  "id": "ml:MLB27184823",
+  "slug": "headset-gamer-xzone-ghs-03-cor-preto-mlb27184823",
+  "title": "Headset Gamer Xzone Ghs-03 Cor Preto",
+  "brand": null,
+  "model": null,
+  "category_slug": "games-6",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_799147-MLA99451425942_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5500995539",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "335400304",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 99.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB27184823",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T00:11:47.427Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 99.9,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 99.9,
+    "min_ever": 99.9,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

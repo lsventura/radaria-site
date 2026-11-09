@@ -1,0 +1,54 @@
+{
+  "id": "ml:MLB74593609",
+  "slug": "to-indo-livro-infantil-literatura-infantil-brasileira-mlb74593609",
+  "title": "Tô Indo - Livro Infantil - Literatura Infantil Brasileira",
+  "brand": null,
+  "model": null,
+  "category_slug": "livros-e-papelaria-11",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_627850-MLA112752824210_062026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5136326749",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "184669500",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 197,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1acqhQg",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T19:37:00.831Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 197,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 197,
+    "min_ever": 197,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

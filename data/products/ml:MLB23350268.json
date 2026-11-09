@@ -1,0 +1,92 @@
+{
+  "id": "ml:MLB23350268",
+  "slug": "forth-jardim-3kg-mlb23350268",
+  "title": "Forth Jardim 3kg",
+  "brand": null,
+  "model": null,
+  "category_slug": "jardim-e-piscina-15",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_889884-MLA99963805137_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB3403488105",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "772930603",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 120.16,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB23350268",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T23:24:47.365Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5117744032",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "436439306",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 203.28,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB23350268",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T23:24:47.365Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5117669584",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "436439306",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 216.89,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB23350268",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T23:24:47.365Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 120.16,
+      "observations": 9
+    }
+  ],
+  "stats": {
+    "median_90d": 120.16,
+    "min_ever": 120.16,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

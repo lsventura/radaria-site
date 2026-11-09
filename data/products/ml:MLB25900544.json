@@ -1,0 +1,140 @@
+{
+  "id": "ml:MLB25900544",
+  "slug": "ratchet-clank-rift-apart-mlb25900544",
+  "title": "Ratchet & Clank: Rift Apart",
+  "brand": "Sony",
+  "model": null,
+  "category_slug": "jogos",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_848610-MLA99453209472_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB3891196123",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1942162767",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 219.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/23rJ4t9",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:15:44.033Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4395797499",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "840821015",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 189,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/23rJ4t9",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:15:44.033Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5144516124",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1942162767",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 189.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/23rJ4t9",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:15:44.033Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB3957169812",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "214211616",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 229.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/23rJ4t9",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:15:44.033Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB3957083374",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "214211616",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 199.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/23rJ4t9",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:15:44.033Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 189,
+      "observations": 5
+    },
+    {
+      "date": "2026-11-05",
+      "min_price": 189,
+      "observations": 8
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 189,
+      "observations": 8
+    }
+  ],
+  "stats": {
+    "median_90d": 189,
+    "min_ever": 189,
+    "min_ever_at": "2026-11-05",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

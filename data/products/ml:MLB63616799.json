@@ -1,0 +1,78 @@
+{
+  "id": "ml:MLB63616799",
+  "slug": "bateria-eletronica-roland-td313-kit-preto-mlb63616799",
+  "title": "Bateria Eletronica Roland Td313 + Kit Preto",
+  "brand": null,
+  "model": null,
+  "category_slug": "instrumentos-musicais-5",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_600794-MLA102884480361_122025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7765340462",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "679962191",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 15490,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1796QdU",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T16:19:04.931Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4814373465",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "703964030",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 13999,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1796QdU",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T16:19:04.931Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 13999,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 13999,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 13999,
+    "min_ever": 13999,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

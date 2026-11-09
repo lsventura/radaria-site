@@ -1,0 +1,111 @@
+{
+  "id": "ml:MLB31888423",
+  "slug": "panela-pressao-20cm-vancouver-tramontina-cor-preta-mlb31888423",
+  "title": "Panela Pressão 20cm Vancouver Tramontina Cor Preta",
+  "brand": null,
+  "model": null,
+  "category_slug": "cozinha-3",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_655146-MLA99492145691_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4712198271",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "224153233",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 320,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB31888423",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T17:46:24.311Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4206386109",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "359077586",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 228.53,
+      "currency": "BRL",
+      "store_reference_price": 240.56,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB31888423",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T17:46:24.311Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4431911500",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "705490876",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 386.06,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB31888423",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T17:46:24.311Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6635263222",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1008697836",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 297.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB31888423",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T17:46:24.311Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 228.53,
+      "observations": 28
+    }
+  ],
+  "stats": {
+    "median_90d": 228.53,
+    "min_ever": 228.53,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

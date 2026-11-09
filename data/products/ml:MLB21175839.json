@@ -1,0 +1,54 @@
+{
+  "id": "ml:MLB21175839",
+  "slug": "box-um-curioso-bem-informado-3-livros-mlb21175839",
+  "title": "Box Um Curioso Bem Informado - 3 Livros *",
+  "brand": null,
+  "model": null,
+  "category_slug": "livros-e-papelaria-1",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_697505-MLB42067139010_062020-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4696936573",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "307655379",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 367.6,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1NYYkRV",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T23:00:47.474Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 367.6,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 367.6,
+    "min_ever": 367.6,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

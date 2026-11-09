@@ -1,0 +1,116 @@
+{
+  "id": "ml:MLB53904053",
+  "slug": "notebook-lenovo-ideapad-slim-3-82xb00c2us-15ian8-mlb53904053",
+  "title": "Notebook Lenovo Ideapad Slim 3 82XB00C2US 15IAN8",
+  "brand": null,
+  "model": null,
+  "category_slug": "notebooks-1",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_838505-MLA112584258870_062026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7440306294",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3308312152",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 3334.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/325QDXA",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T16:09:06.802Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4771700147",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3003126769",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 2164.67,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/325QDXA",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T16:09:06.802Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7579690678",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "132065272",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 3178.99,
+      "currency": "BRL",
+      "store_reference_price": 3490,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/325QDXA",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T16:09:06.802Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5081782933",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3308312152",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 3533.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/325QDXA",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T16:09:06.802Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 2164.67,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 2156.82,
+      "observations": 5
+    }
+  ],
+  "stats": {
+    "median_90d": 2160.75,
+    "min_ever": 2156.82,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": -0.2,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

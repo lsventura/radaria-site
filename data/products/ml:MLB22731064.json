@@ -1,0 +1,73 @@
+{
+  "id": "ml:MLB22731064",
+  "slug": "coifa-fogatti-de-parede-exaustor-depurador-inox-60cm-mlb22731064",
+  "title": "Coifa Fogatti De Parede Exaustor Depurador Inox 60cm",
+  "brand": null,
+  "model": null,
+  "category_slug": "eletrodomesticos-20",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_966908-MLA99372726192_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7722909534",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "710244370",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 899.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB22731064",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T23:16:47.415Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5311112563",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "710244370",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 929.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB22731064",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T23:16:47.415Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 899.99,
+      "observations": 4
+    }
+  ],
+  "stats": {
+    "median_90d": 899.99,
+    "min_ever": 899.99,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

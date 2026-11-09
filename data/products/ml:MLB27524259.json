@@ -1,0 +1,54 @@
+{
+  "id": "ml:MLB27524259",
+  "slug": "processador-intel-core-i5-4570-4-nucleos-e-3-6ghz-mlb27524259",
+  "title": "Processador Intel Core I5 4570 - 4 Núcleos E 3.6ghz",
+  "brand": null,
+  "model": null,
+  "category_slug": "informatica-13",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_902697-MLA99445914954_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5872229128",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "94377686",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 253.74,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB27524259",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T00:15:47.426Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 253.74,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 253.74,
+    "min_ever": 253.74,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

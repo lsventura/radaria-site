@@ -1,0 +1,54 @@
+{
+  "id": "ml:MLB41526737",
+  "slug": "bola-futebol-manchester-city-blue-cor-azul-mlb41526737",
+  "title": "Bola Futebol Manchester City Blue Cor Azul",
+  "brand": null,
+  "model": null,
+  "category_slug": "esportes-1",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_665647-MLA99968813179_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB3885692577",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "336210172",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 139.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB41526737",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T18:25:48.768Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 139.9,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 139.9,
+    "min_ever": 139.9,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

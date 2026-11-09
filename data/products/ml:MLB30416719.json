@@ -1,0 +1,73 @@
+{
+  "id": "ml:MLB30416719",
+  "slug": "cabo-p10-x-p10-para-instrumento-5m-wireconex-textil-mlb30416719",
+  "title": "Cabo P10 x P10 para Instrumento 5m Wireconex Têxtil",
+  "brand": null,
+  "model": null,
+  "category_slug": "instrumentos-musicais-13",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_764161-MLA99980508985_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB3580795981",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "341027578",
+        "name": null,
+        "reputation": null
+      },
+      "price": 95.57,
+      "currency": "BRL",
+      "store_reference_price": 105.02,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB30416719",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T02:39:04.043Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4419887294",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "341027578",
+        "name": null,
+        "reputation": null
+      },
+      "price": 109.57,
+      "currency": "BRL",
+      "store_reference_price": 116.56,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB30416719",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T02:39:04.043Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 95.57,
+      "observations": 20
+    }
+  ],
+  "stats": {
+    "median_90d": 95.57,
+    "min_ever": 95.57,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

@@ -1,0 +1,73 @@
+{
+  "id": "ml:MLB63477672",
+  "slug": "processador-i7-3770-com-cooler-mlb63477672",
+  "title": "Processador I7 3770 Com Cooler",
+  "brand": null,
+  "model": null,
+  "category_slug": "informatica-15",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_928062-MLA102443605647_122025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5427856539",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2005369427",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 387.03,
+      "currency": "BRL",
+      "store_reference_price": 900,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB63477672",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T19:13:58.283Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7703208802",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "510874214",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 700,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB63477672",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T19:13:58.283Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 387.03,
+      "observations": 4
+    }
+  ],
+  "stats": {
+    "median_90d": 387.03,
+    "min_ever": 387.03,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

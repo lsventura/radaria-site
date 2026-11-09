@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB70138440",
+  "slug": "trena-laser-digital-shawty-120m-com-medicao-de-area-e-volume-mlb70138440",
+  "title": "Trena Laser Digital Shawty 120m Com Medição de Área e Volume",
+  "brand": null,
+  "model": null,
+  "category_slug": "ferramentas-18",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_748947-MLA111105587354_052026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7674543496",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3295211532",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 137.24,
+      "currency": "BRL",
+      "store_reference_price": 399,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB70138440",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T16:37:52.033Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 137.24,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 135.99,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 136.62,
+    "min_ever": 135.99,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": -0.5,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

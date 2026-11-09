@@ -1,0 +1,78 @@
+{
+  "id": "ml:MLB24043320",
+  "slug": "papel-sulfite-chamex-75g-a4-marfim-mlb24043320",
+  "title": "Papel Sulfite Chamex 75g A4 Marfim",
+  "brand": null,
+  "model": null,
+  "category_slug": "livros-e-papelaria-16",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_674147-MLA99508324842_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4628461688",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "436439306",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 107.88,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1YWLs8B",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:12:44.221Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4628437540",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "436439306",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 114.39,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1YWLs8B",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:12:44.221Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 107.88,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 107.88,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 107.88,
+    "min_ever": 107.88,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

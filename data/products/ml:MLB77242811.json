@@ -1,0 +1,97 @@
+{
+  "id": "ml:MLB77242811",
+  "slug": "esguicho-de-metal-regulavel-para-mangueira-jardim-mlb77242811",
+  "title": "Esguicho De Metal Regulável Para Mangueira Jardim",
+  "brand": null,
+  "model": null,
+  "category_slug": "jardim-e-piscina-2",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_992607-MLA114748606088_082026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7645607088",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "521397787",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 34.92,
+      "currency": "BRL",
+      "store_reference_price": 37.9,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2xyEMKb",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T17:02:03.773Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5291906039",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1275240047",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 38.95,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2xyEMKb",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T17:02:03.773Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7686893632",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "794246742",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 38.7,
+      "currency": "BRL",
+      "store_reference_price": 45.8,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2xyEMKb",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T17:02:03.773Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 34.92,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 34.92,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 34.92,
+    "min_ever": 34.92,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

@@ -1,0 +1,73 @@
+{
+  "id": "ml:MLB39153370",
+  "slug": "cabo-p10-gibson-vintage-de-instrumento-6m-cinza-mlb39153370",
+  "title": "Cabo P10 Gibson Vintage de Instrumento 6m Cinza",
+  "brand": null,
+  "model": null,
+  "category_slug": "instrumentos-musicais-13",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_926046-MLU78026307152_082024-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7517806668",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2587017331",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 782.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB39153370",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T18:22:14.398Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4493252521",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2587017331",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 744.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB39153370",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T18:22:14.398Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 744.99,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 744.99,
+    "min_ever": 744.99,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

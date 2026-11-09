@@ -1,0 +1,54 @@
+{
+  "id": "ml:MLB21010037",
+  "slug": "carrinho-controle-remoto-monster-truck-jr-vermelho-mlb21010037",
+  "title": "Carrinho Controle Remoto Monster Truck Jr. Vermelho",
+  "brand": null,
+  "model": null,
+  "category_slug": "brinquedos-4",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_825457-MLA99480979416_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4265795001",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "497201052",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 274.84,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2LMp1Do",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T02:38:04.072Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 274.84,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 274.84,
+    "min_ever": 274.84,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

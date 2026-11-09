@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB44396586",
+  "slug": "tampa-sobrepor-120x120-casa-de-maquina-bomba-piscina-cor-azul-piscina-mlb44396586",
+  "title": "Tampa Sobrepor 120x120 Casa De Máquina Bomba Piscina Cor Azul Piscina",
+  "brand": null,
+  "model": null,
+  "category_slug": "jardim-e-piscina-11",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_991038-MLA95677563885_102025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5208831938",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "716169478",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 1966,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB44396586",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T15:54:06.804Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 1966,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 1966,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 1966,
+    "min_ever": 1966,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

@@ -1,0 +1,73 @@
+{
+  "id": "ml:MLB15297232",
+  "slug": "fonte-pc-atx-200w-reais-real-silenciosa-com-cabo-de-forca-nova-kp-517-cinza-mlb15297232",
+  "title": "Fonte Pc Atx 200W Reais Real Silenciosa com Cabo de Força Nova KP-517 Cinza",
+  "brand": null,
+  "model": null,
+  "category_slug": "informatica-16",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_741324-MLA100068110709_122025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB3263454269",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "340879137",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 189.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB15297232",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T00:26:47.530Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB3263376425",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "236197781",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 120,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB15297232",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T00:26:47.530Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 120,
+      "observations": 6
+    }
+  ],
+  "stats": {
+    "median_90d": 120,
+    "min_ever": 120,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

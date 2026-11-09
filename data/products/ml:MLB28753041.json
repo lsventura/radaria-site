@@ -1,0 +1,116 @@
+{
+  "id": "ml:MLB28753041",
+  "slug": "jogo-ps5-spongebob-squarepants-cosmic-shake-fisico-mlb28753041",
+  "title": "Jogo Ps5 Spongebob Squarepants Cosmic Shake Fisico",
+  "brand": null,
+  "model": null,
+  "category_slug": "games-4",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_711672-MLA92005209047_092025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4523669417",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "65175889",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 398,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1ks5quw",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:20:22.822Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7940703000",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "740774562",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 299,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1ks5quw",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:20:22.822Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4523669737",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "65175889",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 396.24,
+      "currency": "BRL",
+      "store_reference_price": 429.99,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1ks5quw",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:20:22.822Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5512307619",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "740774562",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 319,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1ks5quw",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:20:22.822Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 299,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 299,
+      "observations": 5
+    }
+  ],
+  "stats": {
+    "median_90d": 299,
+    "min_ever": 299,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

@@ -1,0 +1,54 @@
+{
+  "id": "ml:MLB63552818",
+  "slug": "medidor-de-batimentos-cardiacos-oximetro-digital-para-dedo-cor-azul-escuro-mlb63552818",
+  "title": "Medidor De Batimentos Cardíacos Oxímetro Digital Para Dedo Cor Azul-escuro",
+  "brand": null,
+  "model": null,
+  "category_slug": "bem-estar-18",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_758837-MLA102170066948_122025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4387473925",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "191400123",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 20.45,
+      "currency": "BRL",
+      "store_reference_price": 21.53,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB63552818",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T19:14:08.306Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 20.45,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 20.45,
+    "min_ever": 20.45,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

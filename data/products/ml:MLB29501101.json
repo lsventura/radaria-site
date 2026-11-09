@@ -1,0 +1,73 @@
+{
+  "id": "ml:MLB29501101",
+  "slug": "roda-dianteira-para-cortador-grama-kawashima-lr180-lr180t-17-7cm-mlb29501101",
+  "title": "Roda Dianteira para Cortador Grama Kawashima LR180 LR180T 17.7cm",
+  "brand": null,
+  "model": null,
+  "category_slug": "jardim-e-piscina-4",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_976269-MLA99474139712_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4717224629",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "491217379",
+        "name": null,
+        "reputation": null
+      },
+      "price": 161.31,
+      "currency": "BRL",
+      "store_reference_price": 185.42,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2B8Xf1f",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T02:38:04.072Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4033101051",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "150699319",
+        "name": null,
+        "reputation": null
+      },
+      "price": 217.44,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2B8Xf1f",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T02:38:04.072Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 161.31,
+      "observations": 28
+    }
+  ],
+  "stats": {
+    "median_90d": 161.31,
+    "min_ever": 161.31,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

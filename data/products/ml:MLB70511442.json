@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB70511442",
+  "slug": "celular-smartphone-xiaomi-poco-m7-pro-5g-prata-mlb70511442",
+  "title": "Celular SmartPhone Xiaomi Poco M7 Pro 5g Prata",
+  "brand": null,
+  "model": null,
+  "category_slug": "celulares-4",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_732808-MLA111399715180_052026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7939825246",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1386474217",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 1599,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1JFWia2",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T16:39:51.541Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 1599,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 1599,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 1599,
+    "min_ever": 1599,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

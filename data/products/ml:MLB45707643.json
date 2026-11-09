@@ -1,0 +1,78 @@
+{
+  "id": "ml:MLB45707643",
+  "slug": "memoria-16gb-ddr4-p-notebook-vaio-fe15-mlb45707643",
+  "title": "Memoria 16gb Ddr4 P/ Notebook Vaio Fe15",
+  "brand": null,
+  "model": null,
+  "category_slug": "notebooks-12",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_659769-MLA81844214316_012025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4453914525",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "145402254",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 779,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB45707643",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T15:58:06.809Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4453797777",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "145402254",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 610,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB45707643",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T15:58:06.809Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 610,
+      "observations": 6
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 610,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 610,
+    "min_ever": 610,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

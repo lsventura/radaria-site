@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB69614830",
+  "slug": "cadeira-gamer-duex-dx9025-preto-nailon-mlb69614830",
+  "title": "Cadeira Gamer Duex Dx9025 Preto Náilon",
+  "brand": null,
+  "model": null,
+  "category_slug": "games-7",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_706281-MLA111600469981_052026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7819127622",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "53769967",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 511.31,
+      "currency": "BRL",
+      "store_reference_price": 599,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB69614830",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T16:35:52.340Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 511.31,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 511.31,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 511.31,
+    "min_ever": 511.31,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

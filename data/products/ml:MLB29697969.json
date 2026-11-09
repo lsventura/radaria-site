@@ -1,0 +1,73 @@
+{
+  "id": "ml:MLB29697969",
+  "slug": "tinta-aquarela-horadam-schmincke-5ml-s3-352-magenta-mlb29697969",
+  "title": "Tinta Aquarela Horadam Schmincke 5ml S3 352 Magenta",
+  "brand": null,
+  "model": null,
+  "category_slug": "arte-e-artesanato-6",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_990364-MLA99906683593_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4583114260",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "169033958",
+        "name": null,
+        "reputation": null
+      },
+      "price": 165.65,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2yPBiAv",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T02:38:04.072Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB3783683515",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "450187143",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 148.5,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2yPBiAv",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T02:38:04.072Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 148.5,
+      "observations": 24
+    }
+  ],
+  "stats": {
+    "median_90d": 148.5,
+    "min_ever": 148.5,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

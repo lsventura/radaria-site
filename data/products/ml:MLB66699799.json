@@ -1,0 +1,173 @@
+{
+  "id": "ml:MLB66699799",
+  "slug": "panela-de-arroz-bpa06a-mlb66699799",
+  "title": "Panela de arroz bpa06a",
+  "brand": null,
+  "model": null,
+  "category_slug": "cozinha-10",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_835158-MLA108802033685_032026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7193061940",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2703342370",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 299.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/32sTHpV",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T16:27:59.021Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7757263256",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1383204787",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 219.8,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/32sTHpV",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T16:27:59.021Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7449153346",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2299385329",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 210.4,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/32sTHpV",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T16:27:59.021Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7757249504",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1383204787",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 249.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/32sTHpV",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T16:27:59.021Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7190911492",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2639613354",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 208.91,
+      "currency": "BRL",
+      "store_reference_price": 395.9,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/32sTHpV",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T16:27:59.021Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7193061942",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2703342370",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 327.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/32sTHpV",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T16:27:59.021Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7190911490",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2639613354",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 189.99,
+      "currency": "BRL",
+      "store_reference_price": 355.9,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/32sTHpV",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T16:27:59.021Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 189.99,
+      "observations": 7
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 189.99,
+      "observations": 7
+    }
+  ],
+  "stats": {
+    "median_90d": 189.99,
+    "min_ever": 189.99,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

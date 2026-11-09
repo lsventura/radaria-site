@@ -1,0 +1,78 @@
+{
+  "id": "ml:MLB61594883",
+  "slug": "maquina-de-lavar-bwf14ab-14kg-smart-sensor-ciclo-brastemp-branco-mlb61594883",
+  "title": "Máquina De Lavar Bwf14ab 14kg Smart Sensor Ciclo Brastemp - Branco",
+  "brand": null,
+  "model": null,
+  "category_slug": "eletrodomesticos-19",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_814922-MLA99986840349_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4505538965",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "323697852",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 1809.99,
+      "currency": "BRL",
+      "store_reference_price": 2593.9,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1fbvsxE",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T16:14:07.010Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4505512877",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "323697852",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 1749.99,
+      "currency": "BRL",
+      "store_reference_price": 2516.08,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1fbvsxE",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T16:14:07.010Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 1749.99,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 1749.99,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 1749.99,
+    "min_ever": 1749.99,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

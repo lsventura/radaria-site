@@ -1,0 +1,73 @@
+{
+  "id": "ml:MLB19979451",
+  "slug": "box-o-essencial-da-estrategia-3-livros-mlb19979451",
+  "title": "Box O Essencial Da Estratégia (3 Livros)",
+  "brand": null,
+  "model": null,
+  "category_slug": "livros-e-papelaria-1",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_935200-MLA99593266692_122025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7159820050",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3446550055",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 210.09,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB19979451",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T22:54:47.414Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7886180026",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "307655379",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 200.58,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB19979451",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T22:54:47.414Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 200.58,
+      "observations": 4
+    }
+  ],
+  "stats": {
+    "median_90d": 200.58,
+    "min_ever": 200.58,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

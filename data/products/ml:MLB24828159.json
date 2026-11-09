@@ -1,0 +1,73 @@
+{
+  "id": "ml:MLB24828159",
+  "slug": "filtro-piscina-comercial-sodramar-fvp-100-ate-314-m-110v-220v-mlb24828159",
+  "title": "Filtro Piscina Comercial Sodramar Fvp 100 Até 314 m³ 110V/220V",
+  "brand": null,
+  "model": null,
+  "category_slug": "jardim-e-piscina-14",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_846307-MLA99455895082_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4268123533",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "96743148",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 14999,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1ynNvnC",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T23:39:47.450Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5836477392",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "96743148",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 13999,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1ynNvnC",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T23:39:47.450Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 13999,
+      "observations": 4
+    }
+  ],
+  "stats": {
+    "median_90d": 13999,
+    "min_ever": 13999,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

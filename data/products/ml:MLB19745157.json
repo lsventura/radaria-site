@@ -1,0 +1,54 @@
+{
+  "id": "ml:MLB19745157",
+  "slug": "brinquedo-de-menina-boneca-infantil-fada-mlb19745157",
+  "title": "Brinquedo De Menina Boneca Infantil Fada",
+  "brand": null,
+  "model": null,
+  "category_slug": "brinquedos-8",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_944006-MLA99597156186_122025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4658476537",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3383528966",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 29.5,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB19745157",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T02:39:04.043Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 29.5,
+      "observations": 10
+    }
+  ],
+  "stats": {
+    "median_90d": 29.5,
+    "min_ever": 29.5,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

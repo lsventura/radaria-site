@@ -1,0 +1,73 @@
+{
+  "id": "ml:MLB27613567",
+  "slug": "dinossauro-tiranossauro-rex-de-brinquedo-que-vira-robo-mlb27613567",
+  "title": "Dinossauro Tiranossauro Rex De Brinquedo Que Vira Robô",
+  "brand": null,
+  "model": null,
+  "category_slug": "brinquedos-11",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_680652-MLA118047448076_102026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7759874688",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "302966990",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 62.6,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB27613567",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T02:36:04.023Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7674540238",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "46174313",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 57.88,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB27613567",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T02:36:04.023Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 57.88,
+      "observations": 6
+    }
+  ],
+  "stats": {
+    "median_90d": 57.88,
+    "min_ever": 57.88,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

@@ -1,0 +1,78 @@
+{
+  "id": "ml:MLB27631827",
+  "slug": "afiador-p-tesoura-poda-ap-27s-jacto-mlb27631827",
+  "title": "Afiador P/ Tesoura Poda Ap-27s - Jacto",
+  "brand": null,
+  "model": null,
+  "category_slug": "jardim-e-piscina-9",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_857226-MLA119715697321_102026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5417889381",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "766634426",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 202.63,
+      "currency": "BRL",
+      "store_reference_price": 219.9,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB27631827",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T15:19:22.734Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5417956557",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "193233762",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 202.63,
+      "currency": "BRL",
+      "store_reference_price": 219.9,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB27631827",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T15:19:22.734Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 202.63,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 202.63,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 202.63,
+    "min_ever": 202.63,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

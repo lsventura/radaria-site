@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB66349112",
+  "slug": "carregador-magnetico-sem-fio-suporte-mesa-pd-22-5w-magsafe-cor-preto-mlb66349112",
+  "title": "Carregador Magnético Sem Fio Suporte Mesa Pd 22,5w Magsafe Cor Preto",
+  "brand": null,
+  "model": null,
+  "category_slug": "celulares-14",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_718214-MLA107596728564_032026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4628959735",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "56660126",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 525.7,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB66349112",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T16:26:59.128Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 525.7,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 525.7,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 525.7,
+    "min_ever": 525.7,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

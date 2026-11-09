@@ -1,0 +1,140 @@
+{
+  "id": "ml:MLB18610851",
+  "slug": "forza-horizon-5-mlb18610851",
+  "title": "Forza Horizon 5",
+  "brand": "Microsoft",
+  "model": null,
+  "category_slug": "jogos",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_871562-MLA99509465292_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4200253877",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2364040946",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 279.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1U8kLbn",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T14:56:20.623Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4483836491",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "78353655",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 387,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1U8kLbn",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T14:56:20.623Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4645606589",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "181920711",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 397,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1U8kLbn",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T14:56:20.623Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4484004913",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "78353655",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 427,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1U8kLbn",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T14:56:20.623Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB2152549190",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "65175889",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 527,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1U8kLbn",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T14:56:20.623Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 279.99,
+      "observations": 5
+    },
+    {
+      "date": "2026-11-05",
+      "min_price": 279.99,
+      "observations": 5
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 279.99,
+      "observations": 5
+    }
+  ],
+  "stats": {
+    "median_90d": 279.99,
+    "min_ever": 279.99,
+    "min_ever_at": "2026-11-05",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

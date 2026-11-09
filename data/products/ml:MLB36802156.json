@@ -1,0 +1,92 @@
+{
+  "id": "ml:MLB36802156",
+  "slug": "umidificador-ar-ambiente-ultrassonico-luminaria-3d-planeta-mlb36802156",
+  "title": "Umidificador Ar Ambiente Ultrassônico Luminária 3d Planeta",
+  "brand": null,
+  "model": null,
+  "category_slug": "bem-estar-5",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_766467-MLU76304292601_052024-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB6466989262",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "438034407",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 162.96,
+      "currency": "BRL",
+      "store_reference_price": 168,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB36802156",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T18:11:05.957Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5379315873",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3693707488",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 161.02,
+      "currency": "BRL",
+      "store_reference_price": 166,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB36802156",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T18:11:05.957Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5501819415",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3734947074",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 177,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB36802156",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T18:11:05.957Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 161.02,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 161.02,
+    "min_ever": 161.02,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB74096218",
+  "slug": "capa-piscina-10x5-emborrachada-forte-leve-kit-cor-verde-mlb74096218",
+  "title": "Capa Piscina 10x5 Emborrachada Forte Leve + Kit + Cor Verde",
+  "brand": null,
+  "model": null,
+  "category_slug": "jardim-e-piscina-13",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_969427-MLA112324830078_062026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB6993826072",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "735223046",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 1284.67,
+      "currency": "BRL",
+      "store_reference_price": 1414.81,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2Rj5r6n",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T16:53:03.837Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 1284.67,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 1284.67,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 1284.67,
+    "min_ever": 1284.67,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB18504841",
+  "slug": "cadeirinha-cosco-kids-tour-9-a-36-kg-preta-mlb18504841",
+  "title": "Cadeirinha Cosco Kids, Tour, 9 a 36 Kg, Preta",
+  "brand": null,
+  "model": null,
+  "category_slug": "bebes-2",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_864167-MLA53970938357_022023-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5257320137",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3419602216",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 438,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/29RADLY",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T14:55:20.633Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 438,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 438,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 438,
+    "min_ever": 438,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

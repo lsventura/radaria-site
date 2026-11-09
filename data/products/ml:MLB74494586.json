@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB74494586",
+  "slug": "mochila-viagem-executiva-notebook-up4you-mn54149up-mlb74494586",
+  "title": "Mochila Viagem Executiva Notebook Up4You Mn54149Up",
+  "brand": null,
+  "model": null,
+  "category_slug": "viagem-e-outdoor-2",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_939350-MLA112547451296_062026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5243716831",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3455326464",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 249.99,
+      "currency": "BRL",
+      "store_reference_price": 309,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB74494586",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T16:54:03.768Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 249.99,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 309,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 279.5,
+    "min_ever": 249.99,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 10.6,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

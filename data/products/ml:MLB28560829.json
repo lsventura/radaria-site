@@ -1,0 +1,140 @@
+{
+  "id": "ml:MLB28560829",
+  "slug": "gran-turismo-7-mlb28560829",
+  "title": "Gran Turismo 7",
+  "brand": "Sony",
+  "model": null,
+  "category_slug": "jogos",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_966723-MLA99946919447_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7228471708",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2039056093",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 224.1,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1Joj7kE",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:20:22.822Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4967169961",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "66069098",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 198,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1Joj7kE",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:20:22.822Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4620357875",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3003302367",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 281.46,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1Joj7kE",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:20:22.822Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4309756229",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "425887503",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 199.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1Joj7kE",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:20:22.822Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5434873069",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3156902372",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 223,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1Joj7kE",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:20:22.822Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 198,
+      "observations": 5
+    },
+    {
+      "date": "2026-11-05",
+      "min_price": 198,
+      "observations": 7
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 198,
+      "observations": 8
+    }
+  ],
+  "stats": {
+    "median_90d": 198,
+    "min_ever": 198,
+    "min_ever_at": "2026-11-05",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

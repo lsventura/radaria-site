@@ -1,0 +1,54 @@
+{
+  "id": "ml:MLB70170393",
+  "slug": "bomba-piscina-lepono-xkp305-1-4cv-bivolt-monofasica-mlb70170393",
+  "title": "Bomba Piscina Lepono Xkp305 1/4cv Bivolt Monofásica",
+  "brand": null,
+  "model": null,
+  "category_slug": "jardim-e-piscina-11",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_832050-MLA112147646847_052026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7192234886",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1165382815",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 565,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1qyL7A3",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T19:30:01.228Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 565,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 565,
+    "min_ever": 565,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

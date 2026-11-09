@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB25190269",
+  "slug": "areia-silica-gel-grossa-1-6kg-great-pets-kit-c-2-pacotes-mlb25190269",
+  "title": "Areia Sílica Gel Grossa 1,6kg Great Pets - Kit C/ 2 Pacotes",
+  "brand": null,
+  "model": null,
+  "category_slug": "pets-10",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_950283-MLA111923097284_062026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5478303043",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2624700406",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 89.23,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2DG4B8U",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:14:44.033Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 89.23,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 89.23,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 89.23,
+    "min_ever": 89.23,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

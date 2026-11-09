@@ -1,0 +1,78 @@
+{
+  "id": "ml:MLB73055181",
+  "slug": "papel-sulfite-75g-report-a4-resma-mlb73055181",
+  "title": "Papel Sulfite 75g Report A4 Resma",
+  "brand": null,
+  "model": null,
+  "category_slug": "livros-e-papelaria-16",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_767719-MLA112996471977_062026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7712061816",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3324370117",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 325,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB73055181",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T16:49:03.808Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7851755536",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "202793358",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 454.25,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB73055181",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T16:49:03.808Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 325,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 325,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 325,
+    "min_ever": 325,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

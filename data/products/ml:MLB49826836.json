@@ -1,0 +1,73 @@
+{
+  "id": "ml:MLB49826836",
+  "slug": "processador-intel-core-i5-10400f-para-computadores-de-mesa-mlb49826836",
+  "title": "Processador Intel Core i5-10400F para Computadores de Mesa",
+  "brand": null,
+  "model": null,
+  "category_slug": "informatica-13",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_696565-MLA99950930303_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4881235335",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "510874214",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 914.42,
+      "currency": "BRL",
+      "store_reference_price": 2000,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB49826836",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T18:47:54.987Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4923540223",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2005369427",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 843,
+      "currency": "BRL",
+      "store_reference_price": 2000,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB49826836",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T18:47:54.987Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 843,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 843,
+    "min_ever": 843,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

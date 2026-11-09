@@ -1,0 +1,78 @@
+{
+  "id": "ml:MLB19994576",
+  "slug": "bebe-conforto-cosco-kids-wizz-0-a-13kg-rosa-mlb19994576",
+  "title": "Bebê Conforto Cosco Kids, Wizz, 0 a 13kg, Rosa",
+  "brand": null,
+  "model": null,
+  "category_slug": "bebes-2",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_794828-MLA100074250925_122025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7912237062",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2485423841",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 658.63,
+      "currency": "BRL",
+      "store_reference_price": 679,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/123Kecb",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:01:47.733Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB3759938353",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1847286186",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 679,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/123Kecb",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:01:47.733Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 658.63,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 679,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 668.82,
+    "min_ever": 658.63,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 1.5,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB37332939",
+  "slug": "ssd-nvme-m-2-256gb-pm9b1-mlb37332939",
+  "title": "Ssd nvme M.2 256gb PM9B1",
+  "brand": null,
+  "model": null,
+  "category_slug": "informatica-1",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_754321-MLU76732693393_052024-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5237564467",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "626774396",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 450,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1wwrYrh",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:31:24.522Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 450,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 450,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 450,
+    "min_ever": 450,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

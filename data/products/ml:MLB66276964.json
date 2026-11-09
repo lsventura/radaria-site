@@ -1,0 +1,73 @@
+{
+  "id": "ml:MLB66276964",
+  "slug": "monitor-gamer-gigabyte-24-5-gs25f14-ss-ips-144hz-1ms-hdr10-preto-mlb66276964",
+  "title": "Monitor Gamer Gigabyte 24.5 Gs25f14 Ss Ips 144hz 1ms Hdr10 Preto",
+  "brand": null,
+  "model": null,
+  "category_slug": "games-10",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_907845-MLA107526357970_032026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB6858062518",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2378865407",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 725,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB66276964",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T19:19:08.423Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6423205310",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1335757631",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 739,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB66276964",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T19:19:08.423Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 725,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 725,
+    "min_ever": 725,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

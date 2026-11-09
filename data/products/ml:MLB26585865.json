@@ -1,0 +1,78 @@
+{
+  "id": "ml:MLB26585865",
+  "slug": "relogio-masculino-curren-8346-pulseira-couro-mlb26585865",
+  "title": "Relógio Masculino Curren 8346 Pulseira Couro",
+  "brand": null,
+  "model": null,
+  "category_slug": "relogios-e-joias-11",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_802184-MLA99504969620_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4088964455",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "472015778",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 139.98,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB26585865",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T15:16:44.020Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4386242796",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "204175064",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 181.3,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB26585865",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T15:16:44.020Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 139.98,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 139.98,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 139.98,
+    "min_ever": 139.98,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

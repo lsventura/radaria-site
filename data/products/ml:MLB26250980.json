@@ -1,0 +1,111 @@
+{
+  "id": "ml:MLB26250980",
+  "slug": "caderno-inteligente-dark-blue-medio-mlb26250980",
+  "title": "Caderno Inteligente Dark Blue Médio",
+  "brand": null,
+  "model": null,
+  "category_slug": "livros-e-papelaria-3",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_949990-MLA99506439616_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB6230967888",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "283244548",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 139,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB26250980",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T23:58:47.427Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB3454030151",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1351889895",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 151.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB26250980",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T23:58:47.427Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6230825288",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "283244548",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 149,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB26250980",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T23:58:47.427Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB3622123937",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1351889895",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 155.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB26250980",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T23:58:47.427Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 139,
+      "observations": 8
+    }
+  ],
+  "stats": {
+    "median_90d": 139,
+    "min_ever": 139,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

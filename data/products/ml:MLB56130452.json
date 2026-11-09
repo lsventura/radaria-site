@@ -1,0 +1,97 @@
+{
+  "id": "ml:MLB56130452",
+  "slug": "amor-camera-acao-gilbert-katie-globo-livros-capa-mole-mlb56130452",
+  "title": "Amor, câmera, ação - Gilbert, Katie - Globo Livros - Capa Mole",
+  "brand": null,
+  "model": null,
+  "category_slug": "fotografia-e-video-10",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_941237-MLA92439449429_092025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7804628042",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "586497298",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 152.82,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB56130452",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T16:11:06.824Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5461377549",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "307655379",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 373.51,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB56130452",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T16:11:06.824Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6678169286",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "459019543",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 220.5,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB56130452",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T16:11:06.824Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 152.82,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 152.82,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 152.82,
+    "min_ever": 152.82,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

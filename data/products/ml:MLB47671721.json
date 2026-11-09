@@ -1,0 +1,97 @@
+{
+  "id": "ml:MLB47671721",
+  "slug": "smartphone-xiaomi-redmi-a5-4g-6-8-64gb-3gb-ram-32mpx-dourada-mlb47671721",
+  "title": "Smartphone Xiaomi Redmi A5 4g 6.8 64gb 3gb Ram 32mpx - dourada",
+  "brand": null,
+  "model": null,
+  "category_slug": "celulares-4",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_635558-MLA116604839468_092026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5491962703",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1542354933",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 1009,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB47671721",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T16:03:06.825Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5205527403",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3255491182",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 878,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB47671721",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T16:03:06.825Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7917274360",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1542354933",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 952,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB47671721",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T16:03:06.825Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 878,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 878,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 878,
+    "min_ever": 878,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

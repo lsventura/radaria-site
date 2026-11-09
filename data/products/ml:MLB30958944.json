@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB30958944",
+  "slug": "joelheira-para-qualquer-idade-tamanho-unico-com-ajuste-mlb30958944",
+  "title": "Joelheira para Qualquer Idade Tamanho Único com Ajuste",
+  "brand": null,
+  "model": null,
+  "category_slug": "fitness-19",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_987111-MLA99358211920_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4634022769",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3261263210",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 18.25,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB30958944",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T15:23:24.914Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 18.25,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 18.75,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 18.5,
+    "min_ever": 18.25,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 1.4,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

@@ -28,19 +28,38 @@
       "last_observed_at": "2026-11-08T19:39:34.022Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7176572680",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "616685472",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 89.31,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB75226903",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T19:39:34.022Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
     }
   ],
   "payment_offers": [],
   "history": [
     {
       "date": "2026-11-08",
-      "min_price": 94.13,
-      "observations": 1
+      "min_price": 89.31,
+      "observations": 2
     }
   ],
   "stats": {
-    "median_90d": 94.13,
-    "min_ever": 94.13,
+    "median_90d": 89.31,
+    "min_ever": 89.31,
     "min_ever_at": "2026-11-08",
     "distinct_days": 1,
     "window_days": 14
@@ -50,5 +69,5 @@
     "pct_below_median": 0,
     "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
   },
-  "score": 60
+  "score": 56
 }

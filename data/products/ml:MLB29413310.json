@@ -1,0 +1,73 @@
+{
+  "id": "ml:MLB29413310",
+  "slug": "mesa-dobravel-portatil-branca-para-camping-e-praia-de-1-20m-x-60cm-mlb29413310",
+  "title": "Mesa Dobrável Portátil Branca Para Camping e Praia de 1.20m x 60cm",
+  "brand": null,
+  "model": null,
+  "category_slug": "viagem-e-outdoor-13",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_883349-MLA95066224396_102025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4427770282",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "239240432",
+        "name": null,
+        "reputation": null
+      },
+      "price": 252.1,
+      "currency": "BRL",
+      "store_reference_price": 475.9,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB29413310",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T02:38:04.072Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5063100757",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "266568325",
+        "name": null,
+        "reputation": null
+      },
+      "price": 271.5,
+      "currency": "BRL",
+      "store_reference_price": 483.9,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB29413310",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T02:38:04.072Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 252.1,
+      "observations": 26
+    }
+  ],
+  "stats": {
+    "median_90d": 252.1,
+    "min_ever": 252.1,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

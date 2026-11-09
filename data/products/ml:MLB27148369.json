@@ -1,0 +1,73 @@
+{
+  "id": "ml:MLB27148369",
+  "slug": "pista-carrinho-parking-center-lava-rapido-posto-rampa-maral-cor-azul-mlb27148369",
+  "title": "Pista Carrinho Parking Center Lava Rápido Posto Rampa Maral Cor Azul",
+  "brand": null,
+  "model": null,
+  "category_slug": "brinquedos-10",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_889064-MLA99465365230_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB3983453407",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "725469583",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 194.55,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB27148369",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T00:10:47.427Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5865997024",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "448635045",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 194.22,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB27148369",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T00:10:47.427Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 194.22,
+      "observations": 4
+    }
+  ],
+  "stats": {
+    "median_90d": 194.22,
+    "min_ever": 194.22,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

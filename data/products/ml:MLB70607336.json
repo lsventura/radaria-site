@@ -1,0 +1,54 @@
+{
+  "id": "ml:MLB70607336",
+  "slug": "cafeteira-espresso-tres-passione-3-coracoe-gamer-cor-preto-mlb70607336",
+  "title": "Cafeteira Espresso Três Passione 3 Coraçõe Gamer Cor Preto",
+  "brand": null,
+  "model": null,
+  "category_slug": "cozinha-2",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_621066-MLA112534518419_052026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7087077004",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "211505653",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 760.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB70607336",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T19:31:27.886Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 760.99,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 760.99,
+    "min_ever": 760.99,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

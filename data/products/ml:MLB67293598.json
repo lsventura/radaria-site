@@ -1,0 +1,54 @@
+{
+  "id": "ml:MLB67293598",
+  "slug": "controle-sem-fio-cfi-zct1w-ps5-cosmic-red-mlb67293598",
+  "title": "Controle Sem Fio CFI-ZCT1W Ps5 - Cosmic Red",
+  "brand": null,
+  "model": null,
+  "category_slug": "games-5",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_831672-MLA108802436558_032026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5215049377",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "681949298",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 529.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB67293598",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T19:23:06.781Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 529.9,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 529.9,
+    "min_ever": 529.9,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

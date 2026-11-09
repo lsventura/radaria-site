@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB22958206",
+  "slug": "aparelho-monitor-pressao-arterial-portatil-pulso-omron-mlb22958206",
+  "title": "Aparelho Monitor Pressão Arterial Portátil Pulso Omron",
+  "brand": null,
+  "model": null,
+  "category_slug": "bem-estar-6",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_732248-MLA108909250030_032026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7020691620",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "835229711",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 249.88,
+      "currency": "BRL",
+      "store_reference_price": 356.98,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1qMYxnp",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:10:55.806Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 249.88,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 249.88,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 249.88,
+    "min_ever": 249.88,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

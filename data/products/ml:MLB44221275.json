@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB44221275",
+  "slug": "alarme-intelbras-amt-2018-e-smart-sensor-abertura-infra-pet-cor-branco-mlb44221275",
+  "title": "Alarme Intelbras Amt 2018 E Smart Sensor Abertura, Infra Pet Cor Branco",
+  "brand": null,
+  "model": null,
+  "category_slug": "casa-inteligente-4",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_848848-MLA99969353567_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5847365060",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "631207053",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 1300.37,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB44221275",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T15:52:06.815Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 1300.37,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 1300.37,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 1300.37,
+    "min_ever": 1300.37,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

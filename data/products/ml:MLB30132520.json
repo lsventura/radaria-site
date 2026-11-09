@@ -1,0 +1,92 @@
+{
+  "id": "ml:MLB30132520",
+  "slug": "atlas-do-estudante-equipe-dcl-dcl-mlb30132520",
+  "title": "Atlas do estudante - Equipe DCL - Dcl",
+  "brand": null,
+  "model": null,
+  "category_slug": "notebooks-19",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_659394-MLU77444365163_072024-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7803749568",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "513920566",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 84.35,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB30132520",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T02:39:04.043Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5529569215",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "787161326",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 79.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB30132520",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T02:39:04.043Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7806558872",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "307655379",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 92.79,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB30132520",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T02:39:04.043Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 79.9,
+      "observations": 33
+    }
+  ],
+  "stats": {
+    "median_90d": 79.9,
+    "min_ever": 79.9,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

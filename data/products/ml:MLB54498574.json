@@ -1,0 +1,54 @@
+{
+  "id": "ml:MLB54498574",
+  "slug": "bola-futebol-campo-pu-cor-branco-preto-mlb54498574",
+  "title": "Bola Futebol Campo Pu Cor Branco/preto",
+  "brand": null,
+  "model": null,
+  "category_slug": "esportes-1",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_696317-MLA99457412478_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5239535875",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "120410631",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 126,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB54498574",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T18:56:08.098Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 126,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 126,
+    "min_ever": 126,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

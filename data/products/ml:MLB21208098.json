@@ -1,0 +1,73 @@
+{
+  "id": "ml:MLB21208098",
+  "slug": "cartao-memoria-micro-sd-sandisk-512gb-microsd-extreme-190mbs-mlb21208098",
+  "title": "Cartão Memória Micro Sd Sandisk 512gb Microsd Extreme 190mbs",
+  "brand": null,
+  "model": null,
+  "category_slug": "fotografia-e-video-12",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_609049-MLA100036909251_122025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4095371901",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "295078710",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 899,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/22Bz6Cz",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T23:00:47.474Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6982969534",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1997834018",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 920,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/22Bz6Cz",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T23:00:47.474Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 899,
+      "observations": 4
+    }
+  ],
+  "stats": {
+    "median_90d": 899,
+    "min_ever": 899,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

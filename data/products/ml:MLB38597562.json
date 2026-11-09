@@ -1,0 +1,73 @@
+{
+  "id": "ml:MLB38597562",
+  "slug": "nivel-laser-verde-dwo88cg-la-dewalt-mlb38597562",
+  "title": "Nivel Laser Verde (dwo88cg-la) Dewalt",
+  "brand": null,
+  "model": null,
+  "category_slug": "ferramentas-19",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_633720-MLA99939660907_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5352498521",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "432194992",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 1115.4,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB38597562",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T18:20:15.752Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7769215148",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "432194992",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 1018,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB38597562",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T18:20:15.752Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 1018,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 1018,
+    "min_ever": 1018,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

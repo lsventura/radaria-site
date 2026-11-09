@@ -1,0 +1,54 @@
+{
+  "id": "ml:MLB23894237",
+  "slug": "expansao-piratas-ao-mar-walk-the-plank-jogo-cartas-papergames-mlb23894237",
+  "title": "Expansão Piratas ao Mar - Walk The Plank Jogo Cartas PaperGames",
+  "brand": null,
+  "model": null,
+  "category_slug": "brinquedos-19",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_751116-MLA99598296140_122025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB3938524168",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "284871178",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 148.1,
+      "currency": "BRL",
+      "store_reference_price": 155.9,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB23894237",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T23:28:47.429Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 148.1,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 148.1,
+    "min_ever": 148.1,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

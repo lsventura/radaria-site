@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB27811949",
+  "slug": "estabilizador-zhiyun-smooth-q4-combo-smartphone-gimbal-mlb27811949",
+  "title": "Estabilizador Zhiyun Smooth-q4 Combo Smartphone Gimbal",
+  "brand": null,
+  "model": null,
+  "category_slug": "fotografia-e-video-5",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_698721-MLA99481907692_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7779051500",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2510652311",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 671.65,
+      "currency": "BRL",
+      "store_reference_price": 707,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB27811949",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T15:19:22.734Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 671.65,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 671.65,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 671.65,
+    "min_ever": 671.65,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

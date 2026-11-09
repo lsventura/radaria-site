@@ -1,0 +1,64 @@
+{
+  "id": "ml:MLB70065451",
+  "slug": "carregador-fonte-turbo-20w-usb-c-compativel-iphone-apple-mlb70065451",
+  "title": "Carregador Fonte Turbo 20w Usb-c Compatível iPhone Apple",
+  "brand": null,
+  "model": null,
+  "category_slug": "celulares-2",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_910300-MLA111995759689_052026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5402067783",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2330388396",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 89.87,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1CiPr9b",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T16:37:52.033Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 89.87,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-05",
+      "min_price": 89.87,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 89.87,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 89.87,
+    "min_ever": 89.87,
+    "min_ever_at": "2026-11-05",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

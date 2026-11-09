@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB28248848",
+  "slug": "panela-mexedeira-preto-saro-pa10-para-mexer-doces-salgados-coxinha-10-litros-ino-mlb28248848",
+  "title": "Panela mexedeira preto Saro pa10 para mexer doces salgados coxinha 10 litros inox frequência 60 mhz",
+  "brand": null,
+  "model": null,
+  "category_slug": "cozinha-10",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_792063-MLA115592352383_082026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5482037849",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1701176413",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 6000,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1jpzv9a",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:20:22.822Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 6000,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 6000,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 6000,
+    "min_ever": 6000,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

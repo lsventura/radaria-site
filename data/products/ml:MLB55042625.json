@@ -1,0 +1,116 @@
+{
+  "id": "ml:MLB55042625",
+  "slug": "console-playstation-5-standard-1tb-sony-mlb55042625",
+  "title": "Console Playstation 5 Standard 1tb Sony",
+  "brand": null,
+  "model": null,
+  "category_slug": "games-1",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_619758-MLA108889132558_032026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7901121260",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3776752641",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 4999,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1b8H33u",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T16:10:06.815Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7439804938",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "465285606",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 5935.9,
+      "currency": "BRL",
+      "store_reference_price": 6595,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1b8H33u",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T16:10:06.815Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5221430873",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "750553953",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 5109,
+      "currency": "BRL",
+      "store_reference_price": 7999,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1b8H33u",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T16:10:06.815Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6257229524",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "405473988",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 5810.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1b8H33u",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T16:10:06.815Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 4999,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 4999,
+      "observations": 5
+    }
+  ],
+  "stats": {
+    "median_90d": 4999,
+    "min_ever": 4999,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

@@ -1,0 +1,73 @@
+{
+  "id": "ml:MLB63342117",
+  "slug": "aparador-de-cerca-viva-600w-mlb63342117",
+  "title": "Aparador De Cerca Viva 600w",
+  "brand": null,
+  "model": null,
+  "category_slug": "jardim-e-piscina-3",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_956310-MLA101412838692_122025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5432728199",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2480247850",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 960.69,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB63342117",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T19:13:42.029Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5433462495",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2480247850",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 1051.89,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB63342117",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T19:13:42.029Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 960.69,
+      "observations": 4
+    }
+  ],
+  "stats": {
+    "median_90d": 960.69,
+    "min_ever": 960.69,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

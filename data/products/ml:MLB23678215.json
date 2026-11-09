@@ -1,0 +1,78 @@
+{
+  "id": "ml:MLB23678215",
+  "slug": "oculos-de-realidade-virtual-3d-shinecon-preto-mlb23678215",
+  "title": "Óculos De Realidade Virtual 3d Shinecon - Preto",
+  "brand": null,
+  "model": null,
+  "category_slug": "games-19",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_690932-MLA99953504563_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5343124056",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "549855953",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 267.77,
+      "currency": "BRL",
+      "store_reference_price": 276.05,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB23678215",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T15:11:44.117Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7895243194",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3366877785",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 199,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB23678215",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T15:11:44.117Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 199,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 199,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 199,
+    "min_ever": 199,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

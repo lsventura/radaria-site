@@ -1,0 +1,116 @@
+{
+  "id": "ml:MLB44249942",
+  "slug": "switch-poe-8-portas-2-uplink-1-6-gb-s-knup-kp-pw001-mlb44249942",
+  "title": "Switch POE 8 Portas 2 Uplink 1.6 GB/s Knup KP-PW001",
+  "brand": null,
+  "model": null,
+  "category_slug": "informatica-18",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_733523-MLA99471261146_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5657401932",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2165295185",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 136,
+      "currency": "BRL",
+      "store_reference_price": 174.9,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1Z8RdM8",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:52:06.815Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7757532450",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "278678428",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 199,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1Z8RdM8",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:52:06.815Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7908615248",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2445359242",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 136,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1Z8RdM8",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:52:06.815Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4642767509",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2993259195",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 143.52,
+      "currency": "BRL",
+      "store_reference_price": 219,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1Z8RdM8",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:52:06.815Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 136,
+      "observations": 16
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 136,
+      "observations": 5
+    }
+  ],
+  "stats": {
+    "median_90d": 136,
+    "min_ever": 136,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB27521813",
+  "slug": "adaptador-de-docking-station-5-em-1-tecmaster-tm-100541-mlb27521813",
+  "title": "Adaptador de docking station 5 em 1 Tecmaster Tm-100541",
+  "brand": null,
+  "model": null,
+  "category_slug": "informatica-9",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_973526-MLU72070647176_102023-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4530461003",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "533241464",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 120,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB27521813",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T15:18:44.026Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 120,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 120,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 120,
+    "min_ever": 120,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

@@ -1,0 +1,54 @@
+{
+  "id": "ml:MLB38688344",
+  "slug": "filtro-piscina-sodramar-fm-40-50-mil-litros-areia-fibra-vinil-mlb38688344",
+  "title": "Filtro Piscina Sodramar FM-40 50 Mil Litros Areia Fibra Vinil",
+  "brand": null,
+  "model": null,
+  "category_slug": "jardim-e-piscina-14",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_858600-MLA99947313475_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7168811698",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2204718338",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 669.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1ZyjmXE",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T18:20:54.719Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 669.9,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 669.9,
+    "min_ever": 669.9,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

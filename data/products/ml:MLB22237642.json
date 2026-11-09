@@ -1,0 +1,73 @@
+{
+  "id": "ml:MLB22237642",
+  "slug": "philips-hue-bridge-hub-conexao-iluminacao-inteligente-mlb22237642",
+  "title": "Philips Hue Bridge Hub Conexão Iluminação Inteligente",
+  "brand": null,
+  "model": null,
+  "category_slug": "casa-inteligente-7",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_739318-MLA99948533327_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB6061979340",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "488720842",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 758.17,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB22237642",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T23:11:47.351Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4266000225",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "488720842",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 691.99,
+      "currency": "BRL",
+      "store_reference_price": 752.17,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB22237642",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T23:11:47.351Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 691.99,
+      "observations": 4
+    }
+  ],
+  "stats": {
+    "median_90d": 691.99,
+    "min_ever": 691.99,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

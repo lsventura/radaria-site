@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB61647351",
+  "slug": "carregador-usb-c-usb-a-margirius-sleek-10w-preto-mlb61647351",
+  "title": "Carregador USB-C USB-A Margirius Sleek 10W Preto",
+  "brand": null,
+  "model": null,
+  "category_slug": "celulares-13",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_716242-MLA96891593790_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4286515913",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "782447151",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 199.64,
+      "currency": "BRL",
+      "store_reference_price": 205.81,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB61647351",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T16:14:07.010Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 199.64,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 199.64,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 199.64,
+    "min_ever": 199.64,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

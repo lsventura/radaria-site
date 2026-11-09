@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB40607286",
+  "slug": "dracula-volume-2-colecao-misterio-suspense-stoker-bram-nova-fronteira-capa-mole-mlb40607286",
+  "title": "Drácula - volume 2 - Coleção Mistério & Suspense - Stoker, Bram - Nova Fronteira - Capa Mole",
+  "brand": null,
+  "model": null,
+  "category_slug": "livros-e-papelaria-9",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_818228-MLA99488888714_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5005560801",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3277837440",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 144.2,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2F5D38r",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:41:57.426Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 144.2,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 144.2,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 144.2,
+    "min_ever": 144.2,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

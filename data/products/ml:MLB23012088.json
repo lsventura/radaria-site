@@ -1,0 +1,73 @@
+{
+  "id": "ml:MLB23012088",
+  "slug": "coifa-parede-depurador-vidro-curvo-inox-80cm-nardelli-mlb23012088",
+  "title": "Coifa Parede Depurador Vidro Curvo Inox 80cm Nardelli",
+  "brand": null,
+  "model": null,
+  "category_slug": "eletrodomesticos-20",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_978624-MLA99868990909_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB6555837722",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2532531290",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 719.9,
+      "currency": "BRL",
+      "store_reference_price": 909.52,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB23012088",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T23:19:47.416Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4579878715",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2532531290",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 669.9,
+      "currency": "BRL",
+      "store_reference_price": 844.95,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB23012088",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T23:19:47.416Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 669.9,
+      "observations": 4
+    }
+  ],
+  "stats": {
+    "median_90d": 669.9,
+    "min_ever": 669.9,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

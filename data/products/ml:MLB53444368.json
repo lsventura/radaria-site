@@ -1,0 +1,54 @@
+{
+  "id": "ml:MLB53444368",
+  "slug": "sapateira-organizador-sapatos-pequeno-80cm-guarda-brinquedos-cor-preto-mlb53444368",
+  "title": "Sapateira Organizador Sapatos Pequeno 80cm Guarda Brinquedos Cor Preto",
+  "brand": null,
+  "model": null,
+  "category_slug": "organizacao-e-limpeza-13",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_964228-MLA89104106844_082025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4918872569",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3077890529",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 239.2,
+      "currency": "BRL",
+      "store_reference_price": 260,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB53444368",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T18:54:11.426Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 239.2,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 239.2,
+    "min_ever": 239.2,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

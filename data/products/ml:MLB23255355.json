@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB23255355",
+  "slug": "fechadura-unidirecional-externa-alianca-2600-81-porta-aco-inox-mlb23255355",
+  "title": "Fechadura Unidirecional Externa Aliança 2600/81 Porta Aço Inox",
+  "brand": null,
+  "model": null,
+  "category_slug": "relogios-e-joias-10",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_779665-MLA95398935628_102025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4639515983",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "237135283",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 79.54,
+      "currency": "BRL",
+      "store_reference_price": 82,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/22brkY9",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:10:55.806Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 79.54,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 79.54,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 79.54,
+    "min_ever": 79.54,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

@@ -1,0 +1,54 @@
+{
+  "id": "ml:MLB24721328",
+  "slug": "martelo-perfurador-thaf-800w-sds-plus-11253-impacto-e-rotacao-azul-mlb24721328",
+  "title": "Martelo Perfurador Thaf 800W SDS Plus 11253 Impacto e Rotação Azul",
+  "brand": null,
+  "model": null,
+  "category_slug": "ferramentas-8",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_602652-MLA99502981560_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4577610420",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "173237543",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 499,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB24721328",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T23:37:47.439Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 499,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 499,
+    "min_ever": 499,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

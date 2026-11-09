@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB36146645",
+  "slug": "kit-limpeza-automotiva-cera-pretinho-shampoo-silicone-pano-mlb36146645",
+  "title": "Kit Limpeza Automotiva Cera Pretinho Shampoo Silicone Pano",
+  "brand": null,
+  "model": null,
+  "category_slug": "automotivo-14",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_678254-MLU75793859854_042024-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB6589712268",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "181622133",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 99.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB36146645",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T15:29:24.632Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 99.9,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 99.9,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 99.9,
+    "min_ever": 99.9,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

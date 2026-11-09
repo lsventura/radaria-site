@@ -1,0 +1,111 @@
+{
+  "id": "ml:MLB35161814",
+  "slug": "caixa-ferramentas-madeira-gire-e-crie-brinquedo-educativo-mlb35161814",
+  "title": "Caixa Ferramentas Madeira Gire E Crie Brinquedo Educativo",
+  "brand": null,
+  "model": null,
+  "category_slug": "casa-e-reforma-19",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_889826-MLA108417342169_032026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7939274126",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "234292216",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 233.41,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB35161814",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T18:04:22.280Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4650839948",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "277968762",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 220,
+      "currency": "BRL",
+      "store_reference_price": 262.05,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB35161814",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T18:04:22.280Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4568979564",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "7417825",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 272.11,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB35161814",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T18:04:22.280Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7939274128",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "234292216",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 223.04,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB35161814",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T18:04:22.280Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 220,
+      "observations": 12
+    }
+  ],
+  "stats": {
+    "median_90d": 220,
+    "min_ever": 220,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

@@ -1,0 +1,97 @@
+{
+  "id": "ml:MLB32249886",
+  "slug": "maquina-cortar-cabelo-profissional-wahl-magic-clip-mlb32249886",
+  "title": "Maquina Cortar Cabelo Profissional Wahl Magic Clip",
+  "brand": null,
+  "model": null,
+  "category_slug": "beleza-4",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_825446-MLA117877980321_092026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5312507373",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1863507888",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 419,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB32249886",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T15:24:24.734Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB3990442823",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1863507888",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 395,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB32249886",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T15:24:24.734Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB3898090429",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1882073721",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 499,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB32249886",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T15:24:24.734Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 395,
+      "observations": 9
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 395,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 395,
+    "min_ever": 395,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

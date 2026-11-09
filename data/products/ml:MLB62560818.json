@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB62560818",
+  "slug": "maquina-de-acabamento-itan-kemei-max5090-cortador-de-cabelo-bivolt-mlb62560818",
+  "title": "Máquina de Acabamento ITAN Kemei Max5090 Cortador de Cabelo Bivolt",
+  "brand": null,
+  "model": null,
+  "category_slug": "beleza-4",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_705474-MLA99874056579_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB6518387610",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "187192831",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 106,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/13vZxQS",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T16:16:05.031Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 106,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 106,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 106,
+    "min_ever": 106,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

@@ -1,0 +1,121 @@
+{
+  "id": "ml:MLB62309973",
+  "slug": "controle-gamesir-g7-pro-xbox-pc-mlb62309973",
+  "title": "Controle GameSir G7 Pro (Xbox/PC)",
+  "brand": "GameSir",
+  "model": null,
+  "category_slug": "controles",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_633535-MLA98780126119_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7877530352",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "75181199",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 559.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1F1yby1",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T16:15:07.121Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6592266128",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3133736363",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 594.15,
+      "currency": "BRL",
+      "store_reference_price": 699,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1F1yby1",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T16:15:07.121Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7111696564",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "458720159",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 679,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1F1yby1",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T16:15:07.121Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7487779918",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1496504529",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 539.39,
+      "currency": "BRL",
+      "store_reference_price": 619.99,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1F1yby1",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T16:15:07.121Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 539.39,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-05",
+      "min_price": 594.15,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 539.39,
+      "observations": 4
+    }
+  ],
+  "stats": {
+    "median_90d": 539.39,
+    "min_ever": 539.39,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

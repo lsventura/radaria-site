@@ -1,0 +1,135 @@
+{
+  "id": "ml:MLB19329661",
+  "slug": "o-casaco-encantado-mlb19329661",
+  "title": "O Casaco Encantado",
+  "brand": null,
+  "model": null,
+  "category_slug": "moda-feminina-5",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_798471-MLU73570496204_122023-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7502398316",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2075593524",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 193.23,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1TtaQ8S",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T14:59:47.916Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7502248114",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1833867837",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 193.23,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1TtaQ8S",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T14:59:47.916Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7918644478",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1044249879",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 125.82,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1TtaQ8S",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T14:59:47.916Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4871797959",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3446550055",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 209.7,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1TtaQ8S",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T14:59:47.916Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6700581888",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "459019543",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 187,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1TtaQ8S",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T14:59:47.916Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 125.82,
+      "observations": 5
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 125.82,
+      "observations": 6
+    }
+  ],
+  "stats": {
+    "median_90d": 125.82,
+    "min_ever": 125.82,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

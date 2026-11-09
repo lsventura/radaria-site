@@ -1,0 +1,97 @@
+{
+  "id": "ml:MLB53403093",
+  "slug": "camera-inteligente-intelbras-ime-360-3mp-visao-360-wi-fi-cor-branco-mlb53403093",
+  "title": "Câmera Inteligente Intelbras Ime 360 3mp Visão 360 Wi-fi Cor Branco",
+  "brand": null,
+  "model": null,
+  "category_slug": "casa-inteligente-2",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_913608-MLA99464199898_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5027397103",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2230260842",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 599,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2emXkRE",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T16:08:06.800Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5027457399",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2230260842",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 499,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2emXkRE",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T16:08:06.800Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7690399520",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "324860297",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 299,
+      "currency": "BRL",
+      "store_reference_price": 459,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2emXkRE",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T16:08:06.800Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 299,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 299,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 299,
+    "min_ever": 299,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

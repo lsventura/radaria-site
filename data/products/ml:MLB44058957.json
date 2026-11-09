@@ -1,0 +1,116 @@
+{
+  "id": "ml:MLB44058957",
+  "slug": "base-cortador-grama-mc-20l-trapp-mlb44058957",
+  "title": "Base Cortador Grama MC 20L Trapp",
+  "brand": null,
+  "model": null,
+  "category_slug": "jardim-e-piscina-4",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_861695-MLA99416117928_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB6830714712",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "71136685",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 285,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB44058957",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T15:51:06.922Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6808525170",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "221053759",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 285,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB44058957",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T15:51:06.922Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6830716872",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "71136685",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 300.7,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB44058957",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T15:51:06.922Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6808526872",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "221053759",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 300.7,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB44058957",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T15:51:06.922Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 285,
+      "observations": 16
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 285,
+      "observations": 4
+    }
+  ],
+  "stats": {
+    "median_90d": 285,
+    "min_ever": 285,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

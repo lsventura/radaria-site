@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB32099426",
+  "slug": "organizador-de-fios-espiral-preto-10-metros-3-4-lukma-mlb32099426",
+  "title": "Organizador de Fios Espiral Preto 10 Metros 3/4 Lukma",
+  "brand": null,
+  "model": null,
+  "category_slug": "casa-e-reforma-13",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_757799-MLA99588883270_122025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB3588878965",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "234070269",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 166.57,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1hqCBDu",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:24:24.734Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 166.57,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 166.57,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 166.57,
+    "min_ever": 166.57,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

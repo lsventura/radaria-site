@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB28307344",
+  "slug": "kit-3-crepinas-sem-furo-para-filtro-piscina-sodramar-mlb28307344",
+  "title": "Kit 3 Crepinas Sem Furo Para Filtro Piscina - Sodramar",
+  "brand": null,
+  "model": null,
+  "category_slug": "jardim-e-piscina-14",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_891817-MLA96258208790_102025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB6258952796",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "468560652",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 109.62,
+      "currency": "BRL",
+      "store_reference_price": 189,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2Gawgnj",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:20:22.822Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 109.62,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 109.62,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 109.62,
+    "min_ever": 109.62,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

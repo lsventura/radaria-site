@@ -1,0 +1,78 @@
+{
+  "id": "ml:MLB29374424",
+  "slug": "kit-novadigital-c-gm46-cortina-inteligente-wifi-motorizada-ate-4-2m-cor-branco-mlb29374424",
+  "title": "Kit Novadigital C-gm46 Cortina Inteligente Wifi Motorizada Até 4.2m Cor Branco",
+  "brand": null,
+  "model": null,
+  "category_slug": "casa-inteligente-17",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_884262-MLA99525267240_122025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4737951558",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1048677848",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 920,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1Tbx3FJ",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:21:22.912Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7869237486",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2606712642",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 902,
+      "currency": "BRL",
+      "store_reference_price": 1349.9,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1Tbx3FJ",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:21:22.912Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 902,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 902,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 902,
+    "min_ever": 902,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

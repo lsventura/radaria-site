@@ -1,0 +1,140 @@
+{
+  "id": "ml:MLB42975162",
+  "slug": "astro-bot-mlb42975162",
+  "title": "Astro Bot",
+  "brand": "Sony",
+  "model": null,
+  "category_slug": "jogos",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_863215-MLA99514934464_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5881694340",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "319230766",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 269.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/34gycMQ",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:48:06.825Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5441249879",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "333644074",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 256,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/34gycMQ",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:48:06.825Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6688769362",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "186619551",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 320,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/34gycMQ",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:48:06.825Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4980441209",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2039056093",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 299,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/34gycMQ",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:48:06.825Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4463245831",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "425887503",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 299.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/34gycMQ",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:48:06.825Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 256,
+      "observations": 25
+    },
+    {
+      "date": "2026-11-05",
+      "min_price": 256,
+      "observations": 7
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 256,
+      "observations": 8
+    }
+  ],
+  "stats": {
+    "median_90d": 256,
+    "min_ever": 256,
+    "min_ever_at": "2026-11-05",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

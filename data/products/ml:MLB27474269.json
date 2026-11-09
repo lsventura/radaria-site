@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB27474269",
+  "slug": "espelho-organico-de-parede-mirror-store-organico-do-60cm-x-42cm-com-60cm-de-diam-mlb27474269",
+  "title": "Espelho orgânico de parede Mirror Store Orgánico do 60cm x 42cm com 60cm de diâmetro quadro caramelo",
+  "brand": null,
+  "model": null,
+  "category_slug": "casa-e-reforma-17",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_835864-MLA95712341696_102025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB6197425346",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3087200104",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 99.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1XWViL9",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:18:44.026Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 99.9,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 99.9,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 99.9,
+    "min_ever": 99.9,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

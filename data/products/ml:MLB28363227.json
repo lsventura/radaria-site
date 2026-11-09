@@ -1,0 +1,73 @@
+{
+  "id": "ml:MLB28363227",
+  "slug": "colchonete-academia-tapete-yoga-pilates-azul-180x60-liveup-mlb28363227",
+  "title": "Colchonete Academia Tapete Yoga Pilates Azul 180x60 Liveup",
+  "brand": null,
+  "model": null,
+  "category_slug": "fitness-10",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_717103-MLA99952979181_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB3643231461",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1547122545",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 180.2,
+      "currency": "BRL",
+      "store_reference_price": 212,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB28363227",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T00:26:47.530Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB3643243797",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1547122545",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 163.2,
+      "currency": "BRL",
+      "store_reference_price": 192,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB28363227",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T00:26:47.530Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 163.2,
+      "observations": 8
+    }
+  ],
+  "stats": {
+    "median_90d": 163.2,
+    "min_ever": 163.2,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB64273806",
+  "slug": "berco-automatico-sensor-movimento-bluetooth-2026-cinza-mlb64273806",
+  "title": "Berço Automático Sensor Movimento Bluetooth 2026 Cinza",
+  "brand": null,
+  "model": null,
+  "category_slug": "casa-inteligente-5",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_762747-MLA104793453031_012026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB6505621462",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2437873847",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 1049.65,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB64273806",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T16:20:05.128Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 1049.65,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 1049.65,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 1049.65,
+    "min_ever": 1049.65,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

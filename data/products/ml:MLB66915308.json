@@ -1,0 +1,54 @@
+{
+  "id": "ml:MLB66915308",
+  "slug": "bateria-automotiva-thorbat-12v-80ah-caixa-alta-polo-direito-mlb66915308",
+  "title": "Bateria Automotiva Thorbat 12v 80ah Caixa Alta Polo Direito",
+  "brand": null,
+  "model": null,
+  "category_slug": "automotivo-8",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_881837-MLA109114737573_032026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4547794225",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1317437587",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 797,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB66915308",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T19:22:28.934Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 797,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 797,
+    "min_ever": 797,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

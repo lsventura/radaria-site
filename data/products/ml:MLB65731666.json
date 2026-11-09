@@ -1,0 +1,73 @@
+{
+  "id": "ml:MLB65731666",
+  "slug": "cadeira-escritorio-executiva-low-maxoffice-preto-espuma-mlb65731666",
+  "title": "Cadeira Escritório Executiva Low Maxoffice Preto Espuma",
+  "brand": null,
+  "model": null,
+  "category_slug": "casa-e-reforma-6",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_767469-MLA107376328371_022026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB6801236150",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1500470534",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 289.3,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB65731666",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T19:18:07.281Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6801236152",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1500470534",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 277.73,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB65731666",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T19:18:07.281Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 277.73,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 277.73,
+    "min_ever": 277.73,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

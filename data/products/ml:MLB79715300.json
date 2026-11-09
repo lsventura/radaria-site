@@ -1,0 +1,97 @@
+{
+  "id": "ml:MLB79715300",
+  "slug": "sanduicheira-grill-eletrica-750w-127v-torradeira-mlb79715300",
+  "title": "Sanduicheira Grill Elétrica 750w 127v Torradeira",
+  "brand": null,
+  "model": null,
+  "category_slug": "cozinha-11",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_630791-MLA116512838680_092026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7758988298",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2561310350",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 113.07,
+      "currency": "BRL",
+      "store_reference_price": 116.57,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB79715300",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T17:09:52.449Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7836630582",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3770652247",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 106.71,
+      "currency": "BRL",
+      "store_reference_price": 119.9,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB79715300",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T17:09:52.449Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7761662426",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3690897023",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 104.76,
+      "currency": "BRL",
+      "store_reference_price": 108,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB79715300",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T17:09:52.449Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 104.76,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 104.76,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 104.76,
+    "min_ever": 104.76,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

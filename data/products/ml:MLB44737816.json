@@ -1,0 +1,54 @@
+{
+  "id": "ml:MLB44737816",
+  "slug": "aspirador-robo-samsung-powerbot-e-preto-mlb44737816",
+  "title": "Aspirador robô Samsung PowerBot-e preto",
+  "brand": null,
+  "model": null,
+  "category_slug": "eletrodomesticos-16",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_630400-MLA99426999094_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5516672811",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1076666636",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 1579,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB44737816",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T18:32:35.897Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 1579,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 1579,
+    "min_ever": 1579,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

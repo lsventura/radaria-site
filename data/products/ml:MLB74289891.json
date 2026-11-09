@@ -1,0 +1,97 @@
+{
+  "id": "ml:MLB74289891",
+  "slug": "modulo-sensor-estacionamento-dianteiro-corolla-mlb74289891",
+  "title": "Modulo Sensor Estacionamento Dianteiro Corolla",
+  "brand": null,
+  "model": null,
+  "category_slug": "automotivo-11",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_953572-MLA112422967986_062026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5282794073",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3532588835",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 751.94,
+      "currency": "BRL",
+      "store_reference_price": 816,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB74289891",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T16:54:03.768Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4884579253",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1105285725",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 1050,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB74289891",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T16:54:03.768Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4801684819",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2617004990",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 743,
+      "currency": "BRL",
+      "store_reference_price": 767,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB74289891",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T16:54:03.768Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 743,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 743,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 743,
+    "min_ever": 743,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

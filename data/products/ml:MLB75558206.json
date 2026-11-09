@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB75558206",
+  "slug": "cadeira-gamer-highload-start-2-0-ergonomica-com-apoio-para-pes-preto-e-vermelho-mlb75558206",
+  "title": "Cadeira Gamer HighLoad Start 2.0 Ergonômica com Apoio para Pés - Preto e Vermelho",
+  "brand": null,
+  "model": null,
+  "category_slug": "games-7",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_806457-MLA117284047743_092026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7860736506",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3623988667",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 457.87,
+      "currency": "BRL",
+      "store_reference_price": 848,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1i1meJh",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T16:58:03.765Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 457.87,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 457.87,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 457.87,
+    "min_ever": 457.87,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB78744222",
+  "slug": "kit-1-bermuda-preta-masculina-1-par-de-meiao-preto-futebol-preto-m-mlb78744222",
+  "title": "Kit 1 Bermuda Preta Masculina + 1 Par De Meião Preto Futebol Preto M",
+  "brand": null,
+  "model": null,
+  "category_slug": "moda-masculina-8",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_600439-MLA116988598121_082026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7568050402",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "41126632",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 30.39,
+      "currency": "BRL",
+      "store_reference_price": 31.99,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2iDWBmS",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T17:06:03.808Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 30.39,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 30.39,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 30.39,
+    "min_ever": 30.39,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

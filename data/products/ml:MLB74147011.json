@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB74147011",
+  "slug": "notebook-2-em-1-hp-omnibook-flip-16-core-ultra-7-com-16gb-ram-e-ssd-de-512gb-mlb74147011",
+  "title": "Notebook 2 em 1 HP OmniBook Flip 16\" Core Ultra 7 com 16GB RAM e SSD de 512GB",
+  "brand": null,
+  "model": null,
+  "category_slug": "notebooks-6",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_656272-MLA116492700005_082026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB6998421108",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3003245637",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 4995.6,
+      "currency": "BRL",
+      "store_reference_price": 7980.93,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2udVk18",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T16:53:03.837Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 4995.6,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 4995.6,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 4995.6,
+    "min_ever": 4995.6,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

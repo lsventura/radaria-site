@@ -1,0 +1,92 @@
+{
+  "id": "ml:MLB22770917",
+  "slug": "aparador-de-cerca-viva-ht-600-kawashima-mlb22770917",
+  "title": "Aparador de cerca viva HT-600 Kawashima",
+  "brand": null,
+  "model": null,
+  "category_slug": "jardim-e-piscina-3",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_671565-MLA93638843704_102025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5061286026",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "38303206",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 815.22,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB22770917",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T23:17:47.414Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB3563317974",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "38303206",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 735.5,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB22770917",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T23:17:47.414Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5048200627",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "261206420",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 728.48,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB22770917",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T23:17:47.414Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 728.48,
+      "observations": 6
+    }
+  ],
+  "stats": {
+    "median_90d": 728.48,
+    "min_ever": 728.48,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

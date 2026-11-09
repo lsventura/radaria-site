@@ -1,0 +1,78 @@
+{
+  "id": "ml:MLB22723635",
+  "slug": "sensor-abertura-spa-2001-c-fio-p-portas-portoes-aco-39438-mlb22723635",
+  "title": "Sensor Abertura Spa-2001 C/ Fio P/ Portas/portões Aço 39438",
+  "brand": null,
+  "model": null,
+  "category_slug": "casa-inteligente-4",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_635965-MLA99557456544_122025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB6815537954",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1380984891",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 94.25,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB22723635",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T15:09:55.851Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5209100779",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2213444344",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 89,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB22723635",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T15:09:55.851Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 89,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 89,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 89,
+    "min_ever": 89,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

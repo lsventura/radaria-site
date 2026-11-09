@@ -1,0 +1,73 @@
+{
+  "id": "ml:MLB66583167",
+  "slug": "cortador-grama-sem-bateria-380mm-40v-lm003gz-makita-azul-turquesa-mlb66583167",
+  "title": "Cortador Grama Sem Bateria 380mm 40v Lm003gz Makita Azul-turquesa",
+  "brand": null,
+  "model": null,
+  "category_slug": "jardim-e-piscina-4",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_750284-MLA107899456802_032026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB6695259756",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "310393991",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 1183.39,
+      "currency": "BRL",
+      "store_reference_price": 1429.99,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2V37xz2",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T19:19:34.054Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6695259758",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "310393991",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 1100.94,
+      "currency": "BRL",
+      "store_reference_price": 1329.99,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2V37xz2",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T19:19:34.054Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 1100.94,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 1100.94,
+    "min_ever": 1100.94,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

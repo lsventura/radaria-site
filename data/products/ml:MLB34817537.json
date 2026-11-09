@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB34817537",
+  "slug": "kit-manicure-poli-descartavel-luvas-lixa-palito-20un-mlb34817537",
+  "title": "Kit Manicure Poli Descartável Luvas + Lixa + Palito 20un",
+  "brand": null,
+  "model": null,
+  "category_slug": "beleza-17",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_635466-MLU75184453398_032024-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5792416840",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "85407237",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 197.6,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB34817537",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T15:27:24.809Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 197.6,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 197.6,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 197.6,
+    "min_ever": 197.6,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

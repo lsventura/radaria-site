@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB39333782",
+  "slug": "teleprompter-10-5-dslr-c-suporte-celular-gopro-controle-mlb39333782",
+  "title": "Teleprompter 10,5 Dslr C/ Suporte Celular + Gopro + Controle",
+  "brand": null,
+  "model": null,
+  "category_slug": "celulares-19",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_857621-MLA99507654194_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5310880030",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "482006530",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 250.8,
+      "currency": "BRL",
+      "store_reference_price": 320.12,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB39333782",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T15:37:55.532Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 250.8,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 250.8,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 250.8,
+    "min_ever": 250.8,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

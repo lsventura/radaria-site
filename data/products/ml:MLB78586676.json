@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB78586676",
+  "slug": "mesa-jardim-aluminio-redonda-1-30m-verona-com-furo-ombrelone-preto-mlb78586676",
+  "title": "Mesa Jardim Alumínio Redonda 1,30m Verona Com Furo Ombrelone Preto",
+  "brand": null,
+  "model": null,
+  "category_slug": "jardim-e-piscina-18",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_688041-MLA116795229535_082026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5169568237",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "706523088",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 2357.25,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1m8fYP4",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T17:05:03.773Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 2357.25,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 2357.25,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 2357.25,
+    "min_ever": 2357.25,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

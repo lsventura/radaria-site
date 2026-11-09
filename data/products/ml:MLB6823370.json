@@ -1,0 +1,140 @@
+{
+  "id": "ml:MLB6823370",
+  "slug": "hyperx-cloud-stinger-mlb6823370",
+  "title": "HyperX Cloud Stinger",
+  "brand": "HyperX",
+  "model": null,
+  "category_slug": "headsets",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_660369-MLA96883116891_102025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB1741192912",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "324746926",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 474.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1CudEfC",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T16:32:23.358Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4965323581",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1465663343",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 398,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1CudEfC",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T16:32:23.358Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4772969693",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "464493686",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 319,
+      "currency": "BRL",
+      "store_reference_price": 399,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1CudEfC",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T16:32:23.358Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7846186526",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2560518754",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 311,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1CudEfC",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T16:32:23.358Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB1741234981",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "324746926",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 437.06,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1CudEfC",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T16:32:23.358Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 311,
+      "observations": 5
+    },
+    {
+      "date": "2026-11-05",
+      "min_price": 319,
+      "observations": 7
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 311,
+      "observations": 8
+    }
+  ],
+  "stats": {
+    "median_90d": 311,
+    "min_ever": 311,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

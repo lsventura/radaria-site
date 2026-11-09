@@ -1,0 +1,92 @@
+{
+  "id": "ml:MLB28050599",
+  "slug": "oculos-natacao-speedo-mariner-cor-preto-citronela-mlb28050599",
+  "title": "Óculos Natação Speedo Mariner Cor Preto/ Citronela",
+  "brand": null,
+  "model": null,
+  "category_slug": "esportes-9",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_938290-MLA94381879119_102025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB6848613980",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1893901379",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 94.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2ozLMF5",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T00:21:47.423Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6926458898",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1822538390",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 99.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2ozLMF5",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T00:21:47.423Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6035321498",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1301127438",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 81.23,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2ozLMF5",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T00:21:47.423Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 81.23,
+      "observations": 9
+    }
+  ],
+  "stats": {
+    "median_90d": 81.23,
+    "min_ever": 81.23,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

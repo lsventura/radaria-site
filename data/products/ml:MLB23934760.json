@@ -1,0 +1,111 @@
+{
+  "id": "ml:MLB23934760",
+  "slug": "organizador-geladeira-ou-armario-12-latas-mlb23934760",
+  "title": "Organizador Geladeira Ou Armario 12 Latas",
+  "brand": null,
+  "model": null,
+  "category_slug": "organizacao-e-limpeza-9",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_767508-MLA100028153739_122025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5973429894",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "141998753",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 83.64,
+      "currency": "BRL",
+      "store_reference_price": 106.8,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB23934760",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T23:29:47.425Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5024279952",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1859027260",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 105.01,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB23934760",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T23:29:47.425Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4027243535",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "69320978",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 125.97,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB23934760",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T23:29:47.425Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5973532062",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "141998753",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 90.69,
+      "currency": "BRL",
+      "store_reference_price": 118.53,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB23934760",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T23:29:47.425Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 83.64,
+      "observations": 8
+    }
+  ],
+  "stats": {
+    "median_90d": 83.64,
+    "min_ever": 83.64,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

@@ -1,0 +1,78 @@
+{
+  "id": "ml:MLB77163288",
+  "slug": "controle-sem-fio-dualsense-edicao-limitada-wolverine-adamantium-mlb77163288",
+  "title": "Controle sem fio DualSense - Edição Limitada Wolverine - Adamantium",
+  "brand": null,
+  "model": null,
+  "category_slug": "games-5",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_724499-MLA118153311134_102026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5425257473",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1942162767",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 799.99,
+      "currency": "BRL",
+      "store_reference_price": 999.99,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB77163288",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T17:02:03.773Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5425232031",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "214211616",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 999.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB77163288",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T17:02:03.773Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 799.99,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 799.99,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 799.99,
+    "min_ever": 799.99,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

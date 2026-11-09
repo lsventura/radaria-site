@@ -1,0 +1,73 @@
+{
+  "id": "ml:MLB65747551",
+  "slug": "camera-veicular-kawa-d5-para-carro-e-caminhonete-mlb65747551",
+  "title": "Câmera Veicular Kawa D5 para Carro e Caminhonete",
+  "brand": null,
+  "model": null,
+  "category_slug": "automotivo-3",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_612815-MLA106730574340_022026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5229697729",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "38325899",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 449,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB65747551",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T19:18:09.790Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4699395749",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "204694600",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 552.41,
+      "currency": "BRL",
+      "store_reference_price": 649.9,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB65747551",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T19:18:09.790Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 449,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 449,
+    "min_ever": 449,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

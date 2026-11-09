@@ -1,0 +1,97 @@
+{
+  "id": "ml:MLB28672998",
+  "slug": "martelo-perfurador-hr2470f-makita-650589-4-mlb28672998",
+  "title": "Martelo Perfurador Hr2470f Makita 650589-4",
+  "brand": null,
+  "model": null,
+  "category_slug": "ferramentas-8",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_702266-MLA99446950866_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB6087656420",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "217414827",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 96.65,
+      "currency": "BRL",
+      "store_reference_price": 101.75,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB28672998",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T15:20:22.822Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5831757316",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "70110126",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 103.11,
+      "currency": "BRL",
+      "store_reference_price": 108.77,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB28672998",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T15:20:22.822Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5831190088",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "70110126",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 97.13,
+      "currency": "BRL",
+      "store_reference_price": 103.33,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB28672998",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T15:20:22.822Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 96.65,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 96.65,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 96.65,
+    "min_ever": 96.65,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

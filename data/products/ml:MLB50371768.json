@@ -28,19 +28,76 @@
       "last_observed_at": "2026-11-08T18:48:55.434Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6721912624",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "436404543",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 1953.67,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB50371768",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T18:48:55.434Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4072999101",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "418849836",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 2020,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB50371768",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T18:48:55.434Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4282823877",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "544790146",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 3039.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB50371768",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T18:48:55.434Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
     }
   ],
   "payment_offers": [],
   "history": [
     {
       "date": "2026-11-08",
-      "min_price": 2014.09,
-      "observations": 1
+      "min_price": 1953.67,
+      "observations": 4
     }
   ],
   "stats": {
-    "median_90d": 2014.09,
-    "min_ever": 2014.09,
+    "median_90d": 1953.67,
+    "min_ever": 1953.67,
     "min_ever_at": "2026-11-08",
     "distinct_days": 1,
     "window_days": 14

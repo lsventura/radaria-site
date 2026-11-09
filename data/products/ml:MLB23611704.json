@@ -1,0 +1,73 @@
+{
+  "id": "ml:MLB23611704",
+  "slug": "memoria-ram-corsair-vengeance-rgb-64gb-ddr5-5200mhz-mlb23611704",
+  "title": "Memória Ram Corsair Vengeance Rgb 64gb Ddr5 5200mhz",
+  "brand": null,
+  "model": null,
+  "category_slug": "informatica-5",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_862228-MLA99940410005_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5234296613",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2449408153",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 9225,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB23611704",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T23:25:47.411Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5234298653",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2449408153",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 9786,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB23611704",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T23:25:47.411Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 9225,
+      "observations": 4
+    }
+  ],
+  "stats": {
+    "median_90d": 9225,
+    "min_ever": 9225,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

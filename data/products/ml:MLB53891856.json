@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB53891856",
+  "slug": "carregador-notebook-universal-b-max-120w-conectores-ac-dc-12-24v-mlb53891856",
+  "title": "Carregador Notebook Universal B-Max 120W Conectores AC/DC 12-24V",
+  "brand": null,
+  "model": null,
+  "category_slug": "notebooks-20",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_600830-MLA95732722446_102025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5025377145",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1808662860",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 71.76,
+      "currency": "BRL",
+      "store_reference_price": 78,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB53891856",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T16:09:06.802Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 71.76,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 71.76,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 71.76,
+    "min_ever": 71.76,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

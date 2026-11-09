@@ -1,0 +1,78 @@
+{
+  "id": "ml:MLB14998587",
+  "slug": "cubo-amplificador-guitarra-strike-g30-borne-cor-azul-mlb14998587",
+  "title": "Cubo Amplificador Guitarra Strike G30 Borne Cor Azul",
+  "brand": null,
+  "model": null,
+  "category_slug": "instrumentos-musicais-16",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_608353-MLU78273639451_082024-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5468337989",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1056366127",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 419,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1cTZisB",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T14:45:32.527Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4190751583",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1056366127",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 419,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1cTZisB",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T14:45:32.527Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 419,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 405,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 412,
+    "min_ever": 405,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": -1.7,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

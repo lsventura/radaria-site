@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB59113861",
+  "slug": "caixa-som-amplificada-portatil-bluetooth-microfone-vermelha-vermelho-mlb59113861",
+  "title": "Caixa Som Amplificada Portátil Bluetooth Microfone Vermelha Vermelho",
+  "brand": null,
+  "model": null,
+  "category_slug": "instrumentos-musicais-10",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_760717-MLA94298943239_102025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4353221345",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "236197781",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 234.99,
+      "currency": "BRL",
+      "store_reference_price": 249.99,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1ZCge87",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T16:12:06.799Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 234.99,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 234.99,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 234.99,
+    "min_ever": 234.99,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

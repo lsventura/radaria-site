@@ -1,0 +1,54 @@
+{
+  "id": "ml:MLB19726274",
+  "slug": "serra-tico-tico-domestico-worker-976130-400w-mlb19726274",
+  "title": "Serra tico-tico doméstico Worker 976130 400W",
+  "brand": null,
+  "model": null,
+  "category_slug": "ferramentas-10",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_704020-MLA99972967337_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB3120375006",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "232474253",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 197.01,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1uA6bEu",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T16:45:08.219Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 197.01,
+      "observations": 7
+    }
+  ],
+  "stats": {
+    "median_90d": 197.01,
+    "min_ever": 197.01,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

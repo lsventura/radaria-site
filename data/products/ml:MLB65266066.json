@@ -1,0 +1,78 @@
+{
+  "id": "ml:MLB65266066",
+  "slug": "refil-1-litro-para-difusor-aroma-alecrim-emporio-essenza-mlb65266066",
+  "title": "Refil 1 Litro Para Difusor Aroma Alecrim Empório Essenza",
+  "brand": null,
+  "model": null,
+  "category_slug": "bem-estar-16",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_734373-MLA110126327978_042026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB6288330902",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2694998641",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 260,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2q6Qx8c",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T16:23:04.627Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6227898962",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2912071148",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 169,
+      "currency": "BRL",
+      "store_reference_price": 260,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2q6Qx8c",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T16:23:04.627Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 169,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 260,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 214.5,
+    "min_ever": 169,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 21.2,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

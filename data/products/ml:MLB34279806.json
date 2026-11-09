@@ -1,0 +1,116 @@
+{
+  "id": "ml:MLB34279806",
+  "slug": "assento-infantil-para-carro-potenza-fix-galzerano-mlb34279806",
+  "title": "Assento Infantil para Carro Potenza Fix Galzerano",
+  "brand": null,
+  "model": null,
+  "category_slug": "bebes-2",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_993823-MLA99992711239_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5663243322",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "48764248",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 359.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1f7GjZ9",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:26:24.611Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB3700741047",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1018472117",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 349.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1f7GjZ9",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:26:24.611Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB3700664655",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1018472117",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 339.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1f7GjZ9",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:26:24.611Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5367324405",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2704795579",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 389.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1f7GjZ9",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:26:24.611Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 339.9,
+      "observations": 12
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 339.9,
+      "observations": 4
+    }
+  ],
+  "stats": {
+    "median_90d": 339.9,
+    "min_ever": 339.9,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

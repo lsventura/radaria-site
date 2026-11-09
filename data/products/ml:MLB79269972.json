@@ -1,0 +1,73 @@
+{
+  "id": "ml:MLB79269972",
+  "slug": "lavadora-alta-pressao-2700psi-profissional-preto-e-vermelho-mlb79269972",
+  "title": "Lavadora Alta Pressão 2700psi Profissional Preto E Vermelho",
+  "brand": null,
+  "model": null,
+  "category_slug": "ferramentas-5",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_919180-MLA117573000867_092026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7630486500",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "32968178",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 3956.63,
+      "currency": "BRL",
+      "store_reference_price": 4079,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB79269972",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T19:51:25.911Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7630487024",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "32968178",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 4325.22,
+      "currency": "BRL",
+      "store_reference_price": 4459,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB79269972",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T19:51:25.911Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 3956.63,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 3956.63,
+    "min_ever": 3956.63,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

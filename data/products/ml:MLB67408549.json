@@ -1,0 +1,54 @@
+{
+  "id": "ml:MLB67408549",
+  "slug": "carregador-bateria-inteligente-automotiva-12v-6a-para-carro-moto-bivolt-mlb67408549",
+  "title": "Carregador Bateria Inteligente Automotiva 12V 6A para Carro Moto Bivolt",
+  "brand": null,
+  "model": null,
+  "category_slug": "automotivo-2",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_797274-MLA109789599677_032026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7350104552",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "578830465",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 158.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB67408549",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T19:23:38.897Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 158.9,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 158.9,
+    "min_ever": 158.9,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

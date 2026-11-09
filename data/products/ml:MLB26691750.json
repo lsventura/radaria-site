@@ -1,0 +1,54 @@
+{
+  "id": "ml:MLB26691750",
+  "slug": "sanduicheira-grill-premium-mondial-800w-s-19-mlb26691750",
+  "title": "Sanduicheira Grill Premium, Mondial, 800W - S-19",
+  "brand": null,
+  "model": null,
+  "category_slug": "cozinha-11",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_628358-MLA99451184458_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5553504958",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "244990084",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 139.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB26691750",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T00:03:47.420Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 139.99,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 139.99,
+    "min_ever": 139.99,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

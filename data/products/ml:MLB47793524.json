@@ -1,0 +1,97 @@
+{
+  "id": "ml:MLB47793524",
+  "slug": "bebedouro-comedouro-automatico-caes-pet-sem-molhar-chalesco-cor-rosa-mlb47793524",
+  "title": "Bebedouro Comedouro Automático Cães Pet Sem Molhar Chalesco Cor Rosa",
+  "brand": null,
+  "model": null,
+  "category_slug": "pets-14",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_833013-MLA96207679308_102025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5509621077",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1023213039",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 106.57,
+      "currency": "BRL",
+      "store_reference_price": 109.87,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2rzFjC2",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T16:03:06.825Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5866044018",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "174828919",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 129.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2rzFjC2",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T16:03:06.825Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7295692740",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1463440903",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 114.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2rzFjC2",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T16:03:06.825Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 106.57,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 106.57,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 106.57,
+    "min_ever": 106.57,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

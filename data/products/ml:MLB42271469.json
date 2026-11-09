@@ -1,0 +1,116 @@
+{
+  "id": "ml:MLB42271469",
+  "slug": "aparador-cerca-viva-gasolina-25-4cc-2t-htx-6000-trapp-cor-verde-a-gasolina-mlb42271469",
+  "title": "Aparador Cerca Viva Gasolina 25,4cc 2t Htx-6000 Trapp Cor Verde á gasolina",
+  "brand": null,
+  "model": null,
+  "category_slug": "jardim-e-piscina-3",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_898225-MLA95404872506_102025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5163159948",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "310393991",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 1219.99,
+      "currency": "BRL",
+      "store_reference_price": 1434.99,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1p2ufsQ",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:47:07.006Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5163057354",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "177477773",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 1219.99,
+      "currency": "BRL",
+      "store_reference_price": 1434.99,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1p2ufsQ",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:47:07.006Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB3901099789",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "310393991",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 1074,
+      "currency": "BRL",
+      "store_reference_price": 1334.99,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1p2ufsQ",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:47:07.006Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5163108674",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "177477773",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 1085,
+      "currency": "BRL",
+      "store_reference_price": 1334.99,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1p2ufsQ",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:47:07.006Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 1074,
+      "observations": 20
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 1074,
+      "observations": 5
+    }
+  ],
+  "stats": {
+    "median_90d": 1074,
+    "min_ever": 1074,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

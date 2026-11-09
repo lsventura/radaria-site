@@ -1,0 +1,54 @@
+{
+  "id": "ml:MLB16597130",
+  "slug": "cafeteira-espresso-touch-preta-tres-3-coracoes-mlb16597130",
+  "title": "Cafeteira Espresso Touch Preta - TRES 3 Corações",
+  "brand": null,
+  "model": null,
+  "category_slug": "cozinha-2",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_609432-MLA99399330166_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4860095818",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1847286186",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 899,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB16597130",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T00:26:47.530Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 899,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 899,
+    "min_ever": 899,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

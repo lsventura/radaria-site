@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB80562392",
+  "slug": "painel-tv-55-polegadas-ripado-suspenso-133x109-com-nicho-preto-nature-mlb80562392",
+  "title": "Painel Tv 55 Polegadas Ripado Suspenso 133x109 Com Nicho Preto/nature",
+  "brand": null,
+  "model": null,
+  "category_slug": "moveis-9",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_699581-MLA119455259621_102026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7875272582",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1316624202",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 355.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1sQHwyZ",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T17:11:52.510Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 355.99,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 355.99,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 355.99,
+    "min_ever": 355.99,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

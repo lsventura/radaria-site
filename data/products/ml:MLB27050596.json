@@ -1,0 +1,111 @@
+{
+  "id": "ml:MLB27050596",
+  "slug": "lamina-faca-cortador-grama-trapp-mc50-mc60-47cm-2111527-mlb27050596",
+  "title": "Lamina Faca Cortador Grama Trapp MC50 MC60 47cm 2111527",
+  "brand": null,
+  "model": null,
+  "category_slug": "jardim-e-piscina-4",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_935502-MLA114551820111_072026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7724576684",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "427643778",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 85.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2cKTMNd",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T00:08:47.424Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6818847232",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1310162749",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 80,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2cKTMNd",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T00:08:47.424Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4598143711",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "275540070",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 105.16,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2cKTMNd",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T00:08:47.424Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB3998082181",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "261206420",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 86.35,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2cKTMNd",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T00:08:47.424Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 80,
+      "observations": 8
+    }
+  ],
+  "stats": {
+    "median_90d": 80,
+    "min_ever": 80,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

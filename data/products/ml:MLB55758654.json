@@ -1,0 +1,73 @@
+{
+  "id": "ml:MLB55758654",
+  "slug": "racao-para-caes-14kg-atacama-all-breeds-cachorros-supra-mlb55758654",
+  "title": "Ração Para Cães 14kg Atacama All Breeds Cachorros Supra",
+  "brand": null,
+  "model": null,
+  "category_slug": "pets-2",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_731631-MLA99826927149_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5174621743",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "391845529",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 249.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB55758654",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T18:59:46.530Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6224453220",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1168259879",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 247.34,
+      "currency": "BRL",
+      "store_reference_price": 499.99,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB55758654",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T18:59:46.530Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 247.34,
+      "observations": 4
+    }
+  ],
+  "stats": {
+    "median_90d": 247.34,
+    "min_ever": 247.34,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

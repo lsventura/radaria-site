@@ -1,0 +1,78 @@
+{
+  "id": "ml:MLB46295024",
+  "slug": "carrinho-controle-remoto-stitch-smart-driver-mlb46295024",
+  "title": "Carrinho Controle Remoto Stitch Smart Driver",
+  "brand": null,
+  "model": null,
+  "category_slug": "brinquedos-4",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_731636-MLA99984927291_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7102008718",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "338399648",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 129.95,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB46295024",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T16:00:06.807Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4005050389",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "36716631",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 101.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB46295024",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T16:00:06.807Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 101.9,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 101.9,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 101.9,
+    "min_ever": 101.9,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

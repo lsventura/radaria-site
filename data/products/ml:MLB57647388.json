@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB57647388",
+  "slug": "bone-masculino-cor-grafite-tamanho-un-mlb57647388",
+  "title": "Bone Masculino Cor Grafite Tamanho Un",
+  "brand": null,
+  "model": null,
+  "category_slug": "moda-masculina-12",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_976694-MLA93786450871_092025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5254518371",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2401968731",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 136,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/32JRtD6",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T16:12:06.799Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 136,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 136,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 136,
+    "min_ever": 136,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

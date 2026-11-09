@@ -1,0 +1,54 @@
+{
+  "id": "ml:MLB22643113",
+  "slug": "sanduicheira-grill-premium-inox-mondial-s-25-750w-mlb22643113",
+  "title": "Sanduicheira Grill Premium Inox Mondial S-25 750w",
+  "brand": null,
+  "model": null,
+  "category_slug": "cozinha-11",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_733963-MLA99452808994_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7025999404",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2409967011",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 90,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB22643113",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T23:15:47.408Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 90,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 90,
+    "min_ever": 90,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

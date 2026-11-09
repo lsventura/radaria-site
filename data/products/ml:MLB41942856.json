@@ -1,0 +1,78 @@
+{
+  "id": "ml:MLB41942856",
+  "slug": "cooktop-de-inducao-dako-1-zona-portatil-com-10-niveis-de-potencia-e-1500w-127-v-mlb41942856",
+  "title": "Cooktop de Indução Dako 1 Zona Portátil com 10 Níveis de Potência e 1500W 127 V",
+  "brand": null,
+  "model": null,
+  "category_slug": "eletrodomesticos-4",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_753587-MLA99936770097_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4645035409",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1274052074",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 299,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2kvDXK8",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:42:57.421Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4238023981",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1212138371",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 189,
+      "currency": "BRL",
+      "store_reference_price": 340,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2kvDXK8",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:42:57.421Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 189,
+      "observations": 8
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 189,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 189,
+    "min_ever": 189,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

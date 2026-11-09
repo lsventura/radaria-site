@@ -1,0 +1,92 @@
+{
+  "id": "ml:MLB24720572",
+  "slug": "escrivaninha-mesa-escritorio-me4139-nogal-tecno-mobili-mlb24720572",
+  "title": "Escrivaninha Mesa Escritório ME4139 Nogal Tecno Mobili",
+  "brand": null,
+  "model": null,
+  "category_slug": "moveis-5",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_818647-MLA96078336881_102025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5250542976",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "456824458",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 331.94,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB24720572",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T23:37:47.439Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6711202748",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3160694476",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 328.42,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB24720572",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T23:37:47.439Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6711241840",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3160694476",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 349.17,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB24720572",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T23:37:47.439Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 328.42,
+      "observations": 6
+    }
+  ],
+  "stats": {
+    "median_90d": 328.42,
+    "min_ever": 328.42,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

@@ -1,0 +1,54 @@
+{
+  "id": "ml:MLB23226698",
+  "slug": "barraca-camping-iglu-3-pessoas-acampamento-praia-mor-mlb23226698",
+  "title": "Barraca Camping Iglu 3 Pessoas Acampamento Praia - Mor",
+  "brand": null,
+  "model": null,
+  "category_slug": "viagem-e-outdoor-11",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_996111-MLA93959353884_102025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5081979944",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "443330940",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 215.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB23226698",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T23:21:47.517Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 215.9,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 215.9,
+    "min_ever": 215.9,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

@@ -1,0 +1,73 @@
+{
+  "id": "ml:MLB50473653",
+  "slug": "motu-m2-interface-de-audio-usb-mlb50473653",
+  "title": "Motu M2 Interface De Áudio Usb",
+  "brand": null,
+  "model": null,
+  "category_slug": "instrumentos-musicais-8",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_617620-MLA85193307165_052025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5265954085",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3490380840",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 3219.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2UC7Krr",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T18:49:06.625Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7674322904",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3490380840",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 3389.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2UC7Krr",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T18:49:06.625Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 3219.99,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 3219.99,
+    "min_ever": 3219.99,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

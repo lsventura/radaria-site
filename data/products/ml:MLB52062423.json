@@ -1,0 +1,78 @@
+{
+  "id": "ml:MLB52062423",
+  "slug": "espelho-de-chao-base-reta-corpo-inteiro-com-moldura-e-suporte-dourado-146x36cm-mlb52062423",
+  "title": "Espelho De Chão Base Reta Corpo Inteiro Com Moldura E Suporte Dourado 146x36cm",
+  "brand": null,
+  "model": null,
+  "category_slug": "casa-e-reforma-17",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_623954-MLA106072195667_012026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4415219211",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "608642139",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 173.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1DM12BC",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T16:07:07.132Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6179226074",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1414864657",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 173.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1DM12BC",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T16:07:07.132Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 173.9,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 165.2,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 169.55,
+    "min_ever": 165.2,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": -2.6,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

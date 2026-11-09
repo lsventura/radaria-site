@@ -1,0 +1,73 @@
+{
+  "id": "ml:MLB37855289",
+  "slug": "maquina-cortar-cabelo-bebe-portatil-silenciosa-kemei-1319-inoxidavel-mlb37855289",
+  "title": "Máquina Cortar Cabelo Bebe Portátil Silenciosa Kemei 1319 Inoxidável",
+  "brand": null,
+  "model": null,
+  "category_slug": "beleza-4",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_857226-MLU77170670702_072024-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7177549336",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1486848793",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 104.66,
+      "currency": "BRL",
+      "store_reference_price": 107.9,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB37855289",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T18:17:46.686Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7903112300",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "12151387",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 158.3,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB37855289",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T18:17:46.686Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 104.66,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 104.66,
+    "min_ever": 104.66,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

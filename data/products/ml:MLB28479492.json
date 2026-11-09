@@ -1,0 +1,54 @@
+{
+  "id": "ml:MLB28479492",
+  "slug": "camera-veicular-automotiva-carro-seguranca-carro-hd-uber-mlb28479492",
+  "title": "Câmera Veicular Automotiva Carro Segurança Carro Hd Uber",
+  "brand": null,
+  "model": null,
+  "category_slug": "automotivo-3",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_747627-MLA99420898378_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB6149301652",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2165295185",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 112,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB28479492",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T00:30:47.421Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 112,
+      "observations": 5
+    }
+  ],
+  "stats": {
+    "median_90d": 112,
+    "min_ever": 112,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

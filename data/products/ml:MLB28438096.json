@@ -1,0 +1,159 @@
+{
+  "id": "ml:MLB28438096",
+  "slug": "hyperx-pulsefire-haste-mlb28438096",
+  "title": "HyperX Pulsefire Haste",
+  "brand": "HyperX",
+  "model": null,
+  "category_slug": "perifericos",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_987820-MLA91559144010_092025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7718115052",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3199372793",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 251.46,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2B28gWB",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:20:22.822Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5086344683",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1193163793",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 257,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2B28gWB",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:20:22.822Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7718125192",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3199372793",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 233.75,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2B28gWB",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:20:22.822Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4924757169",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "324746926",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 272.93,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2B28gWB",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:20:22.822Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4902215191",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "179409240",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 379.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2B28gWB",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:20:22.822Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7218825432",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "324746926",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 295.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2B28gWB",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T15:20:22.822Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 233.75,
+      "observations": 6
+    },
+    {
+      "date": "2026-11-05",
+      "min_price": 233.75,
+      "observations": 6
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 233.75,
+      "observations": 6
+    }
+  ],
+  "stats": {
+    "median_90d": 233.75,
+    "min_ever": 233.75,
+    "min_ever_at": "2026-11-05",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

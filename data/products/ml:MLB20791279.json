@@ -1,0 +1,111 @@
+{
+  "id": "ml:MLB20791279",
+  "slug": "manual-biblico-do-estudante-livro-cpad-mlb20791279",
+  "title": "Manual Bíblico Do Estudante Livro Cpad",
+  "brand": null,
+  "model": null,
+  "category_slug": "notebooks-19",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_781859-MLB31134973082_062019-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7472874692",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1833867837",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 218.84,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB20791279",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T22:58:47.410Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4926797597",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "459019543",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 293.38,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB20791279",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T22:58:47.410Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5120075019",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2075593524",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 218.84,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB20791279",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T22:58:47.410Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7703247346",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3497438141",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 314.02,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB20791279",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T22:58:47.410Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 218.84,
+      "observations": 8
+    }
+  ],
+  "stats": {
+    "median_90d": 218.84,
+    "min_ever": 218.84,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

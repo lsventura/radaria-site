@@ -1,0 +1,54 @@
+{
+  "id": "ml:MLB62332432",
+  "slug": "detector-de-vazamento-de-agua-portatil-yrshop-df4000-tubulacao-cimento-aco-mlb62332432",
+  "title": "Detector de Vazamento de Água Portátil YRSHOP DF4000 Tubulação Cimento Aço",
+  "brand": null,
+  "model": null,
+  "category_slug": "casa-inteligente-12",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_871812-MLA98888789235_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7479582582",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "320099593",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 80.95,
+      "currency": "BRL",
+      "store_reference_price": 179.9,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB62332432",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T19:08:39.206Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 80.95,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 80.95,
+    "min_ever": 80.95,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

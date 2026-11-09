@@ -1,0 +1,78 @@
+{
+  "id": "ml:MLB64206859",
+  "slug": "notebook-dell-inspiron-3530-core-i7-13th-16gb-512gb-preto-mlb64206859",
+  "title": "Notebook Dell Inspiron 3530 Core I7 13th 16gb 512gb Preto",
+  "brand": null,
+  "model": null,
+  "category_slug": "notebooks-2",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_714613-MLA104644928921_012026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4461606613",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2528584854",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 7920,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB64206859",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T16:20:05.128Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4486478915",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "321688782",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 7999.5,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB64206859",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T16:20:05.128Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 7920,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 7920,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 7920,
+    "min_ever": 7920,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

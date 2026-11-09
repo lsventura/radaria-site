@@ -1,0 +1,73 @@
+{
+  "id": "ml:MLB28448508",
+  "slug": "bola-basquete-penalty-pro-7-8-crossover-nbb-aprovado-fiba-mlb28448508",
+  "title": "Bola Basquete Penalty Pró 7.8 Crossover Nbb Aprovado Fiba",
+  "brand": null,
+  "model": null,
+  "category_slug": "esportes-3",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_849193-MLA99505489334_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5348426267",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3129476467",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 630.4,
+      "currency": "BRL",
+      "store_reference_price": 649.9,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1v83qSM",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T00:29:47.423Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5348388221",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3129476467",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 678.88,
+      "currency": "BRL",
+      "store_reference_price": 699.88,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1v83qSM",
+      "affiliate": true,
+      "last_observed_at": "2026-11-09T00:29:47.423Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 630.4,
+      "observations": 10
+    }
+  ],
+  "stats": {
+    "median_90d": 630.4,
+    "min_ever": 630.4,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

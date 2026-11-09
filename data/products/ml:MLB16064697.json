@@ -1,0 +1,121 @@
+{
+  "id": "ml:MLB16064697",
+  "slug": "redragon-kumara-k552-rgb-mlb16064697",
+  "title": "Redragon Kumara K552 RGB",
+  "brand": "Redragon",
+  "model": null,
+  "category_slug": "perifericos",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_815949-MLA99963738371_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5000611909",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1356622222",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 299.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/31dXiNx",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T14:53:20.637Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6426976628",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "720162742",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 257.28,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/31dXiNx",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T14:53:20.637Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4515292417",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "720162742",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 240.79,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/31dXiNx",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T14:53:20.637Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5433586633",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2405786993",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 186,
+      "currency": "BRL",
+      "store_reference_price": 209.78,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/31dXiNx",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T14:53:20.637Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 186,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-05",
+      "min_price": 190.64,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 190.64,
+      "observations": 4
+    }
+  ],
+  "stats": {
+    "median_90d": 190.64,
+    "min_ever": 186,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 2.4,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

@@ -1,0 +1,73 @@
+{
+  "id": "ml:MLB15157343",
+  "slug": "cafeteira-espresso-oster-xpert-perfect-brew-cor-aco-inoxidavel-mlb15157343",
+  "title": "Cafeteira Espresso Oster Xpert Perfect Brew Cor Aço inoxidável",
+  "brand": null,
+  "model": null,
+  "category_slug": "cozinha-2",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_852647-MLA99963548137_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB6345277454",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "117658327",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 3999,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB15157343",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T02:36:04.023Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7623952768",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3381513836",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 3535.19,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB15157343",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T02:36:04.023Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 3535.19,
+      "observations": 8
+    }
+  ],
+  "stats": {
+    "median_90d": 3535.19,
+    "min_ever": 3535.19,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

@@ -1,0 +1,97 @@
+{
+  "id": "ml:MLB66274919",
+  "slug": "caixa-amplificada-mondial-300w-bivolt-cm-300-n-mlb66274919",
+  "title": "Caixa Amplificada Mondial 300W Bivolt CM-300-N",
+  "brand": null,
+  "model": null,
+  "category_slug": "tv-e-audio-3",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_885359-MLA108544665414_032026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4642863971",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "395224615",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 365,
+      "currency": "BRL",
+      "store_reference_price": 470,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2LMvRsS",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T16:26:59.128Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5338224051",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1577153001",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 581.9,
+      "currency": "BRL",
+      "store_reference_price": 1200,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2LMvRsS",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T16:26:59.128Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4847200387",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "533160133",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 631.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2LMvRsS",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T16:26:59.128Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 365,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 365,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 365,
+    "min_ever": 365,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

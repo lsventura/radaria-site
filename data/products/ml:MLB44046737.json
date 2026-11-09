@@ -1,0 +1,78 @@
+{
+  "id": "ml:MLB44046737",
+  "slug": "cabecote-valvula-nautilus-filtro-piscina-f350x-mlb44046737",
+  "title": "Cabeçote Válvula Nautilus Filtro Piscina F350x",
+  "brand": null,
+  "model": null,
+  "category_slug": "jardim-e-piscina-14",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_862613-MLA81025243899_112024-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7625998884",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "570502036",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 357.99,
+      "currency": "BRL",
+      "store_reference_price": 497,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB44046737",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T15:51:06.922Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB3920456779",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "570502036",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 318.15,
+      "currency": "BRL",
+      "store_reference_price": 467,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB44046737",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T15:51:06.922Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 318.15,
+      "observations": 8
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 318.15,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 318.15,
+    "min_ever": 318.15,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

@@ -1,0 +1,92 @@
+{
+  "id": "ml:MLB29133472",
+  "slug": "caderno-inteligente-medio-agatha-mlb29133472",
+  "title": "Caderno Inteligente Medio Agatha",
+  "brand": null,
+  "model": null,
+  "category_slug": "livros-e-papelaria-3",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_829523-MLA96687812443_102025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7715814850",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "411500631",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 158.12,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB29133472",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T02:37:03.896Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7918647670",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "53038468",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 210,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB29133472",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T02:37:03.896Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5352213354",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "22259182",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 177.88,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB29133472",
+      "affiliate": false,
+      "last_observed_at": "2026-11-09T02:37:03.896Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 158.12,
+      "observations": 39
+    }
+  ],
+  "stats": {
+    "median_90d": 158.12,
+    "min_ever": 158.12,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

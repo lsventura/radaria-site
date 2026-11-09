@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB28520728",
+  "slug": "refil-reservatorio-agua-2-5l-mochila-hidratacao-camelbak-mlb28520728",
+  "title": "Refil Reservatório Água 2,5l Mochila Hidratação Camelbak",
+  "brand": null,
+  "model": null,
+  "category_slug": "esportes-19",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_804764-MLU73040286988_112023-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5116791485",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "44069905",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 86.33,
+      "currency": "BRL",
+      "store_reference_price": 89,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB28520728",
+      "affiliate": false,
+      "last_observed_at": "2026-11-08T15:20:22.822Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 86.33,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 86.33,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 86.33,
+    "min_ever": 86.33,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB56126288",
+  "slug": "tapete-sala-200x250-tapete-sisal-sem-pelo-mlb56126288",
+  "title": "Tapete Sala 200x250 Tapete Sisal Sem Pelo",
+  "brand": null,
+  "model": null,
+  "category_slug": "casa-e-reforma-8",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_728592-MLA116189498732_092026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4729005909",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "148644361",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 450,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1VvT3uN",
+      "affiliate": true,
+      "last_observed_at": "2026-11-08T16:11:06.824Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 450,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 450,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 450,
+    "min_ever": 450,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}
