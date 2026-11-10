@@ -1,0 +1,77 @@
+{
+  "id": "ml:MLB74656595",
+  "slug": "pneu-gm-dueler-h-t-684-ii-ecopia-dueler-h-t-684-ii-lt-110-t-mlb74656595",
+  "title": "Pneu GM DUELER H/T 684 II ECOPIA DUELER H/T 684 II LT 110 T",
+  "brand": "GM",
+  "model": "DUELER H/T 684 II",
+  "category_slug": "geral",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_980299-MLA112774631892_062026-F.jpg"
+  ],
+  "attributes": {
+    "LINE": "DUELER H/T 684 II ECOPIA",
+    "BRAND": "GM",
+    "MODEL": "DUELER H/T 684 II",
+    "SIDEWALL": "60",
+    "LOAD_INDEX": "110",
+    "LOAD_RANGE": "t",
+    "IS_RUN_FLAT": "Não",
+    "SPEED_INDEX": "T",
+    "RIM_DIAMETER": "18 \"",
+    "SERVICE_TYPE": "LT",
+    "TERRAIN_TYPE": "HT",
+    "TIRES_NUMBER": "1",
+    "VEHICLE_TYPE": "Carro/Caminhonete",
+    "SECTION_WIDTH": "265 mm",
+    "UNITS_PER_PACK": "1",
+    "BEARING_RESISTANCE": "b",
+    "AUTOMOTIVE_TIRE_ASPECT_RATIO": "60"
+  },
+  "offers": [
+    {
+      "offer_id": "ml:MLB4832485417",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1207616035",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1547.98,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2mQ9ZrY",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T16:42:42.896Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-09",
+      "min_price": 1547.98,
+      "observations": 21
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 1547.98,
+      "observations": 20
+    }
+  ],
+  "stats": {
+    "median_90d": 1547.98,
+    "min_ever": 1547.98,
+    "min_ever_at": "2026-11-09",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

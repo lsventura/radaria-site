@@ -1,0 +1,102 @@
+{
+  "id": "ml:MLB68039189",
+  "slug": "nozzle-airsoft-vigor-v17-gbb-green-gas-6mm-mlb68039189",
+  "title": "Nozzle Airsoft Vigor V17 Gbb Green Gas 6mm",
+  "brand": "Vigor",
+  "model": "V17",
+  "category_slug": "geral",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_903955-MLA110476097013_042026-F.jpg"
+  ],
+  "attributes": {
+    "GTIN": "07894296658198",
+    "BRAND": "Vigor",
+    "MODEL": "V17",
+    "PACKAGE_DATA_SOURCE": "SELLER"
+  },
+  "offers": [
+    {
+      "offer_id": "ml:MLB4766561261",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "68960744",
+        "name": null,
+        "reputation": null
+      },
+      "price": 93.34,
+      "currency": "BRL",
+      "store_reference_price": 109.9,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2CRwzVd",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T16:40:44.410Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5500121019",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1684381803",
+        "name": null,
+        "reputation": null
+      },
+      "price": 99.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2CRwzVd",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T16:40:44.410Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7681018060",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1684381803",
+        "name": null,
+        "reputation": null
+      },
+      "price": 109.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2CRwzVd",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T16:40:44.410Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-09",
+      "min_price": 93.34,
+      "observations": 63
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 93.34,
+      "observations": 54
+    }
+  ],
+  "stats": {
+    "median_90d": 93.34,
+    "min_ever": 93.34,
+    "min_ever_at": "2026-11-09",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

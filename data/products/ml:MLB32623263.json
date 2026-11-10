@@ -23,9 +23,9 @@
       "store_reference_price": 169.99,
       "free_shipping": true,
       "available": true,
-      "url": "https://www.mercadolivre.com.br/p/MLB32623263",
-      "affiliate": false,
-      "last_observed_at": "2026-11-10T07:49:03.443Z",
+      "url": "https://meli.la/2GSNTQr",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T13:16:09.509Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -42,28 +42,9 @@
       "store_reference_price": 99.99,
       "free_shipping": true,
       "available": true,
-      "url": "https://www.mercadolivre.com.br/p/MLB32623263",
-      "affiliate": false,
-      "last_observed_at": "2026-11-10T07:49:03.443Z",
-      "payment_context": "channel_marketplace",
-      "payment_method": null
-    },
-    {
-      "offer_id": "ml:MLB5444514375",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "6337725",
-        "name": null,
-        "reputation": null
-      },
-      "price": 170.27,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "free_shipping": true,
-      "available": true,
-      "url": "https://www.mercadolivre.com.br/p/MLB32623263",
-      "affiliate": false,
-      "last_observed_at": "2026-11-10T07:49:03.443Z",
+      "url": "https://meli.la/2GSNTQr",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T13:16:09.509Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -73,17 +54,17 @@
     {
       "date": "2026-11-08",
       "min_price": 91.99,
-      "observations": 18
+      "observations": 12
     },
     {
       "date": "2026-11-09",
       "min_price": 91.99,
-      "observations": 12
+      "observations": 8
     },
     {
       "date": "2026-11-10",
       "min_price": 91.99,
-      "observations": 3
+      "observations": 4
     }
   ],
   "stats": {
@@ -98,5 +79,5 @@
     "pct_below_median": 0,
     "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
   },
-  "score": 64
+  "score": 60
 }

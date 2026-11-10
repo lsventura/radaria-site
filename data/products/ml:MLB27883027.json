@@ -1,0 +1,175 @@
+{
+  "id": "ml:MLB27883027",
+  "slug": "drift-triciclo-eletrico-importway-bwdte-120w-preto-mlb27883027",
+  "title": "Drift Triciclo Elétrico Importway Bwdte-120w Preto",
+  "brand": "ImportWay",
+  "model": "BWDTE-120W",
+  "category_slug": "geral",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_832443-MLU78252522712_082024-F.jpg"
+  ],
+  "attributes": {
+    "GTIN": "7908449907542",
+    "BRAND": "ImportWay",
+    "COLOR": "Preto",
+    "MODEL": "BWDTE-120W",
+    "WIDTH": "58 cm",
+    "HEIGHT": "22 cm",
+    "LENGTH": "85 cm",
+    "WEIGHT": "9.1 kg",
+    "CHARACTER": "Drift Triciclo",
+    "WITH_SOUND": "Sim",
+    "IS_FOLDABLE": "Não",
+    "WITH_LIGHTS": "Sim",
+    "INCLUDES_BATTERY": "Sim",
+    "REQUIRES_BATTERY": "Sim",
+    "VEHICLE_MATERIALS": "Aço e plástico",
+    "IS_MULTIFUNCTIONAL": "Não",
+    "MAX_RECOMMENDED_AGE": "12 anos",
+    "MIN_RECOMMENDED_AGE": "8 anos",
+    "PACKAGE_DATA_SOURCE": "CERTIFIED_MEASUREMENT",
+    "MAX_WEIGHT_SUPPORTED": "50 kg"
+  },
+  "offers": [
+    {
+      "offer_id": "ml:MLB3852652895",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1182149733",
+        "name": null,
+        "reputation": null
+      },
+      "price": 849.5,
+      "currency": "BRL",
+      "store_reference_price": 1699,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2qVLMEP",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T16:35:03.418Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5034104256",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "307461414",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1989.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2qVLMEP",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T16:35:03.418Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7439916412",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2997714932",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1099,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2qVLMEP",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T16:35:03.418Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6001165632",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2997714932",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1296.3,
+      "currency": "BRL",
+      "store_reference_price": 1490,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2qVLMEP",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T16:35:03.418Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6636634200",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "561046977",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1290.42,
+      "currency": "BRL",
+      "store_reference_price": 1509,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2qVLMEP",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T16:35:03.418Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4615811953",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "561046977",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1186.95,
+      "currency": "BRL",
+      "store_reference_price": 1374,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2qVLMEP",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T16:35:03.418Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-09",
+      "min_price": 849.5,
+      "observations": 138
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 849.5,
+      "observations": 114
+    }
+  ],
+  "stats": {
+    "median_90d": 849.5,
+    "min_ever": 849.5,
+    "min_ever_at": "2026-11-09",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

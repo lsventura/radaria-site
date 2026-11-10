@@ -1,24 +1,41 @@
 {
-  "generated_at": "2026-11-10T08:08:17.231Z",
+  "generated_at": "2026-11-10T16:54:22.845Z",
   "schema_version": "radaria-ops/v1",
   "funnel": {
-    "discovered": 102598,
+    "discovered": 102599,
     "distinct": 50485,
     "with_photo": 50253,
-    "audited_approved": 6599,
-    "with_affiliate": 5397,
-    "published": 4136,
-    "fresh_history_24h": 4136
+    "audited_approved": 6727,
+    "with_affiliate": 6543,
+    "published": 4898,
+    "fresh_history_24h": 4898
+  },
+  "basis": "latest_listing_decision_rolled_up_to_product",
+  "definitions": {
+    "discovered": "Registros de descoberta, inclusive repetidos entre buscas.",
+    "distinct": "Produtos únicos. Não conta anúncio nem vendedor em separado.",
+    "with_photo": "Produtos distintos com imagem utilizável.",
+    "audited_approved": "Produtos com foto cuja última decisão de cada anúncio, agregada no produto, é approved. A mesma base de by_status.approved. Aprovação antiga, já substituída, não entra. Sem foto o produto fica só em by_status.approved, então esta etapa é no máximo aquele número.",
+    "with_affiliate": "Subconjunto de audited_approved com link de afiliado ativo. Link de produto que deixou de estar approved não entra.",
+    "published": "Produtos do funil anterior que este export escreveu no catálogo.",
+    "fresh_history_24h": "Publicados com leitura de preço nas últimas 24 horas.",
+    "by_status.approved": "Produtos cujo rollup da última decisão de cada anúncio é approved, com ou sem foto. Catálogo só com decisão e sem anúncio não entra. Não é o histórico de aprovações.",
+    "by_status.rejected": "Produtos cujo rollup da última decisão de cada anúncio é rejected. A mesma base de by_status.approved.",
+    "by_status.source_unavailable": "Produtos cujo rollup da última decisão de cada anúncio é source_unavailable. A mesma base de by_status.approved.",
+    "by_status.pending": "Revisão e qualquer status fora de approved, rejected e source_unavailable, na mesma base. Catálogo só com decisão e sem anúncio não entra."
   },
   "activity_24h": {
-    "telegram_posted": 39,
-    "affiliate_links_generated": 3057
+    "telegram_posted": 37,
+    "affiliate_links_generated": 3718
   },
   "by_status": {
-    "approved": 5405,
+    "approved": 6729,
     "rejected": 0,
-    "source_unavailable": 37805,
-    "pending": 7275
+    "source_unavailable": 258,
+    "pending": 7078
+  },
+  "status_check": {
+    "audited_approved_lte_by_status_approved": true
   },
   "by_root_category": [
     {
@@ -231,17 +248,17 @@
     {
       "from": "with_photo",
       "to": "audited_approved",
-      "ratio": 0.1313
+      "ratio": 0.1339
     },
     {
       "from": "audited_approved",
       "to": "with_affiliate",
-      "ratio": 0.8179
+      "ratio": 0.9726
     },
     {
       "from": "with_affiliate",
       "to": "published",
-      "ratio": 0.7664
+      "ratio": 0.7486
     },
     {
       "from": "published",
@@ -250,9 +267,23 @@
     }
   ],
   "queues": {
-    "discover": 1
+    "affiliate": 1,
+    "audit": 6,
+    "discover": 1,
+    "publish-telegram": 2,
+    "refresh": 45
   },
   "errors_by_source": [
+    {
+      "source": "mercadolivre",
+      "http_status": 400,
+      "count_24h": 47
+    },
+    {
+      "source": "mercadolivre",
+      "http_status": 404,
+      "count_24h": 69688
+    },
     {
       "source": "mercadolivre",
       "http_status": 429,
@@ -260,66 +291,62 @@
     },
     {
       "source": "mercadolivre",
-      "http_status": 404,
-      "count_24h": 62964
-    },
-    {
-      "source": "mercadolivre",
-      "http_status": 400,
-      "count_24h": 43
+      "http_status": 503,
+      "count_24h": 1
     }
   ],
   "last_success": {
-    "affiliate": "2026-11-10T08:07:27.559Z",
-    "audit": "2026-11-10T08:08:16.510Z",
-    "coupons": "2026-11-10T07:58:44.124Z",
-    "curate": "2026-11-10T08:07:19.911Z",
-    "discover": "2026-11-10T08:07:20.326Z",
-    "export": "2026-11-10T07:44:17.411Z",
-    "publish-telegram": "2026-11-10T00:56:30.094Z",
-    "refresh": "2026-11-10T08:08:17.141Z"
+    "affiliate": "2026-11-10T16:50:18.127Z",
+    "audit": "2026-11-10T16:54:03.242Z",
+    "coupons": "2026-11-10T16:38:30.633Z",
+    "curate": "2026-11-10T16:53:16.223Z",
+    "discover": "2026-11-10T16:53:15.419Z",
+    "export": "2026-11-10T16:50:31.425Z",
+    "publish-telegram": "2026-11-10T16:33:00.741Z",
+    "refresh": "2026-11-10T16:54:03.237Z"
   },
   "last_run": {
     "affiliate": {
-      "at": "2026-11-10T08:08:56.149Z",
-      "status": "success"
+      "at": "2026-11-10T16:54:31.323Z",
+      "status": "empty"
     },
     "audit": {
-      "at": "2026-11-10T08:08:54.825Z",
+      "at": "2026-11-10T16:55:29.124Z",
       "status": "success"
     },
     "coupons": {
-      "at": "2026-11-10T07:58:44.124Z",
+      "at": "2026-11-10T16:38:30.633Z",
       "status": "success"
     },
     "curate": {
-      "at": "2026-11-10T08:08:30.021Z",
+      "at": "2026-11-10T16:55:28.613Z",
       "status": "success"
     },
     "discover": {
-      "at": "2026-11-10T08:08:28.240Z",
-      "status": "success"
+      "at": "2026-11-10T16:54:31.223Z",
+      "status": "failed"
     },
     "export": {
-      "at": "2026-11-10T07:44:17.411Z",
+      "at": "2026-11-10T16:50:31.425Z",
       "status": "success"
     },
     "publish-telegram": {
-      "at": "2026-11-10T08:01:07.515Z",
-      "status": "skipped"
+      "at": "2026-11-10T16:43:53.070Z",
+      "status": "empty"
     },
     "refresh": {
-      "at": "2026-11-10T08:08:36.040Z",
+      "at": "2026-11-10T16:55:28.240Z",
       "status": "success"
     }
   },
   "throughput_per_hour": {
-    "affiliate": 60,
-    "audit": 898,
+    "affiliate": 15,
+    "audit": 873,
     "coupons": 3,
-    "curate": 60,
-    "discover": 60,
-    "export": 2,
-    "refresh": 2269
+    "curate": 59,
+    "discover": 58,
+    "export": 3,
+    "publish-telegram": 2,
+    "refresh": 3558
   }
 }

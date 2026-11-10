@@ -1,0 +1,93 @@
+{
+  "id": "ml:MLB67936318",
+  "slug": "rastreador-veicular-tkstar-905mini-2g-veiculos-investigacao-mlb67936318",
+  "title": "Rastreador Veicular Tkstar 905mini 2g Veiculos Investigação",
+  "brand": "Tkstar",
+  "model": "905mini",
+  "category_slug": "geral",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_746823-MLA109483972222_042026-F.jpg"
+  ],
+  "attributes": {
+    "GTIN": "78900168009529",
+    "BRAND": "Tkstar",
+    "MODEL": "905mini",
+    "WIDTH": "2 cm",
+    "HEIGHT": "5 cm",
+    "LENGTH": "6 cm",
+    "WEIGHT": "100 g",
+    "MANUFACTURER": "Tkstar",
+    "BATTERY_DURATION": "5 dias",
+    "INCLUDES_SIM_CARD": "Não",
+    "WITH_SMS_TRACKING": "Sim",
+    "ALPHANUMERIC_MODELS": "905 mini",
+    "TRANSMISSION_NETWORK": "2G",
+    "WITH_INTERNET_TRACKING": "Sim"
+  },
+  "offers": [
+    {
+      "offer_id": "ml:MLB6660302230",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "385018281",
+        "name": null,
+        "reputation": null
+      },
+      "price": 396.96,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2ExB2rE",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T16:40:44.410Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6661244356",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "385018281",
+        "name": null,
+        "reputation": null
+      },
+      "price": 383.96,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2ExB2rE",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T16:40:44.410Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-09",
+      "min_price": 383.96,
+      "observations": 42
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 383.96,
+      "observations": 38
+    }
+  ],
+  "stats": {
+    "median_90d": 383.96,
+    "min_ever": 383.96,
+    "min_ever_at": "2026-11-09",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

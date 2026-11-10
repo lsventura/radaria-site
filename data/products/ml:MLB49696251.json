@@ -25,7 +25,7 @@
       "available": true,
       "url": "https://meli.la/1qMMicT",
       "affiliate": true,
-      "last_observed_at": "2026-11-10T05:38:56.949Z",
+      "last_observed_at": "2026-11-10T15:50:13.835Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -44,7 +44,7 @@
       "available": true,
       "url": "https://meli.la/1qMMicT",
       "affiliate": true,
-      "last_observed_at": "2026-11-10T05:38:56.949Z",
+      "last_observed_at": "2026-11-10T15:50:13.835Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -63,7 +63,7 @@
       "available": true,
       "url": "https://meli.la/1qMMicT",
       "affiliate": true,
-      "last_observed_at": "2026-11-10T05:38:56.949Z",
+      "last_observed_at": "2026-11-10T15:50:13.835Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,7 +82,7 @@
       "available": true,
       "url": "https://meli.la/1qMMicT",
       "affiliate": true,
-      "last_observed_at": "2026-11-10T05:38:56.949Z",
+      "last_observed_at": "2026-11-10T15:50:13.835Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -101,7 +101,7 @@
       "available": true,
       "url": "https://meli.la/1qMMicT",
       "affiliate": true,
-      "last_observed_at": "2026-11-10T05:38:56.949Z",
+      "last_observed_at": "2026-11-10T15:50:13.835Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -113,14 +113,14 @@
         "name": null,
         "reputation": "5_green"
       },
-      "price": 139,
+      "price": 123.71,
       "currency": "BRL",
-      "store_reference_price": null,
+      "store_reference_price": 139,
       "free_shipping": true,
       "available": true,
       "url": "https://meli.la/1qMMicT",
       "affiliate": true,
-      "last_observed_at": "2026-11-10T05:38:56.949Z",
+      "last_observed_at": "2026-11-10T15:50:13.835Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -140,7 +140,7 @@
     {
       "date": "2026-11-10",
       "min_price": 114.3,
-      "observations": 6
+      "observations": 18
     },
     {
       "date": "2026-11-07",
@@ -160,5 +160,5 @@
     "pct_below_median": 0,
     "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
   },
-  "score": 60
+  "score": 64
 }

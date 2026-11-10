@@ -25,26 +25,7 @@
       "available": true,
       "url": "https://meli.la/2mJa3Ni",
       "affiliate": true,
-      "last_observed_at": "2026-11-10T03:26:57.068Z",
-      "payment_context": "channel_marketplace",
-      "payment_method": null
-    },
-    {
-      "offer_id": "ml:MLB6445461876",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "2492738834",
-        "name": null,
-        "reputation": null
-      },
-      "price": 191.67,
-      "currency": "BRL",
-      "store_reference_price": 261,
-      "free_shipping": true,
-      "available": true,
-      "url": "https://meli.la/2mJa3Ni",
-      "affiliate": true,
-      "last_observed_at": "2026-11-10T03:26:57.068Z",
+      "last_observed_at": "2026-11-10T14:25:09.618Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -63,7 +44,7 @@
       "available": true,
       "url": "https://meli.la/2mJa3Ni",
       "affiliate": true,
-      "last_observed_at": "2026-11-10T03:26:57.068Z",
+      "last_observed_at": "2026-11-10T14:25:09.618Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,7 +63,7 @@
       "available": true,
       "url": "https://meli.la/2mJa3Ni",
       "affiliate": true,
-      "last_observed_at": "2026-11-10T03:26:57.068Z",
+      "last_observed_at": "2026-11-10T14:25:09.618Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -91,28 +72,28 @@
   "history": [
     {
       "date": "2026-11-08",
-      "min_price": 191.67,
-      "observations": 8
+      "min_price": 229.87,
+      "observations": 6
     },
     {
       "date": "2026-11-09",
-      "min_price": 191.67,
-      "observations": 16
+      "min_price": 229.87,
+      "observations": 12
     },
     {
       "date": "2026-11-10",
-      "min_price": 191.67,
-      "observations": 4
+      "min_price": 229.87,
+      "observations": 9
     },
     {
       "date": "2026-11-07",
-      "min_price": 191.67,
-      "observations": 5
+      "min_price": 229.87,
+      "observations": 3
     }
   ],
   "stats": {
-    "median_90d": 191.67,
-    "min_ever": 191.67,
+    "median_90d": 229.87,
+    "min_ever": 229.87,
     "min_ever_at": "2026-11-07",
     "distinct_days": 4,
     "window_days": 14

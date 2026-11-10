@@ -1,0 +1,83 @@
+{
+  "id": "ml:MLB46217828",
+  "slug": "gps-rastreador-veicular-gsm-gprs-bloqueia-monitora-alarme-cor-preto-mlb46217828",
+  "title": "Gps Rastreador Veicular Gsm Gprs Bloqueia Monitora Alarme Cor Preto",
+  "brand": "Trackplus",
+  "model": "TP7",
+  "category_slug": "geral",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_630870-MLA99853871507_112025-F.jpg"
+  ],
+  "attributes": {
+    "GTIN": "7890119000496",
+    "LINE": "GPS",
+    "BRAND": "Trackplus",
+    "COLOR": "Preto",
+    "MODEL": "TP7",
+    "WEIGHT": "200 g",
+    "ACCURACY": "MSAS",
+    "GPS_TYPE": "Automotivo",
+    "BATTERY_LIFE": "4 h",
+    "BATTERY_TYPE": "Íon de lítio",
+    "CONNECTIVITY": "4G, 2G, GPRS, WCDMA, GSM, GPS",
+    "USING_SYSTEM": "Integrado",
+    "VEHICLE_TYPE": "Carro/Caminhonete",
+    "ANTENNA_TYPES": "Interna",
+    "WITH_TRANSDUCER": "Não",
+    "WITH_MAP_UPDATES": "Sim",
+    "WITH_TOUCHSCREEN": "Não",
+    "ALPHANUMERIC_MODEL": "Rastreador Bloqueador Tracker",
+    "WITH_PRELOADED_MAPS": "Sim",
+    "ACCESSORIES_INCLUDED": "Cabos, plataforma",
+    "INCLUDES_ACCESSORIES": "Sim",
+    "WITH_ABILITY_TO_ADD_MAPS": "Sim",
+    "WITH_ABILITY_TO_ADD_POINTS_OF_INTEREST": "Sim"
+  },
+  "offers": [
+    {
+      "offer_id": "ml:MLB5314918170",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "293624117",
+        "name": null,
+        "reputation": null
+      },
+      "price": 99.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2BkwCDR",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T16:37:01.727Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-09",
+      "min_price": 94.99,
+      "observations": 21
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 99.99,
+      "observations": 19
+    }
+  ],
+  "stats": {
+    "median_90d": 97.49,
+    "min_ever": 94.99,
+    "min_ever_at": "2026-11-09",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": -2.6,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

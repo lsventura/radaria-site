@@ -25,26 +25,7 @@
       "available": true,
       "url": "https://meli.la/1buNwRP",
       "affiliate": true,
-      "last_observed_at": "2026-11-10T07:14:00.387Z",
-      "payment_context": "channel_marketplace",
-      "payment_method": null
-    },
-    {
-      "offer_id": "ml:MLB4440504301",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "3133291720",
-        "name": null,
-        "reputation": "5_green"
-      },
-      "price": 399,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "free_shipping": true,
-      "available": true,
-      "url": "https://meli.la/1buNwRP",
-      "affiliate": true,
-      "last_observed_at": "2026-11-10T07:14:00.387Z",
+      "last_observed_at": "2026-11-10T16:47:42.318Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -63,7 +44,7 @@
       "available": true,
       "url": "https://meli.la/1buNwRP",
       "affiliate": true,
-      "last_observed_at": "2026-11-10T07:14:00.387Z",
+      "last_observed_at": "2026-11-10T16:47:42.318Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -72,33 +53,33 @@
   "history": [
     {
       "date": "2026-11-08",
-      "min_price": 399,
-      "observations": 6
+      "min_price": 806,
+      "observations": 4
     },
     {
       "date": "2026-11-09",
-      "min_price": 399,
-      "observations": 9
+      "min_price": 806,
+      "observations": 6
     },
     {
       "date": "2026-11-10",
-      "min_price": 399,
-      "observations": 3
+      "min_price": 806,
+      "observations": 6
     },
     {
       "date": "2026-11-05",
-      "min_price": 399,
-      "observations": 5
+      "min_price": 806,
+      "observations": 4
     },
     {
       "date": "2026-11-06",
-      "min_price": 399,
-      "observations": 6
+      "min_price": 806,
+      "observations": 5
     }
   ],
   "stats": {
-    "median_90d": 399,
-    "min_ever": 399,
+    "median_90d": 806,
+    "min_ever": 806,
     "min_ever_at": "2026-11-05",
     "distinct_days": 5,
     "window_days": 14

@@ -18,14 +18,14 @@
         "name": null,
         "reputation": "5_green"
       },
-      "price": 262.63,
+      "price": 265.94,
       "currency": "BRL",
-      "store_reference_price": 270.78,
+      "store_reference_price": 274.2,
       "free_shipping": true,
       "available": true,
-      "url": "https://www.mercadolivre.com.br/p/MLB44849635",
-      "affiliate": false,
-      "last_observed_at": "2026-11-10T04:45:58.764Z",
+      "url": "https://meli.la/1o1J9HM",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T15:17:13.224Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -45,7 +45,7 @@
     {
       "date": "2026-11-10",
       "min_price": 262.63,
-      "observations": 1
+      "observations": 3
     }
   ],
   "stats": {
@@ -57,8 +57,8 @@
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": -0.5,
+    "pct_below_median": -1.8,
     "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
   },
-  "score": 60
+  "score": 64
 }

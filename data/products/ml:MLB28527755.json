@@ -1,0 +1,100 @@
+{
+  "id": "ml:MLB28527755",
+  "slug": "rastreador-veicular-gps-portatil-tkstar-tk915-bateria-10-000mah-carro-mlb28527755",
+  "title": "Rastreador Veicular GPS Portátil Tkstar TK915 Bateria 10.000mAh Carro",
+  "brand": "Tkstar",
+  "model": "TK915",
+  "category_slug": "geral",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_835550-MLU73042275286_112023-F.jpg"
+  ],
+  "attributes": {
+    "GTIN": "7466590177707",
+    "BRAND": "Tkstar",
+    "DEPTH": "1 cm",
+    "MODEL": "TK915",
+    "WIDTH": "1 cm",
+    "HEIGHT": "1 cm",
+    "WEIGHT": "250 g",
+    "GPS_TYPE": "Portátil",
+    "MEMORY_RAM": "1 GB",
+    "MEMORY_TYPE": "1",
+    "BATTERY_LIFE": "1 h",
+    "BATTERY_TYPE": "1",
+    "DISPLAY_SIZE": "4.4 \"",
+    "MANUFACTURER": "Tkstar Technology Co.,Limited",
+    "VEHICLE_TYPE": "Carro/Caminhonete",
+    "INTERNAL_MEMORY": "1 GB",
+    "WITH_TRANSDUCER": "Não",
+    "WITH_TOUCHSCREEN": "Não",
+    "ACCESSORIES_INCLUDED": "1",
+    "ANATEL_HOMOLOGATION_NUMBER": "114152214973",
+    "WITH_EXPANSION_SLOT_FOR_DATA_CARD": "Não"
+  },
+  "offers": [
+    {
+      "offer_id": "ml:MLB7659007750",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "171379091",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 679,
+      "currency": "BRL",
+      "store_reference_price": 700,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1PSwC7W",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T16:35:03.418Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7613029738",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3629087321",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 449,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1PSwC7W",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T16:35:03.418Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-09",
+      "min_price": 449,
+      "observations": 42
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 449,
+      "observations": 38
+    }
+  ],
+  "stats": {
+    "median_90d": 449,
+    "min_ever": 449,
+    "min_ever_at": "2026-11-09",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

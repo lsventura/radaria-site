@@ -11,6 +11,25 @@
   "attributes": {},
   "offers": [
     {
+      "offer_id": "ml:MLB5268257068",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "72139992",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 3499,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2n45nw4",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T15:17:13.224Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
       "offer_id": "ml:MLB5144813867",
       "store": "mercadolivre",
       "seller": {
@@ -25,7 +44,7 @@
       "available": true,
       "url": "https://meli.la/2n45nw4",
       "affiliate": true,
-      "last_observed_at": "2026-11-10T04:27:56.861Z",
+      "last_observed_at": "2026-11-10T15:17:13.224Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -44,7 +63,7 @@
       "available": true,
       "url": "https://meli.la/2n45nw4",
       "affiliate": true,
-      "last_observed_at": "2026-11-10T04:27:56.861Z",
+      "last_observed_at": "2026-11-10T15:17:13.224Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -63,7 +82,7 @@
       "available": true,
       "url": "https://meli.la/2n45nw4",
       "affiliate": true,
-      "last_observed_at": "2026-11-10T04:27:56.861Z",
+      "last_observed_at": "2026-11-10T15:17:13.224Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,7 +101,7 @@
       "available": true,
       "url": "https://meli.la/2n45nw4",
       "affiliate": true,
-      "last_observed_at": "2026-11-10T04:27:56.861Z",
+      "last_observed_at": "2026-11-10T15:17:13.224Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -101,7 +120,7 @@
       "available": true,
       "url": "https://meli.la/2n45nw4",
       "affiliate": true,
-      "last_observed_at": "2026-11-10T04:27:56.861Z",
+      "last_observed_at": "2026-11-10T15:17:13.224Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -111,27 +130,27 @@
     {
       "date": "2026-11-08",
       "min_price": 3449.15,
-      "observations": 20
+      "observations": 24
     },
     {
       "date": "2026-11-09",
       "min_price": 3449.15,
-      "observations": 20
+      "observations": 22
     },
     {
       "date": "2026-11-10",
       "min_price": 2999,
-      "observations": 5
+      "observations": 16
     },
     {
       "date": "2026-11-06",
-      "min_price": 3799.98,
-      "observations": 5
+      "min_price": 3499,
+      "observations": 6
     },
     {
       "date": "2026-11-07",
       "min_price": 3489,
-      "observations": 5
+      "observations": 6
     }
   ],
   "stats": {
@@ -146,5 +165,5 @@
     "pct_below_median": 13.1,
     "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
   },
-  "score": 60
+  "score": 64
 }

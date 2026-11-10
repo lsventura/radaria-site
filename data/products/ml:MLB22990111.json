@@ -25,7 +25,7 @@
       "available": true,
       "url": "https://meli.la/26DUhCN",
       "affiliate": true,
-      "last_observed_at": "2026-11-10T02:59:42.630Z",
+      "last_observed_at": "2026-11-10T14:08:12.743Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -37,14 +37,14 @@
         "name": null,
         "reputation": null
       },
-      "price": 204,
+      "price": 200,
       "currency": "BRL",
       "store_reference_price": 276.59,
       "free_shipping": true,
       "available": true,
       "url": "https://meli.la/26DUhCN",
       "affiliate": true,
-      "last_observed_at": "2026-11-10T02:59:42.630Z",
+      "last_observed_at": "2026-11-10T14:08:12.743Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -63,7 +63,7 @@
       "available": true,
       "url": "https://meli.la/26DUhCN",
       "affiliate": true,
-      "last_observed_at": "2026-11-10T02:59:42.630Z",
+      "last_observed_at": "2026-11-10T14:08:12.743Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,7 +82,7 @@
       "available": true,
       "url": "https://meli.la/26DUhCN",
       "affiliate": true,
-      "last_observed_at": "2026-11-10T02:59:42.630Z",
+      "last_observed_at": "2026-11-10T14:08:12.743Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -100,6 +100,11 @@
       "observations": 20
     },
     {
+      "date": "2026-11-10",
+      "min_price": 182,
+      "observations": 8
+    },
+    {
       "date": "2026-11-07",
       "min_price": 182,
       "observations": 4
@@ -109,13 +114,13 @@
     "median_90d": 182,
     "min_ever": 182,
     "min_ever_at": "2026-11-07",
-    "distinct_days": 3,
+    "distinct_days": 4,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
   },
   "score": 60
 }

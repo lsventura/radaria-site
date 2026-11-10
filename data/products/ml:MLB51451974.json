@@ -1,0 +1,72 @@
+{
+  "id": "ml:MLB51451974",
+  "slug": "ethernet-starlink-v2-adaptador-rj45-internet-1200-mbps-mlb51451974",
+  "title": "Ethernet Starlink V2 Adaptador Rj45 Internet 1200 Mbps",
+  "brand": "Grupo Pegazus",
+  "model": "Starlink Cable Adapter",
+  "category_slug": "geral",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_967107-MLA86117217024_062025-F.jpg"
+  ],
+  "attributes": {
+    "GTIN": "7908963102447, 949172221335",
+    "BRAND": "Grupo Pegazus",
+    "COLOR": "Cinza",
+    "MODEL": "Starlink Cable Adapter",
+    "MATERIALS": "ABS",
+    "SALE_FORMAT": "Unidade",
+    "UNITS_PER_PACK": "1",
+    "INPUT_CONNECTOR": "1",
+    "OUTPUT_CONNECTOR": "1",
+    "PACKAGE_DATA_SOURCE": "CERTIFIED_MEASUREMENT",
+    "INPUT_CONNECTORS_NUMBER": "1",
+    "OUTPUT_CONNECTORS_NUMBER": "1"
+  },
+  "offers": [
+    {
+      "offer_id": "ml:MLB5310084119",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3442508153",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 149,
+      "currency": "BRL",
+      "store_reference_price": 159,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2f6289d",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T16:37:42.930Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-09",
+      "min_price": 149,
+      "observations": 21
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 149,
+      "observations": 19
+    }
+  ],
+  "stats": {
+    "median_90d": 149,
+    "min_ever": 149,
+    "min_ever_at": "2026-11-09",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

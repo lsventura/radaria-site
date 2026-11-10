@@ -18,14 +18,14 @@
         "name": null,
         "reputation": null
       },
-      "price": 80.9,
+      "price": 76.85,
       "currency": "BRL",
-      "store_reference_price": null,
-      "free_shipping": true,
+      "store_reference_price": 80.9,
+      "free_shipping": false,
       "available": true,
-      "url": "https://www.mercadolivre.com.br/p/MLB76018777",
-      "affiliate": false,
-      "last_observed_at": "2026-11-10T04:44:56.883Z",
+      "url": "https://meli.la/2VMgGE7",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T15:16:14.022Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -44,8 +44,8 @@
     },
     {
       "date": "2026-11-10",
-      "min_price": 80.9,
-      "observations": 1
+      "min_price": 76.85,
+      "observations": 3
     },
     {
       "date": "2026-11-07",
@@ -55,15 +55,15 @@
   ],
   "stats": {
     "median_90d": 80.9,
-    "min_ever": 80.9,
-    "min_ever_at": "2026-11-07",
+    "min_ever": 76.85,
+    "min_ever_at": "2026-11-10",
     "distinct_days": 4,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 0,
+    "pct_below_median": 5,
     "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
   },
-  "score": 60
+  "score": 56
 }

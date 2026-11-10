@@ -1,0 +1,90 @@
+{
+  "id": "ml:MLB63210611",
+  "slug": "suporte-cooler-resfriamento-ps5-normal-ps5-slim-ps5-pro-branco-mlb63210611",
+  "title": "Suporte Cooler Resfriamento Ps5 Normal Ps5 Slim Ps5 Pro Branco",
+  "brand": "Dobe",
+  "model": "Tp4-3557",
+  "category_slug": "geral",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_789032-MLA101562997125_122025-F.jpg"
+  ],
+  "attributes": {
+    "GTIN": "7448070112750",
+    "BRAND": "Dobe",
+    "COLOR": "Branco",
+    "MODEL": "Tp4-3557",
+    "HEIGHT": "4 cm",
+    "LENGTH": "34 cm",
+    "FANS_NUMBER": "1",
+    "WITH_USB_PORT": "Sim",
+    "COMPATIBLE_CONSOLES": "PS5 Normal, PS5 Slim, PS5 Pro",
+    "WITH_CHARGING_PORTS": "Não",
+    "CHARGING_PORTS_NUMBER": "2"
+  },
+  "offers": [
+    {
+      "offer_id": "ml:MLB4368928709",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "170016458",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 243.2,
+      "currency": "BRL",
+      "store_reference_price": 256,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/13ixrwi",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T16:38:42.417Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5439361637",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1829715543",
+        "name": null,
+        "reputation": null
+      },
+      "price": 236.62,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/13ixrwi",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T16:38:42.417Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-09",
+      "min_price": 236.62,
+      "observations": 42
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 236.62,
+      "observations": 40
+    }
+  ],
+  "stats": {
+    "median_90d": 236.62,
+    "min_ever": 236.62,
+    "min_ever_at": "2026-11-09",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

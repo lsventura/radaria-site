@@ -25,7 +25,7 @@
       "available": true,
       "url": "https://meli.la/2u7sHQa",
       "affiliate": true,
-      "last_observed_at": "2026-11-10T02:34:43.222Z",
+      "last_observed_at": "2026-11-10T13:53:09.419Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -44,7 +44,7 @@
       "available": true,
       "url": "https://meli.la/2u7sHQa",
       "affiliate": true,
-      "last_observed_at": "2026-11-10T02:34:43.222Z",
+      "last_observed_at": "2026-11-10T13:53:09.419Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -60,19 +60,24 @@
       "date": "2026-11-09",
       "min_price": 912.85,
       "observations": 10
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 912.85,
+      "observations": 4
     }
   ],
   "stats": {
-    "median_90d": 952.18,
+    "median_90d": 912.85,
     "min_ever": 912.85,
     "min_ever_at": "2026-11-09",
-    "distinct_days": 2,
+    "distinct_days": 3,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 4.1,
-    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
   },
   "score": 60
 }

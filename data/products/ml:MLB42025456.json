@@ -18,14 +18,14 @@
         "name": null,
         "reputation": "5_green"
       },
-      "price": 115.96,
+      "price": 63.77,
       "currency": "BRL",
-      "store_reference_price": null,
-      "free_shipping": true,
+      "store_reference_price": 115.96,
+      "free_shipping": false,
       "available": true,
-      "url": "https://www.mercadolivre.com.br/p/MLB42025456",
-      "affiliate": false,
-      "last_observed_at": "2026-11-10T07:35:59.968Z",
+      "url": "https://meli.la/2H5LX2U",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T13:07:08.613Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -44,8 +44,8 @@
     },
     {
       "date": "2026-11-10",
-      "min_price": 115.96,
-      "observations": 1
+      "min_price": 63.77,
+      "observations": 2
     },
     {
       "date": "2026-11-07",
@@ -55,15 +55,15 @@
   ],
   "stats": {
     "median_90d": 115.96,
-    "min_ever": 115.96,
-    "min_ever_at": "2026-11-07",
+    "min_ever": 63.77,
+    "min_ever_at": "2026-11-10",
     "distinct_days": 4,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 0,
+    "pct_below_median": 45,
     "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
   },
-  "score": 64
+  "score": 52
 }
