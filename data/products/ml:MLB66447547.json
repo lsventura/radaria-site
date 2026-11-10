@@ -18,14 +18,14 @@
         "name": null,
         "reputation": null
       },
-      "price": 887.77,
+      "price": 923.22,
       "currency": "BRL",
       "store_reference_price": 1299,
       "free_shipping": true,
       "available": true,
-      "url": "https://www.mercadolivre.com.br/p/MLB66447547",
-      "affiliate": false,
-      "last_observed_at": "2026-11-09T16:25:07.744Z",
+      "url": "https://meli.la/2RRzZGn",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T07:26:00.364Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -40,7 +40,12 @@
     {
       "date": "2026-11-09",
       "min_price": 887.77,
-      "observations": 3
+      "observations": 4
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 923.22,
+      "observations": 2
     },
     {
       "date": "2026-11-07",
@@ -52,13 +57,13 @@
     "median_90d": 923.22,
     "min_ever": 887.77,
     "min_ever_at": "2026-11-09",
-    "distinct_days": 3,
+    "distinct_days": 4,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 3.8,
-    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
   },
-  "score": 60
+  "score": 64
 }

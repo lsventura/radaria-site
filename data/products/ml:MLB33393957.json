@@ -1,0 +1,83 @@
+{
+  "id": "ml:MLB33393957",
+  "slug": "boina-de-polimento-automotivo-la-de-carneiro-5pol-mlb33393957",
+  "title": "Boina De Polimento Automotivo Lã De Carneiro 5pol",
+  "brand": null,
+  "model": null,
+  "category_slug": "automotivo-15",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_831524-MLA99368657346_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7389765996",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1831572549",
+        "name": null,
+        "reputation": null
+      },
+      "price": 49.66,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2eMKXHY",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T03:08:42.956Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7389611518",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1831572549",
+        "name": null,
+        "reputation": null
+      },
+      "price": 55.2,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2eMKXHY",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T03:08:42.956Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 49.66,
+      "observations": 10
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 49.66,
+      "observations": 6
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 49.66,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 49.66,
+    "min_ever": 49.66,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

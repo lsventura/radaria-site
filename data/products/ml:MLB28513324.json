@@ -1,0 +1,64 @@
+{
+  "id": "ml:MLB28513324",
+  "slug": "oculos-natacao-zoggs-fusion-air-cor-azul-mlb28513324",
+  "title": "Óculos Natação Zoggs Fusion Air Cor Azul",
+  "brand": null,
+  "model": null,
+  "category_slug": "esportes-9",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_677872-MLA100035577505_122025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB3681477401",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "604499273",
+        "name": null,
+        "reputation": null
+      },
+      "price": 269.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/114Z6wy",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T03:25:56.557Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 269.9,
+      "observations": 5
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 269.9,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 269.9,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 269.9,
+    "min_ever": 269.9,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

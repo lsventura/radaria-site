@@ -1,0 +1,69 @@
+{
+  "id": "ml:MLB69571546",
+  "slug": "carregador-bateria-12v-chupeta-portatil-carro-moto-mlb69571546",
+  "title": "Carregador Bateria 12v Chupeta Portátil Carro Moto",
+  "brand": null,
+  "model": null,
+  "category_slug": "automotivo-2",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_689463-MLA111590064131_052026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB6766694974",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "51441115",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 119,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/163CQEi",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T06:12:59.446Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 119,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 119,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 119,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 119,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 119,
+    "min_ever": 119,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 4,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

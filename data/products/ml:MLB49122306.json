@@ -1,0 +1,64 @@
+{
+  "id": "ml:MLB49122306",
+  "slug": "carregador-bateria-automotiva-4x4sc-smart-charger-10a-pro-12v-24v-mlb49122306",
+  "title": "Carregador Bateria Automotiva 4x4sc Smart Charger 10a Pro 12V 24V",
+  "brand": null,
+  "model": null,
+  "category_slug": "automotivo-8",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_732648-MLA99357869850_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4458493707",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "93937479",
+        "name": null,
+        "reputation": null
+      },
+      "price": 189,
+      "currency": "BRL",
+      "store_reference_price": 229,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB49122306",
+      "affiliate": false,
+      "last_observed_at": "2026-11-10T03:08:42.956Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 189,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 189,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 189,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 189,
+    "min_ever": 189,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

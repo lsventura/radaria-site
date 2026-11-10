@@ -25,7 +25,7 @@
       "available": true,
       "url": "https://meli.la/27JMaAo",
       "affiliate": true,
-      "last_observed_at": "2026-11-09T19:38:42.349Z",
+      "last_observed_at": "2026-11-10T02:04:42.988Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -44,7 +44,7 @@
       "available": true,
       "url": "https://meli.la/27JMaAo",
       "affiliate": true,
-      "last_observed_at": "2026-11-09T19:38:42.349Z",
+      "last_observed_at": "2026-11-10T02:04:42.988Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -63,26 +63,7 @@
       "available": true,
       "url": "https://meli.la/27JMaAo",
       "affiliate": true,
-      "last_observed_at": "2026-11-09T19:38:42.349Z",
-      "payment_context": "channel_marketplace",
-      "payment_method": null
-    },
-    {
-      "offer_id": "ml:MLB4481385343",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "32837002",
-        "name": null,
-        "reputation": "5_green"
-      },
-      "price": 319.9,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "free_shipping": true,
-      "available": true,
-      "url": "https://meli.la/27JMaAo",
-      "affiliate": true,
-      "last_observed_at": "2026-11-09T19:38:42.349Z",
+      "last_observed_at": "2026-11-10T02:04:42.988Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -101,7 +82,7 @@
       "available": true,
       "url": "https://meli.la/27JMaAo",
       "affiliate": true,
-      "last_observed_at": "2026-11-09T19:38:42.349Z",
+      "last_observed_at": "2026-11-10T02:04:42.988Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -111,17 +92,17 @@
     {
       "date": "2026-11-08",
       "min_price": 280.25,
-      "observations": 5
+      "observations": 4
     },
     {
       "date": "2026-11-09",
       "min_price": 266.24,
-      "observations": 15
+      "observations": 16
     },
     {
       "date": "2026-11-07",
       "min_price": 280.25,
-      "observations": 5
+      "observations": 4
     }
   ],
   "stats": {
@@ -136,5 +117,5 @@
     "pct_below_median": 5,
     "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
   },
-  "score": 64
+  "score": 56
 }

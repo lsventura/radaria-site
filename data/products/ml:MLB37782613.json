@@ -1,0 +1,78 @@
+{
+  "id": "ml:MLB37782613",
+  "slug": "raquete-padel-lok-maxx-hype-18k-mike-yanguas-mlb37782613",
+  "title": "Raquete Padel Lok Maxx Hype 18k Mike Yanguas",
+  "brand": null,
+  "model": null,
+  "category_slug": "esportes-6",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_882312-MLA99926998695_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5848064518",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1367078380",
+        "name": null,
+        "reputation": null
+      },
+      "price": 2245,
+      "currency": "BRL",
+      "store_reference_price": 2414.41,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/265rRW3",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T02:46:43.569Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5848187402",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1367078380",
+        "name": null,
+        "reputation": null
+      },
+      "price": 2364,
+      "currency": "BRL",
+      "store_reference_price": 2541.48,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/265rRW3",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T02:46:43.569Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 2245,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 2245,
+      "observations": 8
+    }
+  ],
+  "stats": {
+    "median_90d": 2245,
+    "min_ever": 2245,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

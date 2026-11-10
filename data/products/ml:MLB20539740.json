@@ -1,0 +1,69 @@
+{
+  "id": "ml:MLB20539740",
+  "slug": "quebra-cabeca-de-madeira-mix-animais-brinquedo-educativo-montessori-babebi-mlb20539740",
+  "title": "Quebra-Cabeça de Madeira Mix Animais — Brinquedo Educativo Montessori Babebi",
+  "brand": null,
+  "model": null,
+  "category_slug": "brinquedos-7",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_679632-MLA99533187292_122025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB3932964347",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "249864569",
+        "name": null,
+        "reputation": null
+      },
+      "price": 120.86,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/33TuEvm",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T07:27:59.988Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 120.86,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 120.86,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 120.86,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 120.86,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 120.86,
+    "min_ever": 120.86,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 4,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

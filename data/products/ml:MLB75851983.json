@@ -1,0 +1,69 @@
+{
+  "id": "ml:MLB75851983",
+  "slug": "perfume-feminino-ragazza-100ml-mlb75851983",
+  "title": "Perfume Feminino Ragazza 100ml",
+  "brand": null,
+  "model": null,
+  "category_slug": "beleza-8",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_963467-MLA115262971927_072026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4960906681",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1674902894",
+        "name": null,
+        "reputation": null
+      },
+      "price": 143.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2M7f8VM",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T04:35:56.682Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 143.9,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 143.9,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 143.9,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 143.9,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 143.9,
+    "min_ever": 143.9,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 4,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

@@ -18,14 +18,14 @@
         "name": null,
         "reputation": "5_green"
       },
-      "price": 299.63,
+      "price": 283.4,
       "currency": "BRL",
       "store_reference_price": 498,
       "free_shipping": true,
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB73150037",
       "affiliate": false,
-      "last_observed_at": "2026-11-09T18:41:42.893Z",
+      "last_observed_at": "2026-11-10T07:40:00.058Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -40,7 +40,12 @@
     {
       "date": "2026-11-09",
       "min_price": 275,
-      "observations": 3
+      "observations": 6
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 283.4,
+      "observations": 2
     },
     {
       "date": "2026-11-07",
@@ -49,16 +54,16 @@
     }
   ],
   "stats": {
-    "median_90d": 286.44,
+    "median_90d": 284.92,
     "min_ever": 275,
     "min_ever_at": "2026-11-09",
-    "distinct_days": 3,
+    "distinct_days": 4,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": -4.6,
-    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+    "pct_below_median": 0.5,
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
   },
   "score": 64
 }

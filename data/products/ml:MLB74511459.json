@@ -1,0 +1,69 @@
+{
+  "id": "ml:MLB74511459",
+  "slug": "trocador-portatil-bebe-seri-azul-com-bolsos-azul-mlb74511459",
+  "title": "Trocador Portátil Bebê Seri Azul Com Bolsos - Azul",
+  "brand": null,
+  "model": null,
+  "category_slug": "bebes-16",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_812514-MLA113727157761_062026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7034289686",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "476549207",
+        "name": null,
+        "reputation": null
+      },
+      "price": 114.32,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2o1MKJd",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T05:08:56.562Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 114.32,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 114.32,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 114.32,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 114.32,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 114.32,
+    "min_ever": 114.32,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 4,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

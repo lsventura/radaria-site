@@ -25,7 +25,7 @@
       "available": true,
       "url": "https://meli.la/1tYuG8P",
       "affiliate": true,
-      "last_observed_at": "2026-11-09T18:40:42.763Z",
+      "last_observed_at": "2026-11-10T07:25:01.213Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -44,7 +44,7 @@
       "available": true,
       "url": "https://meli.la/1tYuG8P",
       "affiliate": true,
-      "last_observed_at": "2026-11-09T18:40:42.763Z",
+      "last_observed_at": "2026-11-10T07:25:01.213Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -63,7 +63,7 @@
       "available": true,
       "url": "https://meli.la/1tYuG8P",
       "affiliate": true,
-      "last_observed_at": "2026-11-09T18:40:42.763Z",
+      "last_observed_at": "2026-11-10T07:25:01.213Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,7 +82,7 @@
       "available": true,
       "url": "https://meli.la/1tYuG8P",
       "affiliate": true,
-      "last_observed_at": "2026-11-09T18:40:42.763Z",
+      "last_observed_at": "2026-11-10T07:25:01.213Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -101,7 +101,7 @@
       "available": true,
       "url": "https://meli.la/1tYuG8P",
       "affiliate": true,
-      "last_observed_at": "2026-11-09T18:40:42.763Z",
+      "last_observed_at": "2026-11-10T07:25:01.213Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -116,7 +116,12 @@
     {
       "date": "2026-11-09",
       "min_price": 92.07,
-      "observations": 10
+      "observations": 15
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 92.07,
+      "observations": 5
     },
     {
       "date": "2026-11-06",
@@ -125,16 +130,16 @@
     }
   ],
   "stats": {
-    "median_90d": 109.79,
+    "median_90d": 100.93,
     "min_ever": 92.07,
     "min_ever_at": "2026-11-09",
-    "distinct_days": 3,
+    "distinct_days": 4,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 16.1,
-    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+    "pct_below_median": 8.8,
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
   },
   "score": 64
 }

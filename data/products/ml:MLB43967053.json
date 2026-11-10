@@ -1,0 +1,64 @@
+{
+  "id": "ml:MLB43967053",
+  "slug": "kit-romance-gutenberg-mlb43967053",
+  "title": "Kit Romance Gutenberg",
+  "brand": null,
+  "model": null,
+  "category_slug": "livros-e-papelaria-8",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_829751-MLA82198526938_022025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4106456069",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2407020188",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 121.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1w8D6pF",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T05:05:57.067Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-09",
+      "min_price": 121.9,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 121.9,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 121.9,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 121.9,
+    "min_ever": 121.9,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

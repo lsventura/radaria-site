@@ -1,0 +1,83 @@
+{
+  "id": "ml:MLB39290763",
+  "slug": "cadeira-gamer-ergonomica-start-line-reclinavel-giratoria-cor-branco-material-do--mlb39290763",
+  "title": "Cadeira Gamer Ergonômica Start Line Reclinável Giratória Cor Branco Material do estofamento Couro sintético",
+  "brand": null,
+  "model": null,
+  "category_slug": "games-7",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_757834-MLA99485583680_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4994534216",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1182496691",
+        "name": null,
+        "reputation": null
+      },
+      "price": 499.9,
+      "currency": "BRL",
+      "store_reference_price": 799.99,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1ij4qYS",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T03:02:43.293Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB3814121349",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1182496691",
+        "name": null,
+        "reputation": null
+      },
+      "price": 499.9,
+      "currency": "BRL",
+      "store_reference_price": 799.99,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1ij4qYS",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T03:02:43.293Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 499.9,
+      "observations": 6
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 499.9,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 499.9,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 499.9,
+    "min_ever": 499.9,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

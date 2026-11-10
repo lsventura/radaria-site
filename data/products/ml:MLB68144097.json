@@ -25,7 +25,7 @@
       "available": true,
       "url": "https://meli.la/2WVNJuy",
       "affiliate": true,
-      "last_observed_at": "2026-11-09T17:47:42.638Z",
+      "last_observed_at": "2026-11-10T06:36:59.066Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -44,7 +44,7 @@
       "available": true,
       "url": "https://meli.la/2WVNJuy",
       "affiliate": true,
-      "last_observed_at": "2026-11-09T17:47:42.638Z",
+      "last_observed_at": "2026-11-10T06:36:59.066Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -63,7 +63,7 @@
       "available": true,
       "url": "https://meli.la/2WVNJuy",
       "affiliate": true,
-      "last_observed_at": "2026-11-09T17:47:42.638Z",
+      "last_observed_at": "2026-11-10T06:36:59.066Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,7 +82,7 @@
       "available": true,
       "url": "https://meli.la/2WVNJuy",
       "affiliate": true,
-      "last_observed_at": "2026-11-09T17:47:42.638Z",
+      "last_observed_at": "2026-11-10T06:36:59.066Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -101,7 +101,7 @@
       "available": true,
       "url": "https://meli.la/2WVNJuy",
       "affiliate": true,
-      "last_observed_at": "2026-11-09T17:47:42.638Z",
+      "last_observed_at": "2026-11-10T06:36:59.066Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -120,7 +120,7 @@
       "available": true,
       "url": "https://meli.la/2WVNJuy",
       "affiliate": true,
-      "last_observed_at": "2026-11-09T17:47:42.638Z",
+      "last_observed_at": "2026-11-10T06:36:59.066Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -139,7 +139,7 @@
       "available": true,
       "url": "https://meli.la/2WVNJuy",
       "affiliate": true,
-      "last_observed_at": "2026-11-09T17:47:42.638Z",
+      "last_observed_at": "2026-11-10T06:36:59.066Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -154,7 +154,12 @@
     {
       "date": "2026-11-09",
       "min_price": 599,
-      "observations": 21
+      "observations": 28
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 599,
+      "observations": 7
     },
     {
       "date": "2026-11-06",
@@ -166,13 +171,13 @@
     "median_90d": 599,
     "min_ever": 599,
     "min_ever_at": "2026-11-06",
-    "distinct_days": 3,
+    "distinct_days": 4,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
   },
-  "score": 60
+  "score": 64
 }

@@ -1,0 +1,64 @@
+{
+  "id": "ml:MLB51192675",
+  "slug": "caixa-maleta-porta-relogio-estojo-organizador-10-relogios-mlb51192675",
+  "title": "Caixa Maleta Porta Relogio Estojo Organizador 10 Relogios",
+  "brand": null,
+  "model": null,
+  "category_slug": "relogios-e-joias-13",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_823780-MLA86056825053_062025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5432976628",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "671610685",
+        "name": null,
+        "reputation": null
+      },
+      "price": 126.35,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1c3LZuM",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T02:10:43.094Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 126.35,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 126.35,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 126.35,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 126.35,
+    "min_ever": 126.35,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

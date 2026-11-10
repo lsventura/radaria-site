@@ -18,14 +18,14 @@
         "name": null,
         "reputation": null
       },
-      "price": 299,
+      "price": 315.37,
       "currency": "BRL",
       "store_reference_price": 350.42,
       "free_shipping": true,
       "available": true,
-      "url": "https://www.mercadolivre.com.br/p/MLB53221352",
-      "affiliate": false,
-      "last_observed_at": "2026-11-09T17:23:07.713Z",
+      "url": "https://meli.la/2av5wXM",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T06:14:59.013Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -40,7 +40,12 @@
     {
       "date": "2026-11-09",
       "min_price": 299,
-      "observations": 3
+      "observations": 4
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 315.37,
+      "observations": 1
     },
     {
       "date": "2026-11-07",
@@ -52,13 +57,13 @@
     "median_90d": 315.37,
     "min_ever": 299,
     "min_ever_at": "2026-11-09",
-    "distinct_days": 3,
+    "distinct_days": 4,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 5.2,
-    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
   },
-  "score": 60
+  "score": 64
 }

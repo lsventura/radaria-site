@@ -1,0 +1,107 @@
+{
+  "id": "ml:MLB66798979",
+  "slug": "anel-inteligente-amazfit-helio-ring-tamanho-10-mlb66798979",
+  "title": "Anel Inteligente Amazfit Helio Ring Tamanho 10",
+  "brand": null,
+  "model": null,
+  "category_slug": "acessorios-e-wearables-5",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_781455-MLA108962159121_032026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7702430286",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1022829656",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 1187,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2ZFXCrP",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T07:25:01.213Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5318323363",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3490380840",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 1362.99,
+      "currency": "BRL",
+      "store_reference_price": 1449.99,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2ZFXCrP",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T07:25:01.213Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7731795078",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3490380840",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 1200.59,
+      "currency": "BRL",
+      "store_reference_price": 1379.99,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2ZFXCrP",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T07:25:01.213Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 1200.59,
+      "observations": 6
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 1187,
+      "observations": 7
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 1187,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 1187,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 1187,
+    "min_ever": 1187,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 4,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

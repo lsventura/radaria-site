@@ -1,0 +1,59 @@
+{
+  "id": "ml:MLB38654754",
+  "slug": "estacao-de-musculacao-banco-para-supino-encosto-ajustavel-mlb38654754",
+  "title": "Estação De Musculação Banco Para Supino Encosto Ajustavel",
+  "brand": null,
+  "model": null,
+  "category_slug": "fitness-8",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_665966-MLA99447787242_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4656467057",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "126468711",
+        "name": null,
+        "reputation": null
+      },
+      "price": 739.34,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2aCG2Q2",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T02:47:43.195Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 689.34,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 739.34,
+      "observations": 7
+    }
+  ],
+  "stats": {
+    "median_90d": 714.34,
+    "min_ever": 689.34,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": -3.5,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

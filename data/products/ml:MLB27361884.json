@@ -23,9 +23,9 @@
       "store_reference_price": null,
       "free_shipping": true,
       "available": true,
-      "url": "https://www.mercadolivre.com.br/p/MLB27361884",
-      "affiliate": false,
-      "last_observed_at": "2026-11-09T16:21:08.013Z",
+      "url": "https://meli.la/2pbCWA8",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T05:21:56.770Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -40,7 +40,12 @@
     {
       "date": "2026-11-09",
       "min_price": 358.35,
-      "observations": 3
+      "observations": 4
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 358.35,
+      "observations": 1
     },
     {
       "date": "2026-11-07",
@@ -52,13 +57,13 @@
     "median_90d": 358.35,
     "min_ever": 358.35,
     "min_ever_at": "2026-11-07",
-    "distinct_days": 3,
+    "distinct_days": 4,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
   },
   "score": 60
 }

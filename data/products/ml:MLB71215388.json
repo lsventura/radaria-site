@@ -23,9 +23,9 @@
       "store_reference_price": 229.99,
       "free_shipping": true,
       "available": true,
-      "url": "https://www.mercadolivre.com.br/p/MLB71215388",
-      "affiliate": false,
-      "last_observed_at": "2026-11-09T15:28:47.653Z",
+      "url": "https://meli.la/2JuuZgh",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T04:35:56.682Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -42,9 +42,9 @@
       "store_reference_price": 244.99,
       "free_shipping": true,
       "available": true,
-      "url": "https://www.mercadolivre.com.br/p/MLB71215388",
-      "affiliate": false,
-      "last_observed_at": "2026-11-09T15:28:47.653Z",
+      "url": "https://meli.la/2JuuZgh",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T04:35:56.682Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -61,9 +61,9 @@
       "store_reference_price": 228.99,
       "free_shipping": true,
       "available": true,
-      "url": "https://www.mercadolivre.com.br/p/MLB71215388",
-      "affiliate": false,
-      "last_observed_at": "2026-11-09T15:28:47.653Z",
+      "url": "https://meli.la/2JuuZgh",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T04:35:56.682Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -78,20 +78,25 @@
     {
       "date": "2026-11-09",
       "min_price": 222.12,
-      "observations": 9
+      "observations": 12
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 222.12,
+      "observations": 3
     }
   ],
   "stats": {
     "median_90d": 222.12,
     "min_ever": 222.12,
     "min_ever_at": "2026-11-08",
-    "distinct_days": 2,
+    "distinct_days": 3,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
   },
   "score": 60
 }

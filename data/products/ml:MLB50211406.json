@@ -23,9 +23,9 @@
       "store_reference_price": 536.53,
       "free_shipping": true,
       "available": true,
-      "url": "https://www.mercadolivre.com.br/p/MLB50211406",
-      "affiliate": false,
-      "last_observed_at": "2026-11-09T19:10:42.554Z",
+      "url": "https://meli.la/1oadhyG",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T07:52:03.855Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -40,20 +40,25 @@
     {
       "date": "2026-11-09",
       "min_price": 416.34,
-      "observations": 4
+      "observations": 5
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 416.34,
+      "observations": 1
     }
   ],
   "stats": {
-    "median_90d": 422.78,
+    "median_90d": 416.34,
     "min_ever": 416.34,
     "min_ever_at": "2026-11-09",
-    "distinct_days": 2,
+    "distinct_days": 3,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 1.5,
-    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
   },
   "score": 64
 }

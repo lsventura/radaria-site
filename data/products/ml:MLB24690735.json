@@ -25,7 +25,7 @@
       "available": true,
       "url": "https://meli.la/2BQYVXQ",
       "affiliate": true,
-      "last_observed_at": "2026-11-09T19:25:42.569Z",
+      "last_observed_at": "2026-11-10T08:06:03.873Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -37,14 +37,14 @@
         "name": null,
         "reputation": "5_green"
       },
-      "price": 1339.99,
+      "price": 1619.99,
       "currency": "BRL",
-      "store_reference_price": 1619.99,
+      "store_reference_price": null,
       "free_shipping": true,
       "available": true,
       "url": "https://meli.la/2BQYVXQ",
       "affiliate": true,
-      "last_observed_at": "2026-11-09T19:25:42.569Z",
+      "last_observed_at": "2026-11-10T08:06:03.873Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -56,14 +56,14 @@
         "name": null,
         "reputation": "5_green"
       },
-      "price": 1503.35,
+      "price": 1402.99,
       "currency": "BRL",
       "store_reference_price": 1727.99,
       "free_shipping": true,
       "available": true,
       "url": "https://meli.la/2BQYVXQ",
       "affiliate": true,
-      "last_observed_at": "2026-11-09T19:25:42.569Z",
+      "last_observed_at": "2026-11-10T08:06:03.873Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -78,7 +78,12 @@
     {
       "date": "2026-11-09",
       "min_price": 1339.99,
-      "observations": 12
+      "observations": 15
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 1402.99,
+      "observations": 3
     },
     {
       "date": "2026-11-06",
@@ -90,13 +95,13 @@
     "median_90d": 1339.99,
     "min_ever": 1339.99,
     "min_ever_at": "2026-11-06",
-    "distinct_days": 3,
+    "distinct_days": 4,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 0,
-    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+    "pct_below_median": -4.7,
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
   },
   "score": 64
 }

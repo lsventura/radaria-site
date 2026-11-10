@@ -1,0 +1,88 @@
+{
+  "id": "ml:MLB75878504",
+  "slug": "lava-loucas-praxis-portatil-llpp-2-0-semi-automatica-cinza-mlb75878504",
+  "title": "Lava-Louças Praxis Portátil LLPP 2.0 Semi-Automática Cinza",
+  "brand": null,
+  "model": null,
+  "category_slug": "eletrodomesticos-6",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_821019-MLA113958073230_072026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5341557021",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "83799991",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1129.9,
+      "currency": "BRL",
+      "store_reference_price": 1385.55,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/32vAirF",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T06:48:59.182Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7424128760",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "463219455",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1298.46,
+      "currency": "BRL",
+      "store_reference_price": 1952.79,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/32vAirF",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T06:48:59.182Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 1129.9,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 1129.9,
+      "observations": 8
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 1129.9,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 1129.9,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 1129.9,
+    "min_ever": 1129.9,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 4,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

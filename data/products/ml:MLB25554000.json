@@ -1,0 +1,83 @@
+{
+  "id": "ml:MLB25554000",
+  "slug": "furadeira-parafusadeira-impacto-gsb-120-li-bosch-kit-mlb25554000",
+  "title": "Furadeira Parafusadeira Impacto Gsb 120-li Bosch + Kit",
+  "brand": null,
+  "model": null,
+  "category_slug": "ferramentas-17",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_871710-MLA99424011898_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4265598321",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2164899551",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 666.63,
+      "currency": "BRL",
+      "store_reference_price": 782.92,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/19khqbz",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T07:47:03.539Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4659957831",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2990727564",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 843.59,
+      "currency": "BRL",
+      "store_reference_price": 887.99,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/19khqbz",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T07:47:03.539Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 666.63,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 666.63,
+      "observations": 14
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 666.63,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 666.63,
+    "min_ever": 666.63,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

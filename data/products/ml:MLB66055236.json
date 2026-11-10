@@ -1,0 +1,88 @@
+{
+  "id": "ml:MLB66055236",
+  "slug": "aparador-de-pelos-supergroom-10-mondial-bivolt-bg-10-mlb66055236",
+  "title": "Aparador De Pelos Supergroom-10 Mondial Bivolt Bg-10",
+  "brand": null,
+  "model": null,
+  "category_slug": "beleza-4",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_822569-MLA107807368063_022026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5518790895",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3790707520",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 297,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2zKqZca",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T05:42:57.049Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4749531147",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "480263032",
+        "name": null,
+        "reputation": null
+      },
+      "price": 89,
+      "currency": "BRL",
+      "store_reference_price": 166.9,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2zKqZca",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T05:42:57.049Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 109,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 109,
+      "observations": 8
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 89,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 109,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 109,
+    "min_ever": 89,
+    "min_ever_at": "2026-11-10",
+    "distinct_days": 4,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 18.3,
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

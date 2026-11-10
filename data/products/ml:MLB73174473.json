@@ -1,0 +1,64 @@
+{
+  "id": "ml:MLB73174473",
+  "slug": "prancha-junior-brinquedo-praia-piscina-infantil-bodyboard-cor-menina-mlb73174473",
+  "title": "Prancha Junior Brinquedo Praia Piscina Infantil Bodyboard Cor Menina",
+  "brand": null,
+  "model": null,
+  "category_slug": "brinquedos-17",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_676429-MLA113095019593_062026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB6952065968",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "124747694",
+        "name": null,
+        "reputation": null
+      },
+      "price": 195.34,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB73174473",
+      "affiliate": false,
+      "last_observed_at": "2026-11-10T05:48:56.581Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 195.34,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 195.34,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 195.34,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 195.34,
+    "min_ever": 195.34,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

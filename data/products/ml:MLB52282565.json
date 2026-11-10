@@ -1,0 +1,69 @@
+{
+  "id": "ml:MLB52282565",
+  "slug": "kit-enxoval-bebe-com-toalha-fralda-naninha-e-prendedor-arco-iris-mlb52282565",
+  "title": "Kit Enxoval Bebê com Toalha Fralda, Naninha e Prendedor Arco-Íris",
+  "brand": null,
+  "model": null,
+  "category_slug": "bebes-9",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_660183-MLA87335026370_072025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB6366492830",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "476296622",
+        "name": null,
+        "reputation": null
+      },
+      "price": 253.41,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/18rnTCZ",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T07:11:01.415Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 253.41,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 253.41,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 253.41,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 253.41,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 253.41,
+    "min_ever": 253.41,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 4,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T20:25:12.757Z",
+  "generated_at": "2026-11-10T08:08:17.231Z",
   "timezone": "America/Sao_Paulo",
   "series": [
     {
@@ -31,25 +31,50 @@
       "date": "2026-11-09",
       "version": "v2",
       "stages": {
-        "audited_approved": 4184,
-        "discovered": 52062,
-        "distinct": 50480,
+        "audited_approved": 4242,
+        "discovered": 52413,
+        "distinct": 50826,
         "published": 1855,
         "with_affiliate": 1860,
-        "with_photo": 50464
+        "with_photo": 50810
       }
     },
     {
       "date": "2026-11-09",
       "version": "v3",
       "stages": {
-        "audited_approved": 6864,
+        "audited_approved": 6867,
         "discovered": 100184,
         "distinct": 50444,
-        "fresh_history_24h": 2693,
-        "published": 2693,
-        "with_affiliate": 3592,
+        "fresh_history_24h": 3440,
+        "published": 3440,
+        "with_affiliate": 4639,
         "with_photo": 50212
+      }
+    },
+    {
+      "date": "2026-11-10",
+      "version": "v2",
+      "stages": {
+        "audited_approved": 4295,
+        "discovered": 52413,
+        "distinct": 50826,
+        "published": 1855,
+        "with_affiliate": 1860,
+        "with_photo": 50810
+      }
+    },
+    {
+      "date": "2026-11-10",
+      "version": "v3",
+      "stages": {
+        "audited_approved": 6599,
+        "discovered": 102598,
+        "distinct": 50485,
+        "fresh_history_24h": 4136,
+        "published": 4136,
+        "with_affiliate": 5397,
+        "with_photo": 50253
       }
     }
   ]

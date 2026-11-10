@@ -1,0 +1,107 @@
+{
+  "id": "ml:MLB28007290",
+  "slug": "rodo-esfregao-conjunto-spray-mop-jato-reservatorio-bralimpia-mlb28007290",
+  "title": "Rodo Esfregão Conjunto Spray Mop Jato Reservatório Bralimpia",
+  "brand": null,
+  "model": null,
+  "category_slug": "organizacao-e-limpeza-6",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_625535-MLA116273947898_092026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4471595005",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "201011433",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 469.8,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1ZkDUpo",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T04:03:56.767Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6236612814",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "229861093",
+        "name": null,
+        "reputation": null
+      },
+      "price": 469.75,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1ZkDUpo",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T04:03:56.767Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4025028033",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "229861093",
+        "name": null,
+        "reputation": null
+      },
+      "price": 465.1,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1ZkDUpo",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T04:03:56.767Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 465.1,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 465.1,
+      "observations": 12
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 465.1,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 465.1,
+      "observations": 4
+    }
+  ],
+  "stats": {
+    "median_90d": 465.1,
+    "min_ever": 465.1,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 4,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

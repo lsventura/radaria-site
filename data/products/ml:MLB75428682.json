@@ -18,14 +18,14 @@
         "name": null,
         "reputation": null
       },
-      "price": 432.58,
+      "price": 419.6,
       "currency": "BRL",
       "store_reference_price": 459.69,
       "free_shipping": true,
       "available": true,
-      "url": "https://www.mercadolivre.com.br/p/MLB75428682",
-      "affiliate": false,
-      "last_observed_at": "2026-11-09T15:35:47.646Z",
+      "url": "https://meli.la/2qsqP6S",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T04:42:56.908Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -39,8 +39,13 @@
     },
     {
       "date": "2026-11-09",
-      "min_price": 432.58,
-      "observations": 3
+      "min_price": 419.6,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 419.6,
+      "observations": 1
     },
     {
       "date": "2026-11-07",
@@ -49,16 +54,16 @@
     }
   ],
   "stats": {
-    "median_90d": 432.58,
-    "min_ever": 432.58,
-    "min_ever_at": "2026-11-07",
-    "distinct_days": 3,
+    "median_90d": 426.09,
+    "min_ever": 419.6,
+    "min_ever_at": "2026-11-09",
+    "distinct_days": 4,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 0,
-    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+    "pct_below_median": 1.5,
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
   },
   "score": 60
 }

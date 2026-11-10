@@ -23,9 +23,9 @@
       "store_reference_price": 499.98,
       "free_shipping": true,
       "available": true,
-      "url": "https://www.mercadolivre.com.br/p/MLB40150245",
-      "affiliate": false,
-      "last_observed_at": "2026-11-09T18:27:42.332Z",
+      "url": "https://meli.la/13haobs",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T07:13:00.691Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -40,7 +40,12 @@
     {
       "date": "2026-11-09",
       "min_price": 320,
-      "observations": 2
+      "observations": 3
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 320,
+      "observations": 1
     },
     {
       "date": "2026-11-07",
@@ -49,16 +54,16 @@
     }
   ],
   "stats": {
-    "median_90d": 329.9,
+    "median_90d": 324.95,
     "min_ever": 320,
     "min_ever_at": "2026-11-09",
-    "distinct_days": 3,
+    "distinct_days": 4,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 3,
-    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+    "pct_below_median": 1.5,
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
   },
   "score": 64
 }

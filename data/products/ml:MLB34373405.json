@@ -1,0 +1,69 @@
+{
+  "id": "ml:MLB34373405",
+  "slug": "colchao-inflavel-siperman-183x69-etitoys-mlb34373405",
+  "title": "Colchão Inflável Siperman 183x69 - Etitoys",
+  "brand": null,
+  "model": null,
+  "category_slug": "viagem-e-outdoor-20",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_852366-MLU74974409412_032024-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7736497660",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3462498840",
+        "name": null,
+        "reputation": null
+      },
+      "price": 91.68,
+      "currency": "BRL",
+      "store_reference_price": 102.49,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2E4oXoB",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T03:07:43.058Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 91.68,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 91.68,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 91.68,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 91.68,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 91.68,
+    "min_ever": 91.68,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 4,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}
