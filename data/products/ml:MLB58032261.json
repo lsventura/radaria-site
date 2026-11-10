@@ -25,7 +25,26 @@
       "available": true,
       "url": "https://meli.la/2ptoKB8",
       "affiliate": true,
-      "last_observed_at": "2026-11-10T15:46:13.627Z",
+      "last_observed_at": "2026-11-10T19:38:30.673Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5399446623",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3292439916",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 7250,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2ptoKB8",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T19:38:30.673Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -44,7 +63,7 @@
       "available": true,
       "url": "https://meli.la/2ptoKB8",
       "affiliate": true,
-      "last_observed_at": "2026-11-10T15:46:13.627Z",
+      "last_observed_at": "2026-11-10T19:38:30.673Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -53,28 +72,28 @@
   "history": [
     {
       "date": "2026-11-08",
-      "min_price": 7999,
-      "observations": 2
+      "min_price": 7250,
+      "observations": 3
     },
     {
       "date": "2026-11-09",
-      "min_price": 7999,
-      "observations": 6
+      "min_price": 7250,
+      "observations": 9
     },
     {
       "date": "2026-11-10",
-      "min_price": 7999,
-      "observations": 6
+      "min_price": 7250,
+      "observations": 8
     },
     {
       "date": "2026-11-07",
-      "min_price": 7999,
-      "observations": 2
+      "min_price": 7250,
+      "observations": 3
     }
   ],
   "stats": {
-    "median_90d": 7999,
-    "min_ever": 7999,
+    "median_90d": 7250,
+    "min_ever": 7250,
     "min_ever_at": "2026-11-07",
     "distinct_days": 4,
     "window_days": 14
@@ -84,5 +103,5 @@
     "pct_below_median": 0,
     "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
   },
-  "score": 64
+  "score": 60
 }

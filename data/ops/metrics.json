@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-10T16:54:22.845Z",
+  "generated_at": "2026-11-10T22:14:49.567Z",
   "schema_version": "radaria-ops/v1",
   "funnel": {
-    "discovered": 102599,
-    "distinct": 50485,
-    "with_photo": 50253,
-    "audited_approved": 6727,
-    "with_affiliate": 6543,
-    "published": 4898,
-    "fresh_history_24h": 4898
+    "discovered": 102611,
+    "distinct": 50496,
+    "with_photo": 50264,
+    "audited_approved": 6584,
+    "with_affiliate": 6421,
+    "published": 4905,
+    "fresh_history_24h": 4905
   },
   "basis": "latest_listing_decision_rolled_up_to_product",
   "definitions": {
@@ -25,14 +25,14 @@
     "by_status.pending": "Revisão e qualquer status fora de approved, rejected e source_unavailable, na mesma base. Catálogo só com decisão e sem anúncio não entra."
   },
   "activity_24h": {
-    "telegram_posted": 37,
-    "affiliate_links_generated": 3718
+    "telegram_posted": 38,
+    "affiliate_links_generated": 2821
   },
   "by_status": {
-    "approved": 6729,
+    "approved": 6586,
     "rejected": 0,
-    "source_unavailable": 258,
-    "pending": 7078
+    "source_unavailable": 295,
+    "pending": 7188
   },
   "status_check": {
     "audited_approved_lte_by_status_approved": true
@@ -41,7 +41,7 @@
     {
       "slug": "geral",
       "name": "Geral",
-      "count": 2354
+      "count": 2366
     },
     {
       "slug": "celulares",
@@ -248,17 +248,17 @@
     {
       "from": "with_photo",
       "to": "audited_approved",
-      "ratio": 0.1339
+      "ratio": 0.131
     },
     {
       "from": "audited_approved",
       "to": "with_affiliate",
-      "ratio": 0.9726
+      "ratio": 0.9752
     },
     {
       "from": "with_affiliate",
       "to": "published",
-      "ratio": 0.7486
+      "ratio": 0.7639
     },
     {
       "from": "published",
@@ -268,26 +268,23 @@
   ],
   "queues": {
     "affiliate": 1,
-    "audit": 6,
-    "discover": 1,
-    "publish-telegram": 2,
-    "refresh": 45
+    "discover": 1
   },
   "errors_by_source": [
     {
       "source": "mercadolivre",
       "http_status": 400,
-      "count_24h": 47
+      "count_24h": 44
     },
     {
       "source": "mercadolivre",
       "http_status": 404,
-      "count_24h": 69688
+      "count_24h": 60033
     },
     {
       "source": "mercadolivre",
       "http_status": 429,
-      "count_24h": 8
+      "count_24h": 10
     },
     {
       "source": "mercadolivre",
@@ -296,57 +293,56 @@
     }
   ],
   "last_success": {
-    "affiliate": "2026-11-10T16:50:18.127Z",
-    "audit": "2026-11-10T16:54:03.242Z",
-    "coupons": "2026-11-10T16:38:30.633Z",
-    "curate": "2026-11-10T16:53:16.223Z",
-    "discover": "2026-11-10T16:53:15.419Z",
-    "export": "2026-11-10T16:50:31.425Z",
-    "publish-telegram": "2026-11-10T16:33:00.741Z",
-    "refresh": "2026-11-10T16:54:03.237Z"
+    "affiliate": "2026-11-10T21:05:56.775Z",
+    "audit": "2026-11-10T22:14:49.155Z",
+    "coupons": "2026-11-10T22:08:46.642Z",
+    "curate": "2026-11-10T22:14:10.936Z",
+    "discover": "2026-11-10T22:14:09.237Z",
+    "export": "2026-11-10T22:13:32.707Z",
+    "publish-telegram": "2026-11-10T22:08:42.665Z",
+    "refresh": "2026-11-10T22:14:49.734Z"
   },
   "last_run": {
     "affiliate": {
-      "at": "2026-11-10T16:54:31.323Z",
-      "status": "empty"
+      "at": "2026-11-10T22:16:11.236Z",
+      "status": "skipped"
     },
     "audit": {
-      "at": "2026-11-10T16:55:29.124Z",
+      "at": "2026-11-10T22:16:11.738Z",
       "status": "success"
     },
     "coupons": {
-      "at": "2026-11-10T16:38:30.633Z",
+      "at": "2026-11-10T22:08:46.642Z",
       "status": "success"
     },
     "curate": {
-      "at": "2026-11-10T16:55:28.613Z",
+      "at": "2026-11-10T22:16:23.210Z",
       "status": "success"
     },
     "discover": {
-      "at": "2026-11-10T16:54:31.223Z",
-      "status": "failed"
+      "at": "2026-11-10T22:16:13.424Z",
+      "status": "success"
     },
     "export": {
-      "at": "2026-11-10T16:50:31.425Z",
+      "at": "2026-11-10T22:13:32.707Z",
       "status": "success"
     },
     "publish-telegram": {
-      "at": "2026-11-10T16:43:53.070Z",
-      "status": "empty"
+      "at": "2026-11-10T22:08:42.665Z",
+      "status": "success"
     },
     "refresh": {
-      "at": "2026-11-10T16:55:28.240Z",
+      "at": "2026-11-10T22:16:37.742Z",
       "status": "success"
     }
   },
   "throughput_per_hour": {
-    "affiliate": 15,
-    "audit": 873,
+    "audit": 779,
     "coupons": 3,
     "curate": 59,
-    "discover": 58,
-    "export": 3,
-    "publish-telegram": 2,
-    "refresh": 3558
+    "discover": 53,
+    "export": 2,
+    "publish-telegram": 3,
+    "refresh": 3542
   }
 }

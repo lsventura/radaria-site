@@ -1,0 +1,1 @@
+import{i as a}from"./text.-6PAWG3F.js";const e="radaria:saved:v1";function n(){try{const r=JSON.parse(localStorage.getItem(e)??"[]");return Array.isArray(r)?r.filter(t=>t&&typeof t.slug=="string"&&a(t.slug)&&typeof t.title=="string").slice(0,200):[]}catch{return[]}}function i(r){try{return localStorage.setItem(e,JSON.stringify(r)),!0}catch{return!1}}export{n as r,i as w};

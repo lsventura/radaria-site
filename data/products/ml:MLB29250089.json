@@ -1,0 +1,88 @@
+{
+  "id": "ml:MLB29250089",
+  "slug": "4-disco-h31-p-maquina-corte-cortar-tecido-rgt-pluscort-3-5-mlb29250089",
+  "title": "4 Disco H31 P/ Máquina Corte Cortar Tecido Rgt Pluscort 3,5",
+  "brand": null,
+  "model": null,
+  "category_slug": "arte-e-artesanato-1",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_901921-MLA99446575740_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB3576142781",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "436174731",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 167.31,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/23GAyGx",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T18:32:41.991Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4352726376",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "436174731",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 179,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/23GAyGx",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T18:32:41.991Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 167.31,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 167.31,
+      "observations": 8
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 167.31,
+      "observations": 6
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 167.31,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 167.31,
+    "min_ever": 167.31,
+    "min_ever_at": "2026-11-06",
+    "distinct_days": 4,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

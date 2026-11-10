@@ -18,14 +18,33 @@
         "name": null,
         "reputation": "5_green"
       },
-      "price": 218.25,
+      "price": 234.54,
       "currency": "BRL",
       "store_reference_price": 325.76,
       "free_shipping": true,
       "available": true,
       "url": "https://meli.la/2chPDKt",
       "affiliate": true,
-      "last_observed_at": "2026-11-10T14:54:50.832Z",
+      "last_observed_at": "2026-11-10T18:56:30.579Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5205083093",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3675802540",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 199.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2chPDKt",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T18:56:30.579Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -34,29 +53,29 @@
   "history": [
     {
       "date": "2026-11-08",
-      "min_price": 218.25,
-      "observations": 4
+      "min_price": 199.99,
+      "observations": 8
     },
     {
       "date": "2026-11-09",
-      "min_price": 218.25,
-      "observations": 4
+      "min_price": 199.99,
+      "observations": 8
     },
     {
       "date": "2026-11-10",
-      "min_price": 218.25,
-      "observations": 3
+      "min_price": 199.99,
+      "observations": 5
     },
     {
       "date": "2026-11-07",
-      "min_price": 325.76,
-      "observations": 1
+      "min_price": 199.99,
+      "observations": 2
     }
   ],
   "stats": {
-    "median_90d": 218.25,
-    "min_ever": 218.25,
-    "min_ever_at": "2026-11-08",
+    "median_90d": 199.99,
+    "min_ever": 199.99,
+    "min_ever_at": "2026-11-07",
     "distinct_days": 4,
     "window_days": 14
   },
@@ -65,5 +84,5 @@
     "pct_below_median": 0,
     "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
   },
-  "score": 64
+  "score": 60
 }

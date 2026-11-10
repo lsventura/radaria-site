@@ -25,7 +25,7 @@
       "available": true,
       "url": "https://meli.la/1LMQRHp",
       "affiliate": true,
-      "last_observed_at": "2026-11-10T13:44:37.314Z",
+      "last_observed_at": "2026-11-10T21:36:20.794Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -44,7 +44,7 @@
       "available": true,
       "url": "https://meli.la/1LMQRHp",
       "affiliate": true,
-      "last_observed_at": "2026-11-10T13:44:37.314Z",
+      "last_observed_at": "2026-11-10T21:36:20.794Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -63,7 +63,7 @@
       "available": true,
       "url": "https://meli.la/1LMQRHp",
       "affiliate": true,
-      "last_observed_at": "2026-11-10T13:44:37.314Z",
+      "last_observed_at": "2026-11-10T21:36:20.794Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -75,14 +75,14 @@
         "name": null,
         "reputation": "5_green"
       },
-      "price": 702.26,
+      "price": 664.94,
       "currency": "BRL",
       "store_reference_price": null,
       "free_shipping": true,
       "available": true,
       "url": "https://meli.la/1LMQRHp",
       "affiliate": true,
-      "last_observed_at": "2026-11-10T13:44:37.314Z",
+      "last_observed_at": "2026-11-10T21:36:20.794Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -101,8 +101,8 @@
     },
     {
       "date": "2026-11-10",
-      "min_price": 673.08,
-      "observations": 8
+      "min_price": 664.94,
+      "observations": 10
     },
     {
       "date": "2026-11-06",
@@ -111,16 +111,16 @@
     }
   ],
   "stats": {
-    "median_90d": 678.94,
-    "min_ever": 672.36,
-    "min_ever_at": "2026-11-09",
+    "median_90d": 678.58,
+    "min_ever": 664.94,
+    "min_ever_at": "2026-11-10",
     "distinct_days": 4,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": -3.4,
+    "pct_below_median": 2,
     "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
   },
-  "score": 60
+  "score": 64
 }

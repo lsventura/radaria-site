@@ -18,14 +18,14 @@
         "name": null,
         "reputation": null
       },
-      "price": 586.32,
+      "price": 531,
       "currency": "BRL",
       "store_reference_price": 671.83,
       "free_shipping": true,
       "available": true,
       "url": "https://meli.la/2mXSSHr",
       "affiliate": true,
-      "last_observed_at": "2026-11-10T16:24:39.923Z",
+      "last_observed_at": "2026-11-10T20:21:42.096Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -44,7 +44,7 @@
       "available": true,
       "url": "https://meli.la/2mXSSHr",
       "affiliate": true,
-      "last_observed_at": "2026-11-10T16:24:39.923Z",
+      "last_observed_at": "2026-11-10T20:21:42.096Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -63,7 +63,7 @@
       "available": true,
       "url": "https://meli.la/2mXSSHr",
       "affiliate": true,
-      "last_observed_at": "2026-11-10T16:24:39.923Z",
+      "last_observed_at": "2026-11-10T20:21:42.096Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -75,14 +75,14 @@
         "name": null,
         "reputation": null
       },
-      "price": 615.64,
+      "price": 589.9,
       "currency": "BRL",
       "store_reference_price": 671.83,
       "free_shipping": true,
       "available": true,
       "url": "https://meli.la/2mXSSHr",
       "affiliate": true,
-      "last_observed_at": "2026-11-10T16:24:39.923Z",
+      "last_observed_at": "2026-11-10T20:21:42.096Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -101,8 +101,8 @@
     },
     {
       "date": "2026-11-10",
-      "min_price": 537.46,
-      "observations": 12
+      "min_price": 531,
+      "observations": 14
     },
     {
       "date": "2026-11-07",
@@ -112,14 +112,14 @@
   ],
   "stats": {
     "median_90d": 537.46,
-    "min_ever": 537.46,
-    "min_ever_at": "2026-11-07",
+    "min_ever": 531,
+    "min_ever_at": "2026-11-10",
     "distinct_days": 4,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 0,
+    "pct_below_median": 1.2,
     "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
   },
   "score": 64

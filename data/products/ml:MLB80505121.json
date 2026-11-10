@@ -1,0 +1,64 @@
+{
+  "id": "ml:MLB80505121",
+  "slug": "banco-supino-regulavel-winnek-com-4-posicoes-de-inclinacao-a-preto-mlb80505121",
+  "title": "Banco Supino Regulável Winnek Com 4 Posições De Inclinação A Preto",
+  "brand": null,
+  "model": null,
+  "category_slug": "fitness-8",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_981371-MLA120531887265_102026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB5472202989",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1056917588",
+        "name": null,
+        "reputation": null
+      },
+      "price": 433,
+      "currency": "BRL",
+      "store_reference_price": 1000,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1XBzgZF",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T19:50:54.394Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 433,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 433,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 433,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 433,
+    "min_ever": 433,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

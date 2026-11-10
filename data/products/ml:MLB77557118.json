@@ -18,14 +18,14 @@
         "name": null,
         "reputation": null
       },
-      "price": 115.32,
+      "price": 111.86,
       "currency": "BRL",
       "store_reference_price": 135.68,
       "free_shipping": true,
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB77557118",
       "affiliate": false,
-      "last_observed_at": "2026-11-10T16:00:39.422Z",
+      "last_observed_at": "2026-11-10T19:57:15.580Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -44,8 +44,8 @@
     },
     {
       "date": "2026-11-10",
-      "min_price": 115.32,
-      "observations": 3
+      "min_price": 111.86,
+      "observations": 4
     },
     {
       "date": "2026-11-07",
@@ -55,15 +55,15 @@
   ],
   "stats": {
     "median_90d": 115.32,
-    "min_ever": 115.32,
-    "min_ever_at": "2026-11-07",
+    "min_ever": 111.86,
+    "min_ever_at": "2026-11-10",
     "distinct_days": 4,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 0,
+    "pct_below_median": 3,
     "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
   },
-  "score": 64
+  "score": 60
 }

@@ -1,0 +1,88 @@
+{
+  "id": "ml:MLB26479099",
+  "slug": "rede-volei-1-faixa-fio-de-seda-master-rede-mlb26479099",
+  "title": "Rede Vôlei 1 Faixa Fio de Seda Master Rede",
+  "brand": null,
+  "model": null,
+  "category_slug": "esportes-13",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_602379-MLA107368667703_022026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB6171196172",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "183298462",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 129.81,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2nvq2KJ",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T18:20:42.581Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB3449888093",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "668831998",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 124.95,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2nvq2KJ",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T18:20:42.581Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 124.95,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 124.95,
+      "observations": 8
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 124.95,
+      "observations": 6
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 124.95,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 124.95,
+    "min_ever": 124.95,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 4,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

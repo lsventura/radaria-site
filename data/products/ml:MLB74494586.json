@@ -18,14 +18,14 @@
         "name": null,
         "reputation": "5_green"
       },
-      "price": 249.99,
+      "price": 241.99,
       "currency": "BRL",
       "store_reference_price": 309,
       "free_shipping": true,
       "available": true,
       "url": "https://meli.la/2jAaN9Y",
       "affiliate": true,
-      "last_observed_at": "2026-11-10T13:48:38.107Z",
+      "last_observed_at": "2026-11-10T21:39:20.678Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -44,8 +44,8 @@
     },
     {
       "date": "2026-11-10",
-      "min_price": 249.99,
-      "observations": 2
+      "min_price": 241.99,
+      "observations": 3
     },
     {
       "date": "2026-11-07",
@@ -55,15 +55,15 @@
   ],
   "stats": {
     "median_90d": 249.99,
-    "min_ever": 249.99,
-    "min_ever_at": "2026-11-08",
+    "min_ever": 241.99,
+    "min_ever_at": "2026-11-10",
     "distinct_days": 4,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 0,
+    "pct_below_median": 3.2,
     "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
   },
-  "score": 60
+  "score": 64
 }

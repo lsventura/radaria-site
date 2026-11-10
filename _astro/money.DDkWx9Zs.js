@@ -1,1 +1,0 @@
-const r=new Intl.NumberFormat("pt-BR",{style:"currency",currency:"BRL"}),n=new Intl.NumberFormat("pt-BR",{minimumFractionDigits:1,maximumFractionDigits:1}),o=new Intl.NumberFormat("pt-BR");function m(t){return t==null||!Number.isFinite(t)?"preço não lido":r.format(t)}function i(t){return`${n.format(t)}%`}function e(t){return o.format(t)}export{i as a,e as b,m as f};

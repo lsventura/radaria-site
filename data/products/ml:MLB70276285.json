@@ -1,0 +1,69 @@
+{
+  "id": "ml:MLB70276285",
+  "slug": "multimetro-automotivo-garra-indutiva-sensor-temperatura-mlb70276285",
+  "title": "Multimetro Automotivo + Garra Indutiva + Sensor Temperatura",
+  "brand": null,
+  "model": null,
+  "category_slug": "casa-inteligente-13",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_617946-MLA112259824667_052026-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4713852735",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "395150352",
+        "name": null,
+        "reputation": null
+      },
+      "price": 474.49,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/1hwimQ1",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T21:14:20.685Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 474.49,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 474.49,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 474.49,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 474.49,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 474.49,
+    "min_ever": 474.49,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 4,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}
