@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T02:38:35.723Z",
+  "generated_at": "2026-11-11T18:30:44.513Z",
   "timezone": "America/Sao_Paulo",
   "series": [
     {
@@ -75,6 +75,31 @@
         "published": 4905,
         "with_affiliate": 6410,
         "with_photo": 50276
+      }
+    },
+    {
+      "date": "2026-11-11",
+      "version": "v2",
+      "stages": {
+        "audited_approved": 4553,
+        "discovered": 54976,
+        "distinct": 53320,
+        "published": 1855,
+        "with_affiliate": 1860,
+        "with_photo": 53304
+      }
+    },
+    {
+      "date": "2026-11-11",
+      "version": "v3",
+      "stages": {
+        "audited_approved": 13743,
+        "discovered": 105341,
+        "distinct": 50777,
+        "fresh_history_24h": 0,
+        "published": 0,
+        "with_affiliate": 8860,
+        "with_photo": 50545
       }
     }
   ]

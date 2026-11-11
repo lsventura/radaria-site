@@ -9,9 +9,14 @@
     "https://http2.mlstatic.com/D_NQ_NP_628253-MLA99474075720_112025-F.jpg"
   ],
   "attributes": {},
+  "catalog_link": null,
   "offers": [
     {
       "offer_id": "ml:MLB4484208605",
+      "condition": "new",
+      "category_slug": "casa-inteligente-10",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "729113632",
@@ -21,11 +26,13 @@
       "price": 1390,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/316xjx9",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T02:25:46.912Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB56179811",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T18:07:49.034Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -35,21 +42,31 @@
     {
       "date": "2026-11-08",
       "min_price": 1390,
+      "max_price": 1390,
       "observations": 1
     },
     {
       "date": "2026-11-09",
       "min_price": 1390,
+      "max_price": 1390,
       "observations": 4
     },
     {
       "date": "2026-11-10",
       "min_price": 1390,
+      "max_price": 1390,
       "observations": 3
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 1390,
+      "max_price": 1390,
+      "observations": 1
     },
     {
       "date": "2026-11-07",
       "min_price": 1390,
+      "max_price": 1390,
       "observations": 1
     }
   ],
@@ -57,13 +74,14 @@
     "median_90d": 1390,
     "min_ever": 1390,
     "min_ever_at": "2026-11-07",
-    "distinct_days": 4,
+    "max_ever": 1390,
+    "distinct_days": 5,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
   },
   "score": 64
 }

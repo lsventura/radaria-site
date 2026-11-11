@@ -1,0 +1,112 @@
+{
+  "id": "ml:MLB51869542",
+  "slug": "cabo-instrumento-p10-5m-rean-revolution-datalink-mlb51869542",
+  "title": "Cabo Instrumento P10 5m Rean Revolution Datalink",
+  "brand": null,
+  "model": null,
+  "category_slug": "instrumentos-musicais-13",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_668972-MLA99448904272_112025-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB6796246564",
+      "condition": "new",
+      "category_slug": "instrumentos-musicais-13",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "25792594",
+        "name": null,
+        "reputation": null
+      },
+      "price": 119,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB51869542",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:52:42.908Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5504044426",
+      "condition": "new",
+      "category_slug": "instrumentos-musicais-13",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2341340993",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 169.42,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB51869542",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:52:42.908Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 119,
+      "max_price": 169.42,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 119,
+      "max_price": 169.42,
+      "observations": 8
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 119,
+      "max_price": 169.42,
+      "observations": 6
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 119,
+      "max_price": 169.42,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 119,
+      "max_price": 169.42,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 119,
+    "min_ever": 119,
+    "min_ever_at": "2026-11-07",
+    "max_ever": 169.42,
+    "distinct_days": 5,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
+  },
+  "score": 35
+}

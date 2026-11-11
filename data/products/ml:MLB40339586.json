@@ -1,0 +1,162 @@
+{
+  "id": "ml:MLB40339586",
+  "slug": "caixa-transporte-cachorros-shitzu-gatos-coelhos-panther-n-2-cor-rosa-mlb40339586",
+  "title": "Caixa Transporte Cachorros Shitzu Gatos Coelhos Panther Nº2 Cor Rosa",
+  "brand": null,
+  "model": null,
+  "category_slug": "pets-6",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_800310-MLA99995665033_112025-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB4286735143",
+      "condition": "new",
+      "category_slug": "pets-6",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1091970961",
+        "name": null,
+        "reputation": null
+      },
+      "price": 62,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB40339586",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T14:38:33.316Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5210975405",
+      "condition": "new",
+      "category_slug": "pets-6",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3415904946",
+        "name": null,
+        "reputation": null
+      },
+      "price": 40,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB40339586",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T14:38:33.316Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5477536063",
+      "condition": "new",
+      "category_slug": "pets-6",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1180435450",
+        "name": null,
+        "reputation": null
+      },
+      "price": 182.52,
+      "currency": "BRL",
+      "store_reference_price": 202.8,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB40339586",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T14:38:33.316Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4286748077",
+      "condition": "new",
+      "category_slug": "pets-6",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1091970961",
+        "name": null,
+        "reputation": null
+      },
+      "price": 65,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB40339586",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T14:38:33.316Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 40,
+      "max_price": 182.52,
+      "observations": 16
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 40,
+      "max_price": 182.52,
+      "observations": 16
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 40,
+      "max_price": 182.52,
+      "observations": 12
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 40,
+      "max_price": 182.52,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 40,
+      "max_price": 182.52,
+      "observations": 4
+    }
+  ],
+  "stats": {
+    "median_90d": 40,
+    "min_ever": 40,
+    "min_ever_at": "2026-11-07",
+    "max_ever": 182.52,
+    "distinct_days": 5,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
+  },
+  "score": 35
+}

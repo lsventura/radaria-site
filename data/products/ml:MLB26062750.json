@@ -9,9 +9,14 @@
     "https://http2.mlstatic.com/D_NQ_NP_962485-MLA99549584248_122025-F.jpg"
   ],
   "attributes": {},
+  "catalog_link": null,
   "offers": [
     {
       "offer_id": "ml:MLB7721662092",
+      "condition": "new",
+      "category_slug": "instrumentos-musicais-13",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "194740835",
@@ -21,16 +26,22 @@
       "price": 91.56,
       "currency": "BRL",
       "store_reference_price": 109,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/2UDuvan",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T02:27:47.519Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB26062750",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T18:09:47.537Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB4266166651",
+      "condition": "new",
+      "category_slug": "instrumentos-musicais-13",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "194740835",
@@ -40,11 +51,13 @@
       "price": 90.48,
       "currency": "BRL",
       "store_reference_price": 104,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/2UDuvan",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T02:27:47.519Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB26062750",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T18:09:47.537Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -54,30 +67,40 @@
     {
       "date": "2026-11-08",
       "min_price": 90.48,
+      "max_price": 94.83,
       "observations": 6
     },
     {
       "date": "2026-11-09",
       "min_price": 90.48,
+      "max_price": 91.56,
       "observations": 10
     },
     {
       "date": "2026-11-10",
       "min_price": 90.48,
+      "max_price": 91.56,
       "observations": 6
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 90.48,
+      "max_price": 91.56,
+      "observations": 2
     }
   ],
   "stats": {
     "median_90d": 90.48,
     "min_ever": 90.48,
     "min_ever_at": "2026-11-08",
-    "distinct_days": 3,
+    "max_ever": 94.83,
+    "distinct_days": 4,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
   },
   "score": 64
 }

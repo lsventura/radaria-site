@@ -9,47 +9,64 @@
     "https://http2.mlstatic.com/D_NQ_NP_841357-MLA99896558905_112025-F.jpg"
   ],
   "attributes": {},
+  "catalog_link": null,
   "offers": [
     {
       "offer_id": "ml:MLB5176187020",
+      "condition": "new",
+      "category_slug": "arte-e-artesanato-5",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "1114901508",
         "name": null,
         "reputation": null
       },
-      "price": 130.9,
+      "price": 107,
       "currency": "BRL",
-      "store_reference_price": null,
+      "store_reference_price": 130.9,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/1qPqyna",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T02:16:45.210Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB35437742",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:58:46.936Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB4143225435",
+      "condition": "new",
+      "category_slug": "arte-e-artesanato-5",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "161678522",
         "name": null,
         "reputation": null
       },
-      "price": 139.9,
+      "price": 107.29,
       "currency": "BRL",
-      "store_reference_price": null,
+      "store_reference_price": 139.9,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/1qPqyna",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T02:16:45.210Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB35437742",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:58:46.936Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB5531990940",
+      "condition": "new",
+      "category_slug": "arte-e-artesanato-5",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "161678522",
@@ -59,11 +76,13 @@
       "price": 139.95,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/1qPqyna",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T02:16:45.210Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB35437742",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:58:46.936Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -73,21 +92,31 @@
     {
       "date": "2026-11-08",
       "min_price": 130.9,
+      "max_price": 139.95,
       "observations": 6
     },
     {
       "date": "2026-11-09",
       "min_price": 130.9,
+      "max_price": 139.95,
       "observations": 12
     },
     {
       "date": "2026-11-10",
       "min_price": 107,
+      "max_price": 139.95,
       "observations": 10
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 107,
+      "max_price": 139.95,
+      "observations": 3
     },
     {
       "date": "2026-11-07",
       "min_price": 130.9,
+      "max_price": 139.95,
       "observations": 3
     }
   ],
@@ -95,13 +124,14 @@
     "median_90d": 130.9,
     "min_ever": 107,
     "min_ever_at": "2026-11-10",
-    "distinct_days": 4,
+    "max_ever": 139.95,
+    "distinct_days": 5,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 0,
-    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+    "pct_below_median": 18.3,
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
   },
   "score": 64
 }

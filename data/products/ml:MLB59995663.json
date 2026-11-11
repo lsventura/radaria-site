@@ -1,0 +1,81 @@
+{
+  "id": "ml:MLB59995663",
+  "slug": "cabo-de-carregamento-insmy-type-c-23-6-pol-cabo-usb-a-para-usb-c-mlb59995663",
+  "title": "Cabo de carregamento Insmy Type-C, 23,6 pol. Cabo USB A para Usb C",
+  "brand": null,
+  "model": null,
+  "category_slug": "celulares-15",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_821901-MLA94889395269_102025-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB4679623557",
+      "condition": "new",
+      "category_slug": "celulares-15",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3055993094",
+        "name": null,
+        "reputation": null
+      },
+      "price": 40,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB59995663",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T18:27:46.327Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 40,
+      "max_price": 40,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 40,
+      "max_price": 40,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 40,
+      "max_price": 40,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 40,
+      "max_price": 40,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 40,
+    "min_ever": 40,
+    "min_ever_at": "2026-11-08",
+    "max_ever": 40,
+    "distinct_days": 4,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+  },
+  "score": 39
+}

@@ -1,0 +1,142 @@
+{
+  "id": "ml:MLB63355099",
+  "slug": "kit-creamy-skincare-4-produtos-mlb63355099",
+  "title": "Kit Creamy Skincare (4 Produtos)",
+  "brand": "Creamy",
+  "model": null,
+  "category_slug": "geral",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_932582-MLA101921627245_122025-F.jpg"
+  ],
+  "attributes": {
+    "SPF": "60",
+    "GTIN": "7795001491713, 7792256757434",
+    "NAME": "Kit Creamy Skincare Vitamina C Mandélico Hidratante Reparador Protetor Facial FPS60 (4 produtos)",
+    "BRAND": "Creamy",
+    "IS_VEGAN": "Sim",
+    "FUNCTIONS": "Antioxidante, Hidratante",
+    "SKIN_TYPE": "Todo tipo de pele",
+    "SALE_FORMAT": "Pack",
+    "UNITS_PER_PACK": "4",
+    "IS_CRUELTY_FREE": "Sim",
+    "IS_PARABENS_FREE": "Não",
+    "APPLICATION_MOMENT": "Dia/Noite",
+    "WITH_SUN_PROTECTION": "Sim",
+    "INGREDIENT_PREFERENCES": "Vitamina C, Ácido mandélico",
+    "IS_HYPOALLERGENIC_PRODUCT": "Não",
+    "IS_DERMATOLOGICALLY_TESTED": "Não"
+  },
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB6704893702",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2616311497",
+        "name": null,
+        "reputation": null
+      },
+      "price": 364.59,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB63355099",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T18:22:35.713Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5289071137",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "270015538",
+        "name": null,
+        "reputation": null
+      },
+      "price": 399,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB63355099",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T18:22:35.713Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5318161221",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "588984291",
+        "name": null,
+        "reputation": null
+      },
+      "price": 385,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB63355099",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T18:22:35.713Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-09",
+      "min_price": 364.59,
+      "max_price": 399,
+      "observations": 63
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 364.59,
+      "max_price": 399,
+      "observations": 60
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 364.59,
+      "max_price": 399,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 364.59,
+    "min_ever": 364.59,
+    "min_ever_at": "2026-11-09",
+    "max_ever": 399,
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 47
+}

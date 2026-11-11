@@ -9,9 +9,39 @@
     "https://http2.mlstatic.com/D_NQ_NP_888907-MLA115631182720_092026-F.jpg"
   ],
   "attributes": {},
+  "catalog_link": null,
   "offers": [
     {
+      "offer_id": "ml:MLB5465936799",
+      "condition": "new",
+      "category_slug": "acessorios-e-wearables-5",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1405487044",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1149,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB78820240",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:45:43.543Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
       "offer_id": "ml:MLB7731795082",
+      "condition": "new",
+      "category_slug": "acessorios-e-wearables-5",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "3490380840",
@@ -21,16 +51,22 @@
       "price": 1297.19,
       "currency": "BRL",
       "store_reference_price": 1379.99,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/2gVoQgj",
-      "affiliate": true,
-      "last_observed_at": "2026-11-10T23:58:16.342Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB78820240",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:45:43.543Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB7824355826",
+      "condition": "new",
+      "category_slug": "acessorios-e-wearables-5",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "224418491",
@@ -40,16 +76,47 @@
       "price": 2800,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/2gVoQgj",
-      "affiliate": true,
-      "last_observed_at": "2026-11-10T23:58:16.342Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB78820240",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:45:43.543Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7635155760",
+      "condition": "new",
+      "category_slug": "acessorios-e-wearables-5",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1177761581",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1321,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB78820240",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:45:43.543Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB7731795048",
+      "condition": "new",
+      "category_slug": "acessorios-e-wearables-5",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "3490380840",
@@ -59,11 +126,13 @@
       "price": 1362.99,
       "currency": "BRL",
       "store_reference_price": 1449.99,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/2gVoQgj",
-      "affiliate": true,
-      "last_observed_at": "2026-11-10T23:58:16.342Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB78820240",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:45:43.543Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -72,31 +141,41 @@
   "history": [
     {
       "date": "2026-11-08",
-      "min_price": 1297.19,
-      "observations": 3
+      "min_price": 1149,
+      "max_price": 2800,
+      "observations": 5
     },
     {
       "date": "2026-11-09",
-      "min_price": 1297.19,
-      "observations": 12
+      "min_price": 1149,
+      "max_price": 2800,
+      "observations": 20
     },
     {
       "date": "2026-11-10",
-      "min_price": 1297.19,
-      "observations": 9
+      "min_price": 1149,
+      "max_price": 2800,
+      "observations": 15
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 1149,
+      "max_price": 2800,
+      "observations": 6
     }
   ],
   "stats": {
-    "median_90d": 1297.19,
-    "min_ever": 1297.19,
+    "median_90d": 1149,
+    "min_ever": 1149,
     "min_ever_at": "2026-11-08",
-    "distinct_days": 3,
+    "max_ever": 2800,
+    "distinct_days": 4,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
   },
-  "score": 60
+  "score": 43
 }

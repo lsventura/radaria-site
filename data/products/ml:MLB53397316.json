@@ -1,0 +1,118 @@
+{
+  "id": "ml:MLB53397316",
+  "slug": "teclado-razer-huntsman-mini-mlb53397316",
+  "title": "Teclado Razer Huntsman Mini",
+  "brand": "Razer",
+  "model": null,
+  "category_slug": "perifericos",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_685472-MLA99519909552_112025-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB6460319524",
+      "condition": "new",
+      "category_slug": "perifericos",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "545884461",
+        "name": null,
+        "reputation": null
+      },
+      "price": 847.97,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB53397316",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T18:17:46.750Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7771383496",
+      "condition": "new",
+      "category_slug": "perifericos",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "707433837",
+        "name": null,
+        "reputation": null
+      },
+      "price": 890,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB53397316",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T18:17:46.750Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 847.97,
+      "max_price": 890,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 847.97,
+      "max_price": 890,
+      "observations": 8
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 847.97,
+      "max_price": 890,
+      "observations": 6
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 847.97,
+      "max_price": 890,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-05",
+      "min_price": 847.97,
+      "max_price": 890,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 847.97,
+      "max_price": 890,
+      "observations": 5
+    }
+  ],
+  "stats": {
+    "median_90d": 847.97,
+    "min_ever": 847.97,
+    "min_ever_at": "2026-11-05",
+    "max_ever": 890,
+    "distinct_days": 6,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 6 de 7 dias distintos na janela de 14."
+  },
+  "score": 47
+}

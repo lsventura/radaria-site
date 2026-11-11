@@ -1,0 +1,106 @@
+{
+  "id": "ml:MLB23924219",
+  "slug": "caderno-universitario-smart-all-black-dac-mlb23924219",
+  "title": "Caderno Universitario Smart All Black - Dac",
+  "brand": null,
+  "model": null,
+  "category_slug": "livros-e-papelaria-17",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_907041-MLA96507027815_102025-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB4189284985",
+      "condition": "new",
+      "category_slug": "livros-e-papelaria-17",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1689856523",
+        "name": null,
+        "reputation": null
+      },
+      "price": 76.84,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB23924219",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:47:43.239Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4505962641",
+      "condition": "new",
+      "category_slug": "livros-e-papelaria-17",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "296719557",
+        "name": null,
+        "reputation": null
+      },
+      "price": 76.84,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB23924219",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:47:43.239Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 76.84,
+      "max_price": 76.84,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 76.84,
+      "max_price": 76.84,
+      "observations": 8
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 76.84,
+      "max_price": 76.84,
+      "observations": 6
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 76.84,
+      "max_price": 76.84,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 76.84,
+    "min_ever": 76.84,
+    "min_ever_at": "2026-11-08",
+    "max_ever": 76.84,
+    "distinct_days": 4,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

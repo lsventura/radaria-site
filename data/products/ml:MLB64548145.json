@@ -1,0 +1,118 @@
+{
+  "id": "ml:MLB64548145",
+  "slug": "caneca-xicara-presente-dia-das-maes-mod7-mlb64548145",
+  "title": "Caneca Xícara Presente Dia Das Mães Mod7",
+  "brand": null,
+  "model": "Desconhecido",
+  "category_slug": "geral",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_880569-MLA104704084838_012026-F.jpg"
+  ],
+  "attributes": {
+    "GTIN": "7797595971084",
+    "COLOR": "Multicolorido",
+    "MODEL": "Desconhecido",
+    "HEIGHT": "9.5 cm",
+    "IS_SET": "Não",
+    "DIAMETER": "8 cm",
+    "MATERIAL": "Cerâmica",
+    "CHARACTER": "DIA DAS MÃES 2025",
+    "SALE_FORMAT": "Unidade",
+    "MANUFACTURER": "St Canecaria Divertida",
+    "PACKS_NUMBER": "1",
+    "UNITS_PER_PACK": "1",
+    "VOLUME_CAPACITY": "325 mL",
+    "IS_MICROWAVE_SAFE": "Sim",
+    "IS_DISHWASHER_SAFE": "Sim",
+    "IS_THERMOSENSITIVE": "Não",
+    "ACCESSORIES_INCLUDED": "Não"
+  },
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB5316440355",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "332653842",
+        "name": null,
+        "reputation": null
+      },
+      "price": 32,
+      "currency": "BRL",
+      "store_reference_price": 32.99,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB64548145",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T18:26:40.710Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6182337962",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2304712443",
+        "name": null,
+        "reputation": null
+      },
+      "price": 30.06,
+      "currency": "BRL",
+      "store_reference_price": 30.99,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB64548145",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T18:26:40.710Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-09",
+      "min_price": 30.06,
+      "max_price": 32,
+      "observations": 42
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 30.06,
+      "max_price": 32,
+      "observations": 40
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 30.06,
+      "max_price": 32,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 30.06,
+    "min_ever": 30.06,
+    "min_ever_at": "2026-11-09",
+    "max_ever": 32,
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 39
+}

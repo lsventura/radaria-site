@@ -1,0 +1,111 @@
+{
+  "id": "ml:MLB45389938",
+  "slug": "pisca-pisca-fio-verde-500cm-e-100-led-azul-mlb45389938",
+  "title": "Pisca Pisca Fio Verde 500cm E 100 Led Azul",
+  "brand": "Cromus",
+  "model": null,
+  "category_slug": "geral",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_805139-MLA96676794849_102025-F.jpg"
+  ],
+  "attributes": {
+    "GTIN": "7899613332799",
+    "BRAND": "Cromus",
+    "LENGTH": "5 m",
+    "LIGHT_TYPE": "LED",
+    "CABLE_COLOR": "Verde",
+    "LIGHTS_COLOR": "Azul",
+    "LIGHTS_NUMBER": "100",
+    "FUNCTIONS_NUMBER": "8",
+    "WITH_CONTROL_BOX": "Não",
+    "PRESENTATION_TYPE": "Cordão"
+  },
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB3949467985",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1224036976",
+        "name": null,
+        "reputation": null
+      },
+      "price": 67.36,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB45389938",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:50:05.034Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5428937428",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1224036976",
+        "name": null,
+        "reputation": null
+      },
+      "price": 59.96,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB45389938",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:50:05.034Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-09",
+      "min_price": 59.96,
+      "max_price": 67.36,
+      "observations": 38
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 59.96,
+      "max_price": 67.36,
+      "observations": 40
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 59.96,
+      "max_price": 67.36,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 59.96,
+    "min_ever": 59.96,
+    "min_ever_at": "2026-11-09",
+    "max_ever": 67.36,
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

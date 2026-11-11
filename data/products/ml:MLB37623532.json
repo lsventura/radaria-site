@@ -1,0 +1,147 @@
+{
+  "id": "ml:MLB37623532",
+  "slug": "cesto-triplo-aramado-expositor-de-lojas-banca-de-ofertas-mlb37623532",
+  "title": "Cesto Triplo Aramado Expositor De Lojas Banca De Ofertas",
+  "brand": "MDL",
+  "model": "CESTO 3",
+  "category_slug": "geral",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_723116-MLA95935183357_102025-F.jpg"
+  ],
+  "attributes": {
+    "GTIN": "7890010029671",
+    "BRAND": "MDL",
+    "MODEL": "CESTO 3",
+    "WIDTH": "50 cm",
+    "HEIGHT": "142 cm",
+    "LENGTH": "70 cm",
+    "MATERIAL": "Aço",
+    "UNITS_PER_PACK": "3"
+  },
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB5444388195",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "506176073",
+        "name": null,
+        "reputation": null
+      },
+      "price": 408,
+      "currency": "BRL",
+      "store_reference_price": 494.73,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB37623532",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:49:22.113Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5096438711",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3625771907",
+        "name": null,
+        "reputation": null
+      },
+      "price": 499,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB37623532",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:49:22.113Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB3905305129",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "46195764",
+        "name": null,
+        "reputation": null
+      },
+      "price": 580.24,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB37623532",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:49:22.113Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4229104495",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "506176073",
+        "name": null,
+        "reputation": null
+      },
+      "price": 423,
+      "currency": "BRL",
+      "store_reference_price": 459.98,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB37623532",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:49:22.113Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-11",
+      "min_price": 408,
+      "max_price": 580.24,
+      "observations": 4
+    }
+  ],
+  "stats": {
+    "median_90d": 408,
+    "min_ever": 408,
+    "min_ever_at": "2026-11-11",
+    "max_ever": 580.24,
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 47
+}

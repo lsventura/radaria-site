@@ -1,0 +1,112 @@
+{
+  "id": "ml:MLB39408626",
+  "slug": "boneco-colecionavel-dragon-ball-super-anime-mlb39408626",
+  "title": "Boneco Colecionável Dragon Ball Super Anime",
+  "brand": null,
+  "model": null,
+  "category_slug": "brinquedos-3",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_907307-MLA99988624257_112025-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB7069691990",
+      "condition": "new",
+      "category_slug": "brinquedos-3",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "52843414",
+        "name": null,
+        "reputation": null
+      },
+      "price": 300,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB39408626",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:28:43.334Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5213678968",
+      "condition": "new",
+      "category_slug": "brinquedos-3",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "267880439",
+        "name": null,
+        "reputation": null
+      },
+      "price": 70,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB39408626",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:28:43.334Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 70,
+      "max_price": 300,
+      "observations": 6
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 70,
+      "max_price": 300,
+      "observations": 8
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 70,
+      "max_price": 300,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 70,
+      "max_price": 300,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 70,
+      "max_price": 300,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 70,
+    "min_ever": 70,
+    "min_ever_at": "2026-11-07",
+    "max_ever": 300,
+    "distinct_days": 5,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
+  },
+  "score": 39
+}

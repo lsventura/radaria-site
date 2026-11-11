@@ -1,0 +1,137 @@
+{
+  "id": "ml:MLB73603102",
+  "slug": "tesoura-poda-jardim-jardinagem-mola-extra-profissional-2-unidade-mlb73603102",
+  "title": "Tesoura Poda Jardim Jardinagem Mola Extra Profissional 2 Unidade",
+  "brand": null,
+  "model": null,
+  "category_slug": "jardim-e-piscina-9",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_773164-MLA113209193629_062026-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB5245398661",
+      "condition": "new",
+      "category_slug": "jardim-e-piscina-9",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2369013863",
+        "name": null,
+        "reputation": null
+      },
+      "price": 35.1,
+      "currency": "BRL",
+      "store_reference_price": 39,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB73603102",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:47:43.129Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6965028590",
+      "condition": "new",
+      "category_slug": "jardim-e-piscina-9",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1396803783",
+        "name": null,
+        "reputation": null
+      },
+      "price": 39,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB73603102",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:47:43.129Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7043572490",
+      "condition": "new",
+      "category_slug": "jardim-e-piscina-9",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2253896771",
+        "name": null,
+        "reputation": null
+      },
+      "price": 35.1,
+      "currency": "BRL",
+      "store_reference_price": 39,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB73603102",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:47:43.129Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 32.9,
+      "max_price": 39,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 32.9,
+      "max_price": 39,
+      "observations": 12
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 32.9,
+      "max_price": 39,
+      "observations": 7
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 35.1,
+      "max_price": 39,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 32.9,
+      "max_price": 39,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 32.9,
+    "min_ever": 32.9,
+    "min_ever_at": "2026-11-06",
+    "max_ever": 39,
+    "distinct_days": 5,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": -6.7,
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
+  },
+  "score": 35
+}

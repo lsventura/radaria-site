@@ -1,0 +1,123 @@
+{
+  "id": "ml:MLB20789898",
+  "slug": "pneu-175-65-r15-dh2-84h-delinte-aro-15-mlb20789898",
+  "title": "Pneu 175/65 R15 Dh2 84h Delinte Aro 15",
+  "brand": "Delinte",
+  "model": "DH2 Eco",
+  "category_slug": "geral",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_629551-MLA99311472872_112025-F.jpg"
+  ],
+  "attributes": {
+    "LINE": "DH2",
+    "UTQG": "420AA",
+    "BRAND": "Delinte",
+    "MODEL": "DH2 Eco",
+    "MAX_SPEED": "210 km/h",
+    "LOAD_INDEX": "84(500Kg)",
+    "LOAD_RANGE": "XL",
+    "IS_RUN_FLAT": "Não",
+    "SPEED_INDEX": "H",
+    "RIM_DIAMETER": "15 \"",
+    "SERVICE_TYPE": "P",
+    "TERRAIN_TYPE": "HT",
+    "TIRES_NUMBER": "1",
+    "VEHICLE_TYPE": "Carro/Caminhonete",
+    "SECTION_WIDTH": "175 mm",
+    "TRACTION_INDEX": "A",
+    "UNITS_PER_PACK": "1",
+    "MAX_WEIGHT_LOAD": "500 kg",
+    "TREADWEAR_INDEX": "420",
+    "TEMPERATURE_INDEX": "A",
+    "MANUFACTURER_TIRE_SIZE": "175/65R15",
+    "AUTOMOTIVE_TIRE_ASPECT_RATIO": "65"
+  },
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB5830439780",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1522086022",
+        "name": null,
+        "reputation": null
+      },
+      "price": 528.19,
+      "currency": "BRL",
+      "store_reference_price": 573.19,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB20789898",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T18:16:20.066Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB3445476315",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1400747960",
+        "name": null,
+        "reputation": null
+      },
+      "price": 444.5,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB20789898",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T18:16:20.066Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-09",
+      "min_price": 444.5,
+      "max_price": 528.19,
+      "observations": 42
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 444.5,
+      "max_price": 528.19,
+      "observations": 40
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 444.5,
+      "max_price": 528.19,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 444.5,
+    "min_ever": 444.5,
+    "min_ever_at": "2026-11-09",
+    "max_ever": 528.19,
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 47
+}

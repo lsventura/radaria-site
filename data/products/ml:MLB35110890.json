@@ -1,0 +1,162 @@
+{
+  "id": "ml:MLB35110890",
+  "slug": "papel-sulfite-a4-aquattro-branco-resma-500-folhas-mlb35110890",
+  "title": "Papel Sulfite A4 Aquattro Branco Resma 500 Folhas",
+  "brand": null,
+  "model": null,
+  "category_slug": "livros-e-papelaria-16",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_986298-MLA100075931443_122025-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB4660022130",
+      "condition": "new",
+      "category_slug": "livros-e-papelaria-16",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1800468717",
+        "name": null,
+        "reputation": null
+      },
+      "price": 45,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB35110890",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T14:59:32.975Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6505548738",
+      "condition": "new",
+      "category_slug": "livros-e-papelaria-16",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2520733148",
+        "name": null,
+        "reputation": null
+      },
+      "price": 39.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB35110890",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T14:59:32.975Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5447098118",
+      "condition": "new",
+      "category_slug": "livros-e-papelaria-16",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2442987338",
+        "name": null,
+        "reputation": null
+      },
+      "price": 32.79,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB35110890",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T14:59:32.975Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5771837888",
+      "condition": "new",
+      "category_slug": "livros-e-papelaria-16",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "40058438",
+        "name": null,
+        "reputation": null
+      },
+      "price": 41.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB35110890",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T14:59:32.975Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 32.79,
+      "max_price": 45,
+      "observations": 12
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 32.79,
+      "max_price": 45,
+      "observations": 16
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 32.79,
+      "max_price": 45,
+      "observations": 12
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 32.79,
+      "max_price": 45,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 32.79,
+      "max_price": 45,
+      "observations": 4
+    }
+  ],
+  "stats": {
+    "median_90d": 32.79,
+    "min_ever": 32.79,
+    "min_ever_at": "2026-11-07",
+    "max_ever": 45,
+    "distinct_days": 5,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
+  },
+  "score": 35
+}

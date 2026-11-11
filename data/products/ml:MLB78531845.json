@@ -1,0 +1,87 @@
+{
+  "id": "ml:MLB78531845",
+  "slug": "colchao-espuma-d45-atlanta-solteiro-96x203x24-bege-mlb78531845",
+  "title": "Colchão Espuma D45 Atlanta Solteiro 96x203x24 Bege",
+  "brand": null,
+  "model": null,
+  "category_slug": "moveis-12",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_808243-MLA116783427835_082026-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB7543851704",
+      "condition": "new",
+      "category_slug": "moveis-12",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1026459505",
+        "name": null,
+        "reputation": null
+      },
+      "price": 684.82,
+      "currency": "BRL",
+      "store_reference_price": 901.89,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB78531845",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:10:44.368Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 684.82,
+      "max_price": 684.82,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 684.82,
+      "max_price": 684.82,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 684.82,
+      "max_price": 684.82,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 684.82,
+      "max_price": 684.82,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 684.82,
+      "max_price": 684.82,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 684.82,
+    "min_ever": 684.82,
+    "min_ever_at": "2026-11-07",
+    "max_ever": 684.82,
+    "distinct_days": 5,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
+  },
+  "score": 52
+}

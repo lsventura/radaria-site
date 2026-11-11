@@ -1,0 +1,88 @@
+{
+  "id": "ml:MLB70412252",
+  "slug": "pelicula-hidrogel-frontal-xiaomi-17-fosca-antirreflexo-mlb70412252",
+  "title": "Película Hidrogel Frontal Xiaomi 17 Fosca Antirreflexo",
+  "brand": "MACA",
+  "model": "MACA NanoGel Premium Fosca",
+  "category_slug": "geral",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_977522-MLA112389401581_052026-F.jpg"
+  ],
+  "attributes": {
+    "GTIN": "07796554372849",
+    "BRAND": "MACA",
+    "MODEL": "MACA NanoGel Premium Fosca",
+    "RESISTANCE": "Gordura, Golpes",
+    "SALE_FORMAT": "Unidade",
+    "UNITS_PER_PACK": "1",
+    "TYPE_OF_SURFACE": "Líquida",
+    "WITH_ANTI_CLARITY": "Sim",
+    "WITH_SCRATCH_PROTECTION": "Sim",
+    "WITH_SHATTER_PROTECTION": "Sim",
+    "WITH_SENSITIVITY_IMPROVEMENT": "Sim",
+    "COMPATIBLE_CELLPHONE_TABLET_AND_GPS_BRANDS": "iPhone"
+  },
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB4721086617",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1067798476",
+        "name": null,
+        "reputation": null
+      },
+      "price": 23.55,
+      "currency": "BRL",
+      "store_reference_price": 27.55,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB70412252",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:39:02.415Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-09",
+      "min_price": 23.55,
+      "max_price": 23.55,
+      "observations": 21
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 23.55,
+      "max_price": 23.55,
+      "observations": 20
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 23.55,
+      "max_price": 23.55,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 23.55,
+    "min_ever": 23.55,
+    "min_ever_at": "2026-11-09",
+    "max_ever": 23.55,
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

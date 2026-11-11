@@ -1,0 +1,109 @@
+{
+  "id": "ml:MLB65066208",
+  "slug": "percarbonato-max-plus-mlb65066208",
+  "title": "Percarbonato MAX Plus",
+  "brand": "ANS GRUPO",
+  "model": "Pó Cristal",
+  "category_slug": "geral",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_921747-MLA106103029711_012026-F.jpg"
+  ],
+  "attributes": {
+    "GTIN": "7894723225818",
+    "BRAND": "ANS GRUPO",
+    "MODEL": "Pó Cristal",
+    "NET_WEIGHT": "1 kg",
+    "SALE_FORMAT": "Pack",
+    "MANUAL_TITLE": "Percarbonato MAX Plus",
+    "UNITS_PER_PACK": "2",
+    "PRODUCT_CONSERVATION": "Temperatura ambiente"
+  },
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB4970318341",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3554405559",
+        "name": null,
+        "reputation": null
+      },
+      "price": 47.12,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB65066208",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:53:11.211Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4674143201",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1279566738",
+        "name": null,
+        "reputation": null
+      },
+      "price": 25.32,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB65066208",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:53:11.211Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-09",
+      "min_price": 25.32,
+      "max_price": 47.12,
+      "observations": 44
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 25.32,
+      "max_price": 47.12,
+      "observations": 40
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 25.32,
+      "max_price": 47.12,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 25.32,
+    "min_ever": 25.32,
+    "min_ever_at": "2026-11-09",
+    "max_ever": 47.12,
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 39
+}

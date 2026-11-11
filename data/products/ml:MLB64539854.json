@@ -9,9 +9,14 @@
     "https://http2.mlstatic.com/D_NQ_NP_621173-MLA104700252412_012026-F.jpg"
   ],
   "attributes": {},
+  "catalog_link": null,
   "offers": [
     {
       "offer_id": "ml:MLB5180088937",
+      "condition": "new",
+      "category_slug": "bebes-4",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "198306331",
@@ -21,16 +26,22 @@
       "price": 303.05,
       "currency": "BRL",
       "store_reference_price": 319,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/2rtJTiA",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T02:24:47.113Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB64539854",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T18:06:46.559Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB5522731161",
+      "condition": "new",
+      "category_slug": "bebes-4",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "208465469",
@@ -40,16 +51,22 @@
       "price": 304,
       "currency": "BRL",
       "store_reference_price": 450,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/2rtJTiA",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T02:24:47.113Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB64539854",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T18:06:46.559Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB7665907316",
+      "condition": "new",
+      "category_slug": "bebes-4",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "3639543794",
@@ -59,11 +76,13 @@
       "price": 319,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/2rtJTiA",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T02:24:47.113Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB64539854",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T18:06:46.559Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -73,21 +92,31 @@
     {
       "date": "2026-11-08",
       "min_price": 319,
+      "max_price": 450,
       "observations": 3
     },
     {
       "date": "2026-11-09",
       "min_price": 319,
+      "max_price": 450,
       "observations": 12
     },
     {
       "date": "2026-11-10",
       "min_price": 303.05,
+      "max_price": 450,
       "observations": 10
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 303.05,
+      "max_price": 319,
+      "observations": 3
     },
     {
       "date": "2026-11-07",
       "min_price": 319,
+      "max_price": 450,
       "observations": 3
     }
   ],
@@ -95,13 +124,14 @@
     "median_90d": 319,
     "min_ever": 303.05,
     "min_ever_at": "2026-11-10",
-    "distinct_days": 4,
+    "max_ever": 450,
+    "distinct_days": 5,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 5,
-    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
   },
   "score": 64
 }

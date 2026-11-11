@@ -1,0 +1,172 @@
+{
+  "id": "ml:MLB68597314",
+  "slug": "pneu-175-75-r14-88t-massimo-forte-a-t-mlb68597314",
+  "title": "Pneu 175/75 R14 88t Massimo Forte A/T",
+  "brand": "Massimo",
+  "model": "Forte",
+  "category_slug": "geral",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_652085-MLA110854456825_042026-F.jpg"
+  ],
+  "attributes": {
+    "GTIN": "06942345200797",
+    "LINE": "Caminhonete",
+    "BRAND": "Massimo",
+    "MODEL": "Forte",
+    "SIDEWALL": "Letras Brancas",
+    "LOAD_INDEX": "88",
+    "LOAD_RANGE": "SL",
+    "IS_RUN_FLAT": "Não",
+    "SPEED_INDEX": "T",
+    "RIM_DIAMETER": "14 \"",
+    "SERVICE_TYPE": "P",
+    "TERRAIN_TYPE": "AT",
+    "TIRES_NUMBER": "1",
+    "VEHICLE_TYPE": "Carro/Caminhonete",
+    "SECTION_WIDTH": "175 mm",
+    "WITH_ICE_GRIP": "Não",
+    "UNITS_PER_PACK": "1",
+    "WITH_SNOW_GRIP": "Não",
+    "BEARING_RESISTANCE": "E",
+    "VEHICLE_TIRE_SEASON": "Todas as estações",
+    "AUTOMOTIVE_TIRE_ASPECT_RATIO": "75"
+  },
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB5517198249",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1391848920",
+        "name": null,
+        "reputation": null
+      },
+      "price": 500,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB68597314",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T18:16:10.824Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5517225309",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1391848920",
+        "name": null,
+        "reputation": null
+      },
+      "price": 530,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB68597314",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T18:16:10.824Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7663272708",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1391848920",
+        "name": null,
+        "reputation": null
+      },
+      "price": 449.87,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB68597314",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T18:16:10.824Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7663273992",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1391848920",
+        "name": null,
+        "reputation": null
+      },
+      "price": 464.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB68597314",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T18:16:10.824Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-09",
+      "min_price": 449.87,
+      "max_price": 530,
+      "observations": 84
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 449.87,
+      "max_price": 530,
+      "observations": 80
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 449.87,
+      "max_price": 530,
+      "observations": 4
+    }
+  ],
+  "stats": {
+    "median_90d": 449.87,
+    "min_ever": 449.87,
+    "min_ever_at": "2026-11-09",
+    "max_ever": 530,
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 47
+}

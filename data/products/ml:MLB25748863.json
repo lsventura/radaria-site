@@ -9,9 +9,14 @@
     "https://http2.mlstatic.com/D_NQ_NP_603803-MLA95962251421_102025-F.jpg"
   ],
   "attributes": {},
+  "catalog_link": null,
   "offers": [
     {
       "offer_id": "ml:MLB4454383815",
+      "condition": "new",
+      "category_slug": "organizacao-e-limpeza-15",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "36716631",
@@ -21,11 +26,38 @@
       "price": 109.75,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/221pzrM",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T01:21:34.573Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB25748863",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:07:45.036Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6928951364",
+      "condition": "new",
+      "category_slug": "organizacao-e-limpeza-15",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "184346392",
+        "name": null,
+        "reputation": null
+      },
+      "price": 167,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB25748863",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:07:45.036Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -35,16 +67,25 @@
     {
       "date": "2026-11-08",
       "min_price": 109.75,
-      "observations": 2
+      "max_price": 167,
+      "observations": 4
     },
     {
       "date": "2026-11-09",
       "min_price": 109.75,
-      "observations": 5
+      "max_price": 167,
+      "observations": 10
     },
     {
       "date": "2026-11-10",
       "min_price": 109.75,
+      "max_price": 167,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 109.75,
+      "max_price": 167,
       "observations": 2
     }
   ],
@@ -52,13 +93,14 @@
     "median_90d": 109.75,
     "min_ever": 109.75,
     "min_ever_at": "2026-11-08",
-    "distinct_days": 3,
+    "max_ever": 167,
+    "distinct_days": 4,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
   },
   "score": 64
 }

@@ -1,0 +1,115 @@
+{
+  "id": "ml:MLB47834431",
+  "slug": "pneu-sunny-215-60r17-96v-nu025-h-t-mlb47834431",
+  "title": "Pneu Sunny 215/60r17 96v Nu025 H/t",
+  "brand": "Sunny",
+  "model": "NU025 H/T",
+  "category_slug": "geral",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_787524-MLA99882217523_112025-F.jpg"
+  ],
+  "attributes": {
+    "GTIN": "7908249313154",
+    "BRAND": "Sunny",
+    "MODEL": "NU025 H/T",
+    "LOAD_INDEX": "96",
+    "SPEED_INDEX": "V",
+    "RIM_DIAMETER": "17 \"",
+    "SERVICE_TYPE": "P",
+    "TERRAIN_TYPE": "HT",
+    "TIRES_NUMBER": "1",
+    "VEHICLE_TYPE": "Carro/Caminhonete",
+    "SECTION_WIDTH": "215 mm",
+    "UNITS_PER_PACK": "1",
+    "MANUFACTURER_TIRE_SIZE": "215/60R17",
+    "AUTOMOTIVE_TIRE_ASPECT_RATIO": "60"
+  },
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB6740631870",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1484189531",
+        "name": null,
+        "reputation": null
+      },
+      "price": 569.97,
+      "currency": "BRL",
+      "store_reference_price": 599.97,
+      "official_store": true,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB47834431",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T18:06:56.721Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5347359230",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1484189531",
+        "name": null,
+        "reputation": null
+      },
+      "price": 572.54,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB47834431",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T18:06:56.721Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-09",
+      "min_price": 543.91,
+      "max_price": 569.97,
+      "observations": 42
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 543.91,
+      "max_price": 572.54,
+      "observations": 41
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 469.48,
+      "max_price": 572.54,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 543.91,
+    "min_ever": 469.48,
+    "min_ever_at": "2026-11-11",
+    "max_ever": 572.54,
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": -4.8,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

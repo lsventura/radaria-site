@@ -1,0 +1,81 @@
+{
+  "id": "ml:MLB31332055",
+  "slug": "cama-pet-iglu-dog-caramelo-mlb31332055",
+  "title": "Cama Pet Iglu Dog Caramelo",
+  "brand": null,
+  "model": null,
+  "category_slug": "pets-17",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_857422-MLA96878543633_102025-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB4613705258",
+      "condition": "new",
+      "category_slug": "pets-17",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1391665794",
+        "name": null,
+        "reputation": null
+      },
+      "price": 78,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB31332055",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:58:43.743Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 78,
+      "max_price": 78,
+      "observations": 9
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 78,
+      "max_price": 78,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 78,
+      "max_price": 78,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 78,
+      "max_price": 78,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 78,
+    "min_ever": 78,
+    "min_ever_at": "2026-11-08",
+    "max_ever": 78,
+    "distinct_days": 4,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+  },
+  "score": 39
+}

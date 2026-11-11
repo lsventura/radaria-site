@@ -1,0 +1,81 @@
+{
+  "id": "ml:MLB46404252",
+  "slug": "papel-sulfite-a4-75g-500-folhas-branco-revitaprint-reciclado-mlb46404252",
+  "title": "Papel Sulfite A4 75g 500 Folhas Branco Revitaprint Reciclado",
+  "brand": null,
+  "model": null,
+  "category_slug": "livros-e-papelaria-16",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_814191-MLA99575819534_122025-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB5374543756",
+      "condition": "new",
+      "category_slug": "livros-e-papelaria-16",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "183963555",
+        "name": null,
+        "reputation": null
+      },
+      "price": 30,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB46404252",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:39:43.035Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 30,
+      "max_price": 30,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 30,
+      "max_price": 30,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 30,
+      "max_price": 30,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 30,
+      "max_price": 30,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 30,
+    "min_ever": 30,
+    "min_ever_at": "2026-11-08",
+    "max_ever": 30,
+    "distinct_days": 4,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+  },
+  "score": 35
+}

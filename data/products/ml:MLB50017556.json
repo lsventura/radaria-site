@@ -1,0 +1,137 @@
+{
+  "id": "ml:MLB50017556",
+  "slug": "lava-louca-electrolux-8-servicos-branca-lava-e-seca-50-lb08-cor-branco-mlb50017556",
+  "title": "Lava-louça Electrolux 8 Serviços Branca Lava E Seca 50' Lb08 Cor Branco",
+  "brand": null,
+  "model": null,
+  "category_slug": "eletrodomesticos-6",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_912455-MLA99455895366_112025-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB5388874680",
+      "condition": "new",
+      "category_slug": "eletrodomesticos-6",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "267892530",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1699,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB50017556",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:53:45.914Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7873970320",
+      "condition": "new",
+      "category_slug": "eletrodomesticos-6",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3250787296",
+        "name": null,
+        "reputation": null
+      },
+      "price": 2300000,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB50017556",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:53:45.914Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5398904348",
+      "condition": "new",
+      "category_slug": "eletrodomesticos-6",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "267892530",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1699,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB50017556",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:53:45.914Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 1799,
+      "max_price": 2300000,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 1799,
+      "max_price": 2300000,
+      "observations": 12
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 1699,
+      "max_price": 2300000,
+      "observations": 11
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 1699,
+      "max_price": 2300000,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 1799,
+      "max_price": 2300000,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 1799,
+    "min_ever": 1699,
+    "min_ever_at": "2026-11-10",
+    "max_ever": 2300000,
+    "distinct_days": 5,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 5.6,
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
+  },
+  "score": 52
+}

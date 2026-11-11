@@ -9,9 +9,14 @@
     "https://http2.mlstatic.com/D_NQ_NP_916953-MLA117359522445_092026-F.jpg"
   ],
   "attributes": {},
+  "catalog_link": null,
   "offers": [
     {
       "offer_id": "ml:MLB7724831406",
+      "condition": "new",
+      "category_slug": "casa-inteligente-10",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "200524310",
@@ -21,16 +26,22 @@
       "price": 271.5,
       "currency": "BRL",
       "store_reference_price": 409.9,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/24tNabS",
-      "affiliate": true,
-      "last_observed_at": "2026-11-10T22:54:42.674Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB79060435",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T14:11:32.711Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB7724793532",
+      "condition": "new",
+      "category_slug": "casa-inteligente-10",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "200524310",
@@ -40,16 +51,22 @@
       "price": 242.4,
       "currency": "BRL",
       "store_reference_price": 379.9,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/24tNabS",
-      "affiliate": true,
-      "last_observed_at": "2026-11-10T22:54:42.674Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB79060435",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T14:11:32.711Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB7818371472",
+      "condition": "new",
+      "category_slug": "casa-inteligente-10",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "412008939",
@@ -59,16 +76,22 @@
       "price": 279.9,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/24tNabS",
-      "affiliate": true,
-      "last_observed_at": "2026-11-10T22:54:42.674Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB79060435",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T14:11:32.711Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB7818371470",
+      "condition": "new",
+      "category_slug": "casa-inteligente-10",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "412008939",
@@ -78,16 +101,22 @@
       "price": 279.9,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/24tNabS",
-      "affiliate": true,
-      "last_observed_at": "2026-11-10T22:54:42.674Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB79060435",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T14:11:32.711Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB7665675122",
+      "condition": "new",
+      "category_slug": "casa-inteligente-10",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "1186744916",
@@ -97,11 +126,13 @@
       "price": 221,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/24tNabS",
-      "affiliate": true,
-      "last_observed_at": "2026-11-10T22:54:42.674Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB79060435",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T14:11:32.711Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -111,21 +142,31 @@
     {
       "date": "2026-11-08",
       "min_price": 221,
+      "max_price": 279.9,
       "observations": 10
     },
     {
       "date": "2026-11-09",
       "min_price": 221,
+      "max_price": 279.9,
       "observations": 20
     },
     {
       "date": "2026-11-10",
       "min_price": 221,
+      "max_price": 279.9,
       "observations": 15
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 221,
+      "max_price": 279.9,
+      "observations": 5
     },
     {
       "date": "2026-11-07",
       "min_price": 221,
+      "max_price": 279.9,
       "observations": 5
     }
   ],
@@ -133,13 +174,14 @@
     "median_90d": 221,
     "min_ever": 221,
     "min_ever_at": "2026-11-07",
-    "distinct_days": 4,
+    "max_ever": 279.9,
+    "distinct_days": 5,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
   },
   "score": 60
 }

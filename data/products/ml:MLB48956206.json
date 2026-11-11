@@ -1,0 +1,112 @@
+{
+  "id": "ml:MLB48956206",
+  "slug": "fogao-cooktop-fogareiro-eletrico-2-boca-portatil-2000-watts-preto-mlb48956206",
+  "title": "Fogão Cooktop Fogareiro Elétrico 2 Boca Portátil 2000 Watts Preto",
+  "brand": null,
+  "model": null,
+  "category_slug": "eletrodomesticos-4",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_730149-MLA102279386615_122025-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB4223907975",
+      "condition": "new",
+      "category_slug": "eletrodomesticos-4",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "66034082",
+        "name": null,
+        "reputation": null
+      },
+      "price": 119.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB48956206",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:41:43.340Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7796152126",
+      "condition": "new",
+      "category_slug": "eletrodomesticos-4",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3388943259",
+        "name": null,
+        "reputation": null
+      },
+      "price": 61.9,
+      "currency": "BRL",
+      "store_reference_price": 78.9,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB48956206",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:41:43.340Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 61.9,
+      "max_price": 119.9,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 61.9,
+      "max_price": 119.9,
+      "observations": 8
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 61.9,
+      "max_price": 119.9,
+      "observations": 6
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 61.9,
+      "max_price": 119.9,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 61.9,
+      "max_price": 119.9,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 61.9,
+    "min_ever": 61.9,
+    "min_ever_at": "2026-11-06",
+    "max_ever": 119.9,
+    "distinct_days": 5,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
+  },
+  "score": 35
+}

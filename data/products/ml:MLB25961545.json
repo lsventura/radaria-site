@@ -1,0 +1,112 @@
+{
+  "id": "ml:MLB25961545",
+  "slug": "colchao-espuma-d33-chicago-viuva-128x188x19-marrom-mlb25961545",
+  "title": "Colchão Espuma D33 Chicago Viúva 128x188x19 Marrom",
+  "brand": null,
+  "model": null,
+  "category_slug": "moveis-12",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_749608-MLA99984575901_112025-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB3410454067",
+      "condition": "new",
+      "category_slug": "moveis-12",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1026459505",
+        "name": null,
+        "reputation": null
+      },
+      "price": 622.65,
+      "currency": "BRL",
+      "store_reference_price": 824.89,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB25961545",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T18:04:46.622Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7952588948",
+      "condition": "new",
+      "category_slug": "moveis-12",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1026459505",
+        "name": null,
+        "reputation": null
+      },
+      "price": 649.92,
+      "currency": "BRL",
+      "store_reference_price": 824.89,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB25961545",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T18:04:46.622Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 622.65,
+      "max_price": 824.89,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 622.65,
+      "max_price": 649.92,
+      "observations": 8
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 622.65,
+      "max_price": 649.92,
+      "observations": 6
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 622.65,
+      "max_price": 649.92,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 622.65,
+      "max_price": 824.89,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 622.65,
+    "min_ever": 622.65,
+    "min_ever_at": "2026-11-07",
+    "max_ever": 824.89,
+    "distinct_days": 5,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

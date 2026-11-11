@@ -1,0 +1,108 @@
+{
+  "id": "ml:MLB35752432",
+  "slug": "percarbonato-de-sodio-2-kg-1-kg-carbonato-sodio-barrilha-mlb35752432",
+  "title": "Percarbonato De Sódio 2 Kg + 1 Kg Carbonato Sódio Barrilha",
+  "brand": "Quimisul",
+  "model": null,
+  "category_slug": "geral",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_904062-MLA99874017023_112025-F.jpg"
+  ],
+  "attributes": {
+    "GTIN": "7896602802929",
+    "BRAND": "Quimisul",
+    "NET_WEIGHT": "3 kg",
+    "SALE_FORMAT": "Pack",
+    "MANUAL_TITLE": "Percarbonato De Sódio 2 Kg + 1 Kg Carbonato Sódio Barrilha",
+    "UNITS_PER_PACK": "2",
+    "PRODUCT_CONSERVATION": "Temperatura ambiente"
+  },
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB5829679172",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1119319127",
+        "name": null,
+        "reputation": null
+      },
+      "price": 103.95,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB35752432",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:53:17.411Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6927170130",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3434297741",
+        "name": null,
+        "reputation": null
+      },
+      "price": 103.95,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB35752432",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:53:17.411Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-09",
+      "min_price": 103.95,
+      "max_price": 103.95,
+      "observations": 42
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 103.95,
+      "max_price": 103.95,
+      "observations": 40
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 103.95,
+      "max_price": 103.95,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 103.95,
+    "min_ever": 103.95,
+    "min_ever_at": "2026-11-09",
+    "max_ever": 103.95,
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 47
+}

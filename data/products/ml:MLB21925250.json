@@ -9,9 +9,14 @@
     "https://http2.mlstatic.com/D_NQ_NP_898648-MLA100038078239_122025-F.jpg"
   ],
   "attributes": {},
+  "catalog_link": null,
   "offers": [
     {
       "offer_id": "ml:MLB5681559976",
+      "condition": "new",
+      "category_slug": "ferramentas-8",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "616922393",
@@ -21,16 +26,22 @@
       "price": 6816,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/251F9Mh",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T00:48:23.375Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB21925250",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:35:43.852Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB3948363257",
+      "condition": "new",
+      "category_slug": "ferramentas-8",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "74873405",
@@ -40,16 +51,22 @@
       "price": 6659,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/251F9Mh",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T00:48:23.375Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB21925250",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:35:43.852Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB5249818246",
+      "condition": "new",
+      "category_slug": "ferramentas-8",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "74873405",
@@ -59,16 +76,72 @@
       "price": 7187,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/251F9Mh",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T00:48:23.375Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB21925250",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:35:43.852Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5095157743",
+      "condition": "new",
+      "category_slug": "ferramentas-8",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "459768700",
+        "name": null,
+        "reputation": null
+      },
+      "price": 5999.99,
+      "currency": "BRL",
+      "store_reference_price": 7199.99,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB21925250",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:35:43.852Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5234400505",
+      "condition": "new",
+      "category_slug": "ferramentas-8",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1706331498",
+        "name": null,
+        "reputation": null
+      },
+      "price": 6854.85,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB21925250",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:35:43.852Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB7757626344",
+      "condition": "new",
+      "category_slug": "ferramentas-8",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "602704613",
@@ -78,11 +151,13 @@
       "price": 5865,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/251F9Mh",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T00:48:23.375Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB21925250",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:35:43.852Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -92,30 +167,40 @@
     {
       "date": "2026-11-08",
       "min_price": 5865,
-      "observations": 8
+      "max_price": 7187,
+      "observations": 12
     },
     {
       "date": "2026-11-09",
       "min_price": 5865,
-      "observations": 16
+      "max_price": 7187,
+      "observations": 24
     },
     {
       "date": "2026-11-10",
       "min_price": 5865,
-      "observations": 12
+      "max_price": 7187,
+      "observations": 18
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 5865,
+      "max_price": 7187,
+      "observations": 6
     }
   ],
   "stats": {
     "median_90d": 5865,
     "min_ever": 5865,
     "min_ever_at": "2026-11-08",
-    "distinct_days": 3,
+    "max_ever": 7187,
+    "distinct_days": 4,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
   },
   "score": 64
 }

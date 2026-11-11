@@ -9,9 +9,14 @@
     "https://http2.mlstatic.com/D_NQ_NP_847247-MLA99999905037_112025-F.jpg"
   ],
   "attributes": {},
+  "catalog_link": null,
   "offers": [
     {
       "offer_id": "ml:MLB3240437971",
+      "condition": "new",
+      "category_slug": "viagem-e-outdoor-18",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "185659854",
@@ -21,16 +26,22 @@
       "price": 337.53,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/1udKXih",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T01:04:41.355Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB21858662",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:50:43.514Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB3240437999",
+      "condition": "new",
+      "category_slug": "viagem-e-outdoor-18",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "565479946",
@@ -40,16 +51,22 @@
       "price": 337.39,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/1udKXih",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T01:04:41.355Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB21858662",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:50:43.514Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB3240457339",
+      "condition": "new",
+      "category_slug": "viagem-e-outdoor-18",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "1003360221",
@@ -59,16 +76,22 @@
       "price": 337.77,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/1udKXih",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T01:04:41.355Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB21858662",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:50:43.514Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB5278438094",
+      "condition": "new",
+      "category_slug": "viagem-e-outdoor-18",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "427814940",
@@ -78,11 +101,38 @@
       "price": 335.99,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/1udKXih",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T01:04:41.355Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB21858662",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:50:43.514Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4577673593",
+      "condition": "new",
+      "category_slug": "viagem-e-outdoor-18",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1193817688",
+        "name": null,
+        "reputation": null
+      },
+      "price": 299,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB21858662",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:50:43.514Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -91,36 +141,47 @@
   "history": [
     {
       "date": "2026-11-08",
-      "min_price": 335.99,
-      "observations": 4
+      "min_price": 299,
+      "max_price": 337.77,
+      "observations": 5
     },
     {
       "date": "2026-11-09",
-      "min_price": 335.99,
-      "observations": 16
+      "min_price": 299,
+      "max_price": 337.77,
+      "observations": 20
     },
     {
       "date": "2026-11-10",
-      "min_price": 335.99,
-      "observations": 12
+      "min_price": 299,
+      "max_price": 337.77,
+      "observations": 15
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 299,
+      "max_price": 337.77,
+      "observations": 5
     },
     {
       "date": "2026-11-06",
-      "min_price": 335.99,
-      "observations": 9
+      "min_price": 299,
+      "max_price": 337.77,
+      "observations": 11
     }
   ],
   "stats": {
-    "median_90d": 335.99,
-    "min_ever": 335.99,
+    "median_90d": 299,
+    "min_ever": 299,
     "min_ever_at": "2026-11-06",
-    "distinct_days": 4,
+    "max_ever": 337.77,
+    "distinct_days": 5,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
   },
-  "score": 64
+  "score": 47
 }

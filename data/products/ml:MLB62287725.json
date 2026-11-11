@@ -9,9 +9,14 @@
     "https://http2.mlstatic.com/D_NQ_NP_774092-MLA98291455414_112025-F.jpg"
   ],
   "attributes": {},
+  "catalog_link": null,
   "offers": [
     {
       "offer_id": "ml:MLB4313297677",
+      "condition": "new",
+      "category_slug": "esportes-20",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "56635304",
@@ -21,16 +26,22 @@
       "price": 159,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/2QQnrDW",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T00:20:12.889Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB62287725",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:06:44.119Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB4482489475",
+      "condition": "new",
+      "category_slug": "esportes-20",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "56635304",
@@ -40,11 +51,13 @@
       "price": 183.35,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/2QQnrDW",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T00:20:12.889Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB62287725",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:06:44.119Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -54,21 +67,31 @@
     {
       "date": "2026-11-08",
       "min_price": 159,
+      "max_price": 183.35,
       "observations": 2
     },
     {
       "date": "2026-11-09",
       "min_price": 159,
+      "max_price": 183.35,
       "observations": 8
     },
     {
       "date": "2026-11-10",
       "min_price": 159,
+      "max_price": 183.35,
       "observations": 6
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 159,
+      "max_price": 183.35,
+      "observations": 2
     },
     {
       "date": "2026-11-07",
       "min_price": 159,
+      "max_price": 183.35,
       "observations": 2
     }
   ],
@@ -76,13 +99,14 @@
     "median_90d": 159,
     "min_ever": 159,
     "min_ever_at": "2026-11-07",
-    "distinct_days": 4,
+    "max_ever": 183.35,
+    "distinct_days": 5,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
   },
   "score": 60
 }

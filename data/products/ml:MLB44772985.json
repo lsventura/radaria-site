@@ -1,0 +1,112 @@
+{
+  "id": "ml:MLB44772985",
+  "slug": "dissipador-para-notebook-lenovo-ideapad-310-14isk-mlb44772985",
+  "title": "Dissipador Para Notebook Lenovo Ideapad 310-14isk",
+  "brand": null,
+  "model": null,
+  "category_slug": "notebooks-1",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_935708-MLA99985732479_112025-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB5222306006",
+      "condition": "new",
+      "category_slug": "notebooks-1",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "54605532",
+        "name": null,
+        "reputation": null
+      },
+      "price": 29.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB44772985",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:25:43.431Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4510831895",
+      "condition": "new",
+      "category_slug": "notebooks-1",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2051392772",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 19.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB44772985",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:25:43.431Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 19.99,
+      "max_price": 29.9,
+      "observations": 6
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 19.99,
+      "max_price": 29.9,
+      "observations": 8
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 19.99,
+      "max_price": 29.9,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 19.99,
+      "max_price": 29.9,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 19.99,
+      "max_price": 29.9,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 19.99,
+    "min_ever": 19.99,
+    "min_ever_at": "2026-11-06",
+    "max_ever": 29.9,
+    "distinct_days": 5,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

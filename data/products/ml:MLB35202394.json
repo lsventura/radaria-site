@@ -1,0 +1,112 @@
+{
+  "id": "ml:MLB35202394",
+  "slug": "poltrona-reclinavel-scylla-bege-mlb35202394",
+  "title": "Poltrona Reclinável Scylla Bege",
+  "brand": null,
+  "model": null,
+  "category_slug": "moveis-3",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_918034-MLU75357197064_032024-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB4304783135",
+      "condition": "new",
+      "category_slug": "moveis-3",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "124110866",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1244.55,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB35202394",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:16:43.039Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4304795711",
+      "condition": "new",
+      "category_slug": "moveis-3",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "124110866",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1143.36,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB35202394",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:16:43.039Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 1143.36,
+      "max_price": 1244.55,
+      "observations": 6
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 1143.36,
+      "max_price": 1244.55,
+      "observations": 8
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 1143.36,
+      "max_price": 1244.55,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 1143.36,
+      "max_price": 1244.55,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 1143.36,
+      "max_price": 1244.55,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 1143.36,
+    "min_ever": 1143.36,
+    "min_ever_at": "2026-11-07",
+    "max_ever": 1244.55,
+    "distinct_days": 5,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

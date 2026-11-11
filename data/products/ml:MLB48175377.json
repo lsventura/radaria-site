@@ -1,0 +1,112 @@
+{
+  "id": "ml:MLB48175377",
+  "slug": "tomada-inteligente-wifi-rcj-parts-16a-medidor-consumo-1-saida-branca-mlb48175377",
+  "title": "Tomada Inteligente Wifi RCJ Parts 16A Medidor Consumo 1 Saída Branca",
+  "brand": null,
+  "model": null,
+  "category_slug": "casa-inteligente-14",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_977503-MLA86731098857_062025-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB7426105366",
+      "condition": "new",
+      "category_slug": "casa-inteligente-14",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "74822381",
+        "name": null,
+        "reputation": null
+      },
+      "price": 59,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB48175377",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T14:46:33.585Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4264280041",
+      "condition": "new",
+      "category_slug": "casa-inteligente-14",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "33973134",
+        "name": null,
+        "reputation": null
+      },
+      "price": 49,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB48175377",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T14:46:33.585Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 49,
+      "max_price": 59,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 49,
+      "max_price": 59,
+      "observations": 8
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 49,
+      "max_price": 59,
+      "observations": 6
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 49,
+      "max_price": 59,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 49,
+      "max_price": 59,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 49,
+    "min_ever": 49,
+    "min_ever_at": "2026-11-07",
+    "max_ever": 59,
+    "distinct_days": 5,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
+  },
+  "score": 45
+}

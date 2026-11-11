@@ -9,9 +9,39 @@
     "https://http2.mlstatic.com/D_NQ_NP_768761-MLA82289451737_022025-F.jpg"
   ],
   "attributes": {},
+  "catalog_link": null,
   "offers": [
     {
+      "offer_id": "ml:MLB6278690638",
+      "condition": "new",
+      "category_slug": "bem-estar-5",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "312129907",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 47.92,
+      "currency": "BRL",
+      "store_reference_price": 52,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB45927513",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:01:43.252Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
       "offer_id": "ml:MLB4820185291",
+      "condition": "new",
+      "category_slug": "bem-estar-5",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "438034407",
@@ -21,11 +51,38 @@
       "price": 193.03,
       "currency": "BRL",
       "store_reference_price": 199,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/31rjSwP",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T01:15:36.477Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB45927513",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:01:43.252Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7521273582",
+      "condition": "new",
+      "category_slug": "bem-estar-5",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "519073077",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 50.44,
+      "currency": "BRL",
+      "store_reference_price": 52,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB45927513",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:01:43.252Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -34,36 +91,47 @@
   "history": [
     {
       "date": "2026-11-08",
-      "min_price": 193.03,
-      "observations": 2
+      "min_price": 47.92,
+      "max_price": 193.03,
+      "observations": 6
     },
     {
       "date": "2026-11-09",
-      "min_price": 193.03,
-      "observations": 4
+      "min_price": 47.92,
+      "max_price": 193.03,
+      "observations": 12
     },
     {
       "date": "2026-11-10",
-      "min_price": 193.03,
-      "observations": 2
+      "min_price": 47.92,
+      "max_price": 193.03,
+      "observations": 6
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 47.92,
+      "max_price": 193.03,
+      "observations": 3
     },
     {
       "date": "2026-11-07",
-      "min_price": 193.03,
-      "observations": 1
+      "min_price": 47.92,
+      "max_price": 193.03,
+      "observations": 3
     }
   ],
   "stats": {
-    "median_90d": 193.03,
-    "min_ever": 193.03,
+    "median_90d": 47.92,
+    "min_ever": 47.92,
     "min_ever_at": "2026-11-07",
-    "distinct_days": 4,
+    "max_ever": 193.03,
+    "distinct_days": 5,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
   },
-  "score": 64
+  "score": 56
 }

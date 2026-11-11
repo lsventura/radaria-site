@@ -1,0 +1,112 @@
+{
+  "id": "ml:MLB36003081",
+  "slug": "balanca-digital-utensilio-balanca-digital-50-kg-portatil-precisao-alta-mlb36003081",
+  "title": "Balança Digital Utensílio BALANÇA DIGITAL 50 kg Portátil Precisão Alta",
+  "brand": "Original Line",
+  "model": "BALANÇA DIGITAL 50 kg",
+  "category_slug": "bem-estar-2",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_753614-MLA99508546736_112025-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB6845653014",
+      "condition": "new",
+      "category_slug": "bem-estar-2",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3217631324",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 35.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB36003081",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:55:57.420Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4478792663",
+      "condition": "new",
+      "category_slug": "bem-estar-2",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2388005758",
+        "name": null,
+        "reputation": null
+      },
+      "price": 38.7,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB36003081",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:55:57.420Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 38.7,
+      "max_price": 78.99,
+      "observations": 6
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 38.7,
+      "max_price": 78.99,
+      "observations": 8
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 38.7,
+      "max_price": 78.99,
+      "observations": 6
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 35.99,
+      "max_price": 78.99,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 38.7,
+      "max_price": 78.99,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 38.7,
+    "min_ever": 35.99,
+    "min_ever_at": "2026-11-11",
+    "max_ever": 78.99,
+    "distinct_days": 5,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 7,
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

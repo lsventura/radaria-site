@@ -1,0 +1,81 @@
+{
+  "id": "ml:MLB72879390",
+  "slug": "casa-de-boneca-armario-organizador-mdf-quarto-infantil-mlb72879390",
+  "title": "Casa De Boneca Armário Organizador Mdf Quarto Infantil",
+  "brand": null,
+  "model": null,
+  "category_slug": "brinquedos-18",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_901884-MLA111794297458_062026-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB6924896738",
+      "condition": "new",
+      "category_slug": "brinquedos-18",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "479729452",
+        "name": null,
+        "reputation": null
+      },
+      "price": 289.28,
+      "currency": "BRL",
+      "store_reference_price": 355.45,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB72879390",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:59:46.917Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 289.28,
+      "max_price": 289.28,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 289.28,
+      "max_price": 289.28,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 289.28,
+      "max_price": 289.28,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 289.28,
+      "max_price": 289.28,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 289.28,
+    "min_ever": 289.28,
+    "min_ever_at": "2026-11-08",
+    "max_ever": 289.28,
+    "distinct_days": 4,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+  },
+  "score": 47
+}

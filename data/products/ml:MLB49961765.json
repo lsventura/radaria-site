@@ -1,0 +1,112 @@
+{
+  "id": "ml:MLB49961765",
+  "slug": "kit-higiene-shampoo-e-condicionador-para-pet-dog-aveia-mlb49961765",
+  "title": "Kit Higiene Shampoo E Condicionador Para Pet Dog Aveia",
+  "brand": null,
+  "model": null,
+  "category_slug": "pets-20",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_750216-MLA95204795206_102025-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB7217573780",
+      "condition": "new",
+      "category_slug": "pets-20",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "96680675",
+        "name": null,
+        "reputation": null
+      },
+      "price": 42.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB49961765",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T14:31:32.311Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4347275557",
+      "condition": "new",
+      "category_slug": "pets-20",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "83453902",
+        "name": null,
+        "reputation": null
+      },
+      "price": 33.85,
+      "currency": "BRL",
+      "store_reference_price": 34.9,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB49961765",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T14:31:32.311Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 33.85,
+      "max_price": 42.99,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 33.85,
+      "max_price": 42.99,
+      "observations": 8
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 33.85,
+      "max_price": 42.99,
+      "observations": 6
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 33.85,
+      "max_price": 42.99,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 33.85,
+      "max_price": 42.99,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 33.85,
+    "min_ever": 33.85,
+    "min_ever_at": "2026-11-07",
+    "max_ever": 42.99,
+    "distinct_days": 5,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
+  },
+  "score": 52
+}

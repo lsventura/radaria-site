@@ -1,0 +1,81 @@
+{
+  "id": "ml:MLB53538368",
+  "slug": "lencol-oval-p-carrinho-bebe-padrao-universal-77x35-cor-bege-mlb53538368",
+  "title": "Lençol Oval P/ Carrinho Bebê Padrão Universal 77x35 Cor Bege",
+  "brand": null,
+  "model": null,
+  "category_slug": "bebes-1",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_858705-MLA99624352718_122025-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB4151242715",
+      "condition": "new",
+      "category_slug": "bebes-1",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "755778547",
+        "name": null,
+        "reputation": null
+      },
+      "price": 43.55,
+      "currency": "BRL",
+      "store_reference_price": 44.9,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB53538368",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:59:46.917Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 43.55,
+      "max_price": 43.55,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 43.55,
+      "max_price": 43.55,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 43.55,
+      "max_price": 43.55,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 43.55,
+      "max_price": 43.55,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 43.55,
+    "min_ever": 43.55,
+    "min_ever_at": "2026-11-08",
+    "max_ever": 43.55,
+    "distinct_days": 4,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

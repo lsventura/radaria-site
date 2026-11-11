@@ -1,0 +1,87 @@
+{
+  "id": "ml:MLB53514302",
+  "slug": "medidor-consumo-de-energia-monofasico-digital-80a-volt-127-220v-mlb53514302",
+  "title": "Medidor Consumo De Energia Monofásico Digital 80a VOLT 127/220v",
+  "brand": null,
+  "model": null,
+  "category_slug": "casa-inteligente-14",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_839415-MLA106824680340_022026-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB4147704801",
+      "condition": "new",
+      "category_slug": "casa-inteligente-14",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2399137865",
+        "name": null,
+        "reputation": null
+      },
+      "price": 44.9,
+      "currency": "BRL",
+      "store_reference_price": 64.9,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB53514302",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T14:57:33.205Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 44.9,
+      "max_price": 44.9,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 44.9,
+      "max_price": 44.9,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 44.9,
+      "max_price": 44.9,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 44.9,
+      "max_price": 44.9,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 44.9,
+      "max_price": 44.9,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 44.9,
+    "min_ever": 44.9,
+    "min_ever_at": "2026-11-07",
+    "max_ever": 44.9,
+    "distinct_days": 5,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
+  },
+  "score": 52
+}

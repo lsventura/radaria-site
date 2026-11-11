@@ -1,0 +1,87 @@
+{
+  "id": "ml:MLB26056649",
+  "slug": "colchao-espuma-d33-san-diego-king-193x203x29-bege-mlb26056649",
+  "title": "Colchão Espuma D33 San Diego King 193x203x29 Bege",
+  "brand": null,
+  "model": null,
+  "category_slug": "moveis-12",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_915484-MLA99460828336_112025-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB3411775267",
+      "condition": "new",
+      "category_slug": "moveis-12",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1026459505",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1693.89,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB26056649",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T14:49:32.611Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 1184.47,
+      "max_price": 1184.47,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 1184.47,
+      "max_price": 1184.47,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 1184.47,
+      "max_price": 1693.89,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 1693.89,
+      "max_price": 1693.89,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 1184.47,
+      "max_price": 1184.47,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 1184.47,
+    "min_ever": 1184.47,
+    "min_ever_at": "2026-11-07",
+    "max_ever": 1693.89,
+    "distinct_days": 5,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": -43,
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
+  },
+  "score": 52
+}

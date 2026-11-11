@@ -9,9 +9,14 @@
     "https://http2.mlstatic.com/D_NQ_NP_876122-MLA116786625599_082026-F.jpg"
   ],
   "attributes": {},
+  "catalog_link": null,
   "offers": [
     {
       "offer_id": "ml:MLB5166302513",
+      "condition": "new",
+      "category_slug": "moda-feminina-14",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "452725214",
@@ -21,16 +26,22 @@
       "price": 397,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/1JmzRG8",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T01:48:57.075Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB78556959",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:33:44.322Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB5214731161",
+      "condition": "new",
+      "category_slug": "moda-feminina-14",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "86542950",
@@ -40,16 +51,22 @@
       "price": 399,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/1JmzRG8",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T01:48:57.075Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB78556959",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:33:44.322Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB5220181271",
+      "condition": "new",
+      "category_slug": "moda-feminina-14",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "2266674250",
@@ -59,11 +76,13 @@
       "price": 381.84,
       "currency": "BRL",
       "store_reference_price": 438.9,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/1JmzRG8",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T01:48:57.075Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB78556959",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:33:44.322Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -73,35 +92,46 @@
     {
       "date": "2026-11-08",
       "min_price": 369.99,
+      "max_price": 399,
       "observations": 3
     },
     {
       "date": "2026-11-09",
       "min_price": 369.99,
+      "max_price": 399,
       "observations": 21
     },
     {
       "date": "2026-11-10",
       "min_price": 381.84,
+      "max_price": 399,
       "observations": 12
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 381.84,
+      "max_price": 399,
+      "observations": 3
     },
     {
       "date": "2026-11-06",
       "min_price": 381.84,
+      "max_price": 399,
       "observations": 3
     }
   ],
   "stats": {
-    "median_90d": 375.92,
+    "median_90d": 381.84,
     "min_ever": 369.99,
     "min_ever_at": "2026-11-08",
-    "distinct_days": 4,
+    "max_ever": 399,
+    "distinct_days": 5,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": -1.6,
-    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
   },
   "score": 64
 }

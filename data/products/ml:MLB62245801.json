@@ -9,66 +9,89 @@
     "https://http2.mlstatic.com/D_NQ_NP_901673-MLA98555473183_112025-F.jpg"
   ],
   "attributes": {},
+  "catalog_link": null,
   "offers": [
     {
       "offer_id": "ml:MLB7785198564",
+      "condition": "new",
+      "category_slug": "fotografia-e-video-12",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "2645056961",
         "name": null,
         "reputation": "5_green"
       },
-      "price": 236,
+      "price": 228.92,
       "currency": "BRL",
-      "store_reference_price": null,
+      "store_reference_price": 236,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/2EA7VRW",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T00:10:12.186Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB62245801",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T12:28:02.812Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB6718316298",
+      "condition": "new",
+      "category_slug": "fotografia-e-video-12",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "1385291154",
         "name": null,
         "reputation": "5_green"
       },
-      "price": 256.92,
+      "price": 253.99,
       "currency": "BRL",
       "store_reference_price": 269.9,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/2EA7VRW",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T00:10:12.186Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB62245801",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T12:28:02.812Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB4666425385",
+      "condition": "new",
+      "category_slug": "fotografia-e-video-12",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "1385291154",
         "name": null,
         "reputation": "5_green"
       },
-      "price": 271.5,
+      "price": 247.99,
       "currency": "BRL",
       "store_reference_price": 279.9,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/2EA7VRW",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T00:10:12.186Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB62245801",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T12:28:02.812Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB7697684466",
+      "condition": "new",
+      "category_slug": "fotografia-e-video-12",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "3198725688",
@@ -78,11 +101,13 @@
       "price": 234.03,
       "currency": "BRL",
       "store_reference_price": 269,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/2EA7VRW",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T00:10:12.186Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB62245801",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T12:28:02.812Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -92,35 +117,46 @@
     {
       "date": "2026-11-08",
       "min_price": 236,
+      "max_price": 271.5,
       "observations": 4
     },
     {
       "date": "2026-11-09",
       "min_price": 235.49,
+      "max_price": 271.5,
       "observations": 12
     },
     {
       "date": "2026-11-10",
       "min_price": 234.03,
+      "max_price": 271.5,
       "observations": 13
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 228.92,
+      "max_price": 253.99,
+      "observations": 4
     },
     {
       "date": "2026-11-07",
       "min_price": 236,
+      "max_price": 253.99,
       "observations": 4
     }
   ],
   "stats": {
-    "median_90d": 235.75,
-    "min_ever": 234.03,
-    "min_ever_at": "2026-11-10",
-    "distinct_days": 4,
+    "median_90d": 235.49,
+    "min_ever": 228.92,
+    "min_ever_at": "2026-11-11",
+    "max_ever": 271.5,
+    "distinct_days": 5,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 0.7,
-    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+    "pct_below_median": 2.8,
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
   },
-  "score": 60
+  "score": 56
 }

@@ -1,0 +1,87 @@
+{
+  "id": "ml:MLB18375065",
+  "slug": "roteador-mesh-wifi-tplink-deco-e4-v1-branco-mlb18375065",
+  "title": "Roteador Mesh Wifi Tplink Deco E4 V1 Branco",
+  "brand": null,
+  "model": null,
+  "category_slug": "casa-inteligente-19",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_968343-MLA99926587229_112025-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB3922308657",
+      "condition": "new",
+      "category_slug": "casa-inteligente-19",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "174274445",
+        "name": null,
+        "reputation": null
+      },
+      "price": 700,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB18375065",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:11:45.151Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 700,
+      "max_price": 700,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 700,
+      "max_price": 700,
+      "observations": 5
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 700,
+      "max_price": 700,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 700,
+      "max_price": 700,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 700,
+      "max_price": 700,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 700,
+    "min_ever": 700,
+    "min_ever_at": "2026-11-07",
+    "max_ever": 700,
+    "distinct_days": 5,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
+  },
+  "score": 47
+}

@@ -1,0 +1,112 @@
+{
+  "id": "ml:MLB38507939",
+  "slug": "kit-irrigacao-gotejamento-ajustavel-20m-microtubo-20-gotejadores-mlb38507939",
+  "title": "Kit Irrigação Gotejamento Ajustável 20m Microtubo 20 Gotejadores",
+  "brand": null,
+  "model": null,
+  "category_slug": "jardim-e-piscina-7",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_991515-MLA99952059735_112025-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB3787410407",
+      "condition": "new",
+      "category_slug": "jardim-e-piscina-7",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "117064693",
+        "name": null,
+        "reputation": null
+      },
+      "price": 76.62,
+      "currency": "BRL",
+      "store_reference_price": 78.99,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB38507939",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:06:43.152Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5431913480",
+      "condition": "new",
+      "category_slug": "jardim-e-piscina-7",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "772930603",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 98,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB38507939",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:06:43.152Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 76.62,
+      "max_price": 98,
+      "observations": 8
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 76.62,
+      "max_price": 98,
+      "observations": 8
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 76.62,
+      "max_price": 98,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 76.62,
+      "max_price": 98,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 76.62,
+      "max_price": 98,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 76.62,
+    "min_ever": 76.62,
+    "min_ever_at": "2026-11-07",
+    "max_ever": 98,
+    "distinct_days": 5,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

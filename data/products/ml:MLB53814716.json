@@ -1,0 +1,87 @@
+{
+  "id": "ml:MLB53814716",
+  "slug": "refil-mop-360-16cm-giratorio-balde-mop-limpeza-mlb53814716",
+  "title": "Refil Mop 360° 16cm Giratório Balde Mop Limpeza",
+  "brand": null,
+  "model": null,
+  "category_slug": "organizacao-e-limpeza-5",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_649022-MLA89986137049_082025-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB6010649216",
+      "condition": "new",
+      "category_slug": "organizacao-e-limpeza-5",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "703810027",
+        "name": null,
+        "reputation": null
+      },
+      "price": 22.47,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB53814716",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T14:54:32.908Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 22.47,
+      "max_price": 22.47,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 22.47,
+      "max_price": 22.47,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 22.47,
+      "max_price": 22.47,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 22.47,
+      "max_price": 22.47,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 22.47,
+      "max_price": 22.47,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 22.47,
+    "min_ever": 22.47,
+    "min_ever_at": "2026-11-07",
+    "max_ever": 22.47,
+    "distinct_days": 5,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
+  },
+  "score": 35
+}

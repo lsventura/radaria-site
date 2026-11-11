@@ -1,0 +1,81 @@
+{
+  "id": "ml:MLB25044611",
+  "slug": "corda-pular-com-rolamento-treino-funcional-crossfit-laranja-mlb25044611",
+  "title": "Corda Pular Com Rolamento Treino Funcional Crossfit Laranja",
+  "brand": null,
+  "model": null,
+  "category_slug": "fitness-5",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_903754-MLU70684058979_072023-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB4993146785",
+      "condition": "new",
+      "category_slug": "fitness-5",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2363074945",
+        "name": null,
+        "reputation": null
+      },
+      "price": 41.38,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB25044611",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:13:43.220Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 41.38,
+      "max_price": 41.38,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 41.38,
+      "max_price": 41.38,
+      "observations": 5
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 41.38,
+      "max_price": 41.38,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 41.38,
+      "max_price": 41.38,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 41.38,
+    "min_ever": 41.38,
+    "min_ever_at": "2026-11-08",
+    "max_ever": 41.38,
+    "distinct_days": 4,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+  },
+  "score": 47
+}

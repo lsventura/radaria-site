@@ -9,9 +9,64 @@
     "https://http2.mlstatic.com/D_NQ_NP_707126-MLA84175995012_052025-F.jpg"
   ],
   "attributes": {},
+  "catalog_link": null,
   "offers": [
     {
+      "offer_id": "ml:MLB4065950145",
+      "condition": "new",
+      "category_slug": "beleza-14",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "436836109",
+        "name": null,
+        "reputation": null
+      },
+      "price": 74.9,
+      "currency": "BRL",
+      "store_reference_price": 78.97,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB32548003",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:51:42.932Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4440890722",
+      "condition": "new",
+      "category_slug": "beleza-14",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "414081106",
+        "name": null,
+        "reputation": null
+      },
+      "price": 100,
+      "currency": "BRL",
+      "store_reference_price": 109.9,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB32548003",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:51:42.932Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
       "offer_id": "ml:MLB3933477577",
+      "condition": "new",
+      "category_slug": "beleza-14",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "436836109",
@@ -21,11 +76,63 @@
       "price": 99.41,
       "currency": "BRL",
       "store_reference_price": 102.48,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/2e2P5yp",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T01:05:41.531Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB32548003",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:51:42.932Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5357839072",
+      "condition": "new",
+      "category_slug": "beleza-14",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "377903096",
+        "name": null,
+        "reputation": null
+      },
+      "price": 108.94,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB32548003",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:51:42.932Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5221579376",
+      "condition": "new",
+      "category_slug": "beleza-14",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "414081106",
+        "name": null,
+        "reputation": null
+      },
+      "price": 96.72,
+      "currency": "BRL",
+      "store_reference_price": 99.71,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB32548003",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:51:42.932Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -34,31 +141,41 @@
   "history": [
     {
       "date": "2026-11-08",
-      "min_price": 99.41,
-      "observations": 6
+      "min_price": 74.9,
+      "max_price": 108.94,
+      "observations": 30
     },
     {
       "date": "2026-11-09",
-      "min_price": 99.41,
-      "observations": 4
+      "min_price": 74.9,
+      "max_price": 108.94,
+      "observations": 20
     },
     {
       "date": "2026-11-10",
-      "min_price": 99.41,
-      "observations": 3
+      "min_price": 74.9,
+      "max_price": 108.94,
+      "observations": 15
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 74.9,
+      "max_price": 108.94,
+      "observations": 5
     }
   ],
   "stats": {
-    "median_90d": 99.41,
-    "min_ever": 99.41,
+    "median_90d": 74.9,
+    "min_ever": 74.9,
     "min_ever_at": "2026-11-08",
-    "distinct_days": 3,
+    "max_ever": 108.94,
+    "distinct_days": 4,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
   },
-  "score": 64
+  "score": 56
 }

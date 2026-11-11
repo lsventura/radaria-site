@@ -1,0 +1,106 @@
+{
+  "id": "ml:MLB67575029",
+  "slug": "30-caixa-termica-isopor-branco-250ml-mlb67575029",
+  "title": "30 Caixa Térmica Isopor Branco 250ML",
+  "brand": null,
+  "model": null,
+  "category_slug": "viagem-e-outdoor-5",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_795503-MLA111252995763_052026-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB7748114872",
+      "condition": "new",
+      "category_slug": "viagem-e-outdoor-5",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "56529879",
+        "name": null,
+        "reputation": null
+      },
+      "price": 113.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB67575029",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T14:39:33.115Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5393301989",
+      "condition": "new",
+      "category_slug": "viagem-e-outdoor-5",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1021555490",
+        "name": null,
+        "reputation": null
+      },
+      "price": 113.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB67575029",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T14:39:33.115Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 107.99,
+      "max_price": 113.9,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 107.99,
+      "max_price": 113.9,
+      "observations": 8
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 107.99,
+      "max_price": 113.9,
+      "observations": 6
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 107.99,
+      "max_price": 113.99,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 107.99,
+    "min_ever": 107.99,
+    "min_ever_at": "2026-11-08",
+    "max_ever": 113.99,
+    "distinct_days": 4,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": -5.5,
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+  },
+  "score": 43
+}

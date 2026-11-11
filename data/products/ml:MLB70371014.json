@@ -1,0 +1,118 @@
+{
+  "id": "ml:MLB70371014",
+  "slug": "figurinha-selecao-noruega-avulso-album-copa-mundo-2026-nor1-mlb70371014",
+  "title": "Figurinha Selecao Noruega Avulso Album Copa Mundo 2026 Nor1",
+  "brand": "Panini",
+  "model": null,
+  "category_slug": "geral",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_935190-MLA112335304999_052026-F.jpg"
+  ],
+  "attributes": {
+    "AGID": "SPLIT_FAMILY_CHILD:410a63c3-214c-400d-a7b4-3304a5265f5d",
+    "GTIN": "07896662929741",
+    "TEAM": "Selecao Noruega",
+    "APGID": "SPLIT_FAMILY_PARENT:3ff70de8-93f4-49a0-b1d2-fb0c2c173732",
+    "BRAND": "Panini",
+    "ALBUM_NAME": "Album Copa Mundo 2026",
+    "ALBUM_YEAR": "2026",
+    "SALE_FORMAT": "Pack",
+    "PRODUCT_TYPE": "Figurinha individual",
+    "STICKER_NUMBER": "2",
+    "UNITS_PER_PACK": "19",
+    "IS_SPECIAL_STICKER": "Não",
+    "MIN_RECOMMENDED_AGE": "5 anos",
+    "NO_REPEATED_STICKERS": "Sim",
+    "RECOMMENDED_AGE_GROUP": "14 anos ou mais",
+    "IS_HOLOGRAPHIC_STICKER": "Não",
+    "COLLECTIBLE_ALBUM_STICKERS_THEME": "Copa do Mundo 2026"
+  },
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB7541284996",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "39967620",
+        "name": null,
+        "reputation": null
+      },
+      "price": 19.85,
+      "currency": "BRL",
+      "store_reference_price": 20.9,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB70371014",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T18:10:19.220Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7086884218",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1899514053",
+        "name": null,
+        "reputation": null
+      },
+      "price": 25,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB70371014",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T18:10:19.220Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-09",
+      "min_price": 19.85,
+      "max_price": 25,
+      "observations": 42
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 19.85,
+      "max_price": 25,
+      "observations": 40
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 19.85,
+      "max_price": 25,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 19.85,
+    "min_ever": 19.85,
+    "min_ever_at": "2026-11-09",
+    "max_ever": 25,
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 39
+}

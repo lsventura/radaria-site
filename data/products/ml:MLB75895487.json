@@ -9,23 +9,30 @@
     "https://http2.mlstatic.com/D_NQ_NP_811717-MLA114373005846_082026-F.jpg"
   ],
   "attributes": {},
+  "catalog_link": null,
   "offers": [
     {
       "offer_id": "ml:MLB7294401890",
+      "condition": "new",
+      "category_slug": "celulares-10",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "480263032",
         "name": null,
         "reputation": null
       },
-      "price": 4620.33,
+      "price": 4592,
       "currency": "BRL",
       "store_reference_price": 5999,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/1stFjRU",
-      "affiliate": true,
-      "last_observed_at": "2026-11-10T23:35:13.313Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB75895487",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:07:43.235Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -35,35 +42,46 @@
     {
       "date": "2026-11-08",
       "min_price": 4599,
+      "max_price": 4599,
       "observations": 1
     },
     {
       "date": "2026-11-09",
       "min_price": 4620.33,
+      "max_price": 5231.4,
       "observations": 7
     },
     {
       "date": "2026-11-10",
       "min_price": 4620.33,
+      "max_price": 4620.33,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 4592,
+      "max_price": 4620.33,
       "observations": 3
     },
     {
       "date": "2026-11-07",
       "min_price": 4599,
+      "max_price": 4599,
       "observations": 1
     }
   ],
   "stats": {
-    "median_90d": 4609.67,
-    "min_ever": 4599,
-    "min_ever_at": "2026-11-07",
-    "distinct_days": 4,
+    "median_90d": 4599,
+    "min_ever": 4592,
+    "min_ever_at": "2026-11-11",
+    "max_ever": 5231.4,
+    "distinct_days": 5,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": -0.2,
-    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+    "pct_below_median": 0.2,
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
   },
   "score": 60
 }

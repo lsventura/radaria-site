@@ -1,0 +1,88 @@
+{
+  "id": "ml:MLB68260870",
+  "slug": "pelicula-3d-privacidade-para-xiaomi-poco-x5-x5-pro-mlb68260870",
+  "title": "Película 3d Privacidade Para Xiaomi Poco X5 / X5 Pro",
+  "brand": "Renova Protect",
+  "model": "POCO X5",
+  "category_slug": "geral",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_887685-MLA110565711619_042026-F.jpg"
+  ],
+  "attributes": {
+    "GTIN": "07891097353154",
+    "BRAND": "Renova Protect",
+    "MODEL": "POCO X5",
+    "HARDNESS": "9H",
+    "SALE_FORMAT": "Unidade",
+    "UNITS_PER_PACK": "1",
+    "TYPE_OF_SURFACE": "Plana ou Curva",
+    "WITH_ANTI_CLARITY": "Sim",
+    "WITH_SCRATCH_PROTECTION": "Sim",
+    "WITH_SHATTER_PROTECTION": "Sim",
+    "COMPATIBLE_CELLPHONE_TABLET_AND_GPS_BRANDS": "Xiaomi",
+    "COMPATIBLE_CELLPHONE_TABLET_AND_GPS_MODELS": "Poco X5, Poco X5 Pro"
+  },
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB4615593977",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1306105",
+        "name": null,
+        "reputation": null
+      },
+      "price": 28.4,
+      "currency": "BRL",
+      "store_reference_price": 90,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB68260870",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T18:08:56.220Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-09",
+      "min_price": 28.4,
+      "max_price": 28.4,
+      "observations": 21
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 28.4,
+      "max_price": 28.4,
+      "observations": 21
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 28.4,
+      "max_price": 28.4,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 28.4,
+    "min_ever": 28.4,
+    "min_ever_at": "2026-11-09",
+    "max_ever": 28.4,
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

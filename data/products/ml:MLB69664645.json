@@ -9,9 +9,14 @@
     "https://http2.mlstatic.com/D_NQ_NP_788776-MLA110740575824_052026-F.jpg"
   ],
   "attributes": {},
+  "catalog_link": null,
   "offers": [
     {
       "offer_id": "ml:MLB7734938080",
+      "condition": "new",
+      "category_slug": "pets-5",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "576243055",
@@ -21,16 +26,47 @@
       "price": 82.06,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/1JjmrY1",
-      "affiliate": true,
-      "last_observed_at": "2026-11-10T23:41:10.785Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB69664645",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:24:43.409Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4753261751",
+      "condition": "new",
+      "category_slug": "pets-5",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1167397348",
+        "name": null,
+        "reputation": null
+      },
+      "price": 76.35,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB69664645",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:24:43.409Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB6928564908",
+      "condition": "new",
+      "category_slug": "pets-5",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "1167397348",
@@ -40,16 +76,22 @@
       "price": 82.04,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/1JjmrY1",
-      "affiliate": true,
-      "last_observed_at": "2026-11-10T23:41:10.785Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB69664645",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:24:43.409Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB6780029512",
+      "condition": "new",
+      "category_slug": "pets-5",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "217713439",
@@ -59,16 +101,22 @@
       "price": 101.83,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/1JjmrY1",
-      "affiliate": true,
-      "last_observed_at": "2026-11-10T23:41:10.785Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB69664645",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:24:43.409Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB6780031214",
+      "condition": "new",
+      "category_slug": "pets-5",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "217713439",
@@ -78,11 +126,13 @@
       "price": 82.06,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/1JjmrY1",
-      "affiliate": true,
-      "last_observed_at": "2026-11-10T23:41:10.785Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB69664645",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:24:43.409Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -91,36 +141,47 @@
   "history": [
     {
       "date": "2026-11-08",
-      "min_price": 82.04,
-      "observations": 4
+      "min_price": 76.35,
+      "max_price": 101.83,
+      "observations": 5
     },
     {
       "date": "2026-11-09",
-      "min_price": 82.04,
-      "observations": 16
+      "min_price": 76.35,
+      "max_price": 101.83,
+      "observations": 20
     },
     {
       "date": "2026-11-10",
-      "min_price": 82.04,
-      "observations": 12
+      "min_price": 76.35,
+      "max_price": 101.83,
+      "observations": 15
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 76.35,
+      "max_price": 101.83,
+      "observations": 5
     },
     {
       "date": "2026-11-07",
-      "min_price": 82.04,
-      "observations": 4
+      "min_price": 76.35,
+      "max_price": 101.83,
+      "observations": 5
     }
   ],
   "stats": {
-    "median_90d": 82.04,
-    "min_ever": 82.04,
+    "median_90d": 76.35,
+    "min_ever": 76.35,
     "min_ever_at": "2026-11-07",
-    "distinct_days": 4,
+    "max_ever": 101.83,
+    "distinct_days": 5,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
   },
-  "score": 60
+  "score": 52
 }

@@ -9,9 +9,14 @@
     "https://http2.mlstatic.com/D_NQ_NP_889260-MLA105823003559_012026-F.jpg"
   ],
   "attributes": {},
+  "catalog_link": null,
   "offers": [
     {
       "offer_id": "ml:MLB4443651427",
+      "condition": "new",
+      "category_slug": "bebes-6",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "1431659757",
@@ -21,16 +26,47 @@
       "price": 88,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/2QNp8dC",
-      "affiliate": true,
-      "last_observed_at": "2026-11-10T23:25:09.388Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB64958087",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:07:43.235Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4618964271",
+      "condition": "new",
+      "category_slug": "bebes-6",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1431659757",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 78.08,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB64958087",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:07:43.235Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB7270703058",
+      "condition": "new",
+      "category_slug": "bebes-6",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "1162959932",
@@ -40,16 +76,47 @@
       "price": 109.9,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/2QNp8dC",
-      "affiliate": true,
-      "last_observed_at": "2026-11-10T23:25:09.388Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB64958087",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:07:43.235Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4672107219",
+      "condition": "new",
+      "category_slug": "bebes-6",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3215107019",
+        "name": null,
+        "reputation": null
+      },
+      "price": 99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB64958087",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:07:43.235Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB6764392172",
+      "condition": "new",
+      "category_slug": "bebes-6",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "2022423857",
@@ -59,16 +126,22 @@
       "price": 98.9,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/2QNp8dC",
-      "affiliate": true,
-      "last_observed_at": "2026-11-10T23:25:09.388Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB64958087",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:07:43.235Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB7096672704",
+      "condition": "new",
+      "category_slug": "bebes-6",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "3230110451",
@@ -78,11 +151,13 @@
       "price": 99.9,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/2QNp8dC",
-      "affiliate": true,
-      "last_observed_at": "2026-11-10T23:25:09.388Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB64958087",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:07:43.235Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -91,31 +166,41 @@
   "history": [
     {
       "date": "2026-11-08",
-      "min_price": 88,
-      "observations": 4
+      "min_price": 78.08,
+      "max_price": 109.9,
+      "observations": 6
     },
     {
       "date": "2026-11-09",
-      "min_price": 88,
-      "observations": 16
+      "min_price": 78.08,
+      "max_price": 109.9,
+      "observations": 24
     },
     {
       "date": "2026-11-10",
-      "min_price": 88,
-      "observations": 12
+      "min_price": 78.08,
+      "max_price": 109.9,
+      "observations": 18
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 78.08,
+      "max_price": 109.9,
+      "observations": 6
     }
   ],
   "stats": {
-    "median_90d": 88,
-    "min_ever": 88,
+    "median_90d": 78.08,
+    "min_ever": 78.08,
     "min_ever_at": "2026-11-08",
-    "distinct_days": 3,
+    "max_ever": 109.9,
+    "distinct_days": 4,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
   },
-  "score": 60
+  "score": 52
 }

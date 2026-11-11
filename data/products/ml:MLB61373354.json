@@ -9,23 +9,105 @@
     "https://http2.mlstatic.com/D_NQ_NP_969753-MLA96165250120_102025-F.jpg"
   ],
   "attributes": {},
+  "catalog_link": null,
   "offers": [
     {
       "offer_id": "ml:MLB4953504615",
+      "condition": "new",
+      "category_slug": "celulares-10",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "2654525875",
         "name": null,
         "reputation": null
       },
-      "price": 1529,
+      "price": 1099,
       "currency": "BRL",
       "store_reference_price": 1699,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/2zAXATx",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T02:11:44.085Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB61373354",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:53:43.214Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5902977808",
+      "condition": "new",
+      "category_slug": "celulares-10",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1046986303",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1585.5,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB61373354",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:53:43.214Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7266727646",
+      "condition": "new",
+      "category_slug": "celulares-10",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3109704335",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1650,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB61373354",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:53:43.214Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5901777308",
+      "condition": "new",
+      "category_slug": "celulares-10",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1046986303",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1585.5,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB61373354",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:53:43.214Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -35,35 +117,46 @@
     {
       "date": "2026-11-08",
       "min_price": 1529,
-      "observations": 1
+      "max_price": 1650,
+      "observations": 4
     },
     {
       "date": "2026-11-09",
       "min_price": 1529,
-      "observations": 4
+      "max_price": 1650,
+      "observations": 16
     },
     {
       "date": "2026-11-10",
       "min_price": 1529,
-      "observations": 3
+      "max_price": 1650,
+      "observations": 12
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 1099,
+      "max_price": 1650,
+      "observations": 5
     },
     {
       "date": "2026-11-07",
       "min_price": 1529,
-      "observations": 2
+      "max_price": 1650,
+      "observations": 5
     }
   ],
   "stats": {
     "median_90d": 1529,
-    "min_ever": 1529,
-    "min_ever_at": "2026-11-07",
-    "distinct_days": 4,
+    "min_ever": 1099,
+    "min_ever_at": "2026-11-11",
+    "max_ever": 1650,
+    "distinct_days": 5,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 0,
-    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+    "pct_below_median": 28.1,
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
   },
   "score": 64
 }

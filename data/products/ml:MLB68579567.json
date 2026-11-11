@@ -9,9 +9,14 @@
     "https://http2.mlstatic.com/D_NQ_NP_905974-MLA109941228904_042026-F.jpg"
   ],
   "attributes": {},
+  "catalog_link": null,
   "offers": [
     {
       "offer_id": "ml:MLB4639421383",
+      "condition": "new",
+      "category_slug": "jardim-e-piscina-3",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "3335066167",
@@ -21,16 +26,22 @@
       "price": 531,
       "currency": "BRL",
       "store_reference_price": 671.83,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/2mXSSHr",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T00:12:12.683Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB68579567",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T12:15:14.512Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB7727173374",
+      "condition": "new",
+      "category_slug": "jardim-e-piscina-3",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "2592900341",
@@ -40,16 +51,22 @@
       "price": 560,
       "currency": "BRL",
       "store_reference_price": 671.83,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/2mXSSHr",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T00:12:12.683Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB68579567",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T12:15:14.512Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB7727173372",
+      "condition": "new",
+      "category_slug": "jardim-e-piscina-3",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "2592900341",
@@ -59,16 +76,22 @@
       "price": 537.46,
       "currency": "BRL",
       "store_reference_price": 707.44,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/2mXSSHr",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T00:12:12.683Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB68579567",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T12:15:14.512Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB4639421305",
+      "condition": "new",
+      "category_slug": "jardim-e-piscina-3",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "3335066167",
@@ -78,11 +101,13 @@
       "price": 589.9,
       "currency": "BRL",
       "store_reference_price": 671.83,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/2mXSSHr",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T00:12:12.683Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB68579567",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T12:15:14.512Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -92,21 +117,31 @@
     {
       "date": "2026-11-08",
       "min_price": 537.46,
+      "max_price": 615.64,
       "observations": 4
     },
     {
       "date": "2026-11-09",
       "min_price": 537.46,
+      "max_price": 615.64,
       "observations": 16
     },
     {
       "date": "2026-11-10",
       "min_price": 531,
+      "max_price": 615.64,
       "observations": 14
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 531,
+      "max_price": 589.9,
+      "observations": 4
     },
     {
       "date": "2026-11-07",
       "min_price": 537.46,
+      "max_price": 615.64,
       "observations": 4
     }
   ],
@@ -114,13 +149,14 @@
     "median_90d": 537.46,
     "min_ever": 531,
     "min_ever_at": "2026-11-10",
-    "distinct_days": 4,
+    "max_ever": 615.64,
+    "distinct_days": 5,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 1.2,
-    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
   },
-  "score": 60
+  "score": 56
 }

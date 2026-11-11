@@ -1,0 +1,106 @@
+{
+  "id": "ml:MLB32457259",
+  "slug": "exaustor-para-banheiros-e-ambientes-itc-vento-126mm-mlb32457259",
+  "title": "Exaustor Para Banheiros E Ambientes Itc Vento 126mm",
+  "brand": "ITC",
+  "model": "Ventilador Parede Madeira Teto",
+  "category_slug": "geral",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_983239-MLA95125505792_102025-F.jpg"
+  ],
+  "attributes": {
+    "GTIN": "7896911300987",
+    "BRAND": "ITC",
+    "MODEL": "Ventilador Parede Madeira Teto",
+    "POWER": "55 W",
+    "VOLTAGE": "127V",
+    "FREQUENCY": "50/60",
+    "IS_SILENT": "Sim",
+    "NOISE_LEVEL": "70 dB",
+    "TOTAL_DEPTH": "20 cm",
+    "TOTAL_WIDTH": "14 cm",
+    "TOTAL_HEIGHT": "14 cm",
+    "BODY_MATERIAL": "Plástico",
+    "TOTAL_DIAMETER": "12 cm",
+    "GRILLE_MATERIAL": "Plástico",
+    "ENERGY_EFFICIENCY": "A",
+    "INSTALLATION_TYPE": "De parede",
+    "WITH_LIGHT_INDICATOR": "Não"
+  },
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB4440930026",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "243946767",
+        "name": null,
+        "reputation": null
+      },
+      "price": 168.2,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB32457259",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:57:51.214Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4486227865",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3223712412",
+        "name": null,
+        "reputation": null
+      },
+      "price": 150,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB32457259",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:57:51.214Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-11",
+      "min_price": 150,
+      "max_price": 168.2,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 150,
+    "min_ever": 150,
+    "min_ever_at": "2026-11-11",
+    "max_ever": 168.2,
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 47
+}

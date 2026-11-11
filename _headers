@@ -1,0 +1,30 @@
+# Cache e segurança dos arquivos estáticos do Cloudflare Pages.
+# Vale só para assets estáticos. Respostas de Pages Functions (/_img/*) definem os próprios cabeçalhos.
+# Limites do plano grátis: 100 regras, 2.000 caracteres por linha.
+
+# Cabeçalhos globais. HTML segue com o padrão do Pages (max-age=0, must-revalidate + ETag).
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=()
+
+# JS, CSS e fontes com hash no nome: nunca mudam.
+/_astro/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# Mascote, ícones de categoria e imagens de exemplo: o nome do arquivo não tem hash.
+# 7 dias e revalida em segundo plano; troca de arte aparece em até 1 dia depois.
+/brand/*
+  Cache-Control: public, max-age=604800, stale-while-revalidate=86400
+/images/*
+  Cache-Control: public, max-age=604800, stale-while-revalidate=86400
+/favicon*
+  Cache-Control: public, max-age=86400
+/apple-touch-icon.png
+  Cache-Control: public, max-age=86400
+
+# JSON de listagem e busca: o export roda a cada 2 horas.
+/dados/*
+  Cache-Control: public, max-age=300, stale-while-revalidate=3600
+/data/*
+  Cache-Control: public, max-age=0, must-revalidate

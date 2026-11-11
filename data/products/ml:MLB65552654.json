@@ -1,0 +1,106 @@
+{
+  "id": "ml:MLB65552654",
+  "slug": "pistola-pintura-lvlp-x2300-kaizentech-1-3mm-gravidade-automo-mlb65552654",
+  "title": "Pistola Pintura Lvlp X2300 Kaizentech 1.3mm Gravidade Automo",
+  "brand": null,
+  "model": null,
+  "category_slug": "ferramentas-16",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_982130-MLA107122460145_022026-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB7068336554",
+      "condition": "new",
+      "category_slug": "ferramentas-16",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1799298585",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1106.6,
+      "currency": "BRL",
+      "store_reference_price": 1189.9,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB65552654",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:44:44.546Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4870704647",
+      "condition": "new",
+      "category_slug": "ferramentas-16",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2390865843",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1119,
+      "currency": "BRL",
+      "store_reference_price": 1626,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB65552654",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:44:44.546Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 1073,
+      "max_price": 1119,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 1106.6,
+      "max_price": 1119,
+      "observations": 14
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 1106.6,
+      "max_price": 1119,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 1106.6,
+      "max_price": 1119,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 1106.6,
+    "min_ever": 1073,
+    "min_ever_at": "2026-11-08",
+    "max_ever": 1119,
+    "distinct_days": 4,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+  },
+  "score": 43
+}

@@ -9,28 +9,64 @@
     "https://http2.mlstatic.com/D_NQ_NP_621843-MLA99480448918_112025-F.jpg"
   ],
   "attributes": {},
+  "catalog_link": null,
   "offers": [
     {
       "offer_id": "ml:MLB4177863373",
+      "condition": "new",
+      "category_slug": "brinquedos-4",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "533610446",
         "name": null,
         "reputation": null
       },
-      "price": 120,
+      "price": 109.99,
       "currency": "BRL",
       "store_reference_price": 209.99,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/2YVv1mQ",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T02:10:47.965Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB54096914",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:52:43.050Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4177760171",
+      "condition": "new",
+      "category_slug": "brinquedos-4",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "114168784",
+        "name": null,
+        "reputation": null
+      },
+      "price": 189.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB54096914",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:52:43.050Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB7246799692",
+      "condition": "new",
+      "category_slug": "brinquedos-4",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "2145663706",
@@ -40,11 +76,13 @@
       "price": 114.46,
       "currency": "BRL",
       "store_reference_price": 118,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/2YVv1mQ",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T02:10:47.965Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB54096914",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:52:43.050Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -54,35 +92,46 @@
     {
       "date": "2026-11-08",
       "min_price": 114.46,
-      "observations": 2
+      "max_price": 189.99,
+      "observations": 3
     },
     {
       "date": "2026-11-09",
       "min_price": 114.46,
-      "observations": 8
+      "max_price": 189.99,
+      "observations": 10
     },
     {
       "date": "2026-11-10",
       "min_price": 114.46,
+      "max_price": 120,
       "observations": 6
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 109.99,
+      "max_price": 189.99,
+      "observations": 4
     },
     {
       "date": "2026-11-07",
       "min_price": 114.46,
-      "observations": 2
+      "max_price": 189.99,
+      "observations": 3
     }
   ],
   "stats": {
     "median_90d": 114.46,
-    "min_ever": 114.46,
-    "min_ever_at": "2026-11-07",
-    "distinct_days": 4,
+    "min_ever": 109.99,
+    "min_ever_at": "2026-11-11",
+    "max_ever": 189.99,
+    "distinct_days": 5,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 0,
-    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+    "pct_below_median": 3.9,
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
   },
   "score": 64
 }

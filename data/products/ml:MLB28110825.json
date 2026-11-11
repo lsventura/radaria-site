@@ -9,9 +9,14 @@
     "https://http2.mlstatic.com/D_NQ_NP_699104-MLA118919525651_102026-F.jpg"
   ],
   "attributes": {},
+  "catalog_link": null,
   "offers": [
     {
       "offer_id": "ml:MLB5791886536",
+      "condition": "new",
+      "category_slug": "instrumentos-musicais-6",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "286313576",
@@ -21,16 +26,22 @@
       "price": 199,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/27oPvBV",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T01:20:34.796Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB28110825",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:05:42.927Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB5309979516",
+      "condition": "new",
+      "category_slug": "instrumentos-musicais-6",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "447511110",
@@ -40,16 +51,97 @@
       "price": 122,
       "currency": "BRL",
       "store_reference_price": 157,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/27oPvBV",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T01:20:34.796Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB28110825",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:05:42.927Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5322530364",
+      "condition": "new",
+      "category_slug": "instrumentos-musicais-6",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "10048479",
+        "name": null,
+        "reputation": null
+      },
+      "price": 317,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB28110825",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:05:42.927Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5469614936",
+      "condition": "new",
+      "category_slug": "instrumentos-musicais-6",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1925191801",
+        "name": null,
+        "reputation": null
+      },
+      "price": 215,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB28110825",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:05:42.927Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5322634270",
+      "condition": "new",
+      "category_slug": "instrumentos-musicais-6",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "10048479",
+        "name": null,
+        "reputation": null
+      },
+      "price": 288,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB28110825",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:05:42.927Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB3995242351",
+      "condition": "new",
+      "category_slug": "instrumentos-musicais-6",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "447511110",
@@ -59,11 +151,13 @@
       "price": 128,
       "currency": "BRL",
       "store_reference_price": 157,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/27oPvBV",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T01:20:34.796Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB28110825",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:05:42.927Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -73,35 +167,46 @@
     {
       "date": "2026-11-08",
       "min_price": 125.12,
-      "observations": 3
+      "max_price": 317,
+      "observations": 6
     },
     {
       "date": "2026-11-09",
       "min_price": 125.12,
-      "observations": 12
+      "max_price": 317,
+      "observations": 24
     },
     {
       "date": "2026-11-10",
       "min_price": 122,
+      "max_price": 317,
+      "observations": 12
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 122,
+      "max_price": 317,
       "observations": 6
     },
     {
       "date": "2026-11-07",
       "min_price": 125.12,
-      "observations": 3
+      "max_price": 317,
+      "observations": 6
     }
   ],
   "stats": {
     "median_90d": 125.12,
     "min_ever": 122,
     "min_ever_at": "2026-11-10",
-    "distinct_days": 4,
+    "max_ever": 317,
+    "distinct_days": 5,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 2.5,
-    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
   },
   "score": 64
 }

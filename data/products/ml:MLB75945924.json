@@ -1,0 +1,87 @@
+{
+  "id": "ml:MLB75945924",
+  "slug": "criado-mudor-p-cama-box-compacto-c-prateleira-max-cor-off-white-cinamomo-mlb75945924",
+  "title": "Criado Mudor P/ Cama Box Compacto C/ Prateleira Max Cor Off white/Cinamomo",
+  "brand": null,
+  "model": null,
+  "category_slug": "moveis-14",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_943106-MLA113992544258_072026-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB7286297166",
+      "condition": "new",
+      "category_slug": "moveis-14",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "130181318",
+        "name": null,
+        "reputation": null
+      },
+      "price": 63,
+      "currency": "BRL",
+      "store_reference_price": 159.9,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB75945924",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T18:23:46.732Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 63,
+      "max_price": 63,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 63,
+      "max_price": 63,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 63,
+      "max_price": 63,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 63,
+      "max_price": 63,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 63,
+      "max_price": 63,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 63,
+    "min_ever": 63,
+    "min_ever_at": "2026-11-07",
+    "max_ever": 63,
+    "distinct_days": 5,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
+  },
+  "score": 39
+}

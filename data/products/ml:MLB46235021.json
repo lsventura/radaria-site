@@ -1,0 +1,143 @@
+{
+  "id": "ml:MLB46235021",
+  "slug": "pneu-225-65r17-sunny-102v-nu025-h-t-aro-17-mlb46235021",
+  "title": "Pneu 225/65r17 Sunny 102v Nu025 H/t Aro 17",
+  "brand": "Sunny",
+  "model": "NU025 H/T",
+  "category_slug": "geral",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_718895-MLA82618831309_022025-F.jpg"
+  ],
+  "attributes": {
+    "GTIN": "7908249312980",
+    "LINE": "NU025 H/T",
+    "BRAND": "Sunny",
+    "MODEL": "NU025 H/T",
+    "SIDEWALL": "OWL",
+    "LOAD_INDEX": "102",
+    "LOAD_RANGE": "SL",
+    "IS_RUN_FLAT": "Não",
+    "SPEED_INDEX": "V",
+    "RIM_DIAMETER": "17 \"",
+    "SERVICE_TYPE": "P",
+    "TERRAIN_TYPE": "HT",
+    "TIRES_NUMBER": "1",
+    "VEHICLE_TYPE": "Carro/Caminhonete",
+    "SECTION_WIDTH": "225 mm",
+    "UNITS_PER_PACK": "1",
+    "AUTOMOTIVE_TIRE_ASPECT_RATIO": "65"
+  },
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB7431744974",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1698141705",
+        "name": null,
+        "reputation": null
+      },
+      "price": 674.01,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB46235021",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:12:43.426Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7431526850",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1698141705",
+        "name": null,
+        "reputation": null
+      },
+      "price": 628.16,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB46235021",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:12:43.426Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7685283988",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1484189531",
+        "name": null,
+        "reputation": null
+      },
+      "price": 687.76,
+      "currency": "BRL",
+      "store_reference_price": 723.96,
+      "official_store": true,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB46235021",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:12:43.426Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-09",
+      "min_price": 628.16,
+      "max_price": 687.76,
+      "observations": 63
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 628.16,
+      "max_price": 687.76,
+      "observations": 12
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 628.16,
+      "max_price": 687.76,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 628.16,
+    "min_ever": 628.16,
+    "min_ever_at": "2026-11-09",
+    "max_ever": 687.76,
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 43
+}

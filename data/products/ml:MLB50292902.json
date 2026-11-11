@@ -1,0 +1,81 @@
+{
+  "id": "ml:MLB50292902",
+  "slug": "kit-skincare-limpeza-facial-diaria-com-creme-hidratante-mlb50292902",
+  "title": "Kit Skincare Limpeza Facial Diaria Com Creme Hidratante",
+  "brand": null,
+  "model": null,
+  "category_slug": "beleza-19",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_787594-MLA113040136124_072026-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB5400412206",
+      "condition": "new",
+      "category_slug": "beleza-19",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1420378914",
+        "name": null,
+        "reputation": null
+      },
+      "price": 124.26,
+      "currency": "BRL",
+      "store_reference_price": 129.8,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB50292902",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:59:46.917Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 125.91,
+      "max_price": 125.91,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 125.91,
+      "max_price": 129.8,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 124.26,
+      "max_price": 129.8,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 124.26,
+      "max_price": 124.26,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 125.09,
+    "min_ever": 124.26,
+    "min_ever_at": "2026-11-10",
+    "max_ever": 129.8,
+    "distinct_days": 4,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0.7,
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

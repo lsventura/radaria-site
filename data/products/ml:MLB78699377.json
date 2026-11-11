@@ -1,0 +1,87 @@
+{
+  "id": "ml:MLB78699377",
+  "slug": "monitor-gamer-odyssey-g8-32-mlb78699377",
+  "title": "Monitor Gamer Odyssey G8 32",
+  "brand": null,
+  "model": null,
+  "category_slug": "informatica-2",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_941013-MLA115543937164_082026-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB5517569725",
+      "condition": "new",
+      "category_slug": "informatica-2",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3682947358",
+        "name": null,
+        "reputation": null
+      },
+      "price": 8999,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB78699377",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:48:43.810Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 8999,
+      "max_price": 8999,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 8699,
+      "max_price": 8999,
+      "observations": 6
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 8699,
+      "max_price": 8699,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 8999,
+      "max_price": 8999,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 8999,
+      "max_price": 8999,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 8999,
+    "min_ever": 8699,
+    "min_ever_at": "2026-11-09",
+    "max_ever": 8999,
+    "distinct_days": 5,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
+  },
+  "score": 49
+}

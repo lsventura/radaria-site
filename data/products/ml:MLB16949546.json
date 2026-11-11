@@ -9,9 +9,14 @@
     "https://http2.mlstatic.com/D_NQ_NP_682744-MLA99991512953_112025-F.jpg"
   ],
   "attributes": {},
+  "catalog_link": null,
   "offers": [
     {
       "offer_id": "ml:MLB7285019402",
+      "condition": "new",
+      "category_slug": "esportes-11",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "223395366",
@@ -21,16 +26,72 @@
       "price": 4190,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/2WU93df",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T00:38:12.213Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB16949546",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:24:43.645Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5376571626",
+      "condition": "new",
+      "category_slug": "esportes-11",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1091787391",
+        "name": null,
+        "reputation": null
+      },
+      "price": 4590,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB16949546",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:24:43.645Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB3467848142",
+      "condition": "new",
+      "category_slug": "esportes-11",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1079969536",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 4590,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB16949546",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:24:43.645Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB7275701242",
+      "condition": "new",
+      "category_slug": "esportes-11",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "223395366",
@@ -40,11 +101,38 @@
       "price": 4590,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/2WU93df",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T00:38:12.213Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB16949546",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:24:43.645Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB2019463259",
+      "condition": "new",
+      "category_slug": "esportes-11",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "28183666",
+        "name": null,
+        "reputation": null
+      },
+      "price": 6000,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB16949546",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:24:43.645Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -54,30 +142,40 @@
     {
       "date": "2026-11-08",
       "min_price": 4190,
-      "observations": 8
+      "max_price": 6000,
+      "observations": 20
     },
     {
       "date": "2026-11-09",
       "min_price": 4190,
-      "observations": 6
+      "max_price": 6000,
+      "observations": 15
     },
     {
       "date": "2026-11-10",
       "min_price": 4190,
-      "observations": 6
+      "max_price": 6000,
+      "observations": 15
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 4190,
+      "max_price": 6000,
+      "observations": 5
     }
   ],
   "stats": {
     "median_90d": 4190,
     "min_ever": 4190,
     "min_ever_at": "2026-11-08",
-    "distinct_days": 3,
+    "max_ever": 6000,
+    "distinct_days": 4,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
   },
   "score": 60
 }

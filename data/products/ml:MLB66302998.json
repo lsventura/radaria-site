@@ -1,0 +1,118 @@
+{
+  "id": "ml:MLB66302998",
+  "slug": "pneu-175-65-r14-82h-reflex-rh01-ironhead-aro-14-ford-ka-mlb66302998",
+  "title": "Pneu 175 65 R14 82h Reflex Rh01 Ironhead Aro 14 Ford Ka",
+  "brand": "Ironhead",
+  "model": "Reflex RH01",
+  "category_slug": "geral",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_706123-MLA108283395471_032026-F.jpg"
+  ],
+  "attributes": {
+    "GTIN": "07892775182950",
+    "LINE": "Carro",
+    "UTQG": "360AA",
+    "BRAND": "Ironhead",
+    "MODEL": "Reflex RH01",
+    "SIDEWALL": "BSW",
+    "LOAD_INDEX": "82",
+    "LOAD_RANGE": "SL",
+    "IS_RUN_FLAT": "Não",
+    "RIM_DIAMETER": "14 \"",
+    "SERVICE_TYPE": "P",
+    "TERRAIN_TYPE": "HT",
+    "TIRES_NUMBER": "1",
+    "VEHICLE_TYPE": "Carro/Caminhonete",
+    "SECTION_WIDTH": "175 mm",
+    "UNITS_PER_PACK": "1",
+    "AUTOMOTIVE_TIRE_ASPECT_RATIO": "65"
+  },
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB7644313124",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3639385416",
+        "name": null,
+        "reputation": null
+      },
+      "price": 427.85,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB66302998",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T18:16:09.935Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4637741975",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1698141705",
+        "name": null,
+        "reputation": null
+      },
+      "price": 414.76,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB66302998",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T18:16:09.935Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-09",
+      "min_price": 414.76,
+      "max_price": 427.85,
+      "observations": 42
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 414.76,
+      "max_price": 427.85,
+      "observations": 38
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 414.76,
+      "max_price": 427.85,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 414.76,
+    "min_ever": 414.76,
+    "min_ever_at": "2026-11-09",
+    "max_ever": 427.85,
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 47
+}

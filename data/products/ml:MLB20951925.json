@@ -1,0 +1,107 @@
+{
+  "id": "ml:MLB20951925",
+  "slug": "lixeira-banheiro-cozinha-automatica-sensor-lixo-5-litros-mlb20951925",
+  "title": "Lixeira Banheiro Cozinha Automática Sensor Lixo 5 Litros",
+  "brand": "Luatek",
+  "model": null,
+  "category_slug": "geral",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_902461-MLB49882180303_052022-F.jpg"
+  ],
+  "attributes": {
+    "GTIN": "7894270903375",
+    "BRAND": "Luatek",
+    "SALE_FORMAT": "Unidade",
+    "MANUAL_TITLE": "Lixeira Banheiro Cozinha Automática Sensor Lixo 5 Litros",
+    "UNITS_PER_PACK": "1",
+    "VOLUME_CAPACITY": "5 L"
+  },
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB3951237772",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "196317436",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 127.8,
+      "currency": "BRL",
+      "store_reference_price": 135.63,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB20951925",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:35:44.028Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB3951288712",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "317319948",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 116.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB20951925",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:35:44.028Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-09",
+      "min_price": 116.3,
+      "max_price": 116.9,
+      "observations": 44
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 116.3,
+      "max_price": 116.9,
+      "observations": 40
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 116.3,
+      "max_price": 127.8,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 116.3,
+    "min_ever": 116.3,
+    "min_ever_at": "2026-11-09",
+    "max_ever": 127.8,
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": -0.5,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

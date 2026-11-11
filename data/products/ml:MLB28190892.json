@@ -1,0 +1,131 @@
+{
+  "id": "ml:MLB28190892",
+  "slug": "racao-para-gatos-adultos-carne-bonus-bag-origens-11-1kg-mlb28190892",
+  "title": "Ração Para Gatos Adultos Carne Bônus Bag Origens 11,1kg",
+  "brand": null,
+  "model": null,
+  "category_slug": "pets-1",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_919593-MLA99865656363_112025-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB6169317908",
+      "condition": "new",
+      "category_slug": "pets-1",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2486245665",
+        "name": null,
+        "reputation": null
+      },
+      "price": 322.16,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB28190892",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T18:17:46.750Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4235981787",
+      "condition": "new",
+      "category_slug": "pets-1",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1146196148",
+        "name": null,
+        "reputation": null
+      },
+      "price": 194.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB28190892",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T18:17:46.750Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4959513350",
+      "condition": "new",
+      "category_slug": "pets-1",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1635176354",
+        "name": null,
+        "reputation": null
+      },
+      "price": 229.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB28190892",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T18:17:46.750Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 194.99,
+      "max_price": 309.38,
+      "observations": 9
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 194.99,
+      "max_price": 322.16,
+      "observations": 12
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 194.99,
+      "max_price": 322.16,
+      "observations": 9
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 194.99,
+      "max_price": 322.16,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 194.99,
+    "min_ever": 194.99,
+    "min_ever_at": "2026-11-08",
+    "max_ever": 322.16,
+    "distinct_days": 4,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+  },
+  "score": 49
+}

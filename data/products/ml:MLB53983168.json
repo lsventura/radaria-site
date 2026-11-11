@@ -9,9 +9,14 @@
     "https://http2.mlstatic.com/D_NQ_NP_746409-MLA99872542391_112025-F.jpg"
   ],
   "attributes": {},
+  "catalog_link": null,
   "offers": [
     {
       "offer_id": "ml:MLB5600466364",
+      "condition": "new",
+      "category_slug": "automotivo-10",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "323473947",
@@ -21,11 +26,38 @@
       "price": 601.65,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/2FxpyDR",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T01:32:34.596Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB53983168",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:18:43.530Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6640124648",
+      "condition": "new",
+      "category_slug": "automotivo-10",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "72517661",
+        "name": null,
+        "reputation": null
+      },
+      "price": 217,
+      "currency": "BRL",
+      "store_reference_price": 266,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB53983168",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:18:43.530Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -34,31 +66,41 @@
   "history": [
     {
       "date": "2026-11-08",
-      "min_price": 601.65,
-      "observations": 1
+      "min_price": 217,
+      "max_price": 601.65,
+      "observations": 2
     },
     {
       "date": "2026-11-09",
-      "min_price": 601.65,
-      "observations": 5
+      "min_price": 217,
+      "max_price": 601.65,
+      "observations": 10
     },
     {
       "date": "2026-11-10",
-      "min_price": 601.65,
+      "min_price": 217,
+      "max_price": 601.65,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 217,
+      "max_price": 601.65,
       "observations": 2
     }
   ],
   "stats": {
-    "median_90d": 601.65,
-    "min_ever": 601.65,
+    "median_90d": 217,
+    "min_ever": 217,
     "min_ever_at": "2026-11-08",
-    "distinct_days": 3,
+    "max_ever": 601.65,
+    "distinct_days": 4,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
   },
-  "score": 64
+  "score": 47
 }

@@ -9,9 +9,39 @@
     "https://http2.mlstatic.com/D_NQ_NP_945654-MLA115038075450_082026-F.jpg"
   ],
   "attributes": {},
+  "catalog_link": null,
   "offers": [
     {
+      "offer_id": "ml:MLB7468175294",
+      "condition": "new",
+      "category_slug": "brinquedos-4",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "524736285",
+        "name": null,
+        "reputation": null
+      },
+      "price": 74.9,
+      "currency": "BRL",
+      "store_reference_price": 199.9,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB77708054",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:34:43.234Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
       "offer_id": "ml:MLB5343577871",
+      "condition": "new",
+      "category_slug": "brinquedos-4",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "3444140104",
@@ -21,11 +51,63 @@
       "price": 141,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/15qGY6z",
-      "affiliate": true,
-      "last_observed_at": "2026-11-10T23:46:09.611Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB77708054",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:34:43.234Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5386777471",
+      "condition": "new",
+      "category_slug": "brinquedos-4",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "581130964",
+        "name": null,
+        "reputation": null
+      },
+      "price": 68.35,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB77708054",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:34:43.234Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7753578312",
+      "condition": "new",
+      "category_slug": "brinquedos-4",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "388153476",
+        "name": null,
+        "reputation": null
+      },
+      "price": 180,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB77708054",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:34:43.234Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -34,36 +116,47 @@
   "history": [
     {
       "date": "2026-11-08",
-      "min_price": 141,
-      "observations": 1
-    },
-    {
-      "date": "2026-11-09",
-      "min_price": 141,
+      "min_price": 68.35,
+      "max_price": 180,
       "observations": 4
     },
     {
+      "date": "2026-11-09",
+      "min_price": 68.35,
+      "max_price": 180,
+      "observations": 16
+    },
+    {
       "date": "2026-11-10",
-      "min_price": 141,
-      "observations": 3
+      "min_price": 68.35,
+      "max_price": 180,
+      "observations": 12
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 68.35,
+      "max_price": 180,
+      "observations": 4
     },
     {
       "date": "2026-11-07",
-      "min_price": 141,
-      "observations": 1
+      "min_price": 68.35,
+      "max_price": 180,
+      "observations": 4
     }
   ],
   "stats": {
-    "median_90d": 141,
-    "min_ever": 141,
+    "median_90d": 68.35,
+    "min_ever": 68.35,
     "min_ever_at": "2026-11-07",
-    "distinct_days": 4,
+    "max_ever": 180,
+    "distinct_days": 5,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
   },
-  "score": 60
+  "score": 35
 }

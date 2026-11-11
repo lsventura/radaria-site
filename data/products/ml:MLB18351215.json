@@ -1,0 +1,81 @@
+{
+  "id": "ml:MLB18351215",
+  "slug": "webcam-full-hd-logitech-streamcam-plus-com-tripe-incluso-mlb18351215",
+  "title": "Webcam Full HD Logitech StreamCam Plus com Tripé Incluso",
+  "brand": null,
+  "model": null,
+  "category_slug": "informatica-7",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_608800-MLA99501587136_112025-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB4668705109",
+      "condition": "new",
+      "category_slug": "informatica-7",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1184688916",
+        "name": null,
+        "reputation": null
+      },
+      "price": 925,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB18351215",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:26:43.425Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 925,
+      "max_price": 925,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 925,
+      "max_price": 925,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 925,
+      "max_price": 925,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 925,
+      "max_price": 925,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 925,
+    "min_ever": 925,
+    "min_ever_at": "2026-11-08",
+    "max_ever": 925,
+    "distinct_days": 4,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+  },
+  "score": 43
+}

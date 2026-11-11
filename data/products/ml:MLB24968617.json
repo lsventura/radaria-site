@@ -1,0 +1,156 @@
+{
+  "id": "ml:MLB24968617",
+  "slug": "5-metros-mangueira-atoxica-purificador-agua-soft-lorenzetti-mlb24968617",
+  "title": "5 Metros Mangueira Atóxica Purificador Água Soft Lorenzetti",
+  "brand": null,
+  "model": null,
+  "category_slug": "cozinha-5",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_737933-MLA93510522037_092025-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB4092531431",
+      "condition": "new",
+      "category_slug": "cozinha-5",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "250370785",
+        "name": null,
+        "reputation": null
+      },
+      "price": 26.9,
+      "currency": "BRL",
+      "store_reference_price": 29.7,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB24968617",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T18:27:46.327Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB3387985577",
+      "condition": "new",
+      "category_slug": "cozinha-5",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "133566193",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 35.32,
+      "currency": "BRL",
+      "store_reference_price": 37.98,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB24968617",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T18:27:46.327Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4189027550",
+      "condition": "new",
+      "category_slug": "cozinha-5",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "4606655",
+        "name": null,
+        "reputation": null
+      },
+      "price": 39.04,
+      "currency": "BRL",
+      "store_reference_price": 41.98,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB24968617",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T18:27:46.327Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4188985112",
+      "condition": "new",
+      "category_slug": "cozinha-5",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "4606655",
+        "name": null,
+        "reputation": null
+      },
+      "price": 35.32,
+      "currency": "BRL",
+      "store_reference_price": 37.98,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB24968617",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T18:27:46.327Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 29.7,
+      "max_price": 39.04,
+      "observations": 12
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 29.7,
+      "max_price": 39.04,
+      "observations": 16
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 29.7,
+      "max_price": 39.04,
+      "observations": 12
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 26.9,
+      "max_price": 39.04,
+      "observations": 5
+    }
+  ],
+  "stats": {
+    "median_90d": 29.7,
+    "min_ever": 26.9,
+    "min_ever_at": "2026-11-11",
+    "max_ever": 39.04,
+    "distinct_days": 4,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 9.4,
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+  },
+  "score": 39
+}

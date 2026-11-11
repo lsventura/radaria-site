@@ -1,0 +1,81 @@
+{
+  "id": "ml:MLB26003686",
+  "slug": "sanduicheira-grill-electrobras-ebpg-01-preto-750w-60hz-mlb26003686",
+  "title": "Sanduicheira Grill Electrobras Ebpg-01 Preto 750W 60Hz",
+  "brand": null,
+  "model": null,
+  "category_slug": "cozinha-11",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_922970-MLA100034993201_122025-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB4924909570",
+      "condition": "new",
+      "category_slug": "cozinha-11",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1411174006",
+        "name": null,
+        "reputation": null
+      },
+      "price": 186.15,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB26003686",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:38:43.445Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 186.15,
+      "max_price": 186.15,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 186.15,
+      "max_price": 186.15,
+      "observations": 5
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 186.15,
+      "max_price": 186.15,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 186.15,
+      "max_price": 186.15,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 186.15,
+    "min_ever": 186.15,
+    "min_ever_at": "2026-11-08",
+    "max_ever": 186.15,
+    "distinct_days": 4,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+  },
+  "score": 47
+}

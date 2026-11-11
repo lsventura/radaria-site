@@ -1,0 +1,6 @@
+{
+  "version": 1,
+  "description": "Só /_img/* invoca a Pages Function (conta na cota de 100 mil/dia do Workers Free). O resto é estático: grátis e sem limite.",
+  "include": ["/_img/*"],
+  "exclude": []
+}

@@ -9,9 +9,14 @@
     "https://http2.mlstatic.com/D_NQ_NP_675431-MLA111545016245_052026-F.jpg"
   ],
   "attributes": {},
+  "catalog_link": null,
   "offers": [
     {
       "offer_id": "ml:MLB5466972715",
+      "condition": "new",
+      "category_slug": "cozinha-14",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "2475617707",
@@ -21,16 +26,47 @@
       "price": 539.99,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/2GPFGNb",
-      "affiliate": true,
-      "last_observed_at": "2026-11-10T23:46:09.611Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB69447462",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:35:44.028Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5319542141",
+      "condition": "new",
+      "category_slug": "cozinha-14",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2484653775",
+        "name": null,
+        "reputation": null
+      },
+      "price": 514.7,
+      "currency": "BRL",
+      "store_reference_price": 559.9,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB69447462",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:35:44.028Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB5168737957",
+      "condition": "new",
+      "category_slug": "cozinha-14",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "461145806",
@@ -40,16 +76,47 @@
       "price": 629,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/2GPFGNb",
-      "affiliate": true,
-      "last_observed_at": "2026-11-10T23:46:09.611Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB69447462",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:35:44.028Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4673930109",
+      "condition": "new",
+      "category_slug": "cozinha-14",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1656675378",
+        "name": null,
+        "reputation": null
+      },
+      "price": 537,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB69447462",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:35:44.028Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB5317146545",
+      "condition": "new",
+      "category_slug": "cozinha-14",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "1707819496",
@@ -59,16 +126,22 @@
       "price": 594.34,
       "currency": "BRL",
       "store_reference_price": 792.45,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/2GPFGNb",
-      "affiliate": true,
-      "last_observed_at": "2026-11-10T23:46:09.611Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB69447462",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:35:44.028Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB7890473296",
+      "condition": "new",
+      "category_slug": "cozinha-14",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "2475617707",
@@ -78,11 +151,13 @@
       "price": 539.99,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/2GPFGNb",
-      "affiliate": true,
-      "last_observed_at": "2026-11-10T23:46:09.611Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB69447462",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:35:44.028Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -91,31 +166,41 @@
   "history": [
     {
       "date": "2026-11-08",
-      "min_price": 569.99,
-      "observations": 4
+      "min_price": 519.9,
+      "max_price": 629,
+      "observations": 6
     },
     {
       "date": "2026-11-09",
-      "min_price": 539.99,
-      "observations": 16
+      "min_price": 519.9,
+      "max_price": 629,
+      "observations": 24
     },
     {
       "date": "2026-11-10",
-      "min_price": 539.99,
-      "observations": 12
+      "min_price": 514.7,
+      "max_price": 629,
+      "observations": 19
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 514.7,
+      "max_price": 629,
+      "observations": 6
     }
   ],
   "stats": {
-    "median_90d": 539.99,
-    "min_ever": 539.99,
-    "min_ever_at": "2026-11-09",
-    "distinct_days": 3,
+    "median_90d": 517.3,
+    "min_ever": 514.7,
+    "min_ever_at": "2026-11-10",
+    "max_ever": 629,
+    "distinct_days": 4,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 0,
-    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+    "pct_below_median": 0.5,
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
   },
-  "score": 60
+  "score": 43
 }

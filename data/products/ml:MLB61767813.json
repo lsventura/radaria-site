@@ -1,0 +1,162 @@
+{
+  "id": "ml:MLB61767813",
+  "slug": "pelicula-celular-customic-samsung-galaxy-a01-core-vidro-3d-mlb61767813",
+  "title": "Película Celular Customic Samsung Galaxy A01 Core Vidro 3d",
+  "brand": null,
+  "model": null,
+  "category_slug": "celulares-18",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_988673-MLA97447014461_112025-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB6682290904",
+      "condition": "new",
+      "category_slug": "celulares-18",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "367180480",
+        "name": null,
+        "reputation": null
+      },
+      "price": 34.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB61767813",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T14:41:32.922Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5909171186",
+      "condition": "new",
+      "category_slug": "celulares-18",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "239034359",
+        "name": null,
+        "reputation": null
+      },
+      "price": 27.56,
+      "currency": "BRL",
+      "store_reference_price": 29.9,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB61767813",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T14:41:32.922Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6002531446",
+      "condition": "new",
+      "category_slug": "celulares-18",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1246491454",
+        "name": null,
+        "reputation": null
+      },
+      "price": 15,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB61767813",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T14:41:32.922Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4913690529",
+      "condition": "new",
+      "category_slug": "celulares-18",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3259285157",
+        "name": null,
+        "reputation": null
+      },
+      "price": 25,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB61767813",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T14:41:32.922Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 15,
+      "max_price": 34.9,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 15,
+      "max_price": 34.9,
+      "observations": 16
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 15,
+      "max_price": 34.9,
+      "observations": 12
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 15,
+      "max_price": 34.9,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 15,
+      "max_price": 34.9,
+      "observations": 4
+    }
+  ],
+  "stats": {
+    "median_90d": 15,
+    "min_ever": 15,
+    "min_ever_at": "2026-11-07",
+    "max_ever": 34.9,
+    "distinct_days": 5,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
+  },
+  "score": 35
+}

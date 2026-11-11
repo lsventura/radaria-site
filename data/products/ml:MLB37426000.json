@@ -1,0 +1,106 @@
+{
+  "id": "ml:MLB37426000",
+  "slug": "vaso-autoirrigavel-salsa-alt-14cm-x-larg-16cm-preto-mlb37426000",
+  "title": "Vaso Autoirrigável Salsa Alt: 14cm X Larg: 16cm Preto",
+  "brand": null,
+  "model": null,
+  "category_slug": "jardim-e-piscina-6",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_663148-MLU76781281047_062024-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB7294020800",
+      "condition": "new",
+      "category_slug": "jardim-e-piscina-6",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "169885730",
+        "name": null,
+        "reputation": null
+      },
+      "price": 73.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB37426000",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:06:43.152Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6420780538",
+      "condition": "new",
+      "category_slug": "jardim-e-piscina-6",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "269284543",
+        "name": null,
+        "reputation": null
+      },
+      "price": 42.72,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB37426000",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:06:43.152Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 42.72,
+      "max_price": 73.9,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 42.72,
+      "max_price": 73.9,
+      "observations": 8
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 42.72,
+      "max_price": 73.9,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 42.72,
+      "max_price": 73.9,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 42.72,
+    "min_ever": 42.72,
+    "min_ever_at": "2026-11-08",
+    "max_ever": 73.9,
+    "distinct_days": 4,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

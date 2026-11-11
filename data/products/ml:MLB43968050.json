@@ -9,9 +9,14 @@
     "https://http2.mlstatic.com/D_NQ_NP_981562-MLA81000686787_112024-F.jpg"
   ],
   "attributes": {},
+  "catalog_link": null,
   "offers": [
     {
       "offer_id": "ml:MLB5320854669",
+      "condition": "new",
+      "category_slug": "beleza-11",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "3183178017",
@@ -21,16 +26,47 @@
       "price": 172.65,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/2k86q6d",
-      "affiliate": true,
-      "last_observed_at": "2026-11-10T23:34:11.593Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB43968050",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:21:42.971Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7079088784",
+      "condition": "new",
+      "category_slug": "beleza-11",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2006548099",
+        "name": null,
+        "reputation": null
+      },
+      "price": 394,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB43968050",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:21:42.971Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB7791496840",
+      "condition": "new",
+      "category_slug": "beleza-11",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "3434386828",
@@ -40,11 +76,13 @@
       "price": 169,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/2k86q6d",
-      "affiliate": true,
-      "last_observed_at": "2026-11-10T23:34:11.593Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB43968050",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:21:42.971Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -54,35 +92,46 @@
     {
       "date": "2026-11-08",
       "min_price": 169,
-      "observations": 8
+      "max_price": 394,
+      "observations": 12
     },
     {
       "date": "2026-11-09",
       "min_price": 169,
-      "observations": 8
+      "max_price": 394,
+      "observations": 12
     },
     {
       "date": "2026-11-10",
       "min_price": 169,
-      "observations": 8
+      "max_price": 394,
+      "observations": 11
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 169,
+      "max_price": 394,
+      "observations": 3
     },
     {
       "date": "2026-11-07",
       "min_price": 169,
-      "observations": 2
+      "max_price": 394,
+      "observations": 3
     }
   ],
   "stats": {
     "median_90d": 169,
     "min_ever": 169,
     "min_ever_at": "2026-11-07",
-    "distinct_days": 4,
+    "max_ever": 394,
+    "distinct_days": 5,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
   },
   "score": 60
 }

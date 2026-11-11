@@ -1,0 +1,131 @@
+{
+  "id": "ml:MLB34157683",
+  "slug": "casa-paulinha-nasa-travesseiro-viscoelastico-retangular-70cm-x-50cm-cor-branco-mlb34157683",
+  "title": "Casa Paulinha Nasa Travesseiro viscoelastico retangular 70cm x 50cm cor branco",
+  "brand": null,
+  "model": null,
+  "category_slug": "bem-estar-10",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_982157-MLA99454643784_112025-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB3871682373",
+      "condition": "new",
+      "category_slug": "bem-estar-10",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "477427348",
+        "name": null,
+        "reputation": null
+      },
+      "price": 111,
+      "currency": "BRL",
+      "store_reference_price": 124.68,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB34157683",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:10:43.116Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB3617710487",
+      "condition": "new",
+      "category_slug": "bem-estar-10",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "501308679",
+        "name": null,
+        "reputation": null
+      },
+      "price": 112.2,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB34157683",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:10:43.116Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4020819513",
+      "condition": "new",
+      "category_slug": "bem-estar-10",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "477427348",
+        "name": null,
+        "reputation": null
+      },
+      "price": 117.65,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB34157683",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:10:43.116Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 111,
+      "max_price": 117.65,
+      "observations": 12
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 111,
+      "max_price": 117.65,
+      "observations": 12
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 111,
+      "max_price": 117.65,
+      "observations": 6
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 111,
+      "max_price": 117.65,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 111,
+    "min_ever": 111,
+    "min_ever_at": "2026-11-08",
+    "max_ever": 117.65,
+    "distinct_days": 4,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+  },
+  "score": 47
+}

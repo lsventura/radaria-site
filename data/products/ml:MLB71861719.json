@@ -9,9 +9,14 @@
     "https://http2.mlstatic.com/D_NQ_NP_765940-MLA112684473091_062026-F.jpg"
   ],
   "attributes": {},
+  "catalog_link": null,
   "offers": [
     {
       "offer_id": "ml:MLB4737404681",
+      "condition": "new",
+      "category_slug": "livros-e-papelaria-10",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "144261870",
@@ -21,11 +26,13 @@
       "price": 449,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/17tVv9t",
-      "affiliate": true,
-      "last_observed_at": "2026-11-10T23:58:16.342Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB71861719",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:45:43.543Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -35,30 +42,40 @@
     {
       "date": "2026-11-08",
       "min_price": 449,
+      "max_price": 449,
       "observations": 1
     },
     {
       "date": "2026-11-09",
       "min_price": 449,
+      "max_price": 449,
       "observations": 4
     },
     {
       "date": "2026-11-10",
       "min_price": 449,
+      "max_price": 449,
       "observations": 3
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 449,
+      "max_price": 449,
+      "observations": 1
     }
   ],
   "stats": {
     "median_90d": 449,
     "min_ever": 449,
     "min_ever_at": "2026-11-08",
-    "distinct_days": 3,
+    "max_ever": 449,
+    "distinct_days": 4,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
   },
   "score": 60
 }

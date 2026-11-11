@@ -9,9 +9,14 @@
     "https://http2.mlstatic.com/D_NQ_NP_631169-MLA99931401367_112025-F.jpg"
   ],
   "attributes": {},
+  "catalog_link": null,
   "offers": [
     {
       "offer_id": "ml:MLB4405204873",
+      "condition": "new",
+      "category_slug": "eletrodomesticos-18",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "169129080",
@@ -21,16 +26,22 @@
       "price": 229.95,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/1WTRfwX",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T01:17:34.687Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB30134479",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:03:43.237Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB4979565731",
+      "condition": "new",
+      "category_slug": "eletrodomesticos-18",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "5674306",
@@ -40,16 +51,22 @@
       "price": 224.9,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/1WTRfwX",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T01:17:34.687Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB30134479",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:03:43.237Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB4405024781",
+      "condition": "new",
+      "category_slug": "eletrodomesticos-18",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "169129080",
@@ -59,16 +76,22 @@
       "price": 240.9,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/1WTRfwX",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T01:17:34.687Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB30134479",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:03:43.237Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB4979463831",
+      "condition": "new",
+      "category_slug": "eletrodomesticos-18",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "5674306",
@@ -78,16 +101,22 @@
       "price": 214.9,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/1WTRfwX",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T01:17:34.687Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB30134479",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:03:43.237Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB6304469846",
+      "condition": "new",
+      "category_slug": "eletrodomesticos-18",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "243944760",
@@ -97,11 +126,13 @@
       "price": 266.04,
       "currency": "BRL",
       "store_reference_price": 354.72,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/1WTRfwX",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T01:17:34.687Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB30134479",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:03:43.237Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -111,30 +142,40 @@
     {
       "date": "2026-11-08",
       "min_price": 214.9,
+      "max_price": 266.04,
       "observations": 55
     },
     {
       "date": "2026-11-09",
       "min_price": 214.9,
+      "max_price": 266.04,
       "observations": 20
     },
     {
       "date": "2026-11-10",
       "min_price": 214.9,
+      "max_price": 266.04,
       "observations": 10
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 214.9,
+      "max_price": 266.04,
+      "observations": 5
     }
   ],
   "stats": {
     "median_90d": 214.9,
     "min_ever": 214.9,
     "min_ever_at": "2026-11-08",
-    "distinct_days": 3,
+    "max_ever": 266.04,
+    "distinct_days": 4,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
   },
   "score": 64
 }

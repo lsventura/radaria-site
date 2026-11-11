@@ -1,0 +1,82 @@
+{
+  "id": "ml:MLB69679414",
+  "slug": "alto-falante-campainha-para-poco-f7-pro-5g-mlb69679414",
+  "title": "Alto-falante Campainha para Poco F7 Pro 5G",
+  "brand": "Klui Distribuidora",
+  "model": "Poco F7 Pro 5g",
+  "category_slug": "geral",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_980543-MLA111700653625_052026-F.jpg"
+  ],
+  "attributes": {
+    "GTIN": "07897989332429",
+    "BRAND": "Klui Distribuidora",
+    "MODEL": "Poco F7 Pro 5g",
+    "PART_NUMBER": "Poco F7 Pro 5g",
+    "SALE_FORMAT": "Unidade",
+    "UNITS_PER_PACK": "1"
+  },
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB4681850611",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "765490603",
+        "name": null,
+        "reputation": null
+      },
+      "price": 24.87,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB69679414",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T18:29:31.312Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-09",
+      "min_price": 24.87,
+      "max_price": 24.87,
+      "observations": 21
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 24.87,
+      "max_price": 24.87,
+      "observations": 20
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 24.87,
+      "max_price": 24.87,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 24.87,
+    "min_ever": 24.87,
+    "min_ever_at": "2026-11-09",
+    "max_ever": 24.87,
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 39
+}

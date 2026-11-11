@@ -9,9 +9,39 @@
     "https://http2.mlstatic.com/D_NQ_NP_862228-MLA99940410005_112025-F.jpg"
   ],
   "attributes": {},
+  "catalog_link": null,
   "offers": [
     {
+      "offer_id": "ml:MLB4814310405",
+      "condition": "new",
+      "category_slug": "informatica-5",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "312604421",
+        "name": null,
+        "reputation": null
+      },
+      "price": 9990,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB23611704",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:05:42.927Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
       "offer_id": "ml:MLB5234296613",
+      "condition": "new",
+      "category_slug": "informatica-5",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "2449408153",
@@ -21,16 +51,22 @@
       "price": 9225,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/2u835nY",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T01:19:34.593Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB23611704",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:05:42.927Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB5234298653",
+      "condition": "new",
+      "category_slug": "informatica-5",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "2449408153",
@@ -40,11 +76,38 @@
       "price": 9786,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/2u835nY",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T01:19:34.593Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB23611704",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:05:42.927Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5021731819",
+      "condition": "new",
+      "category_slug": "informatica-5",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "38103282",
+        "name": null,
+        "reputation": null
+      },
+      "price": 7123,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB23611704",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:05:42.927Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -53,31 +116,41 @@
   "history": [
     {
       "date": "2026-11-08",
-      "min_price": 9225,
-      "observations": 4
+      "min_price": 7123,
+      "max_price": 9786,
+      "observations": 8
     },
     {
       "date": "2026-11-09",
-      "min_price": 9225,
-      "observations": 14
+      "min_price": 7123,
+      "max_price": 9990,
+      "observations": 28
     },
     {
       "date": "2026-11-10",
-      "min_price": 9225,
+      "min_price": 7123,
+      "max_price": 9990,
+      "observations": 8
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 7123,
+      "max_price": 9990,
       "observations": 4
     }
   ],
   "stats": {
-    "median_90d": 9225,
-    "min_ever": 9225,
+    "median_90d": 7123,
+    "min_ever": 7123,
     "min_ever_at": "2026-11-08",
-    "distinct_days": 3,
+    "max_ever": 9990,
+    "distinct_days": 4,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
   },
-  "score": 64
+  "score": 47
 }

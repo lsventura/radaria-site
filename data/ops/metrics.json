@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-11T02:38:35.723Z",
+  "generated_at": "2026-11-11T18:30:44.513Z",
   "schema_version": "radaria-ops/v1",
   "funnel": {
-    "discovered": 102631,
-    "distinct": 50508,
-    "with_photo": 50276,
-    "audited_approved": 6571,
-    "with_affiliate": 6410,
-    "published": 4905,
-    "fresh_history_24h": 4905
+    "discovered": 105341,
+    "distinct": 50777,
+    "with_photo": 50545,
+    "audited_approved": 13743,
+    "with_affiliate": 8860,
+    "published": 0,
+    "fresh_history_24h": 0
   },
   "basis": "latest_listing_decision_rolled_up_to_product",
   "definitions": {
@@ -25,14 +25,14 @@
     "by_status.pending": "Revisão e qualquer status fora de approved, rejected e source_unavailable, na mesma base. Catálogo só com decisão e sem anúncio não entra."
   },
   "activity_24h": {
-    "telegram_posted": 35,
-    "affiliate_links_generated": 2073
+    "telegram_posted": 17,
+    "affiliate_links_generated": 1191
   },
   "by_status": {
-    "approved": 6573,
+    "approved": 13749,
     "rejected": 0,
-    "source_unavailable": 318,
-    "pending": 7184
+    "source_unavailable": 422,
+    "pending": 4
   },
   "status_check": {
     "audited_approved_lte_by_status_approved": true
@@ -41,7 +41,7 @@
     {
       "slug": "geral",
       "name": "Geral",
-      "count": 2377
+      "count": 2646
     },
     {
       "slug": "celulares",
@@ -238,7 +238,7 @@
     {
       "from": "discovered",
       "to": "distinct",
-      "ratio": 0.4921
+      "ratio": 0.482
     },
     {
       "from": "distinct",
@@ -248,100 +248,99 @@
     {
       "from": "with_photo",
       "to": "audited_approved",
-      "ratio": 0.1307
+      "ratio": 0.2719
     },
     {
       "from": "audited_approved",
       "to": "with_affiliate",
-      "ratio": 0.9755
+      "ratio": 0.6447
     },
     {
       "from": "with_affiliate",
       "to": "published",
-      "ratio": 0.7652
+      "ratio": 0
     },
     {
       "from": "published",
       "to": "fresh_history_24h",
-      "ratio": 1
+      "ratio": null
     }
   ],
   "queues": {
-    "affiliate": 1,
-    "refresh": 25
+    "affiliate": 11,
+    "audit": 111,
+    "curate": 1,
+    "discover": 1,
+    "refresh": 85
   },
   "errors_by_source": [
     {
       "source": "mercadolivre",
       "http_status": 400,
-      "count_24h": 44
+      "count_24h": 8
     },
     {
       "source": "mercadolivre",
       "http_status": 404,
-      "count_24h": 54715
+      "count_24h": 7183
     },
     {
       "source": "mercadolivre",
       "http_status": 429,
-      "count_24h": 10
-    },
-    {
-      "source": "mercadolivre",
-      "http_status": 503,
-      "count_24h": 1
+      "count_24h": 3
     }
   ],
   "last_success": {
-    "affiliate": "2026-11-10T23:42:47.775Z",
-    "audit": "2026-11-11T01:40:59.351Z",
-    "coupons": "2026-11-11T02:34:35.765Z",
-    "curate": "2026-11-11T02:38:18.510Z",
-    "discover": "2026-11-11T01:41:10.742Z",
-    "export": "2026-11-11T02:12:10.008Z",
-    "publish-telegram": "2026-11-11T00:26:59.633Z",
-    "refresh": "2026-11-11T02:38:24.022Z"
+    "affiliate": "2026-11-11T18:29:49.521Z",
+    "audit": "2026-11-11T18:29:56.414Z",
+    "coupons": "2026-11-11T18:27:39.816Z",
+    "curate": "2026-11-11T18:30:35.460Z",
+    "discover": "2026-11-11T18:30:33.649Z",
+    "export": "2026-11-11T18:13:47.807Z",
+    "publish-telegram": "2026-11-11T12:15:13.280Z",
+    "refresh": "2026-11-11T18:30:44.172Z"
   },
   "last_run": {
     "affiliate": {
-      "at": "2026-11-11T02:40:30.959Z",
-      "status": "skipped"
+      "at": "2026-11-11T18:31:54.011Z",
+      "status": "failed"
     },
     "audit": {
-      "at": "2026-11-11T01:41:10.486Z",
-      "status": "skipped"
+      "at": "2026-11-11T18:31:31.813Z",
+      "status": "success"
     },
     "coupons": {
-      "at": "2026-11-11T02:34:35.765Z",
+      "at": "2026-11-11T18:27:39.816Z",
       "status": "success"
     },
     "curate": {
-      "at": "2026-11-11T02:40:26.410Z",
+      "at": "2026-11-11T18:30:35.460Z",
       "status": "success"
     },
     "discover": {
-      "at": "2026-11-11T02:39:44.230Z",
-      "status": "skipped"
+      "at": "2026-11-11T18:32:06.317Z",
+      "status": "success"
     },
     "export": {
-      "at": "2026-11-11T02:12:10.008Z",
+      "at": "2026-11-11T18:13:47.807Z",
       "status": "success"
     },
     "publish-telegram": {
-      "at": "2026-11-11T02:36:52.929Z",
-      "status": "skipped"
+      "at": "2026-11-11T18:31:53.952Z",
+      "status": "empty"
     },
     "refresh": {
-      "at": "2026-11-11T02:40:37.618Z",
+      "at": "2026-11-11T18:32:01.419Z",
       "status": "success"
     }
   },
   "throughput_per_hour": {
-    "audit": 23,
+    "affiliate": 69,
+    "audit": 859,
     "coupons": 3,
-    "curate": 55,
-    "discover": 3,
-    "export": 2,
-    "refresh": 3361
+    "curate": 60,
+    "discover": 59,
+    "export": 3,
+    "refresh": 3566
   }
 }

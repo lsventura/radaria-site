@@ -9,9 +9,14 @@
     "https://http2.mlstatic.com/D_NQ_NP_639044-MLA99870063717_112025-F.jpg"
   ],
   "attributes": {},
+  "catalog_link": null,
   "offers": [
     {
       "offer_id": "ml:MLB6912044026",
+      "condition": "new",
+      "category_slug": "fitness-2",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "3295584392",
@@ -21,16 +26,72 @@
       "price": 280,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/1FdcTVU",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T00:39:12.583Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB24333058",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:25:43.520Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4442318573",
+      "condition": "new",
+      "category_slug": "fitness-2",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "346300049",
+        "name": null,
+        "reputation": null
+      },
+      "price": 319.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB24333058",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:25:43.520Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6911915844",
+      "condition": "new",
+      "category_slug": "fitness-2",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3275668205",
+        "name": null,
+        "reputation": null
+      },
+      "price": 280,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB24333058",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:25:43.520Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB4670909546",
+      "condition": "new",
+      "category_slug": "fitness-2",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "137908179",
@@ -40,16 +101,22 @@
       "price": 279.99,
       "currency": "BRL",
       "store_reference_price": 599.9,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/1FdcTVU",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T00:39:12.583Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB24333058",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:25:43.520Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB7590006258",
+      "condition": "new",
+      "category_slug": "fitness-2",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "3321956592",
@@ -59,11 +126,13 @@
       "price": 529.9,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/1FdcTVU",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T00:39:12.583Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB24333058",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:25:43.520Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -73,35 +142,46 @@
     {
       "date": "2026-11-08",
       "min_price": 280,
-      "observations": 6
+      "max_price": 529.9,
+      "observations": 10
     },
     {
       "date": "2026-11-09",
       "min_price": 280,
-      "observations": 9
+      "max_price": 529.9,
+      "observations": 15
     },
     {
       "date": "2026-11-10",
       "min_price": 279.99,
-      "observations": 10
+      "max_price": 529.9,
+      "observations": 16
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 279.99,
+      "max_price": 529.9,
+      "observations": 5
     },
     {
       "date": "2026-11-06",
       "min_price": 280,
-      "observations": 4
+      "max_price": 529.9,
+      "observations": 6
     }
   ],
   "stats": {
     "median_90d": 280,
     "min_ever": 279.99,
     "min_ever_at": "2026-11-10",
-    "distinct_days": 4,
+    "max_ever": 529.9,
+    "distinct_days": 5,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
   },
-  "score": 64
+  "score": 60
 }

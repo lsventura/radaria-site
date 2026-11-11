@@ -1,0 +1,81 @@
+{
+  "id": "ml:MLB37336982",
+  "slug": "suporte-para-vassouras-ds-artefatos-branco-de-33-cm-mlb37336982",
+  "title": "Suporte para Vassouras Ds Artefatos Branco de 33 cm",
+  "brand": null,
+  "model": null,
+  "category_slug": "organizacao-e-limpeza-4",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_656061-MLU78230091997_082024-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB4739733946",
+      "condition": "new",
+      "category_slug": "organizacao-e-limpeza-4",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "187308878",
+        "name": null,
+        "reputation": null
+      },
+      "price": 99.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB37336982",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:04:43.334Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 99.99,
+      "max_price": 99.99,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 99.99,
+      "max_price": 99.99,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 99.99,
+      "max_price": 99.99,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 99.99,
+      "max_price": 99.99,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 99.99,
+    "min_ever": 99.99,
+    "min_ever_at": "2026-11-08",
+    "max_ever": 99.99,
+    "distinct_days": 4,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+  },
+  "score": 52
+}

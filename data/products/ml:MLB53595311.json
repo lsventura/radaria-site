@@ -1,0 +1,81 @@
+{
+  "id": "ml:MLB53595311",
+  "slug": "pretinho-pneu-500ml-lar-fresh-gel-brilhante-automotivo-carro-caminhonete-mlb53595311",
+  "title": "Pretinho Pneu 500ml Lar Fresh Gel Brilhante Automotivo Carro Caminhonete",
+  "brand": null,
+  "model": null,
+  "category_slug": "automotivo-1",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_681702-MLA99349352768_112025-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB5553252744",
+      "condition": "new",
+      "category_slug": "automotivo-1",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "617008294",
+        "name": null,
+        "reputation": null
+      },
+      "price": 19,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB53595311",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T18:19:46.824Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 19,
+      "max_price": 19,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 19,
+      "max_price": 19,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 19,
+      "max_price": 19,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 19,
+      "max_price": 19,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 19,
+    "min_ever": 19,
+    "min_ever_at": "2026-11-08",
+    "max_ever": 19,
+    "distinct_days": 4,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+  },
+  "score": 39
+}

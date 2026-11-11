@@ -9,9 +9,14 @@
     "https://http2.mlstatic.com/D_NQ_NP_980109-MLA80386208022_112024-F.jpg"
   ],
   "attributes": {},
+  "catalog_link": null,
   "offers": [
     {
       "offer_id": "ml:MLB5953742330",
+      "condition": "new",
+      "category_slug": "moda-feminina-19",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "643870763",
@@ -21,16 +26,22 @@
       "price": 199.99,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/1X6eb15",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T01:38:34.998Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB47534919",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:24:43.540Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB4518179941",
+      "condition": "new",
+      "category_slug": "moda-feminina-19",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "747568052",
@@ -40,16 +51,22 @@
       "price": 187,
       "currency": "BRL",
       "store_reference_price": 299.99,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/1X6eb15",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T01:38:34.998Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB47534919",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:24:43.540Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB7952276802",
+      "condition": "new",
+      "category_slug": "moda-feminina-19",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "2553723292",
@@ -59,16 +76,22 @@
       "price": 199.9,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/1X6eb15",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T01:38:34.998Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB47534919",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:24:43.540Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB7871267710",
+      "condition": "new",
+      "category_slug": "moda-feminina-19",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "662608520",
@@ -78,11 +101,13 @@
       "price": 199.99,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/1X6eb15",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T01:38:34.998Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB47534919",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:24:43.540Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -92,16 +117,25 @@
     {
       "date": "2026-11-08",
       "min_price": 187,
+      "max_price": 199.99,
       "observations": 4
     },
     {
       "date": "2026-11-09",
       "min_price": 187,
+      "max_price": 199.99,
       "observations": 20
     },
     {
       "date": "2026-11-10",
       "min_price": 187,
+      "max_price": 199.99,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 187,
+      "max_price": 199.99,
       "observations": 4
     }
   ],
@@ -109,13 +143,14 @@
     "median_90d": 187,
     "min_ever": 187,
     "min_ever_at": "2026-11-08",
-    "distinct_days": 3,
+    "max_ever": 199.99,
+    "distinct_days": 4,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
   },
   "score": 64
 }

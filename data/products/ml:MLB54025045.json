@@ -9,9 +9,14 @@
     "https://http2.mlstatic.com/D_NQ_NP_875074-MLA99911926897_112025-F.jpg"
   ],
   "attributes": {},
+  "catalog_link": null,
   "offers": [
     {
       "offer_id": "ml:MLB4258540119",
+      "condition": "new",
+      "category_slug": "bebes-18",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "435190534",
@@ -21,11 +26,88 @@
       "price": 198.99,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/1mu2vfq",
-      "affiliate": true,
-      "last_observed_at": "2026-11-10T23:21:14.814Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB54025045",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T14:39:33.115Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7707216184",
+      "condition": "new",
+      "category_slug": "bebes-18",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "43172033",
+        "name": null,
+        "reputation": null
+      },
+      "price": 71.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB54025045",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T14:39:33.115Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7659092284",
+      "condition": "new",
+      "category_slug": "bebes-18",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "714868763",
+        "name": null,
+        "reputation": null
+      },
+      "price": 97.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB54025045",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T14:39:33.115Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5353070855",
+      "condition": "new",
+      "category_slug": "bebes-18",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3744250729",
+        "name": null,
+        "reputation": null
+      },
+      "price": 59.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB54025045",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T14:39:33.115Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -34,36 +116,47 @@
   "history": [
     {
       "date": "2026-11-08",
-      "min_price": 198.99,
-      "observations": 1
-    },
-    {
-      "date": "2026-11-09",
-      "min_price": 198.99,
+      "min_price": 59.99,
+      "max_price": 198.99,
       "observations": 4
     },
     {
+      "date": "2026-11-09",
+      "min_price": 59.99,
+      "max_price": 198.99,
+      "observations": 16
+    },
+    {
       "date": "2026-11-10",
-      "min_price": 198.99,
-      "observations": 3
+      "min_price": 59.99,
+      "max_price": 198.99,
+      "observations": 12
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 59.99,
+      "max_price": 198.99,
+      "observations": 4
     },
     {
       "date": "2026-11-07",
-      "min_price": 198.99,
-      "observations": 1
+      "min_price": 59.99,
+      "max_price": 198.99,
+      "observations": 4
     }
   ],
   "stats": {
-    "median_90d": 198.99,
-    "min_ever": 198.99,
+    "median_90d": 59.99,
+    "min_ever": 59.99,
     "min_ever_at": "2026-11-07",
-    "distinct_days": 4,
+    "max_ever": 198.99,
+    "distinct_days": 5,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
   },
-  "score": 60
+  "score": 35
 }

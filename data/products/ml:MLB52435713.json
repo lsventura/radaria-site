@@ -1,0 +1,133 @@
+{
+  "id": "ml:MLB52435713",
+  "slug": "antena-starlink-internet-via-satelite-standard-v4-mlb52435713",
+  "title": "Antena Starlink Internet Via Satélite Standard V4",
+  "brand": "Starlink",
+  "model": "2534008BR",
+  "category_slug": "geral",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_625209-MLA117168329264_102026-F.jpg"
+  ],
+  "attributes": {
+    "GTIN": "7908821511336",
+    "BRAND": "Starlink",
+    "COLOR": "Branco",
+    "MODEL": "2534008BR",
+    "SALE_FORMAT": "Unidade",
+    "UNITS_PER_PACK": "1",
+    "ANTENNA_AND_ADAPTER_TYPE": "Antena"
+  },
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB5440183453",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "332292303",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 3899,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB52435713",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T18:00:53.320Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4198898575",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1299024186",
+        "name": null,
+        "reputation": null
+      },
+      "price": 2999.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB52435713",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T18:00:53.320Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6181861578",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3137030187",
+        "name": null,
+        "reputation": null
+      },
+      "price": 2400,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB52435713",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:19:50.815Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-09",
+      "min_price": 2999.99,
+      "max_price": 3699,
+      "observations": 42
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 2400,
+      "max_price": 3899,
+      "observations": 63
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 2400,
+      "max_price": 3899,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 2400,
+    "min_ever": 2400,
+    "min_ever_at": "2026-11-10",
+    "max_ever": 3899,
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 43
+}

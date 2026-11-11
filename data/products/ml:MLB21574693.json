@@ -1,0 +1,131 @@
+{
+  "id": "ml:MLB21574693",
+  "slug": "livro-infantil-colecao-sentimentos-ciume-mlb21574693",
+  "title": "Livro Infantil Coleção Sentimentos: Ciume",
+  "brand": null,
+  "model": null,
+  "category_slug": "livros-e-papelaria-11",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_631219-MLU77233484418_072024-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB6362527852",
+      "condition": "new",
+      "category_slug": "livros-e-papelaria-11",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "722310552",
+        "name": null,
+        "reputation": null
+      },
+      "price": 14.33,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB21574693",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:37:43.333Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB3765458903",
+      "condition": "new",
+      "category_slug": "livros-e-papelaria-11",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "314184092",
+        "name": null,
+        "reputation": null
+      },
+      "price": 19.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB21574693",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:37:43.333Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6361644722",
+      "condition": "new",
+      "category_slug": "livros-e-papelaria-11",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "722310552",
+        "name": null,
+        "reputation": null
+      },
+      "price": 14.95,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB21574693",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:37:43.333Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 14.33,
+      "max_price": 19.9,
+      "observations": 6
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 14.33,
+      "max_price": 19.9,
+      "observations": 12
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 14.33,
+      "max_price": 19.9,
+      "observations": 9
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 14.33,
+      "max_price": 19.9,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 14.33,
+    "min_ever": 14.33,
+    "min_ever_at": "2026-11-08",
+    "max_ever": 19.9,
+    "distinct_days": 4,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

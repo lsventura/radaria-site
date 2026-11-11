@@ -1,0 +1,101 @@
+{
+  "id": "ml:MLB53773008",
+  "slug": "cadeira-gamer-xtreme-gamer-zone-encosto-reclinavel-cor-preto-mlb53773008",
+  "title": "Cadeira Gamer Xtreme Gamer Zone Encosto Reclinável Cor Preto",
+  "brand": "Gamer Zone",
+  "model": "GMZP01",
+  "category_slug": "geral",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_623146-MLA100002861625_112025-F.jpg"
+  ],
+  "attributes": {
+    "GTIN": "7908852800034",
+    "BRAND": "Gamer Zone",
+    "COLOR": "Preto",
+    "MODEL": "GMZP01",
+    "IS_GAMER": "Sim",
+    "IS_SWIVEL": "Sim",
+    "MAIN_COLOR": "Preto",
+    "SEAT_DEPTH": "66 cm",
+    "SALE_FORMAT": "Unidade",
+    "WITH_WHEELS": "Sim",
+    "IS_ERGONOMIC": "Não",
+    "WITH_ARMREST": "Sim",
+    "UNITS_PER_PACK": "1",
+    "BACKREST_HEIGHT": "125 cm",
+    "MAX_CHAIR_HEIGHT": "130 cm",
+    "OFFICE_CHAIR_TYPE": "Gamer",
+    "REQUIRES_ASSEMBLY": "Sim",
+    "OFFICE_CHAIR_DEPTH": "66 cm",
+    "OFFICE_CHAIR_WIDTH": "64 cm",
+    "OFFICE_CHAIR_HEIGHT": "130 cm",
+    "MAX_WEIGHT_SUPPORTED": "150 kg",
+    "WITH_ADJUSTABLE_HEIGHT": "Sim",
+    "WITH_ADJUSTABLE_ARMREST": "Sim",
+    "WITH_RECLINING_BACKREST": "Sim",
+    "INCLUDES_ASSEMBLY_MANUAL": "Sim"
+  },
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB7938470218",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2672043575",
+        "name": null,
+        "reputation": null
+      },
+      "price": 800,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB53773008",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:13:43.524Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-09",
+      "min_price": 800,
+      "max_price": 800,
+      "observations": 22
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 800,
+      "max_price": 800,
+      "observations": 20
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 800,
+      "max_price": 800,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 800,
+    "min_ever": 800,
+    "min_ever_at": "2026-11-09",
+    "max_ever": 800,
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 43
+}

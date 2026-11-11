@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="128" height="128" role="img" aria-labelledby="bi3d052-title">
+<title id="bi3d052-title">grafico pontos — Bipac SVG com relevo 3D</title>
+<defs>
+<linearGradient id="bi3d052-face" x1="12%" y1="7%" x2="82%" y2="96%">
+<stop offset="0" stop-color="#F9EDBB"/><stop offset=".38" stop-color="#C8DB75"/><stop offset=".74" stop-color="#5A9D47"/><stop offset="1" stop-color="#193C30"/>
+</linearGradient>
+<filter id="bi3d052-shadow" x="-25%" y="-25%" width="150%" height="175%">
+<feGaussianBlur stdDeviation=".8"/>
+</filter>
+</defs>
+<g transform="translate(4.3 5.4)" opacity=".18" filter="url(#bi3d052-shadow)"><g fill="none" stroke="#0E3829" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.3"><circle cx="7.5" cy="7.5" r=".5" fill="#0E3829"/><circle cx="18.5" cy="5.5" r=".5" fill="#0E3829"/><circle cx="11.5" cy="11.5" r=".5" fill="#0E3829"/><circle cx="7.5" cy="16.5" r=".5" fill="#0E3829"/><circle cx="17.5" cy="14.5" r=".5" fill="#0E3829"/><path d="M3 3v16a2 2 0 0 0 2 2h16"/></g></g>
+<g transform="translate(4.1 5.2)"><g fill="none" stroke="#0E3829" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.3"><circle cx="7.5" cy="7.5" r=".5" fill="#0E3829"/><circle cx="18.5" cy="5.5" r=".5" fill="#0E3829"/><circle cx="11.5" cy="11.5" r=".5" fill="#0E3829"/><circle cx="7.5" cy="16.5" r=".5" fill="#0E3829"/><circle cx="17.5" cy="14.5" r=".5" fill="#0E3829"/><path d="M3 3v16a2 2 0 0 0 2 2h16"/></g></g>
+<g transform="translate(4 4.45)"><g fill="none" stroke="#5A9D47" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.0"><circle cx="7.5" cy="7.5" r=".5" fill="#5A9D47"/><circle cx="18.5" cy="5.5" r=".5" fill="#5A9D47"/><circle cx="11.5" cy="11.5" r=".5" fill="#5A9D47"/><circle cx="7.5" cy="16.5" r=".5" fill="#5A9D47"/><circle cx="17.5" cy="14.5" r=".5" fill="#5A9D47"/><path d="M3 3v16a2 2 0 0 0 2 2h16"/></g></g>
+<g transform="translate(4 3.65)"><g fill="none" stroke="url(#bi3d052-face)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.8"><circle cx="7.5" cy="7.5" r=".5" fill="url(#bi3d052-face)"/><circle cx="18.5" cy="5.5" r=".5" fill="url(#bi3d052-face)"/><circle cx="11.5" cy="11.5" r=".5" fill="url(#bi3d052-face)"/><circle cx="7.5" cy="16.5" r=".5" fill="url(#bi3d052-face)"/><circle cx="17.5" cy="14.5" r=".5" fill="url(#bi3d052-face)"/><path d="M3 3v16a2 2 0 0 0 2 2h16"/></g></g>
+<g transform="translate(3.76 3.36)" opacity=".43"><g fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.52"><circle cx="7.5" cy="7.5" r=".5" fill="#FFFFFF"/><circle cx="18.5" cy="5.5" r=".5" fill="#FFFFFF"/><circle cx="11.5" cy="11.5" r=".5" fill="#FFFFFF"/><circle cx="7.5" cy="16.5" r=".5" fill="#FFFFFF"/><circle cx="17.5" cy="14.5" r=".5" fill="#FFFFFF"/><path d="M3 3v16a2 2 0 0 0 2 2h16"/></g></g>
+</svg>

@@ -9,9 +9,14 @@
     "https://http2.mlstatic.com/D_NQ_NP_858469-MLA99956820419_112025-F.jpg"
   ],
   "attributes": {},
+  "catalog_link": null,
   "offers": [
     {
       "offer_id": "ml:MLB4449743044",
+      "condition": "new",
+      "category_slug": "instrumentos-musicais-19",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "17292941",
@@ -21,16 +26,22 @@
       "price": 686,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/1YTd98L",
-      "affiliate": true,
-      "last_observed_at": "2026-11-10T23:03:09.494Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB29356744",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T14:48:33.552Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB5288718911",
+      "condition": "new",
+      "category_slug": "instrumentos-musicais-19",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "232221111",
@@ -40,16 +51,22 @@
       "price": 635,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/1YTd98L",
-      "affiliate": true,
-      "last_observed_at": "2026-11-10T23:03:09.494Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB29356744",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T14:48:33.552Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB4449665476",
+      "condition": "new",
+      "category_slug": "instrumentos-musicais-19",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "17292941",
@@ -59,16 +76,22 @@
       "price": 740,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/1YTd98L",
-      "affiliate": true,
-      "last_observed_at": "2026-11-10T23:03:09.494Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB29356744",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T14:48:33.552Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB4598581561",
+      "condition": "new",
+      "category_slug": "instrumentos-musicais-19",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "604347210",
@@ -78,30 +101,38 @@
       "price": 726.53,
       "currency": "BRL",
       "store_reference_price": 749,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/1YTd98L",
-      "affiliate": true,
-      "last_observed_at": "2026-11-10T23:03:09.494Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB29356744",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T14:48:33.552Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB5288782977",
+      "condition": "new",
+      "category_slug": "instrumentos-musicais-19",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "232221111",
         "name": null,
         "reputation": "5_green"
       },
-      "price": 643.86,
+      "price": 650.74,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/1YTd98L",
-      "affiliate": true,
-      "last_observed_at": "2026-11-10T23:03:09.494Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB29356744",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T14:48:33.552Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -111,21 +142,31 @@
     {
       "date": "2026-11-08",
       "min_price": 635,
+      "max_price": 740,
       "observations": 5
     },
     {
       "date": "2026-11-09",
       "min_price": 635,
+      "max_price": 740,
       "observations": 20
     },
     {
       "date": "2026-11-10",
       "min_price": 635,
-      "observations": 17
+      "max_price": 740,
+      "observations": 18
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 635,
+      "max_price": 740,
+      "observations": 6
     },
     {
       "date": "2026-11-07",
       "min_price": 635,
+      "max_price": 740,
       "observations": 5
     }
   ],
@@ -133,13 +174,14 @@
     "median_90d": 635,
     "min_ever": 635,
     "min_ever_at": "2026-11-07",
-    "distinct_days": 4,
+    "max_ever": 740,
+    "distinct_days": 5,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
   },
   "score": 60
 }

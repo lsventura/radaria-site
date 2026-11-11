@@ -1,0 +1,112 @@
+{
+  "id": "ml:MLB44479824",
+  "slug": "coleira-peitoral-para-cachorro-pet-snoopy-black-g-mlb44479824",
+  "title": "Coleira Peitoral Para Cachorro Pet Snoopy Black G",
+  "brand": null,
+  "model": null,
+  "category_slug": "pets-15",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_901742-MLA99988531601_112025-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB4399940705",
+      "condition": "new",
+      "category_slug": "pets-15",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1291186562",
+        "name": null,
+        "reputation": null
+      },
+      "price": 74.23,
+      "currency": "BRL",
+      "store_reference_price": 78.38,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB44479824",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:34:43.530Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4264727513",
+      "condition": "new",
+      "category_slug": "pets-15",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1291186562",
+        "name": null,
+        "reputation": null
+      },
+      "price": 76.53,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB44479824",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:34:43.530Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 74.23,
+      "max_price": 76.53,
+      "observations": 6
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 74.23,
+      "max_price": 76.53,
+      "observations": 9
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 74.23,
+      "max_price": 76.53,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 74.23,
+      "max_price": 76.53,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 74.23,
+      "max_price": 76.53,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 74.23,
+    "min_ever": 74.23,
+    "min_ever_at": "2026-11-06",
+    "max_ever": 76.53,
+    "distinct_days": 5,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

@@ -1,0 +1,81 @@
+{
+  "id": "ml:MLB33325151",
+  "slug": "jogo-panelas-antiaderentes-5pc-inducao-marble-cinza-brinox-mlb33325151",
+  "title": "Jogo Panelas Antiaderentes 5pc Indução Marble Cinza Brinox",
+  "brand": null,
+  "model": null,
+  "category_slug": "cozinha-9",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_672149-MLA99993129917_112025-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB4109000875",
+      "condition": "new",
+      "category_slug": "cozinha-9",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "285814142",
+        "name": null,
+        "reputation": null
+      },
+      "price": 500,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB33325151",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:46:43.032Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 500,
+      "max_price": 500,
+      "observations": 5
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 500,
+      "max_price": 500,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 500,
+      "max_price": 500,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 500,
+      "max_price": 500,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 500,
+    "min_ever": 500,
+    "min_ever_at": "2026-11-08",
+    "max_ever": 500,
+    "distinct_days": 4,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+  },
+  "score": 47
+}

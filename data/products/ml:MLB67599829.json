@@ -1,0 +1,106 @@
+{
+  "id": "ml:MLB67599829",
+  "slug": "comoda-quarto-135cm-com-penteadeira-nuvia-bege-c06-bege-mlb67599829",
+  "title": "Cômoda Quarto 135cm Com Penteadeira Nuvia Bege C06 Bege",
+  "brand": null,
+  "model": null,
+  "category_slug": "moveis-13",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_764167-MLA110036033443_042026-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB6572104488",
+      "condition": "new",
+      "category_slug": "moveis-13",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "17050324",
+        "name": null,
+        "reputation": null
+      },
+      "price": 902.24,
+      "currency": "BRL",
+      "store_reference_price": 1202.99,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB67599829",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:49:43.936Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6572051716",
+      "condition": "new",
+      "category_slug": "moveis-13",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "17050324",
+        "name": null,
+        "reputation": null
+      },
+      "price": 893.73,
+      "currency": "BRL",
+      "store_reference_price": 1191.65,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB67599829",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:49:43.936Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 893.73,
+      "max_price": 902.24,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 893.73,
+      "max_price": 902.24,
+      "observations": 8
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 893.73,
+      "max_price": 902.24,
+      "observations": 6
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 893.73,
+      "max_price": 902.24,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 893.73,
+    "min_ever": 893.73,
+    "min_ever_at": "2026-11-08",
+    "max_ever": 902.24,
+    "distinct_days": 4,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

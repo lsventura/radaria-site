@@ -1,0 +1,112 @@
+{
+  "id": "ml:MLB69430966",
+  "slug": "polia-esticador-da-correia-secadora-roupa-brastemp-mlb69430966",
+  "title": "Polia Esticador Da Correia Secadora Roupa Brastemp",
+  "brand": null,
+  "model": null,
+  "category_slug": "eletrodomesticos-9",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_996426-MLA110554344338_052026-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB4669840343",
+      "condition": "new",
+      "category_slug": "eletrodomesticos-9",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "28598182",
+        "name": null,
+        "reputation": null
+      },
+      "price": 42.63,
+      "currency": "BRL",
+      "store_reference_price": 44.88,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB69430966",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:26:42.910Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7327173166",
+      "condition": "new",
+      "category_slug": "eletrodomesticos-9",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "77899978",
+        "name": null,
+        "reputation": null
+      },
+      "price": 49.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB69430966",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:26:42.910Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 42.63,
+      "max_price": 49.9,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 42.63,
+      "max_price": 49.9,
+      "observations": 8
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 42.63,
+      "max_price": 49.9,
+      "observations": 6
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 42.63,
+      "max_price": 49.9,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 42.63,
+      "max_price": 49.9,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 42.63,
+    "min_ever": 42.63,
+    "min_ever_at": "2026-11-07",
+    "max_ever": 49.9,
+    "distinct_days": 5,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
+  },
+  "score": 35
+}

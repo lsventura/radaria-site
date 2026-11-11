@@ -1,0 +1,162 @@
+{
+  "id": "ml:MLB21437698",
+  "slug": "pano-microfibra-vonixx-modelo-azul-40x40cm-mlb21437698",
+  "title": "Pano Microfibra Vonixx Modelo Azul 40x40cm",
+  "brand": null,
+  "model": null,
+  "category_slug": "organizacao-e-limpeza-19",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_732268-MLB45585725414_042021-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB5124716498",
+      "condition": "new",
+      "category_slug": "organizacao-e-limpeza-19",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "38944549",
+        "name": null,
+        "reputation": null
+      },
+      "price": 55.15,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB21437698",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:39:43.631Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7203019076",
+      "condition": "new",
+      "category_slug": "organizacao-e-limpeza-19",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2073756764",
+        "name": null,
+        "reputation": null
+      },
+      "price": 55,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB21437698",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:39:43.631Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4280971525",
+      "condition": "new",
+      "category_slug": "organizacao-e-limpeza-19",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2115874779",
+        "name": null,
+        "reputation": null
+      },
+      "price": 50.5,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB21437698",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:39:43.631Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4561890622",
+      "condition": "new",
+      "category_slug": "organizacao-e-limpeza-19",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1738665332",
+        "name": null,
+        "reputation": null
+      },
+      "price": 60,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB21437698",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:39:43.631Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 50.5,
+      "max_price": 60,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 50.5,
+      "max_price": 60,
+      "observations": 16
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 50.5,
+      "max_price": 60,
+      "observations": 12
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 50.5,
+      "max_price": 60,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 50.5,
+      "max_price": 60,
+      "observations": 4
+    }
+  ],
+  "stats": {
+    "median_90d": 50.5,
+    "min_ever": 50.5,
+    "min_ever_at": "2026-11-07",
+    "max_ever": 60,
+    "distinct_days": 5,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
+  },
+  "score": 39
+}

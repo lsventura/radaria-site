@@ -1,0 +1,95 @@
+{
+  "id": "ml:MLB81668709",
+  "slug": "moto-eletrica-bolin-x20-1000w-60v-mlb81668709",
+  "title": "MOTO ELÉTRICA BOLIN X20 1000W 60V",
+  "brand": "Bolin",
+  "model": "X20",
+  "category_slug": "geral",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_852059-MLA119316354048_112026-F.jpg"
+  ],
+  "attributes": {
+    "GTIN": "07906234247934",
+    "BRAND": "Bolin",
+    "COLOR": "Branco",
+    "MODEL": "X20",
+    "MAX_SPEED": "32 km/h",
+    "MAIN_COLOR": "Preto",
+    "IS_FOLDABLE": "Não",
+    "MOTOR_POWER": "1000 W",
+    "BATTERY_TYPE": "Íon de lítio",
+    "BRAKE_SYSTEM": "Disco traseiro",
+    "MANUFACTURER": "Bolin",
+    "CHARGING_TIME": "8 h",
+    "WITH_BLUETOOTH": "Sim",
+    "WITH_LED_LIGHT": "Sim",
+    "MIN_RECOMMENDED_AGE": "16 anos",
+    "MAX_WEIGHT_SUPPORTED": "150 kg",
+    "RECOMMENDED_AGE_GROUP": "14 anos ou mais",
+    "ELECTRIC_SCOOTER_AUTONOMY": "65 km",
+    "WITH_INDEPENDENT_ACCELERATOR": "Não"
+  },
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB5526833575",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3350208963",
+        "name": null,
+        "reputation": null
+      },
+      "price": 8087,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB81668709",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T18:06:28.410Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-09",
+      "min_price": 8087,
+      "max_price": 8087,
+      "observations": 40
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 8087,
+      "max_price": 8087,
+      "observations": 38
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 8087,
+      "max_price": 8087,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 8087,
+    "min_ever": 8087,
+    "min_ever_at": "2026-11-09",
+    "max_ever": 8087,
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 47
+}

@@ -9,23 +9,30 @@
     "https://http2.mlstatic.com/D_NQ_NP_880338-MLA113091785899_062026-F.jpg"
   ],
   "attributes": {},
+  "catalog_link": null,
   "offers": [
     {
       "offer_id": "ml:MLB4769873579",
+      "condition": "new",
+      "category_slug": "brinquedos-13",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "626044996",
         "name": null,
         "reputation": "5_green"
       },
-      "price": 98.93,
+      "price": 95,
       "currency": "BRL",
       "store_reference_price": 149.9,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/2B3aVFn",
-      "affiliate": true,
-      "last_observed_at": "2026-11-10T23:16:15.212Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB73154881",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T14:51:33.818Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -35,35 +42,46 @@
     {
       "date": "2026-11-08",
       "min_price": 98.93,
+      "max_price": 98.93,
       "observations": 1
     },
     {
       "date": "2026-11-09",
       "min_price": 98.93,
+      "max_price": 98.93,
       "observations": 3
     },
     {
       "date": "2026-11-10",
       "min_price": 98.93,
+      "max_price": 98.93,
       "observations": 3
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 95,
+      "max_price": 98.93,
+      "observations": 2
     },
     {
       "date": "2026-11-07",
       "min_price": 98.93,
+      "max_price": 98.93,
       "observations": 1
     }
   ],
   "stats": {
     "median_90d": 98.93,
-    "min_ever": 98.93,
-    "min_ever_at": "2026-11-07",
-    "distinct_days": 4,
+    "min_ever": 95,
+    "min_ever_at": "2026-11-11",
+    "max_ever": 98.93,
+    "distinct_days": 5,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 0,
-    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+    "pct_below_median": 4,
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
   },
   "score": 60
 }

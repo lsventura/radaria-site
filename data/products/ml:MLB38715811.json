@@ -9,9 +9,14 @@
     "https://http2.mlstatic.com/D_NQ_NP_842220-MLA95974231224_102025-F.jpg"
   ],
   "attributes": {},
+  "catalog_link": null,
   "offers": [
     {
       "offer_id": "ml:MLB5310187522",
+      "condition": "new",
+      "category_slug": "ferramentas-14",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "502051812",
@@ -21,16 +26,22 @@
       "price": 469.69,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/2HYAVFz",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T01:36:34.691Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB38715811",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:22:43.018Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB4007519049",
+      "condition": "new",
+      "category_slug": "ferramentas-14",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "2280609957",
@@ -40,16 +51,47 @@
       "price": 469.69,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/2HYAVFz",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T01:36:34.691Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB38715811",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:22:43.018Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5806756804",
+      "condition": "new",
+      "category_slug": "ferramentas-14",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2005083801",
+        "name": null,
+        "reputation": null
+      },
+      "price": 467.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB38715811",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:22:43.018Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB3797835525",
+      "condition": "new",
+      "category_slug": "ferramentas-14",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "353471302",
@@ -59,11 +101,63 @@
       "price": 414.29,
       "currency": "BRL",
       "store_reference_price": 476.2,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/2HYAVFz",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T01:36:34.691Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB38715811",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:22:43.018Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4464886039",
+      "condition": "new",
+      "category_slug": "ferramentas-14",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1063481547",
+        "name": null,
+        "reputation": null
+      },
+      "price": 341.55,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB38715811",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:22:43.018Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6027049784",
+      "condition": "new",
+      "category_slug": "ferramentas-14",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "608681980",
+        "name": null,
+        "reputation": null
+      },
+      "price": 469.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB38715811",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:22:43.018Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -72,31 +166,41 @@
   "history": [
     {
       "date": "2026-11-08",
-      "min_price": 414.29,
-      "observations": 6
-    },
-    {
-      "date": "2026-11-09",
-      "min_price": 414.29,
+      "min_price": 341.55,
+      "max_price": 469.99,
       "observations": 12
     },
     {
+      "date": "2026-11-09",
+      "min_price": 341.55,
+      "max_price": 469.99,
+      "observations": 24
+    },
+    {
       "date": "2026-11-10",
-      "min_price": 414.29,
+      "min_price": 341.55,
+      "max_price": 469.99,
+      "observations": 12
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 341.55,
+      "max_price": 469.99,
       "observations": 6
     }
   ],
   "stats": {
-    "median_90d": 414.29,
-    "min_ever": 414.29,
+    "median_90d": 341.55,
+    "min_ever": 341.55,
     "min_ever_at": "2026-11-08",
-    "distinct_days": 3,
+    "max_ever": 469.99,
+    "distinct_days": 4,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
   },
-  "score": 64
+  "score": 47
 }

@@ -1,0 +1,112 @@
+{
+  "id": "ml:MLB39233315",
+  "slug": "travesseiro-viscoelastico-nasa-antiacaros-medio-40x60x13-mlb39233315",
+  "title": "Travesseiro viscoelástico Nasa antiácaros medio 40x60x13",
+  "brand": null,
+  "model": null,
+  "category_slug": "bem-estar-10",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_615135-MLU78302675671_082024-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB5265964499",
+      "condition": "new",
+      "category_slug": "bem-estar-10",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "72002345",
+        "name": null,
+        "reputation": null
+      },
+      "price": 89.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB39233315",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:19:44.125Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7889913944",
+      "condition": "new",
+      "category_slug": "bem-estar-10",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2018723583",
+        "name": null,
+        "reputation": null
+      },
+      "price": 75.43,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB39233315",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:19:44.125Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 75.43,
+      "max_price": 89.9,
+      "observations": 8
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 75.43,
+      "max_price": 89.9,
+      "observations": 8
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 75.43,
+      "max_price": 89.9,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 75.43,
+      "max_price": 89.9,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 75.43,
+      "max_price": 89.9,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 75.43,
+    "min_ever": 75.43,
+    "min_ever_at": "2026-11-07",
+    "max_ever": 89.9,
+    "distinct_days": 5,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
+  },
+  "score": 39
+}

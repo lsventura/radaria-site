@@ -1,0 +1,112 @@
+{
+  "id": "ml:MLB58658966",
+  "slug": "smartwatch-microwear-w10-46-5mm-oled-assistente-voz-caixa-prateado-mlb58658966",
+  "title": "Smartwatch Microwear W10 46.5mm Oled Assistente Voz Caixa Prateado",
+  "brand": null,
+  "model": null,
+  "category_slug": "casa-inteligente-1",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_944465-MLA93955860609_102025-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB6666344000",
+      "condition": "new",
+      "category_slug": "casa-inteligente-1",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2123869119",
+        "name": null,
+        "reputation": null
+      },
+      "price": 142.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB58658966",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:02:43.729Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4592900047",
+      "condition": "new",
+      "category_slug": "casa-inteligente-1",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3290042529",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 239.49,
+      "currency": "BRL",
+      "store_reference_price": 259.9,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB58658966",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:02:43.729Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 142.99,
+      "max_price": 239.49,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 142.99,
+      "max_price": 239.49,
+      "observations": 8
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 142.99,
+      "max_price": 239.49,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 142.99,
+      "max_price": 239.49,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 142.99,
+      "max_price": 239.49,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 142.99,
+    "min_ever": 142.99,
+    "min_ever_at": "2026-11-07",
+    "max_ever": 239.49,
+    "distinct_days": 5,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
+  },
+  "score": 39
+}

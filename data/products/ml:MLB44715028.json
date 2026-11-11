@@ -1,0 +1,87 @@
+{
+  "id": "ml:MLB44715028",
+  "slug": "motosserra-eletrica-mini-motosserra-eletrica-portatil-550w-cor-preta-mlb44715028",
+  "title": "Motosserra elétrica Mini motosserra elétrica portátil 550W, cor preta",
+  "brand": null,
+  "model": null,
+  "category_slug": "jardim-e-piscina-10",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_983821-MLA93869206636_102025-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB7701270960",
+      "condition": "new",
+      "category_slug": "jardim-e-piscina-10",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1156369897",
+        "name": null,
+        "reputation": null
+      },
+      "price": 219,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB44715028",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:05:42.927Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 219,
+      "max_price": 219,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 219,
+      "max_price": 219,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 219,
+      "max_price": 219,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 219,
+      "max_price": 219,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 219,
+      "max_price": 219,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 219,
+    "min_ever": 219,
+    "min_ever_at": "2026-11-07",
+    "max_ever": 219,
+    "distinct_days": 5,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
+  },
+  "score": 49
+}

@@ -1,0 +1,112 @@
+{
+  "id": "ml:MLB72851065",
+  "slug": "kit-ginastica-rodinha-abdominal-suporte-barra-de-flexao-preto-e-azul-mlb72851065",
+  "title": "Kit Ginastica Rodinha Abdominal + Suporte Barra De Flexão Preto E Azul",
+  "brand": null,
+  "model": null,
+  "category_slug": "fitness-15",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_647982-MLA115110101014_082026-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB7305855342",
+      "condition": "new",
+      "category_slug": "fitness-15",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "224440454",
+        "name": null,
+        "reputation": null
+      },
+      "price": 55.96,
+      "currency": "BRL",
+      "store_reference_price": 78.9,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB72851065",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T18:02:46.521Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7736175624",
+      "condition": "new",
+      "category_slug": "fitness-15",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "139329241",
+        "name": null,
+        "reputation": null
+      },
+      "price": 55,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB72851065",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T18:02:46.521Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 55,
+      "max_price": 57.23,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 55,
+      "max_price": 57.97,
+      "observations": 8
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 55,
+      "max_price": 57.97,
+      "observations": 7
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 55,
+      "max_price": 55.96,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 55,
+      "max_price": 57.23,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 55,
+    "min_ever": 55,
+    "min_ever_at": "2026-11-07",
+    "max_ever": 57.97,
+    "distinct_days": 5,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
+  },
+  "score": 39
+}

@@ -9,9 +9,14 @@
     "https://http2.mlstatic.com/D_NQ_NP_975622-MLA96183689445_102025-F.jpg"
   ],
   "attributes": {},
+  "catalog_link": null,
   "offers": [
     {
       "offer_id": "ml:MLB3419135809",
+      "condition": "new",
+      "category_slug": "moveis-19",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "471866172",
@@ -21,16 +26,22 @@
       "price": 322.04,
       "currency": "BRL",
       "store_reference_price": 357.83,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/2V9ShRv",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T01:02:35.872Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB22629591",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:48:43.433Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB4807692937",
+      "condition": "new",
+      "category_slug": "moveis-19",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "96861488",
@@ -40,16 +51,22 @@
       "price": 329.9,
       "currency": "BRL",
       "store_reference_price": 399.9,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/2V9ShRv",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T01:02:35.872Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB22629591",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:48:43.433Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB3388182933",
+      "condition": "new",
+      "category_slug": "moveis-19",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "471866172",
@@ -59,16 +76,22 @@
       "price": 335.81,
       "currency": "BRL",
       "store_reference_price": 373.13,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/2V9ShRv",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T01:02:35.872Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB22629591",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:48:43.433Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB5331591502",
+      "condition": "new",
+      "category_slug": "moveis-19",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "96861488",
@@ -78,16 +101,22 @@
       "price": 389.9,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/2V9ShRv",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T01:02:35.872Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB22629591",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:48:43.433Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB3751096640",
+      "condition": "new",
+      "category_slug": "moveis-19",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "178286681",
@@ -97,11 +126,13 @@
       "price": 363.65,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/2V9ShRv",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T01:02:35.872Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB22629591",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:48:43.433Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -111,30 +142,40 @@
     {
       "date": "2026-11-08",
       "min_price": 322.04,
+      "max_price": 389.9,
       "observations": 15
     },
     {
       "date": "2026-11-09",
       "min_price": 322.04,
+      "max_price": 389.9,
       "observations": 25
     },
     {
       "date": "2026-11-10",
       "min_price": 322.04,
+      "max_price": 389.9,
       "observations": 15
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 322.04,
+      "max_price": 389.9,
+      "observations": 5
     }
   ],
   "stats": {
     "median_90d": 322.04,
     "min_ever": 322.04,
     "min_ever_at": "2026-11-08",
-    "distinct_days": 3,
+    "max_ever": 389.9,
+    "distinct_days": 4,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
   },
   "score": 64
 }

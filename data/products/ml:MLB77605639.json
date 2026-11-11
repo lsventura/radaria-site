@@ -1,0 +1,89 @@
+{
+  "id": "ml:MLB77605639",
+  "slug": "porta-sanfonada-pvc-imbuia-097x210-marrom-mlb77605639",
+  "title": "Porta Sanfonada Pvc Imbuia 097x210 Marrom",
+  "brand": "Permatti",
+  "model": "PVC",
+  "category_slug": "geral",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_891244-MLA116381712227_082026-F.jpg"
+  ],
+  "attributes": {
+    "GTIN": "07898642681397",
+    "BRAND": "Permatti",
+    "COLOR": "Marrom",
+    "MODEL": "PVC",
+    "WIDTH": "97 cm",
+    "HEIGHT": "2.1 m",
+    "MATERIAL": "PVC",
+    "DOOR_TYPE": "Sanfonada",
+    "MAIN_COLOR": "Marrom",
+    "PIECES_INCLUDED": "Marco, Punho",
+    "IS_ARMOURED_DOOR": "Não",
+    "IS_SUITABLE_FOR_EXTERIOR": "Não",
+    "IS_SUITABLE_FOR_INTERIOR": "Sim"
+  },
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB7757916582",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "753396625",
+        "name": null,
+        "reputation": null
+      },
+      "price": 374,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB77605639",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:53:56.930Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-09",
+      "min_price": 374,
+      "max_price": 374,
+      "observations": 22
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 374,
+      "max_price": 374,
+      "observations": 19
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 374,
+      "max_price": 374,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 374,
+    "min_ever": 374,
+    "min_ever_at": "2026-11-09",
+    "max_ever": 374,
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 39
+}

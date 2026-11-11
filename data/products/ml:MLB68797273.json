@@ -1,0 +1,106 @@
+{
+  "id": "ml:MLB68797273",
+  "slug": "caixa-areia-fechada-gato-banheiro-porta-pa-filtro-higienico-cor-rosa-mlb68797273",
+  "title": "Caixa Areia Fechada Gato Banheiro Porta Pá Filtro Higiênico Cor Rosa",
+  "brand": null,
+  "model": null,
+  "category_slug": "pets-9",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_702789-MLA113955004397_062026-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB3975789607",
+      "condition": "new",
+      "category_slug": "pets-9",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1076808878",
+        "name": null,
+        "reputation": null
+      },
+      "price": 59.99,
+      "currency": "BRL",
+      "store_reference_price": 139.9,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB68797273",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T18:18:48.940Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6687612954",
+      "condition": "new",
+      "category_slug": "pets-9",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1704948320",
+        "name": null,
+        "reputation": null
+      },
+      "price": 57.99,
+      "currency": "BRL",
+      "store_reference_price": 139.9,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB68797273",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T18:18:48.940Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 59.99,
+      "max_price": 59.99,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 57.99,
+      "max_price": 59.99,
+      "observations": 8
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 57.99,
+      "max_price": 59.99,
+      "observations": 6
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 57.99,
+      "max_price": 59.99,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 57.99,
+    "min_ever": 57.99,
+    "min_ever_at": "2026-11-09",
+    "max_ever": 59.99,
+    "distinct_days": 4,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

@@ -1,0 +1,162 @@
+{
+  "id": "ml:MLB22819720",
+  "slug": "o-livro-dos-negocios-varios-globo-livros-capa-dura-mlb22819720",
+  "title": "O livro dos negócios - Vários - Globo Livros - Capa Dura",
+  "brand": null,
+  "model": null,
+  "category_slug": "livros-e-papelaria-10",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_857476-MLU54967468391_042023-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB4838263154",
+      "condition": "new",
+      "category_slug": "livros-e-papelaria-10",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "620799712",
+        "name": null,
+        "reputation": null
+      },
+      "price": 78.77,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB22819720",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:06:43.152Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB3629325595",
+      "condition": "new",
+      "category_slug": "livros-e-papelaria-10",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "637377519",
+        "name": null,
+        "reputation": null
+      },
+      "price": 78.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB22819720",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:06:43.152Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7337525392",
+      "condition": "new",
+      "category_slug": "livros-e-papelaria-10",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "262204969",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 66.38,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB22819720",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:06:43.152Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB3933709317",
+      "condition": "new",
+      "category_slug": "livros-e-papelaria-10",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "262204969",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 69.05,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB22819720",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:06:43.152Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 66.38,
+      "max_price": 78.99,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 66.38,
+      "max_price": 78.99,
+      "observations": 16
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 66.38,
+      "max_price": 78.99,
+      "observations": 8
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 66.38,
+      "max_price": 78.99,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 66.38,
+      "max_price": 78.99,
+      "observations": 4
+    }
+  ],
+  "stats": {
+    "median_90d": 66.38,
+    "min_ever": 66.38,
+    "min_ever_at": "2026-11-06",
+    "max_ever": 78.99,
+    "distinct_days": 5,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

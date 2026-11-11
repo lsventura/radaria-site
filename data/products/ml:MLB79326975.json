@@ -1,0 +1,81 @@
+{
+  "id": "ml:MLB79326975",
+  "slug": "kit-marca-texto-pastel-onda-pro-caixa-com-24-unidades-pastel-mlb79326975",
+  "title": "Kit Marca Texto Pastel Onda Pro Caixa Com 24 Unidades Pastel",
+  "brand": null,
+  "model": null,
+  "category_slug": "livros-e-papelaria-5",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_794081-MLA117661242647_092026-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB7651824468",
+      "condition": "new",
+      "category_slug": "livros-e-papelaria-5",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "250620900",
+        "name": null,
+        "reputation": null
+      },
+      "price": 69.9,
+      "currency": "BRL",
+      "store_reference_price": 104.9,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB79326975",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T12:21:14.216Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 89.9,
+      "max_price": 89.9,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 69.9,
+      "max_price": 89.9,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 69.9,
+      "max_price": 69.9,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 69.9,
+      "max_price": 69.9,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 69.9,
+    "min_ever": 69.9,
+    "min_ever_at": "2026-11-09",
+    "max_ever": 89.9,
+    "distinct_days": 4,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+  },
+  "score": 31
+}

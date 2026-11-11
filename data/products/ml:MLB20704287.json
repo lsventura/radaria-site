@@ -1,0 +1,162 @@
+{
+  "id": "ml:MLB20704287",
+  "slug": "escova-limpeza-pneus-e-carpetes-sigma-tools-mlb20704287",
+  "title": "Escova Limpeza Pneus e Carpetes Sigma Tools",
+  "brand": null,
+  "model": null,
+  "category_slug": "beleza-13",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_788184-MLA99429358980_112025-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB6527388176",
+      "condition": "new",
+      "category_slug": "beleza-13",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "837029341",
+        "name": null,
+        "reputation": null
+      },
+      "price": 38.5,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB20704287",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:21:43.916Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7229847304",
+      "condition": "new",
+      "category_slug": "beleza-13",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2918086642",
+        "name": null,
+        "reputation": null
+      },
+      "price": 36.56,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB20704287",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:21:43.916Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4263747189",
+      "condition": "new",
+      "category_slug": "beleza-13",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1301283272",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 33,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB20704287",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:21:43.916Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4585790425",
+      "condition": "new",
+      "category_slug": "beleza-13",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2387183047",
+        "name": null,
+        "reputation": null
+      },
+      "price": 49,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB20704287",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:21:43.916Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 33,
+      "max_price": 49,
+      "observations": 16
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 33,
+      "max_price": 49,
+      "observations": 12
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 33,
+      "max_price": 49,
+      "observations": 12
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 33,
+      "max_price": 49,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 33,
+      "max_price": 49,
+      "observations": 4
+    }
+  ],
+  "stats": {
+    "median_90d": 33,
+    "min_ever": 33,
+    "min_ever_at": "2026-11-07",
+    "max_ever": 49,
+    "distinct_days": 5,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
+  },
+  "score": 52
+}

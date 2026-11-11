@@ -1,0 +1,87 @@
+{
+  "id": "ml:MLB29517036",
+  "slug": "pincel-pintura-premium-adaga-dagger-keramik-765-n-8-cor-das-cerdas-dourado-mlb29517036",
+  "title": "Pincel Pintura Premium Adaga Dagger Keramik 765 Nº 8 Cor Das Cerdas Dourado",
+  "brand": null,
+  "model": null,
+  "category_slug": "arte-e-artesanato-10",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_642277-MLU73747565486_012024-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB3715751159",
+      "condition": "new",
+      "category_slug": "arte-e-artesanato-10",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "202483949",
+        "name": null,
+        "reputation": null
+      },
+      "price": 34.67,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB29517036",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:18:43.530Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 34.52,
+      "max_price": 34.52,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 34.52,
+      "max_price": 34.52,
+      "observations": 5
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 34.52,
+      "max_price": 34.67,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 34.67,
+      "max_price": 34.67,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 34.52,
+      "max_price": 34.52,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 34.52,
+    "min_ever": 34.52,
+    "min_ever_at": "2026-11-06",
+    "max_ever": 34.67,
+    "distinct_days": 5,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": -0.4,
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

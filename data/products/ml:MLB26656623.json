@@ -1,0 +1,112 @@
+{
+  "id": "ml:MLB26656623",
+  "slug": "batedor-mixer-de-ovo-claras-massas-giratorio-semi-automatico-mlb26656623",
+  "title": "Batedor Mixer De Ovo Claras Massas Giratório Semi Automático",
+  "brand": null,
+  "model": null,
+  "category_slug": "cozinha-6",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_821820-MLA95658846781_102025-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB3457752785",
+      "condition": "new",
+      "category_slug": "cozinha-6",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "574320611",
+        "name": null,
+        "reputation": null
+      },
+      "price": 21.55,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB26656623",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:21:43.125Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6792475502",
+      "condition": "new",
+      "category_slug": "cozinha-6",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3251559496",
+        "name": null,
+        "reputation": null
+      },
+      "price": 19.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB26656623",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:21:43.125Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 19.9,
+      "max_price": 21.55,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 19.9,
+      "max_price": 21.55,
+      "observations": 10
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 19.9,
+      "max_price": 21.55,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 19.9,
+      "max_price": 21.55,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 19.9,
+      "max_price": 21.55,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 19.9,
+    "min_ever": 19.9,
+    "min_ever_at": "2026-11-07",
+    "max_ever": 21.55,
+    "distinct_days": 5,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
+  },
+  "score": 39
+}

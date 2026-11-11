@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="128" height="128" role="img" aria-labelledby="bi3d020-title">
+<title id="bi3d020-title">perfil — Bipac SVG com relevo 3D</title>
+<defs>
+<linearGradient id="bi3d020-face" x1="12%" y1="7%" x2="82%" y2="96%">
+<stop offset="0" stop-color="#D4F48C"/><stop offset=".38" stop-color="#5FA64F"/><stop offset=".74" stop-color="#176A49"/><stop offset="1" stop-color="#193C30"/>
+</linearGradient>
+<filter id="bi3d020-shadow" x="-25%" y="-25%" width="150%" height="175%">
+<feGaussianBlur stdDeviation=".8"/>
+</filter>
+</defs>
+<g transform="translate(4.3 5.4)" opacity=".18" filter="url(#bi3d020-shadow)"><g fill="none" stroke="#0E3829" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.3"><circle cx="12" cy="8" r="5"/><path d="M20 21a8 8 0 0 0-16 0"/></g></g>
+<g transform="translate(4.1 5.2)"><g fill="none" stroke="#0E3829" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.3"><circle cx="12" cy="8" r="5"/><path d="M20 21a8 8 0 0 0-16 0"/></g></g>
+<g transform="translate(4 4.45)"><g fill="none" stroke="#176A49" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.0"><circle cx="12" cy="8" r="5"/><path d="M20 21a8 8 0 0 0-16 0"/></g></g>
+<g transform="translate(4 3.65)"><g fill="none" stroke="url(#bi3d020-face)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.8"><circle cx="12" cy="8" r="5"/><path d="M20 21a8 8 0 0 0-16 0"/></g></g>
+<g transform="translate(3.76 3.36)" opacity=".43"><g fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.52"><circle cx="12" cy="8" r="5"/><path d="M20 21a8 8 0 0 0-16 0"/></g></g>
+</svg>

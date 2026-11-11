@@ -9,9 +9,14 @@
     "https://http2.mlstatic.com/D_NQ_NP_736532-MLA111447448496_052026-F.jpg"
   ],
   "attributes": {},
+  "catalog_link": null,
   "offers": [
     {
       "offer_id": "ml:MLB4876402813",
+      "condition": "new",
+      "category_slug": "casa-e-reforma-18",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "284899568",
@@ -21,16 +26,22 @@
       "price": 187.44,
       "currency": "BRL",
       "store_reference_price": 213,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/2RaSoPZ",
-      "affiliate": true,
-      "last_observed_at": "2026-11-10T23:34:11.593Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB70570747",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:00:42.944Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB6868084976",
+      "condition": "new",
+      "category_slug": "casa-e-reforma-18",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "206001831",
@@ -40,11 +51,13 @@
       "price": 226.45,
       "currency": "BRL",
       "store_reference_price": 233.45,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/2RaSoPZ",
-      "affiliate": true,
-      "last_observed_at": "2026-11-10T23:34:11.593Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB70570747",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:00:42.944Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -54,21 +67,31 @@
     {
       "date": "2026-11-08",
       "min_price": 187.44,
+      "max_price": 226.45,
       "observations": 4
     },
     {
       "date": "2026-11-09",
       "min_price": 187.44,
+      "max_price": 226.45,
       "observations": 6
     },
     {
       "date": "2026-11-10",
       "min_price": 187.44,
+      "max_price": 226.45,
       "observations": 6
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 187.44,
+      "max_price": 226.45,
+      "observations": 2
     },
     {
       "date": "2026-11-07",
       "min_price": 187.44,
+      "max_price": 226.45,
       "observations": 3
     }
   ],
@@ -76,13 +99,14 @@
     "median_90d": 187.44,
     "min_ever": 187.44,
     "min_ever_at": "2026-11-07",
-    "distinct_days": 4,
+    "max_ever": 226.45,
+    "distinct_days": 5,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
   },
   "score": 60
 }

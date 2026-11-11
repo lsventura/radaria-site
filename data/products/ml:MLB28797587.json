@@ -1,0 +1,112 @@
+{
+  "id": "ml:MLB28797587",
+  "slug": "oximetro-digital-de-saturacao-de-oxigenio-mlb28797587",
+  "title": "Oxímetro Digital De Saturação De Oxigênio",
+  "brand": null,
+  "model": null,
+  "category_slug": "bem-estar-18",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_605825-MLU73292332638_122023-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB4092777301",
+      "condition": "new",
+      "category_slug": "bem-estar-18",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2462653236",
+        "name": null,
+        "reputation": null
+      },
+      "price": 17.5,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB28797587",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:52:43.211Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB3885004659",
+      "condition": "new",
+      "category_slug": "bem-estar-18",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "622320814",
+        "name": null,
+        "reputation": null
+      },
+      "price": 34.95,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB28797587",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:52:43.211Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 17.5,
+      "max_price": 34.95,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 17.5,
+      "max_price": 34.95,
+      "observations": 8
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 17.5,
+      "max_price": 34.95,
+      "observations": 6
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 17.5,
+      "max_price": 34.95,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 17.5,
+      "max_price": 34.95,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 17.5,
+    "min_ever": 17.5,
+    "min_ever_at": "2026-11-07",
+    "max_ever": 34.95,
+    "distinct_days": 5,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
+  },
+  "score": 39
+}

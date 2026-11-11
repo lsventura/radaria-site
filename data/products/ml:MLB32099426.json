@@ -9,9 +9,14 @@
     "https://http2.mlstatic.com/D_NQ_NP_757799-MLA99588883270_122025-F.jpg"
   ],
   "attributes": {},
+  "catalog_link": null,
   "offers": [
     {
       "offer_id": "ml:MLB3588878965",
+      "condition": "new",
+      "category_slug": "casa-e-reforma-13",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "234070269",
@@ -21,11 +26,113 @@
       "price": 166.57,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/1hqCBDu",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T02:10:47.965Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB32099426",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:52:43.050Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5800362234",
+      "condition": "new",
+      "category_slug": "casa-e-reforma-13",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2926159286",
+        "name": null,
+        "reputation": null
+      },
+      "price": 30.6,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB32099426",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:52:43.050Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB3733838393",
+      "condition": "new",
+      "category_slug": "casa-e-reforma-13",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1088008954",
+        "name": null,
+        "reputation": null
+      },
+      "price": 37,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB32099426",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:52:43.050Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5041611431",
+      "condition": "new",
+      "category_slug": "casa-e-reforma-13",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3468802456",
+        "name": null,
+        "reputation": null
+      },
+      "price": 48,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB32099426",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:52:43.050Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4703438074",
+      "condition": "new",
+      "category_slug": "casa-e-reforma-13",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "801314837",
+        "name": null,
+        "reputation": null
+      },
+      "price": 32.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB32099426",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:52:43.050Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -34,36 +141,47 @@
   "history": [
     {
       "date": "2026-11-08",
-      "min_price": 166.57,
-      "observations": 3
+      "min_price": 30.6,
+      "max_price": 166.57,
+      "observations": 15
     },
     {
       "date": "2026-11-09",
-      "min_price": 166.57,
-      "observations": 4
+      "min_price": 30.6,
+      "max_price": 166.57,
+      "observations": 20
     },
     {
       "date": "2026-11-10",
-      "min_price": 166.57,
-      "observations": 3
+      "min_price": 30.6,
+      "max_price": 166.57,
+      "observations": 15
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 30.6,
+      "max_price": 166.57,
+      "observations": 5
     },
     {
       "date": "2026-11-07",
-      "min_price": 166.57,
-      "observations": 1
+      "min_price": 30.6,
+      "max_price": 166.57,
+      "observations": 5
     }
   ],
   "stats": {
-    "median_90d": 166.57,
-    "min_ever": 166.57,
+    "median_90d": 30.6,
+    "min_ever": 30.6,
     "min_ever_at": "2026-11-07",
-    "distinct_days": 4,
+    "max_ever": 166.57,
+    "distinct_days": 5,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
   },
-  "score": 64
+  "score": 39
 }

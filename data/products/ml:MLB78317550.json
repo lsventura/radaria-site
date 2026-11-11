@@ -1,0 +1,87 @@
+{
+  "id": "ml:MLB78317550",
+  "slug": "anel-inteligente-oura-ring-5-tamanho-6-prateado-mlb78317550",
+  "title": "Anel inteligente Oura Ring 5 tamanho 6 prateado",
+  "brand": null,
+  "model": null,
+  "category_slug": "acessorios-e-wearables-5",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_945474-MLA116720180353_082026-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB7861208706",
+      "condition": "new",
+      "category_slug": "acessorios-e-wearables-5",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "312604421",
+        "name": null,
+        "reputation": null
+      },
+      "price": 6399,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB78317550",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:43:43.033Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 6399,
+      "max_price": 6399,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 6399,
+      "max_price": 6399,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 6399,
+      "max_price": 6399,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 6399,
+      "max_price": 6399,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 6399,
+      "max_price": 6399,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 6399,
+    "min_ever": 6399,
+    "min_ever_at": "2026-11-07",
+    "max_ever": 6399,
+    "distinct_days": 5,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
+  },
+  "score": 45
+}

@@ -1,0 +1,81 @@
+{
+  "id": "ml:MLB37969829",
+  "slug": "escrivaninha-mesa-infantil-com-regulagem-de-altura-iawt-mlb37969829",
+  "title": "Escrivaninha / Mesa Infantil Com Regulagem De Altura Iawt",
+  "brand": null,
+  "model": null,
+  "category_slug": "moveis-15",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_740370-MLA95113156838_102025-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB4853699650",
+      "condition": "new",
+      "category_slug": "moveis-15",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "311078705",
+        "name": null,
+        "reputation": null
+      },
+      "price": 776.45,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB37969829",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T18:04:46.622Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 776.45,
+      "max_price": 776.45,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 776.45,
+      "max_price": 776.45,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 776.45,
+      "max_price": 776.45,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 776.45,
+      "max_price": 776.45,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 776.45,
+    "min_ever": 776.45,
+    "min_ever_at": "2026-11-08",
+    "max_ever": 776.45,
+    "distinct_days": 4,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

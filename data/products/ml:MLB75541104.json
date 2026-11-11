@@ -1,0 +1,106 @@
+{
+  "id": "ml:MLB75541104",
+  "slug": "aquecedor-de-mamadeira-portatil-lagostini-usb-sem-fio-recarregavel-com-visor-dig-mlb75541104",
+  "title": "Aquecedor De Mamadeira Portátil Lagostini Usb Sem Fio Recarregável com visor digital",
+  "brand": null,
+  "model": null,
+  "category_slug": "bebes-18",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_912947-MLA114708880547_072026-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB7819769714",
+      "condition": "new",
+      "category_slug": "bebes-18",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1481197764",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 44.59,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB75541104",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:55:42.737Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7190906554",
+      "condition": "new",
+      "category_slug": "bebes-18",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "64606564",
+        "name": null,
+        "reputation": null
+      },
+      "price": 52.89,
+      "currency": "BRL",
+      "store_reference_price": 119,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB75541104",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:55:42.737Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 44.59,
+      "max_price": 52.89,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 44.59,
+      "max_price": 52.89,
+      "observations": 8
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 44.59,
+      "max_price": 52.89,
+      "observations": 6
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 44.59,
+      "max_price": 52.89,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 44.59,
+    "min_ever": 44.59,
+    "min_ever_at": "2026-11-08",
+    "max_ever": 52.89,
+    "distinct_days": 4,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+  },
+  "score": 52
+}

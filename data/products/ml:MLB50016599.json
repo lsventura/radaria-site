@@ -1,0 +1,112 @@
+{
+  "id": "ml:MLB50016599",
+  "slug": "colchao-espuma-d45-sleep-max-queen-158x198x18-castor-mlb50016599",
+  "title": "Colchão Espuma D45 Sleep Max Queen (158x198x18) - Castor",
+  "brand": null,
+  "model": null,
+  "category_slug": "moveis-12",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_977102-MLA99454342764_112025-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB5735330806",
+      "condition": "new",
+      "category_slug": "moveis-12",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "171391268",
+        "name": null,
+        "reputation": null
+      },
+      "price": 2031.02,
+      "currency": "BRL",
+      "store_reference_price": 2137.92,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB50016599",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:52:42.908Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5388729724",
+      "condition": "new",
+      "category_slug": "moveis-12",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "171391268",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1911.32,
+      "currency": "BRL",
+      "store_reference_price": 2011.92,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB50016599",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:52:42.908Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 1911.32,
+      "max_price": 2031.02,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 1911.32,
+      "max_price": 2031.02,
+      "observations": 8
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 1911.32,
+      "max_price": 2031.02,
+      "observations": 6
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 1911.32,
+      "max_price": 2031.02,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 1911.32,
+      "max_price": 2031.02,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 1911.32,
+    "min_ever": 1911.32,
+    "min_ever_at": "2026-11-07",
+    "max_ever": 2031.02,
+    "distinct_days": 5,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
+  },
+  "score": 52
+}

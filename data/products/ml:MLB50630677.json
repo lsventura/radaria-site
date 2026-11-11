@@ -9,9 +9,14 @@
     "https://http2.mlstatic.com/D_NQ_NP_938809-MLA95160791848_102025-F.jpg"
   ],
   "attributes": {},
+  "catalog_link": null,
   "offers": [
     {
       "offer_id": "ml:MLB5409323476",
+      "condition": "new",
+      "category_slug": "viagem-e-outdoor-6",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "1135453407",
@@ -21,11 +26,13 @@
       "price": 156.01,
       "currency": "BRL",
       "store_reference_price": 269.91,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/1FbmFBD",
-      "affiliate": true,
-      "last_observed_at": "2026-11-10T22:53:14.684Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB50630677",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T14:44:34.933Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -35,21 +42,31 @@
     {
       "date": "2026-11-08",
       "min_price": 156.01,
+      "max_price": 156.01,
       "observations": 1
     },
     {
       "date": "2026-11-09",
       "min_price": 156.01,
+      "max_price": 156.01,
       "observations": 4
     },
     {
       "date": "2026-11-10",
       "min_price": 156.01,
+      "max_price": 156.01,
       "observations": 3
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 156.01,
+      "max_price": 156.01,
+      "observations": 1
     },
     {
       "date": "2026-11-06",
       "min_price": 156.01,
+      "max_price": 156.01,
       "observations": 2
     }
   ],
@@ -57,13 +74,14 @@
     "median_90d": 156.01,
     "min_ever": 156.01,
     "min_ever_at": "2026-11-06",
-    "distinct_days": 4,
+    "max_ever": 156.01,
+    "distinct_days": 5,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
   },
   "score": 60
 }

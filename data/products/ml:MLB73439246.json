@@ -24,9 +24,39 @@
     "IS_HOLOGRAPHIC_STICKER": "Não",
     "COLLECTIBLE_ALBUM_STICKERS_THEME": "Copa do Mundo FIFA de 2026"
   },
+  "catalog_link": null,
   "offers": [
     {
+      "offer_id": "ml:MLB7046049984",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2660575575",
+        "name": null,
+        "reputation": null
+      },
+      "price": 89.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB73439246",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:18:43.739Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
       "offer_id": "ml:MLB6961008592",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "450768933",
@@ -36,11 +66,63 @@
       "price": 46.36,
       "currency": "BRL",
       "store_reference_price": 92.72,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB73439246",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:18:43.739Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7264172094",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "28768687",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 67.7,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
       "free_shipping": false,
       "available": true,
-      "url": "https://meli.la/2LoLcwM",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T00:31:13.004Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB73439246",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:18:43.739Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6985349836",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3476098113",
+        "name": null,
+        "reputation": null
+      },
+      "price": 62.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB73439246",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:18:43.739Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -49,26 +131,35 @@
   "history": [
     {
       "date": "2026-11-09",
-      "min_price": 92.72,
-      "observations": 6
+      "min_price": 62.9,
+      "max_price": 92.72,
+      "observations": 24
     },
     {
       "date": "2026-11-10",
       "min_price": 46.36,
-      "observations": 3
+      "max_price": 89.9,
+      "observations": 12
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 46.36,
+      "max_price": 89.9,
+      "observations": 4
     }
   ],
   "stats": {
-    "median_90d": 69.54,
+    "median_90d": 46.36,
     "min_ever": 46.36,
     "min_ever_at": "2026-11-10",
-    "distinct_days": 2,
+    "max_ever": 92.72,
+    "distinct_days": 3,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 33.3,
-    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
   },
   "score": 52
 }

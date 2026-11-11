@@ -1,0 +1,106 @@
+{
+  "id": "ml:MLB29039648",
+  "slug": "placa-mae-do-computador-keepdata-lga-1155-h61-kdgnv-preto-mlb29039648",
+  "title": "Placa-mãe do computador Keepdata LGA 1155 H61-KDGNV - Preto",
+  "brand": null,
+  "model": null,
+  "category_slug": "informatica-14",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_757789-MLA115206636613_072026-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB5447342079",
+      "condition": "new",
+      "category_slug": "informatica-14",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2649524447",
+        "name": null,
+        "reputation": null
+      },
+      "price": 186.9,
+      "currency": "BRL",
+      "store_reference_price": 233.9,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB29039648",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:36:43.056Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5447342081",
+      "condition": "new",
+      "category_slug": "informatica-14",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2649524447",
+        "name": null,
+        "reputation": null
+      },
+      "price": 207.9,
+      "currency": "BRL",
+      "store_reference_price": 259.9,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB29039648",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:36:43.056Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 186.9,
+      "max_price": 207.9,
+      "observations": 26
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 186.9,
+      "max_price": 207.9,
+      "observations": 8
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 186.9,
+      "max_price": 207.9,
+      "observations": 6
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 186.9,
+      "max_price": 207.9,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 186.9,
+    "min_ever": 186.9,
+    "min_ever_at": "2026-11-08",
+    "max_ever": 207.9,
+    "distinct_days": 4,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+  },
+  "score": 47
+}

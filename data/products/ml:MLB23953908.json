@@ -1,0 +1,156 @@
+{
+  "id": "ml:MLB23953908",
+  "slug": "escrivaninha-mesa-escritorio-multimoveis-vcr25019-cor-nogal-mlb23953908",
+  "title": "Escrivaninha/mesa Escritório Multimóveis Vcr25019 Cor Nogal",
+  "brand": null,
+  "model": null,
+  "category_slug": "moveis-5",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_682271-MLA95599390919_102025-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB4266125813",
+      "condition": "new",
+      "category_slug": "moveis-5",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "384367575",
+        "name": null,
+        "reputation": null
+      },
+      "price": 359.99,
+      "currency": "BRL",
+      "store_reference_price": 449.99,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB23953908",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:16:43.039Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6228435380",
+      "condition": "new",
+      "category_slug": "moveis-5",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "384367575",
+        "name": null,
+        "reputation": null
+      },
+      "price": 325,
+      "currency": "BRL",
+      "store_reference_price": 449.99,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB23953908",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:16:43.039Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6218971084",
+      "condition": "new",
+      "category_slug": "moveis-5",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "384367575",
+        "name": null,
+        "reputation": null
+      },
+      "price": 320.64,
+      "currency": "BRL",
+      "store_reference_price": 449.99,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB23953908",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:16:43.039Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6218955790",
+      "condition": "new",
+      "category_slug": "moveis-5",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "384367575",
+        "name": null,
+        "reputation": null
+      },
+      "price": 359.99,
+      "currency": "BRL",
+      "store_reference_price": 449.99,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB23953908",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:16:43.039Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 320.64,
+      "max_price": 359.99,
+      "observations": 8
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 320.64,
+      "max_price": 359.99,
+      "observations": 20
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 320.64,
+      "max_price": 359.99,
+      "observations": 8
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 320.64,
+      "max_price": 359.99,
+      "observations": 4
+    }
+  ],
+  "stats": {
+    "median_90d": 320.64,
+    "min_ever": 320.64,
+    "min_ever_at": "2026-11-08",
+    "max_ever": 359.99,
+    "distinct_days": 4,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

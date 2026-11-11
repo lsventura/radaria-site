@@ -1,0 +1,107 @@
+{
+  "id": "ml:MLB60331007",
+  "slug": "pelicula-hidrogel-tela-frontal-xiaomi-17-pro-transparente-mlb60331007",
+  "title": "Película Hidrogel Tela Frontal Xiaomi 17 Pro Transparente",
+  "brand": "MACA",
+  "model": "Xiaomi 17 Pro",
+  "category_slug": "geral",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_628263-MLA99544624262_122025-F.jpg"
+  ],
+  "attributes": {
+    "GTIN": "7796554376502",
+    "BRAND": "MACA",
+    "MODEL": "Xiaomi 17 Pro",
+    "UNITS_PER_PACK": "1",
+    "TYPE_OF_SURFACE": "Hidrogel",
+    "WITH_SHATTER_PROTECTION": "Sim"
+  },
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB5827244424",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1067798476",
+        "name": null,
+        "reputation": null
+      },
+      "price": 21.52,
+      "currency": "BRL",
+      "store_reference_price": 27.55,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB60331007",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:38:55.415Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5244656125",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "265895097",
+        "name": null,
+        "reputation": null
+      },
+      "price": 20.55,
+      "currency": "BRL",
+      "store_reference_price": 27.55,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB60331007",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:38:55.415Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-09",
+      "min_price": 20.55,
+      "max_price": 21.52,
+      "observations": 42
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 20.55,
+      "max_price": 21.52,
+      "observations": 38
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 20.55,
+      "max_price": 21.52,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 20.55,
+    "min_ever": 20.55,
+    "min_ever_at": "2026-11-09",
+    "max_ever": 21.52,
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 39
+}

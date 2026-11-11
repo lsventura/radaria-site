@@ -9,9 +9,39 @@
     "https://http2.mlstatic.com/D_NQ_NP_885902-MLA98868447229_112025-F.jpg"
   ],
   "attributes": {},
+  "catalog_link": null,
   "offers": [
     {
+      "offer_id": "ml:MLB7068373930",
+      "condition": "new",
+      "category_slug": "automotivo-3",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "501378739",
+        "name": null,
+        "reputation": null
+      },
+      "price": 159.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB62322288",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T11:44:24.512Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
       "offer_id": "ml:MLB4853658609",
+      "condition": "new",
+      "category_slug": "automotivo-3",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "3365244683",
@@ -21,16 +51,47 @@
       "price": 99.99,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/2jrcky1",
-      "affiliate": true,
-      "last_observed_at": "2026-11-10T23:16:15.212Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB62322288",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T11:44:24.512Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5330897267",
+      "condition": "new",
+      "category_slug": "automotivo-3",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1885591896",
+        "name": null,
+        "reputation": null
+      },
+      "price": 188.49,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB62322288",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T11:44:24.512Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB4632050921",
+      "condition": "new",
+      "category_slug": "automotivo-3",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "2435743680",
@@ -40,11 +101,13 @@
       "price": 197,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/2jrcky1",
-      "affiliate": true,
-      "last_observed_at": "2026-11-10T23:16:15.212Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB62322288",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T11:44:24.512Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -54,35 +117,46 @@
     {
       "date": "2026-11-08",
       "min_price": 99.99,
-      "observations": 2
+      "max_price": 197,
+      "observations": 4
     },
     {
       "date": "2026-11-09",
       "min_price": 99.99,
-      "observations": 8
+      "max_price": 197,
+      "observations": 16
     },
     {
       "date": "2026-11-10",
       "min_price": 99.99,
-      "observations": 6
+      "max_price": 197,
+      "observations": 12
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 99.99,
+      "max_price": 197,
+      "observations": 4
     },
     {
       "date": "2026-11-07",
       "min_price": 99.99,
-      "observations": 2
+      "max_price": 197,
+      "observations": 4
     }
   ],
   "stats": {
     "median_90d": 99.99,
     "min_ever": 99.99,
     "min_ever_at": "2026-11-07",
-    "distinct_days": 4,
+    "max_ever": 197,
+    "distinct_days": 5,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
   },
-  "score": 60
+  "score": 56
 }

@@ -1,0 +1,112 @@
+{
+  "id": "ml:MLB28766057",
+  "slug": "kit-suporte-tv-articulado-40kg-conversor-e-suporte-mlb28766057",
+  "title": "Kit Suporte Tv Articulado 40kg + Conversor E Suporte",
+  "brand": null,
+  "model": null,
+  "category_slug": "casa-e-reforma-20",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_777419-MLA95560738393_102025-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB5806505884",
+      "condition": "new",
+      "category_slug": "casa-e-reforma-20",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "445869567",
+        "name": null,
+        "reputation": null
+      },
+      "price": 160,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB28766057",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:20:43.243Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5287419138",
+      "condition": "new",
+      "category_slug": "casa-e-reforma-20",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "839405987",
+        "name": null,
+        "reputation": null
+      },
+      "price": 125,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB28766057",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:20:43.243Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 125,
+      "max_price": 160,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 125,
+      "max_price": 160,
+      "observations": 10
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 125,
+      "max_price": 160,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 125,
+      "max_price": 160,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 125,
+      "max_price": 160,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 125,
+    "min_ever": 125,
+    "min_ever_at": "2026-11-06",
+    "max_ever": 160,
+    "distinct_days": 5,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
+  },
+  "score": 49
+}

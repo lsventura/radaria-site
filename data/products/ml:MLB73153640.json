@@ -1,0 +1,87 @@
+{
+  "id": "ml:MLB73153640",
+  "slug": "kit-irrigacao-nebulizacao-completo-nevoa-25-bicos-20m-tubo-mlb73153640",
+  "title": "Kit Irrigação Nebulização Completo Névoa 25 Bicos + 20m Tubo",
+  "brand": null,
+  "model": null,
+  "category_slug": "jardim-e-piscina-7",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_635388-MLA113091307275_062026-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB4864307659",
+      "condition": "new",
+      "category_slug": "jardim-e-piscina-7",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "95405856",
+        "name": null,
+        "reputation": null
+      },
+      "price": 75.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB73153640",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:35:44.028Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 69.9,
+      "max_price": 69.9,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 69.9,
+      "max_price": 75.9,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 75.9,
+      "max_price": 75.9,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 75.9,
+      "max_price": 75.9,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 69.9,
+      "max_price": 69.9,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 69.9,
+    "min_ever": 69.9,
+    "min_ever_at": "2026-11-07",
+    "max_ever": 75.9,
+    "distinct_days": 5,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": -8.6,
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
+  },
+  "score": 52
+}

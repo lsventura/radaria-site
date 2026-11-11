@@ -1,0 +1,112 @@
+{
+  "id": "ml:MLB60184833",
+  "slug": "carregador-sem-fio-3-em-1-para-iphone-apple-watch-e-airpods-mlb60184833",
+  "title": "Carregador Sem Fio 3 em 1 para iPhone, Apple Watch e AirPods",
+  "brand": null,
+  "model": null,
+  "category_slug": "celulares-2",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_997178-MLA99497165924_112025-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB4378023717",
+      "condition": "new",
+      "category_slug": "celulares-2",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "198531589",
+        "name": null,
+        "reputation": null
+      },
+      "price": 117,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB60184833",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T14:41:32.922Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6119151892",
+      "condition": "new",
+      "category_slug": "celulares-2",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1374606089",
+        "name": null,
+        "reputation": null
+      },
+      "price": 124.98,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB60184833",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T14:41:32.922Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 117,
+      "max_price": 124.98,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 117,
+      "max_price": 124.98,
+      "observations": 8
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 117,
+      "max_price": 124.98,
+      "observations": 6
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 117,
+      "max_price": 124.98,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 117,
+      "max_price": 124.98,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 117,
+    "min_ever": 117,
+    "min_ever_at": "2026-11-07",
+    "max_ever": 124.98,
+    "distinct_days": 5,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
+  },
+  "score": 43
+}

@@ -9,9 +9,14 @@
     "https://http2.mlstatic.com/D_NQ_NP_855370-MLA99998110017_112025-F.jpg"
   ],
   "attributes": {},
+  "catalog_link": null,
   "offers": [
     {
       "offer_id": "ml:MLB3496070277",
+      "condition": "new",
+      "category_slug": "brinquedos-7",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "10750326",
@@ -21,11 +26,13 @@
       "price": 137.99,
       "currency": "BRL",
       "store_reference_price": 149.99,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/2F3qxMJ",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T01:25:34.397Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB26792285",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:11:45.151Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -35,30 +42,40 @@
     {
       "date": "2026-11-08",
       "min_price": 149.99,
+      "max_price": 149.99,
       "observations": 2
     },
     {
       "date": "2026-11-09",
       "min_price": 137.99,
+      "max_price": 137.99,
       "observations": 7
     },
     {
       "date": "2026-11-10",
       "min_price": 137.99,
+      "max_price": 137.99,
       "observations": 2
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 137.99,
+      "max_price": 137.99,
+      "observations": 1
     }
   ],
   "stats": {
     "median_90d": 137.99,
     "min_ever": 137.99,
     "min_ever_at": "2026-11-09",
-    "distinct_days": 3,
+    "max_ever": 149.99,
+    "distinct_days": 4,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
   },
   "score": 64
 }

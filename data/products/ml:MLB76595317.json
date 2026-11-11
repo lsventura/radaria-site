@@ -1,0 +1,106 @@
+{
+  "id": "ml:MLB76595317",
+  "slug": "suporte-de-parede-suporte-de-parede-suporte-de-parede-violao-para-baixo-guitarra-mlb76595317",
+  "title": "Suporte de parede Suporte De Parede Suporte De Parede Violão para baixo, guitarra",
+  "brand": null,
+  "model": null,
+  "category_slug": "instrumentos-musicais-14",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_939807-MLB92487845592_092025-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB7930203138",
+      "condition": "new",
+      "category_slug": "instrumentos-musicais-14",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "397758010",
+        "name": null,
+        "reputation": null
+      },
+      "price": 18.5,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB76595317",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T18:16:47.964Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7927210270",
+      "condition": "new",
+      "category_slug": "instrumentos-musicais-14",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "397758010",
+        "name": null,
+        "reputation": null
+      },
+      "price": 18.5,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB76595317",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T18:16:47.964Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 18.5,
+      "max_price": 18.5,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 18.5,
+      "max_price": 18.5,
+      "observations": 8
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 18.5,
+      "max_price": 18.5,
+      "observations": 6
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 18.5,
+      "max_price": 18.5,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 18.5,
+    "min_ever": 18.5,
+    "min_ever_at": "2026-11-08",
+    "max_ever": 18.5,
+    "distinct_days": 4,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+  },
+  "score": 57
+}

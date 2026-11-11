@@ -1,0 +1,106 @@
+{
+  "id": "ml:MLB74886420",
+  "slug": "suporte-porta-shampoo-prateleira-parede-branco-f-plus-mlb74886420",
+  "title": "Suporte Porta Shampoo Prateleira Parede Branco F.plus",
+  "brand": null,
+  "model": null,
+  "category_slug": "moveis-19",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_948301-MLA112853399596_072026-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB7085239916",
+      "condition": "new",
+      "category_slug": "moveis-19",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1415202105",
+        "name": null,
+        "reputation": null
+      },
+      "price": 24.9,
+      "currency": "BRL",
+      "store_reference_price": 30.05,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB74886420",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:05:43.139Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7085238872",
+      "condition": "new",
+      "category_slug": "moveis-19",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1415202105",
+        "name": null,
+        "reputation": null
+      },
+      "price": 22.9,
+      "currency": "BRL",
+      "store_reference_price": 27.73,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB74886420",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:05:43.139Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 23.9,
+      "max_price": 26.5,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 23.9,
+      "max_price": 26.5,
+      "observations": 8
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 23.9,
+      "max_price": 26.5,
+      "observations": 6
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 22.9,
+      "max_price": 24.9,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 23.9,
+    "min_ever": 22.9,
+    "min_ever_at": "2026-11-11",
+    "max_ever": 26.5,
+    "distinct_days": 4,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 4.2,
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+  },
+  "score": 52
+}

@@ -9,9 +9,14 @@
     "https://http2.mlstatic.com/D_NQ_NP_838505-MLA112584258870_062026-F.jpg"
   ],
   "attributes": {},
+  "catalog_link": null,
   "offers": [
     {
       "offer_id": "ml:MLB7440306294",
+      "condition": "new",
+      "category_slug": "notebooks-1",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "3308312152",
@@ -21,35 +26,47 @@
       "price": 3334.9,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/325QDXA",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T01:48:57.075Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB53904053",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:33:44.322Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB4771700147",
+      "condition": "new",
+      "category_slug": "notebooks-1",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "3003126769",
         "name": null,
         "reputation": "5_green"
       },
-      "price": 2203.88,
+      "price": 2192.12,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/325QDXA",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T01:48:57.075Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB53904053",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:33:44.322Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB5081782933",
+      "condition": "new",
+      "category_slug": "notebooks-1",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "3308312152",
@@ -59,11 +76,13 @@
       "price": 3533.9,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/325QDXA",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T01:48:57.075Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB53904053",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:33:44.322Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -73,21 +92,31 @@
     {
       "date": "2026-11-08",
       "min_price": 2164.67,
+      "max_price": 3533.9,
       "observations": 3
     },
     {
       "date": "2026-11-09",
       "min_price": 2164.67,
+      "max_price": 3533.9,
       "observations": 12
     },
     {
       "date": "2026-11-10",
       "min_price": 2176.43,
+      "max_price": 3533.9,
       "observations": 7
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 2192.12,
+      "max_price": 3533.9,
+      "observations": 3
     },
     {
       "date": "2026-11-06",
       "min_price": 2156.82,
+      "max_price": 3533.9,
       "observations": 4
     }
   ],
@@ -95,13 +124,14 @@
     "median_90d": 2164.67,
     "min_ever": 2156.82,
     "min_ever_at": "2026-11-06",
-    "distinct_days": 4,
+    "max_ever": 3533.9,
+    "distinct_days": 5,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": -1.8,
-    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+    "pct_below_median": -1.3,
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
   },
   "score": 64
 }

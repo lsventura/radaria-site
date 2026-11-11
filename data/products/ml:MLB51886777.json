@@ -9,9 +9,14 @@
     "https://http2.mlstatic.com/D_NQ_NP_980277-MLA86693477050_062025-F.jpg"
   ],
   "attributes": {},
+  "catalog_link": null,
   "offers": [
     {
       "offer_id": "ml:MLB5488492054",
+      "condition": "new",
+      "category_slug": "brinquedos-13",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "722310552",
@@ -21,16 +26,22 @@
       "price": 80.92,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/2XR7iju",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T02:24:47.113Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB51886777",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T18:06:46.559Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB5467216524",
+      "condition": "new",
+      "category_slug": "brinquedos-13",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "722310552",
@@ -40,11 +51,13 @@
       "price": 80.92,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/2XR7iju",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T02:24:47.113Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB51886777",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T18:06:46.559Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -54,30 +67,40 @@
     {
       "date": "2026-11-08",
       "min_price": 80.92,
+      "max_price": 80.92,
       "observations": 2
     },
     {
       "date": "2026-11-09",
       "min_price": 80.92,
+      "max_price": 80.92,
       "observations": 8
     },
     {
       "date": "2026-11-10",
       "min_price": 80.92,
+      "max_price": 80.92,
       "observations": 6
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 80.92,
+      "max_price": 80.92,
+      "observations": 2
     }
   ],
   "stats": {
     "median_90d": 80.92,
     "min_ever": 80.92,
     "min_ever_at": "2026-11-08",
-    "distinct_days": 3,
+    "max_ever": 80.92,
+    "distinct_days": 4,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
   },
   "score": 64
 }

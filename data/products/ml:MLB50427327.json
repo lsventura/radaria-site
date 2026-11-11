@@ -1,0 +1,106 @@
+{
+  "id": "ml:MLB50427327",
+  "slug": "kit-higiene-viagem-aviao-shampoo-condicionador-sabonete-mlb50427327",
+  "title": "Kit Higiene Viagem Avião Shampoo Condicionador Sabonete",
+  "brand": null,
+  "model": null,
+  "category_slug": "pets-20",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_688327-MLA114824278358_082026-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB6764389252",
+      "condition": "new",
+      "category_slug": "pets-20",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1125052560",
+        "name": null,
+        "reputation": null
+      },
+      "price": 36.86,
+      "currency": "BRL",
+      "store_reference_price": 38,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB50427327",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:54:43.220Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4074266185",
+      "condition": "new",
+      "category_slug": "pets-20",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1125052560",
+        "name": null,
+        "reputation": null
+      },
+      "price": 36.86,
+      "currency": "BRL",
+      "store_reference_price": 38,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB50427327",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:54:43.220Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 38,
+      "max_price": 38,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 34,
+      "max_price": 38,
+      "observations": 8
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 34,
+      "max_price": 36.86,
+      "observations": 14
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 36.86,
+      "max_price": 36.86,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 35.43,
+    "min_ever": 34,
+    "min_ever_at": "2026-11-09",
+    "max_ever": 38,
+    "distinct_days": 4,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": -4,
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

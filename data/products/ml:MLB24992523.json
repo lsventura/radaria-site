@@ -9,9 +9,39 @@
     "https://http2.mlstatic.com/D_NQ_NP_659721-MLA106121535816_022026-F.jpg"
   ],
   "attributes": {},
+  "catalog_link": null,
   "offers": [
     {
+      "offer_id": "ml:MLB6245129544",
+      "condition": "new",
+      "category_slug": "livros-e-papelaria-17",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1014958049",
+        "name": null,
+        "reputation": null
+      },
+      "price": 192.83,
+      "currency": "BRL",
+      "store_reference_price": 202.98,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB24992523",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:24:43.540Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
       "offer_id": "ml:MLB3652416937",
+      "condition": "new",
+      "category_slug": "livros-e-papelaria-17",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "615369742",
@@ -21,11 +51,113 @@
       "price": 79.19,
       "currency": "BRL",
       "store_reference_price": 87.99,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/1uLm71z",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T01:38:34.998Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB24992523",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:24:43.540Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5694863242",
+      "condition": "new",
+      "category_slug": "livros-e-papelaria-17",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2045970654",
+        "name": null,
+        "reputation": null
+      },
+      "price": 52.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB24992523",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:24:43.540Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4503550166",
+      "condition": "new",
+      "category_slug": "livros-e-papelaria-17",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "707841877",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 56.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB24992523",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:24:43.540Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4530803926",
+      "condition": "new",
+      "category_slug": "livros-e-papelaria-17",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1014958049",
+        "name": null,
+        "reputation": null
+      },
+      "price": 200.39,
+      "currency": "BRL",
+      "store_reference_price": 210.94,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB24992523",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:24:43.540Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5626258128",
+      "condition": "new",
+      "category_slug": "livros-e-papelaria-17",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2284430125",
+        "name": null,
+        "reputation": null
+      },
+      "price": 62.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB24992523",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:24:43.540Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -34,36 +166,47 @@
   "history": [
     {
       "date": "2026-11-08",
-      "min_price": 79.19,
-      "observations": 1
+      "min_price": 52.99,
+      "max_price": 200.39,
+      "observations": 6
     },
     {
       "date": "2026-11-09",
-      "min_price": 79.19,
-      "observations": 5
+      "min_price": 52.99,
+      "max_price": 200.39,
+      "observations": 30
     },
     {
       "date": "2026-11-10",
-      "min_price": 79.19,
-      "observations": 2
+      "min_price": 52.99,
+      "max_price": 200.39,
+      "observations": 12
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 52.99,
+      "max_price": 200.39,
+      "observations": 6
     },
     {
       "date": "2026-11-06",
-      "min_price": 79.19,
-      "observations": 2
+      "min_price": 52.99,
+      "max_price": 200.39,
+      "observations": 7
     }
   ],
   "stats": {
-    "median_90d": 79.19,
-    "min_ever": 79.19,
+    "median_90d": 52.99,
+    "min_ever": 52.99,
     "min_ever_at": "2026-11-06",
-    "distinct_days": 4,
+    "max_ever": 200.39,
+    "distinct_days": 5,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
   },
-  "score": 64
+  "score": 39
 }

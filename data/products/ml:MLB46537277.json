@@ -9,9 +9,14 @@
     "https://http2.mlstatic.com/D_NQ_NP_941842-MLA95642067976_102025-F.jpg"
   ],
   "attributes": {},
+  "catalog_link": null,
   "offers": [
     {
       "offer_id": "ml:MLB7796146108",
+      "condition": "new",
+      "category_slug": "cozinha-9",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "773449667",
@@ -21,16 +26,22 @@
       "price": 715.9,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/2K63syt",
-      "affiliate": true,
-      "last_observed_at": "2026-11-10T23:12:09.815Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB46537277",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T08:56:25.920Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB7520875984",
+      "condition": "new",
+      "category_slug": "cozinha-9",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "785191683",
@@ -40,16 +51,22 @@
       "price": 470,
       "currency": "BRL",
       "store_reference_price": 715.9,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/2K63syt",
-      "affiliate": true,
-      "last_observed_at": "2026-11-10T23:12:09.815Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB46537277",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T08:56:25.920Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB7907267292",
+      "condition": "new",
+      "category_slug": "cozinha-9",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "440076556",
@@ -59,11 +76,13 @@
       "price": 465,
       "currency": "BRL",
       "store_reference_price": 715.9,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/2K63syt",
-      "affiliate": true,
-      "last_observed_at": "2026-11-10T23:12:09.815Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB46537277",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T08:56:25.920Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -73,35 +92,46 @@
     {
       "date": "2026-11-08",
       "min_price": 468,
+      "max_price": 715.9,
       "observations": 6
     },
     {
       "date": "2026-11-09",
       "min_price": 465,
+      "max_price": 715.9,
       "observations": 12
     },
     {
       "date": "2026-11-10",
       "min_price": 465,
+      "max_price": 715.9,
       "observations": 9
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 465,
+      "max_price": 715.9,
+      "observations": 3
     },
     {
       "date": "2026-11-07",
       "min_price": 468,
+      "max_price": 715.9,
       "observations": 3
     }
   ],
   "stats": {
-    "median_90d": 466.5,
+    "median_90d": 465,
     "min_ever": 465,
     "min_ever_at": "2026-11-09",
-    "distinct_days": 4,
+    "max_ever": 715.9,
+    "distinct_days": 5,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 0.3,
-    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
   },
-  "score": 60
+  "score": 56
 }

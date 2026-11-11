@@ -1,0 +1,106 @@
+{
+  "id": "ml:MLB38169795",
+  "slug": "secadora-de-roupa-de-piso-wanke-12kg-comfort-branca-mlb38169795",
+  "title": "Secadora De Roupa De Piso Wanke 12kg Comfort Branca",
+  "brand": null,
+  "model": null,
+  "category_slug": "eletrodomesticos-9",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_982442-MLA99464277454_112025-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB5515164747",
+      "condition": "new",
+      "category_slug": "eletrodomesticos-9",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "585029717",
+        "name": null,
+        "reputation": null
+      },
+      "price": 2120.23,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB38169795",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T18:01:46.620Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4960150992",
+      "condition": "new",
+      "category_slug": "eletrodomesticos-9",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "638325656",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1868.92,
+      "currency": "BRL",
+      "store_reference_price": 2799.9,
+      "official_store": true,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB38169795",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T18:01:46.620Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 2120.23,
+      "max_price": 2299,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 2120.23,
+      "max_price": 2299,
+      "observations": 6
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 2299,
+      "max_price": 2299,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 1868.92,
+      "max_price": 2120.23,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 2120.23,
+    "min_ever": 1868.92,
+    "min_ever_at": "2026-11-11",
+    "max_ever": 2299,
+    "distinct_days": 4,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 11.9,
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

@@ -9,9 +9,14 @@
     "https://http2.mlstatic.com/D_NQ_NP_884254-MLA96423815218_102025-F.jpg"
   ],
   "attributes": {},
+  "catalog_link": null,
   "offers": [
     {
       "offer_id": "ml:MLB4083172701",
+      "condition": "new",
+      "category_slug": "tv-e-audio-5",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "266245201",
@@ -21,16 +26,22 @@
       "price": 1480,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/1D2cbWg",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T02:16:45.210Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB50387992",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:58:46.936Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB7723340344",
+      "condition": "new",
+      "category_slug": "tv-e-audio-5",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "3716789075",
@@ -40,11 +51,88 @@
       "price": 1019.15,
       "currency": "BRL",
       "store_reference_price": 1199,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/1D2cbWg",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T02:16:45.210Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB50387992",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:58:46.936Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5411807642",
+      "condition": "new",
+      "category_slug": "tv-e-audio-5",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1871290363",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1480,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB50387992",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:58:46.936Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5271812003",
+      "condition": "new",
+      "category_slug": "tv-e-audio-5",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "652577632",
+        "name": null,
+        "reputation": null
+      },
+      "price": 899.25,
+      "currency": "BRL",
+      "store_reference_price": 1199,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB50387992",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:58:46.936Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5402664906",
+      "condition": "new",
+      "category_slug": "tv-e-audio-5",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1472066916",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1599.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB50387992",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:58:46.936Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -54,35 +142,46 @@
     {
       "date": "2026-11-08",
       "min_price": 1019.15,
-      "observations": 2
+      "max_price": 1599.9,
+      "observations": 5
     },
     {
       "date": "2026-11-09",
       "min_price": 1019.15,
-      "observations": 8
+      "max_price": 1599.9,
+      "observations": 20
     },
     {
       "date": "2026-11-10",
-      "min_price": 1019.15,
-      "observations": 6
+      "min_price": 899.25,
+      "max_price": 1599.9,
+      "observations": 16
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 899.25,
+      "max_price": 1599.9,
+      "observations": 5
     },
     {
       "date": "2026-11-07",
       "min_price": 1019.15,
-      "observations": 2
+      "max_price": 1599.9,
+      "observations": 5
     }
   ],
   "stats": {
     "median_90d": 1019.15,
-    "min_ever": 1019.15,
-    "min_ever_at": "2026-11-07",
-    "distinct_days": 4,
+    "min_ever": 899.25,
+    "min_ever_at": "2026-11-10",
+    "max_ever": 1599.9,
+    "distinct_days": 5,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 0,
-    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+    "pct_below_median": 11.8,
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
   },
-  "score": 64
+  "score": 49
 }

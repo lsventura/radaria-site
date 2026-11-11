@@ -9,9 +9,14 @@
     "https://http2.mlstatic.com/D_NQ_NP_683995-MLA106658125115_022026-F.jpg"
   ],
   "attributes": {},
+  "catalog_link": null,
   "offers": [
     {
       "offer_id": "ml:MLB4040684520",
+      "condition": "new",
+      "category_slug": "relogios-e-joias-10",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "292491854",
@@ -21,16 +26,47 @@
       "price": 132.81,
       "currency": "BRL",
       "store_reference_price": 139.8,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/15FwSgj",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T02:22:48.686Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB22781286",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T18:04:46.622Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5325319153",
+      "condition": "new",
+      "category_slug": "relogios-e-joias-10",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "736123046",
+        "name": null,
+        "reputation": null
+      },
+      "price": 142.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB22781286",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T18:04:46.622Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB4040735478",
+      "condition": "new",
+      "category_slug": "relogios-e-joias-10",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "292491854",
@@ -40,16 +76,22 @@
       "price": 127.11,
       "currency": "BRL",
       "store_reference_price": 133.8,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/15FwSgj",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T02:22:48.686Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB22781286",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T18:04:46.622Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB3444480047",
+      "condition": "new",
+      "category_slug": "relogios-e-joias-10",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "199869699",
@@ -59,16 +101,22 @@
       "price": 132.52,
       "currency": "BRL",
       "store_reference_price": 139.5,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/15FwSgj",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T02:22:48.686Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB22781286",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T18:04:46.622Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB3524166711",
+      "condition": "new",
+      "category_slug": "relogios-e-joias-10",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "399856885",
@@ -78,16 +126,22 @@
       "price": 209.83,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/15FwSgj",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T02:22:48.686Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB22781286",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T18:04:46.622Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB3444531121",
+      "condition": "new",
+      "category_slug": "relogios-e-joias-10",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "199869699",
@@ -97,11 +151,13 @@
       "price": 126.35,
       "currency": "BRL",
       "store_reference_price": 133,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/15FwSgj",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T02:22:48.686Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB22781286",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T18:04:46.622Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -111,35 +167,46 @@
     {
       "date": "2026-11-08",
       "min_price": 126.35,
-      "observations": 5
+      "max_price": 209.83,
+      "observations": 6
     },
     {
       "date": "2026-11-09",
       "min_price": 126.35,
-      "observations": 20
+      "max_price": 209.83,
+      "observations": 24
     },
     {
       "date": "2026-11-10",
       "min_price": 126.35,
-      "observations": 15
+      "max_price": 209.83,
+      "observations": 18
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 126.35,
+      "max_price": 209.83,
+      "observations": 6
     },
     {
       "date": "2026-11-06",
       "min_price": 126.35,
-      "observations": 6
+      "max_price": 209.83,
+      "observations": 7
     }
   ],
   "stats": {
     "median_90d": 126.35,
     "min_ever": 126.35,
     "min_ever_at": "2026-11-06",
-    "distinct_days": 4,
+    "max_ever": 209.83,
+    "distinct_days": 5,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
   },
   "score": 64
 }

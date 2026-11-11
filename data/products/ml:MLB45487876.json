@@ -1,0 +1,131 @@
+{
+  "id": "ml:MLB45487876",
+  "slug": "caneta-esferografica-pelikan-snap-turquoise-mlb45487876",
+  "title": "Caneta Esferográfica Pelikan Snap Turquoise",
+  "brand": null,
+  "model": null,
+  "category_slug": "livros-e-papelaria-4",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_960822-MLA99939814413_112025-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB5873381670",
+      "condition": "new",
+      "category_slug": "livros-e-papelaria-4",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "660725120",
+        "name": null,
+        "reputation": null
+      },
+      "price": 168,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB45487876",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:39:43.035Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4036331749",
+      "condition": "new",
+      "category_slug": "livros-e-papelaria-4",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "519712209",
+        "name": null,
+        "reputation": null
+      },
+      "price": 164,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB45487876",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:39:43.035Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5832052728",
+      "condition": "new",
+      "category_slug": "livros-e-papelaria-4",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "602620192",
+        "name": null,
+        "reputation": null
+      },
+      "price": 168,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB45487876",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:39:43.035Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 164,
+      "max_price": 168,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 164,
+      "max_price": 168,
+      "observations": 12
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 164,
+      "max_price": 168,
+      "observations": 9
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 164,
+      "max_price": 168,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 164,
+    "min_ever": 164,
+    "min_ever_at": "2026-11-08",
+    "max_ever": 168,
+    "distinct_days": 4,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+  },
+  "score": 43
+}

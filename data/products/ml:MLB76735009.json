@@ -9,9 +9,14 @@
     "https://http2.mlstatic.com/D_NQ_NP_789290-MLA114563643036_082026-F.jpg"
   ],
   "attributes": {},
+  "catalog_link": null,
   "offers": [
     {
       "offer_id": "ml:MLB5346422021",
+      "condition": "new",
+      "category_slug": "informatica-13",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "589417646",
@@ -21,16 +26,22 @@
       "price": 163.68,
       "currency": "BRL",
       "store_reference_price": 186,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/2dDsHNE",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T00:16:12.503Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB76735009",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:03:43.234Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB7762794436",
+      "condition": "new",
+      "category_slug": "informatica-13",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "589417646",
@@ -40,16 +51,22 @@
       "price": 172.48,
       "currency": "BRL",
       "store_reference_price": 196,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/2dDsHNE",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T00:16:12.503Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB76735009",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:03:43.234Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB5447538521",
+      "condition": "new",
+      "category_slug": "informatica-13",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "279186872",
@@ -59,11 +76,13 @@
       "price": 90,
       "currency": "BRL",
       "store_reference_price": 100,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/2dDsHNE",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T00:16:12.503Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB76735009",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:03:43.234Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -73,21 +92,31 @@
     {
       "date": "2026-11-08",
       "min_price": 90,
+      "max_price": 172.48,
       "observations": 3
     },
     {
       "date": "2026-11-09",
       "min_price": 90,
+      "max_price": 172.48,
       "observations": 9
     },
     {
       "date": "2026-11-10",
       "min_price": 90,
+      "max_price": 172.48,
       "observations": 9
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 90,
+      "max_price": 172.48,
+      "observations": 3
     },
     {
       "date": "2026-11-07",
       "min_price": 90,
+      "max_price": 172.48,
       "observations": 3
     }
   ],
@@ -95,13 +124,14 @@
     "median_90d": 90,
     "min_ever": 90,
     "min_ever_at": "2026-11-07",
-    "distinct_days": 4,
+    "max_ever": 172.48,
+    "distinct_days": 5,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
   },
   "score": 60
 }

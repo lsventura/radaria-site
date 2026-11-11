@@ -1,0 +1,117 @@
+{
+  "id": "ml:MLB67918006",
+  "slug": "caneca-presente-dia-das-maes-mod-51-mlb67918006",
+  "title": "Caneca Presente Dia Das Mães Mod 51",
+  "brand": null,
+  "model": "Caneca cerâmica mãe",
+  "category_slug": "geral",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_988468-MLA109479834120_042026-F.jpg"
+  ],
+  "attributes": {
+    "GTIN": "07795799685059",
+    "COLOR": "Branco",
+    "MODEL": "Caneca cerâmica mãe",
+    "HEIGHT": "9.5 cm",
+    "IS_SET": "Não",
+    "DIAMETER": "8 cm",
+    "MATERIAL": "Cerâmica",
+    "CHARACTER": "Dia das Mães",
+    "MAIN_COLOR": "Branco",
+    "SALE_FORMAT": "Unidade",
+    "MANUFACTURER": "St Canecaria Divertida",
+    "UNITS_PER_PACK": "1",
+    "VOLUME_CAPACITY": "325 mL",
+    "IS_MICROWAVE_SAFE": "Sim",
+    "IS_DISHWASHER_SAFE": "Sim",
+    "ACCESSORIES_INCLUDED": "Caixinha, Sacolinha"
+  },
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB6655266438",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3143717533",
+        "name": null,
+        "reputation": null
+      },
+      "price": 29.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB67918006",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T18:26:37.710Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5526411235",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2304712443",
+        "name": null,
+        "reputation": null
+      },
+      "price": 30.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB67918006",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T18:26:37.710Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-09",
+      "min_price": 29.99,
+      "max_price": 30.99,
+      "observations": 42
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 29.99,
+      "max_price": 30.99,
+      "observations": 40
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 29.99,
+      "max_price": 30.99,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 29.99,
+    "min_ever": 29.99,
+    "min_ever_at": "2026-11-09",
+    "max_ever": 30.99,
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 39
+}

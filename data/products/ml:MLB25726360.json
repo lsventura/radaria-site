@@ -9,9 +9,14 @@
     "https://http2.mlstatic.com/D_NQ_NP_950784-MLA99482015568_112025-F.jpg"
   ],
   "attributes": {},
+  "catalog_link": null,
   "offers": [
     {
       "offer_id": "ml:MLB3427411939",
+      "condition": "new",
+      "category_slug": "arte-e-artesanato-6",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "256763996",
@@ -21,16 +26,22 @@
       "price": 113.2,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/2ydQqYF",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T01:23:34.296Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB25726360",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:09:43.217Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB3989120129",
+      "condition": "new",
+      "category_slug": "arte-e-artesanato-6",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "169033958",
@@ -40,16 +51,22 @@
       "price": 140.86,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/2ydQqYF",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T01:23:34.296Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB25726360",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:09:43.217Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB4145368460",
+      "condition": "new",
+      "category_slug": "arte-e-artesanato-6",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "220095835",
@@ -59,16 +76,22 @@
       "price": 113.2,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/2ydQqYF",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T01:23:34.296Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB25726360",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:09:43.217Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB4009516350",
+      "condition": "new",
+      "category_slug": "arte-e-artesanato-6",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "685771755",
@@ -78,11 +101,13 @@
       "price": 113.2,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/2ydQqYF",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T01:23:34.296Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB25726360",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:09:43.217Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -92,30 +117,40 @@
     {
       "date": "2026-11-08",
       "min_price": 113.2,
+      "max_price": 140.86,
       "observations": 8
     },
     {
       "date": "2026-11-09",
       "min_price": 113.2,
+      "max_price": 140.86,
       "observations": 20
     },
     {
       "date": "2026-11-10",
       "min_price": 113.2,
+      "max_price": 140.86,
       "observations": 8
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 113.2,
+      "max_price": 140.86,
+      "observations": 4
     }
   ],
   "stats": {
     "median_90d": 113.2,
     "min_ever": 113.2,
     "min_ever_at": "2026-11-08",
-    "distinct_days": 3,
+    "max_ever": 140.86,
+    "distinct_days": 4,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
   },
   "score": 64
 }

@@ -1,0 +1,109 @@
+{
+  "id": "ml:MLB68613613",
+  "slug": "100-whey-concentrado-450g-growth-supplements-baunilha-mlb68613613",
+  "title": "100% Whey Concentrado 450g Growth Supplements Baunilha",
+  "brand": "Growth Supplements",
+  "model": null,
+  "category_slug": "geral",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_748174-MLA110891342867_042026-F.jpg"
+  ],
+  "attributes": {
+    "GTIN": "07898786022872",
+    "LINE": "100% Whey Concentrado",
+    "BRAND": "Growth Supplements",
+    "FLAVOR": "Baunilha",
+    "IS_VEGAN": "Não",
+    "NET_WEIGHT": "450 g",
+    "TRADE_NAME": "100% Whey Concentrado Growth Supplements",
+    "INGREDIENTS": "Saborizantes, Maltodextrina, Sucralose, Proteína do soro do leite",
+    "SALE_FORMAT": "Unidade",
+    "IS_GLUTEN_FREE": "Sim",
+    "PACKAGING_TYPE": "Saco",
+    "SERVING_WEIGHT": "30 g",
+    "UNITS_PER_PACK": "1",
+    "MAIN_SUPPLEMENT": "Whey protein",
+    "SUPPLEMENT_TYPE": "Nutricional/Esportivo",
+    "CONTAINS_LACTOSE": "Sim",
+    "SUPPLEMENT_CLASS": "Proteínas",
+    "SUPPLEMENT_FORMAT": "Pó",
+    "MIN_RECOMMENDED_AGE": "18 anos",
+    "NUTRITIONAL_VALUES_PER_SERVING": "Carboidratos 12g, Gorduras totais 2g, Proteínas 21 g, Valor Energético 120KCAL"
+  },
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB4633974439",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2943049215",
+        "name": null,
+        "reputation": null
+      },
+      "price": 84.9,
+      "currency": "BRL",
+      "store_reference_price": 219.9,
+      "official_store": true,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB68613613",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:51:32.211Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5511018627",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2512375739",
+        "name": null,
+        "reputation": null
+      },
+      "price": 99.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB68613613",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:51:32.211Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-11",
+      "min_price": 84.9,
+      "max_price": 99.9,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 84.9,
+    "min_ever": 84.9,
+    "min_ever_at": "2026-11-11",
+    "max_ever": 99.9,
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

@@ -1,0 +1,135 @@
+{
+  "id": "ml:MLB65631484",
+  "slug": "percarbonato-de-sodio-1kg-casa-limpa-mlb65631484",
+  "title": "Percarbonato De Sodio 1kg Casa Limpa",
+  "brand": "Casa Limpa",
+  "model": "Percarbonato de sódio",
+  "category_slug": "geral",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_783050-MLA107257783525_022026-F.jpg"
+  ],
+  "attributes": {
+    "GTIN": "7896258200018",
+    "BRAND": "Casa Limpa",
+    "MODEL": "Percarbonato de sódio",
+    "NET_WEIGHT": "1 kg",
+    "SALE_FORMAT": "Unidade",
+    "MANUAL_TITLE": "Percarbonato De Sodio 1kg Casa Limpa",
+    "UNITS_PER_PACK": "1",
+    "PRODUCT_CONSERVATION": "Temperatura ambiente",
+    "WITH_EXPIRATION_DATE": "Sim"
+  },
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB7303330610",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "822793129",
+        "name": null,
+        "reputation": null
+      },
+      "price": 35.44,
+      "currency": "BRL",
+      "store_reference_price": 36.54,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB65631484",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:53:07.034Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4772306719",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1122510678",
+        "name": null,
+        "reputation": null
+      },
+      "price": 29,
+      "currency": "BRL",
+      "store_reference_price": 31.16,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB65631484",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:53:07.034Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7303330608",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "822793129",
+        "name": null,
+        "reputation": null
+      },
+      "price": 34.13,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB65631484",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:53:07.034Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-09",
+      "min_price": 34.13,
+      "max_price": 36.54,
+      "observations": 44
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 31.16,
+      "max_price": 36.54,
+      "observations": 46
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 29,
+      "max_price": 35.44,
+      "observations": 4
+    }
+  ],
+  "stats": {
+    "median_90d": 31.16,
+    "min_ever": 29,
+    "min_ever_at": "2026-11-11",
+    "max_ever": 36.54,
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 6.9,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 39
+}

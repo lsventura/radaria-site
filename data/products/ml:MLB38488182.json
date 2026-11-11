@@ -1,0 +1,86 @@
+{
+  "id": "ml:MLB38488182",
+  "slug": "triciclo-eletrico-1500w-mlb38488182",
+  "title": "Triciclo Elétrico 1500w",
+  "brand": "Scooter",
+  "model": "1500W",
+  "category_slug": "geral",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_630327-MLA96274886896_102025-F.jpg"
+  ],
+  "attributes": {
+    "GTIN": "79062151423114",
+    "BRAND": "Scooter",
+    "COLOR": "Vermelho",
+    "MODEL": "1500W",
+    "IS_FOLDABLE": "Não",
+    "MOTOR_POWER": "1500 W",
+    "WITH_DISPLAY": "Sim",
+    "REAR_BRAKE_TYPE": "Disco mecânico",
+    "FRONT_BRAKE_TYPE": "Disco mecânico",
+    "POWER_SUPPLY_TYPE": "Bateria"
+  },
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB5520668123",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "244341021",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1900,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB38488182",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:10:44.368Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-09",
+      "min_price": 1900,
+      "max_price": 1900,
+      "observations": 22
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 1900,
+      "max_price": 1900,
+      "observations": 20
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 1900,
+      "max_price": 1900,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 1900,
+    "min_ever": 1900,
+    "min_ever_at": "2026-11-09",
+    "max_ever": 1900,
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 43
+}

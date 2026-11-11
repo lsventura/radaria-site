@@ -1,0 +1,93 @@
+{
+  "id": "ml:MLB41172301",
+  "slug": "bicicleta-moto-eletrica-coswheel-gt20-color-negro-mlb41172301",
+  "title": "Bicicleta Moto Elétrica Coswheel GT20 color negro",
+  "brand": "Coswheel",
+  "model": "GT20",
+  "category_slug": "geral",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_952367-MLA110698949946_052026-F.jpg"
+  ],
+  "attributes": {
+    "GTIN": "7893758591684",
+    "BRAND": "Coswheel",
+    "COLOR": "Preto",
+    "MODEL": "GT20",
+    "WEIGHT": "30 kg",
+    "MAX_SPEED": "45 km/h",
+    "MAIN_COLOR": "Preto",
+    "WHEEL_SIZE": "20",
+    "WITH_ALARM": "Não",
+    "IS_FOLDABLE": "Não",
+    "WITH_LIGHTS": "Sim",
+    "BATTERY_TYPE": "Íon de lítio",
+    "BATTERY_VOLTAGE": "48V",
+    "BATTERY_CAPACITY": "20 Ah",
+    "POWER_SUPPLY_TYPE": "Bateria",
+    "MAX_WEIGHT_SUPPORTED": "165 kg",
+    "WITH_POSITIVE_IMPACT": "Sim"
+  },
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB4677673991",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "29309738",
+        "name": null,
+        "reputation": null
+      },
+      "price": 17500,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB41172301",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T18:06:33.516Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-09",
+      "min_price": 17500,
+      "max_price": 17500,
+      "observations": 40
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 17500,
+      "max_price": 17500,
+      "observations": 38
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 17500,
+      "max_price": 17500,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 17500,
+    "min_ever": 17500,
+    "min_ever_at": "2026-11-09",
+    "max_ever": 17500,
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 47
+}

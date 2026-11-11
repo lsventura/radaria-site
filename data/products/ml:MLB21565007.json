@@ -1,0 +1,107 @@
+{
+  "id": "ml:MLB21565007",
+  "slug": "album-copa-panini-capa-dura-mlb21565007",
+  "title": "Álbum Copa Panini capa dura",
+  "brand": "Panini",
+  "model": null,
+  "category_slug": "geral",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_610158-MLA99937060105_112025-F.jpg"
+  ],
+  "attributes": {
+    "GTIN": "7909772865523",
+    "NAME": "Copa",
+    "YEAR": "2022",
+    "BRAND": "Panini",
+    "BOOK_COVER_TYPE": "Dura",
+    "STICKER_ALBUM_THEME": "Copa do Mundo Box 1 Álbum Dourados Edição Limitada"
+  },
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB3204529784",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "45658467",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 899.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB21565007",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T18:09:42.012Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5349190667",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "114730038",
+        "name": null,
+        "reputation": null
+      },
+      "price": 2900,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB21565007",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T18:09:42.012Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-09",
+      "min_price": 899.9,
+      "max_price": 2900,
+      "observations": 42
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 899.9,
+      "max_price": 2900,
+      "observations": 38
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 899.9,
+      "max_price": 2900,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 899.9,
+    "min_ever": 899.9,
+    "min_ever_at": "2026-11-09",
+    "max_ever": 2900,
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

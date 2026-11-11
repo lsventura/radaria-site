@@ -1,0 +1,74 @@
+{
+  "id": "ml:MLB71046973",
+  "slug": "livro-ofertas-publicas-de-adquisicion-mlb71046973",
+  "title": "Livro - Ofertas Públicas De Adquisición",
+  "brand": null,
+  "model": null,
+  "category_slug": "geral",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_912637-MLA112603575639_062026-F.jpg"
+  ],
+  "attributes": {
+    "GTIN": "9789700751221",
+    "AUTHOR": "Jiménez Zorrilla Pablo",
+    "LANGUAGE": "Espanhol",
+    "BOOK_TITLE": "Ofertas públicas de adquisición",
+    "BOOK_VOLUME": "22",
+    "BOOK_PUBLISHER": "Porrúa",
+    "NARRATION_TYPE": "Manual",
+    "BOOK_COLLECTION": "Breviarios Jurídicos",
+    "PUBLICATION_YEAR": "2004",
+    "PUBLISHING_PLACE": "México"
+  },
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB4903003055",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "144261870",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 749,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB71046973",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:49:10.710Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-11",
+      "min_price": 749,
+      "max_price": 749,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 749,
+    "min_ever": 749,
+    "min_ever_at": "2026-11-11",
+    "max_ever": 749,
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

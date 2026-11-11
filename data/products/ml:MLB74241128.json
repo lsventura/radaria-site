@@ -1,0 +1,86 @@
+{
+  "id": "ml:MLB74241128",
+  "slug": "teclado-compativel-com-lg-aew73089908-br-com-c-conforme-imagens-do-anuncio-mlb74241128",
+  "title": "Teclado Compatível Com LG Aew73089908 Br Com Ç Conforme Imagens Do Anúncio",
+  "brand": "mBook",
+  "model": "AEW73089908",
+  "category_slug": "geral",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_733901-MLA112396229754_062026-F.jpg"
+  ],
+  "attributes": {
+    "GTIN": "07897725479784",
+    "LINE": "Compatível com mBook (6447615)",
+    "BRAND": "mBook",
+    "COLOR": "Conforme imagens do anúncio",
+    "MODEL": "AEW73089908",
+    "WEIGHT": "300 g",
+    "MANUFACTURER": "mBook",
+    "SURFACE_FINISH": "Opaco",
+    "WITH_BACKLIGHTING": "Não",
+    "ALPHANUMERIC_MODELS": "Verificar imagens do anúncio"
+  },
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB4799545701",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "84636219",
+        "name": null,
+        "reputation": null
+      },
+      "price": 70.02,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB74241128",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:47:40.421Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-09",
+      "min_price": 70.04,
+      "max_price": 70.04,
+      "observations": 21
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 70.02,
+      "max_price": 70.04,
+      "observations": 20
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 70.02,
+      "max_price": 70.02,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 70.02,
+    "min_ever": 70.02,
+    "min_ever_at": "2026-11-10",
+    "max_ever": 70.04,
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

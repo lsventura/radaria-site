@@ -9,9 +9,14 @@
     "https://http2.mlstatic.com/D_NQ_NP_604038-MLA118946038111_102026-F.jpg"
   ],
   "attributes": {},
+  "catalog_link": null,
   "offers": [
     {
       "offer_id": "ml:MLB5398814347",
+      "condition": "new",
+      "category_slug": "celulares-5",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "3282112578",
@@ -21,16 +26,22 @@
       "price": 1780,
       "currency": "BRL",
       "store_reference_price": 4500,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/1CuEiKs",
-      "affiliate": true,
-      "last_observed_at": "2026-11-10T19:27:59.928Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB80303322",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T09:10:27.313Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB5364468335",
+      "condition": "new",
+      "category_slug": "celulares-5",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "3499001566",
@@ -40,16 +51,22 @@
       "price": 1780,
       "currency": "BRL",
       "store_reference_price": 4400,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/1CuEiKs",
-      "affiliate": true,
-      "last_observed_at": "2026-11-10T19:27:59.928Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB80303322",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T09:10:27.313Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB7793759844",
+      "condition": "new",
+      "category_slug": "celulares-5",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "3690368722",
@@ -59,11 +76,13 @@
       "price": 1790,
       "currency": "BRL",
       "store_reference_price": 4500,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/1CuEiKs",
-      "affiliate": true,
-      "last_observed_at": "2026-11-10T19:27:59.928Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB80303322",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T09:10:27.313Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -73,21 +92,31 @@
     {
       "date": "2026-11-08",
       "min_price": 1780,
+      "max_price": 1790,
       "observations": 3
     },
     {
       "date": "2026-11-09",
       "min_price": 1780,
+      "max_price": 1790,
       "observations": 9
     },
     {
       "date": "2026-11-10",
       "min_price": 1780,
+      "max_price": 1790,
       "observations": 9
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 1780,
+      "max_price": 1790,
+      "observations": 3
     },
     {
       "date": "2026-11-07",
       "min_price": 1780,
+      "max_price": 1790,
       "observations": 3
     }
   ],
@@ -95,13 +124,14 @@
     "median_90d": 1780,
     "min_ever": 1780,
     "min_ever_at": "2026-11-07",
-    "distinct_days": 4,
+    "max_ever": 1790,
+    "distinct_days": 5,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
   },
   "score": 56
 }

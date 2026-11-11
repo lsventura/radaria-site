@@ -9,9 +9,14 @@
     "https://http2.mlstatic.com/D_NQ_NP_616217-MLA95069946840_102025-F.jpg"
   ],
   "attributes": {},
+  "catalog_link": null,
   "offers": [
     {
       "offer_id": "ml:MLB4932125529",
+      "condition": "new",
+      "category_slug": "casa-inteligente-2",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "271755410",
@@ -21,11 +26,138 @@
       "price": 135.95,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/16ktc2S",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T01:55:46.937Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB23892322",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:37:43.236Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5421299886",
+      "condition": "new",
+      "category_slug": "casa-inteligente-2",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "513432333",
+        "name": null,
+        "reputation": null
+      },
+      "price": 138.81,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB23892322",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:37:43.236Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB3983087559",
+      "condition": "new",
+      "category_slug": "casa-inteligente-2",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "437695869",
+        "name": null,
+        "reputation": null
+      },
+      "price": 149.72,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB23892322",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:37:43.236Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7177236202",
+      "condition": "new",
+      "category_slug": "casa-inteligente-2",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "229089523",
+        "name": null,
+        "reputation": null
+      },
+      "price": 117.39,
+      "currency": "BRL",
+      "store_reference_price": 159,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB23892322",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:37:43.236Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5654931648",
+      "condition": "new",
+      "category_slug": "casa-inteligente-2",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "782496830",
+        "name": null,
+        "reputation": null
+      },
+      "price": 136.68,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB23892322",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:37:43.236Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5655035364",
+      "condition": "new",
+      "category_slug": "casa-inteligente-2",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "513432333",
+        "name": null,
+        "reputation": null
+      },
+      "price": 134,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB23892322",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:37:43.236Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -34,31 +166,41 @@
   "history": [
     {
       "date": "2026-11-08",
-      "min_price": 135.95,
-      "observations": 2
+      "min_price": 117.39,
+      "max_price": 149.72,
+      "observations": 12
     },
     {
       "date": "2026-11-09",
-      "min_price": 135.95,
-      "observations": 5
+      "min_price": 117.39,
+      "max_price": 149.72,
+      "observations": 30
     },
     {
       "date": "2026-11-10",
-      "min_price": 135.95,
-      "observations": 2
+      "min_price": 117.39,
+      "max_price": 149.72,
+      "observations": 12
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 117.39,
+      "max_price": 149.72,
+      "observations": 6
     }
   ],
   "stats": {
-    "median_90d": 135.95,
-    "min_ever": 135.95,
+    "median_90d": 117.39,
+    "min_ever": 117.39,
     "min_ever_at": "2026-11-08",
-    "distinct_days": 3,
+    "max_ever": 149.72,
+    "distinct_days": 4,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
   },
-  "score": 64
+  "score": 47
 }

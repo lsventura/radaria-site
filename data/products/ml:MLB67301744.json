@@ -1,0 +1,112 @@
+{
+  "id": "ml:MLB67301744",
+  "slug": "cabo-forca-panela-pressao-eletrica-electrolux-pcc20-preto-mlb67301744",
+  "title": "Cabo Força Panela Pressão Elétrica Electrolux Pcc20 Preto",
+  "brand": null,
+  "model": null,
+  "category_slug": "cozinha-3",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_950911-MLA109631806599_032026-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB5081397751",
+      "condition": "new",
+      "category_slug": "cozinha-3",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "346045729",
+        "name": null,
+        "reputation": null
+      },
+      "price": 31.84,
+      "currency": "BRL",
+      "store_reference_price": 34.55,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB67301744",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:46:43.346Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5079457091",
+      "condition": "new",
+      "category_slug": "cozinha-3",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "161821174",
+        "name": null,
+        "reputation": null
+      },
+      "price": 35.55,
+      "currency": "BRL",
+      "store_reference_price": 36.65,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB67301744",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:46:43.346Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 31.84,
+      "max_price": 35.55,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 31.84,
+      "max_price": 35.55,
+      "observations": 8
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 31.84,
+      "max_price": 35.55,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 31.84,
+      "max_price": 35.55,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 31.84,
+      "max_price": 35.55,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 31.84,
+    "min_ever": 31.84,
+    "min_ever_at": "2026-11-07",
+    "max_ever": 35.55,
+    "distinct_days": 5,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
+  },
+  "score": 52
+}

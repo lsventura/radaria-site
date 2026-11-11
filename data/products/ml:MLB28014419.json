@@ -9,9 +9,14 @@
     "https://http2.mlstatic.com/D_NQ_NP_988951-MLA99964472197_112025-F.jpg"
   ],
   "attributes": {},
+  "catalog_link": null,
   "offers": [
     {
       "offer_id": "ml:MLB5320584313",
+      "condition": "new",
+      "category_slug": "casa-inteligente-7",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "3432159127",
@@ -21,16 +26,22 @@
       "price": 94.05,
       "currency": "BRL",
       "store_reference_price": 99,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/1p48AY2",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T01:34:34.297Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB28014419",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:20:43.243Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB6174037300",
+      "condition": "new",
+      "category_slug": "casa-inteligente-7",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "2321699151",
@@ -40,16 +51,22 @@
       "price": 94.9,
       "currency": "BRL",
       "store_reference_price": 99.9,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/1p48AY2",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T01:34:34.297Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB28014419",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:20:43.243Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB7659172684",
+      "condition": "new",
+      "category_slug": "casa-inteligente-7",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "212379097",
@@ -59,16 +76,22 @@
       "price": 80.93,
       "currency": "BRL",
       "store_reference_price": 150,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/1p48AY2",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T01:34:34.297Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB28014419",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:20:43.243Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB4010029233",
+      "condition": "new",
+      "category_slug": "casa-inteligente-7",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "2117210110",
@@ -78,11 +101,13 @@
       "price": 223.68,
       "currency": "BRL",
       "store_reference_price": 230.6,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/1p48AY2",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T01:34:34.297Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB28014419",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:20:43.243Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -92,21 +117,31 @@
     {
       "date": "2026-11-08",
       "min_price": 80.93,
+      "max_price": 223.68,
       "observations": 5
     },
     {
       "date": "2026-11-09",
       "min_price": 80.93,
+      "max_price": 223.68,
       "observations": 20
     },
     {
       "date": "2026-11-10",
       "min_price": 80.93,
+      "max_price": 223.68,
       "observations": 8
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 80.93,
+      "max_price": 223.68,
+      "observations": 4
     },
     {
       "date": "2026-11-07",
       "min_price": 80.93,
+      "max_price": 223.68,
       "observations": 4
     }
   ],
@@ -114,13 +149,14 @@
     "median_90d": 80.93,
     "min_ever": 80.93,
     "min_ever_at": "2026-11-07",
-    "distinct_days": 4,
+    "max_ever": 223.68,
+    "distinct_days": 5,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
   },
   "score": 64
 }

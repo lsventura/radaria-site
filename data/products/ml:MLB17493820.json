@@ -9,9 +9,14 @@
     "https://http2.mlstatic.com/D_NQ_NP_908128-MLA99924426765_112025-F.jpg"
   ],
   "attributes": {},
+  "catalog_link": null,
   "offers": [
     {
       "offer_id": "ml:MLB7862424024",
+      "condition": "new",
+      "category_slug": "celulares-1",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "2606285931",
@@ -21,11 +26,13 @@
       "price": 2049,
       "currency": "BRL",
       "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/2gLWxoM",
-      "affiliate": true,
-      "last_observed_at": "2026-11-11T02:11:44.085Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB17493820",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:53:43.214Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -35,6 +42,13 @@
     {
       "date": "2026-11-10",
       "min_price": 2049,
+      "max_price": 2049,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 2049,
+      "max_price": 2049,
       "observations": 1
     }
   ],
@@ -42,13 +56,14 @@
     "median_90d": 2049,
     "min_ever": 2049,
     "min_ever_at": "2026-11-10",
-    "distinct_days": 1,
+    "max_ever": 2049,
+    "distinct_days": 2,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
   },
   "score": 64
 }

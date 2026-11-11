@@ -1,0 +1,87 @@
+{
+  "id": "ml:MLB70276820",
+  "slug": "base-redonda-persiana-rolo-1-00-mt-c-tampas-mlb70276820",
+  "title": "Base Redonda Persiana Rolo 1,00 Mt C/ Tampas",
+  "brand": null,
+  "model": null,
+  "category_slug": "casa-e-reforma-10",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_949461-MLA111238415824_052026-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB7513683818",
+      "condition": "new",
+      "category_slug": "casa-e-reforma-10",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "6302233",
+        "name": null,
+        "reputation": null
+      },
+      "price": 55,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB70276820",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:25:43.261Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 55,
+      "max_price": 55,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 55,
+      "max_price": 55,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 55,
+      "max_price": 55,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 55,
+      "max_price": 55,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 55,
+      "max_price": 55,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 55,
+    "min_ever": 55,
+    "min_ever_at": "2026-11-07",
+    "max_ever": 55,
+    "distinct_days": 5,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
+  },
+  "score": 52
+}

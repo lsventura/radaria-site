@@ -1,0 +1,156 @@
+{
+  "id": "ml:MLB40327363",
+  "slug": "racao-umida-purina-one-gato-adulto-carne-85g-mlb40327363",
+  "title": "Ração Úmida Purina One Gato Adulto Carne 85g",
+  "brand": null,
+  "model": null,
+  "category_slug": "pets-12",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_816809-MLA99826610933_112025-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB5288784039",
+      "condition": "new",
+      "category_slug": "pets-12",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2576532827",
+        "name": null,
+        "reputation": null
+      },
+      "price": 5.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB40327363",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T08:59:25.819Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6795439952",
+      "condition": "new",
+      "category_slug": "pets-12",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "142132119",
+        "name": null,
+        "reputation": null
+      },
+      "price": 14.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB40327363",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T08:59:25.819Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6037864152",
+      "condition": "new",
+      "category_slug": "pets-12",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "391845529",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 78.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB40327363",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T08:59:25.819Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4091836411",
+      "condition": "new",
+      "category_slug": "pets-12",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "13390066",
+        "name": null,
+        "reputation": null
+      },
+      "price": 126.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB40327363",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T08:59:25.819Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 5.9,
+      "max_price": 126.9,
+      "observations": 8
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 5.9,
+      "max_price": 126.9,
+      "observations": 12
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 5.9,
+      "max_price": 126.9,
+      "observations": 12
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 5.9,
+      "max_price": 126.9,
+      "observations": 4
+    }
+  ],
+  "stats": {
+    "median_90d": 5.9,
+    "min_ever": 5.9,
+    "min_ever_at": "2026-11-08",
+    "max_ever": 126.9,
+    "distinct_days": 4,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+  },
+  "score": 31
+}

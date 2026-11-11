@@ -1,0 +1,131 @@
+{
+  "id": "ml:MLB32957472",
+  "slug": "lubrificante-especial-combat-airsoft-para-armas-de-airsoft-300ml-mlb32957472",
+  "title": "Lubrificante Especial Combat Airsoft para Armas de Airsoft 300ml",
+  "brand": "Combat Airsoft",
+  "model": "Lubrificante Especial Airsoft",
+  "category_slug": "geral",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_899572-MLU74514425173_022024-F.jpg"
+  ],
+  "attributes": {
+    "GTIN": "7898299430584",
+    "BRAND": "Combat Airsoft",
+    "MODEL": "Lubrificante Especial Airsoft",
+    "PIECES_NUMBER": "1",
+    "RECOMMENDED_GUNS": "Rifle"
+  },
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB4917906735",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2466341574",
+        "name": null,
+        "reputation": null
+      },
+      "price": 49.95,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB32957472",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:40:53.017Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6147571350",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "252239169",
+        "name": null,
+        "reputation": null
+      },
+      "price": 34.67,
+      "currency": "BRL",
+      "store_reference_price": 39,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB32957472",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:40:53.017Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6218924686",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "252239169",
+        "name": null,
+        "reputation": null
+      },
+      "price": 31.85,
+      "currency": "BRL",
+      "store_reference_price": 39,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB32957472",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:40:53.017Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-09",
+      "min_price": 31.85,
+      "max_price": 49.95,
+      "observations": 63
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 31.85,
+      "max_price": 49.95,
+      "observations": 57
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 31.85,
+      "max_price": 49.95,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 31.85,
+    "min_ever": 31.85,
+    "min_ever_at": "2026-11-09",
+    "max_ever": 49.95,
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}

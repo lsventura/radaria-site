@@ -1,0 +1,131 @@
+{
+  "id": "ml:MLB76817728",
+  "slug": "capa-chuva-carrinho-bebe-universal-resistente-transparente-mlb76817728",
+  "title": "Capa Chuva Carrinho Bebe Universal Resistente Transparente",
+  "brand": null,
+  "model": null,
+  "category_slug": "viagem-e-outdoor-18",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_605212-MLA116161799182_092026-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB5239704793",
+      "condition": "new",
+      "category_slug": "viagem-e-outdoor-18",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3610031063",
+        "name": null,
+        "reputation": null
+      },
+      "price": 45.92,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB76817728",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:31:43.143Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5239730431",
+      "condition": "new",
+      "category_slug": "viagem-e-outdoor-18",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3610031063",
+        "name": null,
+        "reputation": null
+      },
+      "price": 39.94,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB76817728",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:31:43.143Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7646490242",
+      "condition": "new",
+      "category_slug": "viagem-e-outdoor-18",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3610031063",
+        "name": null,
+        "reputation": null
+      },
+      "price": 35.04,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB76817728",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:31:43.143Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 35.04,
+      "max_price": 45.92,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 35.04,
+      "max_price": 45.92,
+      "observations": 12
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 35.04,
+      "max_price": 45.92,
+      "observations": 9
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 35.04,
+      "max_price": 45.92,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 35.04,
+    "min_ever": 35.04,
+    "min_ever_at": "2026-11-08",
+    "max_ever": 45.92,
+    "distinct_days": 4,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+  },
+  "score": 35
+}

@@ -1,0 +1,131 @@
+{
+  "id": "ml:MLB27523972",
+  "slug": "console-portatil-retro-classico-com-999-jogos-em-1-mlb27523972",
+  "title": "Console Portátil Retrô Clássico com 999 Jogos em 1",
+  "brand": null,
+  "model": null,
+  "category_slug": "games-18",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_783589-MLA99929193781_112025-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB6248532844",
+      "condition": "new",
+      "category_slug": "games-18",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3179662302",
+        "name": null,
+        "reputation": null
+      },
+      "price": 20.63,
+      "currency": "BRL",
+      "store_reference_price": 23.9,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB27523972",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:55:44.959Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5303980446",
+      "condition": "new",
+      "category_slug": "games-18",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "523810779",
+        "name": null,
+        "reputation": null
+      },
+      "price": 500,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB27523972",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:55:44.959Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB3970876917",
+      "condition": "new",
+      "category_slug": "games-18",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1800360103",
+        "name": null,
+        "reputation": null
+      },
+      "price": 40,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB27523972",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T16:55:44.959Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 20.63,
+      "max_price": 500,
+      "observations": 6
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 20.63,
+      "max_price": 500,
+      "observations": 12
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 20.63,
+      "max_price": 500,
+      "observations": 9
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 20.63,
+      "max_price": 500,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 20.63,
+    "min_ever": 20.63,
+    "min_ever_at": "2026-11-08",
+    "max_ever": 500,
+    "distinct_days": 4,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+  },
+  "score": 39
+}

@@ -9,9 +9,14 @@
     "https://http2.mlstatic.com/D_NQ_NP_879014-MLA99954456939_112025-F.jpg"
   ],
   "attributes": {},
+  "catalog_link": null,
   "offers": [
     {
       "offer_id": "ml:MLB6291043344",
+      "condition": "new",
+      "category_slug": "ferramentas-2",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "372008399",
@@ -21,16 +26,22 @@
       "price": 148,
       "currency": "BRL",
       "store_reference_price": 181.66,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/16AtyRY",
-      "affiliate": true,
-      "last_observed_at": "2026-11-10T23:35:13.313Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB46546615",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:19:43.423Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB7761657676",
+      "condition": "new",
+      "category_slug": "ferramentas-2",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "228405909",
@@ -40,16 +51,22 @@
       "price": 206.81,
       "currency": "BRL",
       "store_reference_price": 217.7,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/16AtyRY",
-      "affiliate": true,
-      "last_observed_at": "2026-11-10T23:35:13.313Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB46546615",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:19:43.423Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB5847366026",
+      "condition": "new",
+      "category_slug": "ferramentas-2",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "372008399",
@@ -59,16 +76,22 @@
       "price": 151.53,
       "currency": "BRL",
       "store_reference_price": 168.92,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/16AtyRY",
-      "affiliate": true,
-      "last_observed_at": "2026-11-10T23:35:13.313Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB46546615",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:19:43.423Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
       "offer_id": "ml:MLB5301112129",
+      "condition": "new",
+      "category_slug": "ferramentas-2",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
         "id": "228405909",
@@ -78,11 +101,13 @@
       "price": 153.74,
       "currency": "BRL",
       "store_reference_price": 233.09,
+      "official_store": true,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://meli.la/16AtyRY",
-      "affiliate": true,
-      "last_observed_at": "2026-11-10T23:35:13.313Z",
+      "url": "https://www.mercadolivre.com.br/p/MLB46546615",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T15:19:43.423Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -92,30 +117,40 @@
     {
       "date": "2026-11-08",
       "min_price": 148,
+      "max_price": 206.81,
       "observations": 12
     },
     {
       "date": "2026-11-09",
       "min_price": 148,
+      "max_price": 206.81,
       "observations": 16
     },
     {
       "date": "2026-11-10",
       "min_price": 148,
+      "max_price": 206.81,
       "observations": 12
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 148,
+      "max_price": 206.81,
+      "observations": 4
     }
   ],
   "stats": {
     "median_90d": 148,
     "min_ever": 148,
     "min_ever_at": "2026-11-08",
-    "distinct_days": 3,
+    "max_ever": 206.81,
+    "distinct_days": 4,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
   },
   "score": 60
 }

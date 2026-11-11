@@ -1,0 +1,104 @@
+{
+  "id": "ml:MLB49547758",
+  "slug": "percarbonato-sodio-1-kg-puro-tira-mancha-removedor-alvejante-mlb49547758",
+  "title": "Percarbonato Sódio 1 Kg Puro Tira Mancha Removedor Alvejante",
+  "brand": "Vòng",
+  "model": null,
+  "category_slug": "geral",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_883257-MLA99823956971_112025-F.jpg"
+  ],
+  "attributes": {
+    "GTIN": "7908204298168",
+    "BRAND": "Vòng",
+    "MANUAL_TITLE": "Percarbonato Sódio 1 Kg Puro Tira Mancha Removedor Alvejante"
+  },
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB4058938051",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "496380547",
+        "name": null,
+        "reputation": null
+      },
+      "price": 36.37,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB49547758",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:52:59.123Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5484172246",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "215220899",
+        "name": null,
+        "reputation": null
+      },
+      "price": 39.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB49547758",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T17:52:59.123Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-09",
+      "min_price": 39.9,
+      "max_price": 39.9,
+      "observations": 22
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 39.9,
+      "max_price": 39.9,
+      "observations": 20
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 36.37,
+      "max_price": 39.9,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 39.9,
+    "min_ever": 36.37,
+    "min_ever_at": "2026-11-11",
+    "max_ever": 39.9,
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 8.8,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 56
+}
