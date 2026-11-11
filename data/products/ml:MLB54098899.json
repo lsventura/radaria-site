@@ -1,0 +1,69 @@
+{
+  "id": "ml:MLB54098899",
+  "slug": "estante-plastica-5-prateleiras-multiuso-organizacao-casa-lavanderia-banheiro-coz-mlb54098899",
+  "title": "Estante Plástica 5 Prateleiras Multiuso Organização Casa Lavanderia Banheiro Cozinha Lemann",
+  "brand": null,
+  "model": null,
+  "category_slug": "moveis-16",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_968796-MLA96135689713_102025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB7584784446",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1865864718",
+        "name": null,
+        "reputation": null
+      },
+      "price": 79,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2JjPkWb",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T23:04:09.714Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 79,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 79,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 79,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 79,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 79,
+    "min_ever": 79,
+    "min_ever_at": "2026-11-07",
+    "distinct_days": 4,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

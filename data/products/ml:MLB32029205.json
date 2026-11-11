@@ -1,0 +1,64 @@
+{
+  "id": "ml:MLB32029205",
+  "slug": "soprador-termico-2000w-220v-ph2110-strom-mlb32029205",
+  "title": "Soprador Térmico 2000w 220v - Ph2110 - Strom",
+  "brand": null,
+  "model": null,
+  "category_slug": "ferramentas-11",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_651221-MLA99992475563_112025-F.jpg"
+  ],
+  "attributes": {},
+  "offers": [
+    {
+      "offer_id": "ml:MLB4266128879",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "64209230",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 241.68,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2xf69um",
+      "affiliate": true,
+      "last_observed_at": "2026-11-11T02:19:45.810Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 241.68,
+      "observations": 7
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 241.68,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 241.68,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 241.68,
+    "min_ever": 241.68,
+    "min_ever_at": "2026-11-08",
+    "distinct_days": 3,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

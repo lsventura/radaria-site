@@ -25,7 +25,7 @@
       "available": true,
       "url": "https://meli.la/2YoMjhv",
       "affiliate": true,
-      "last_observed_at": "2026-11-10T18:34:41.975Z",
+      "last_observed_at": "2026-11-11T02:26:48.838Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -44,26 +44,7 @@
       "available": true,
       "url": "https://meli.la/2YoMjhv",
       "affiliate": true,
-      "last_observed_at": "2026-11-10T18:34:41.975Z",
-      "payment_context": "channel_marketplace",
-      "payment_method": null
-    },
-    {
-      "offer_id": "ml:MLB5256000130",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "267381264",
-        "name": null,
-        "reputation": "5_green"
-      },
-      "price": 51.43,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "free_shipping": true,
-      "available": true,
-      "url": "https://meli.la/2YoMjhv",
-      "affiliate": true,
-      "last_observed_at": "2026-11-10T18:34:41.975Z",
+      "last_observed_at": "2026-11-11T02:26:48.838Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,7 +63,7 @@
       "available": true,
       "url": "https://meli.la/2YoMjhv",
       "affiliate": true,
-      "last_observed_at": "2026-11-10T18:34:41.975Z",
+      "last_observed_at": "2026-11-11T02:26:48.838Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -101,26 +82,7 @@
       "available": true,
       "url": "https://meli.la/2YoMjhv",
       "affiliate": true,
-      "last_observed_at": "2026-11-10T18:34:41.975Z",
-      "payment_context": "channel_marketplace",
-      "payment_method": null
-    },
-    {
-      "offer_id": "ml:MLB4366625443",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "267381264",
-        "name": null,
-        "reputation": "5_green"
-      },
-      "price": 58.23,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "free_shipping": true,
-      "available": true,
-      "url": "https://meli.la/2YoMjhv",
-      "affiliate": true,
-      "last_observed_at": "2026-11-10T18:34:41.975Z",
+      "last_observed_at": "2026-11-11T02:26:48.838Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -139,7 +101,7 @@
       "available": true,
       "url": "https://meli.la/2YoMjhv",
       "affiliate": true,
-      "last_observed_at": "2026-11-10T18:34:41.975Z",
+      "last_observed_at": "2026-11-11T02:26:48.838Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -158,7 +120,7 @@
       "available": true,
       "url": "https://meli.la/2YoMjhv",
       "affiliate": true,
-      "last_observed_at": "2026-11-10T18:34:41.975Z",
+      "last_observed_at": "2026-11-11T02:26:48.838Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -177,7 +139,7 @@
       "available": true,
       "url": "https://meli.la/2YoMjhv",
       "affiliate": true,
-      "last_observed_at": "2026-11-10T18:34:41.975Z",
+      "last_observed_at": "2026-11-11T02:26:48.838Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -186,28 +148,28 @@
   "history": [
     {
       "date": "2026-11-08",
-      "min_price": 51.43,
-      "observations": 36
+      "min_price": 85.9,
+      "observations": 28
     },
     {
       "date": "2026-11-09",
-      "min_price": 51.43,
-      "observations": 36
+      "min_price": 85.9,
+      "observations": 28
     },
     {
       "date": "2026-11-10",
-      "min_price": 51.43,
-      "observations": 27
+      "min_price": 85.9,
+      "observations": 21
     },
     {
       "date": "2026-11-07",
-      "min_price": 51.43,
-      "observations": 9
+      "min_price": 85.9,
+      "observations": 7
     }
   ],
   "stats": {
-    "median_90d": 51.43,
-    "min_ever": 51.43,
+    "median_90d": 85.9,
+    "min_ever": 85.9,
     "min_ever_at": "2026-11-07",
     "distinct_days": 4,
     "window_days": 14
@@ -217,5 +179,5 @@
     "pct_below_median": 0,
     "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
   },
-  "score": 60
+  "score": 64
 }

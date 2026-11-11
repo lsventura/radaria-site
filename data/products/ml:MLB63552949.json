@@ -25,7 +25,7 @@
       "available": true,
       "url": "https://meli.la/2qfJkqu",
       "affiliate": true,
-      "last_observed_at": "2026-11-10T15:09:50.329Z",
+      "last_observed_at": "2026-11-10T22:53:44.275Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -44,7 +44,26 @@
       "available": true,
       "url": "https://meli.la/2qfJkqu",
       "affiliate": true,
-      "last_observed_at": "2026-11-10T15:09:50.329Z",
+      "last_observed_at": "2026-11-10T22:53:44.275Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4387499759",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "159035970",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 145.42,
+      "currency": "BRL",
+      "store_reference_price": 199.9,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://meli.la/2qfJkqu",
+      "affiliate": true,
+      "last_observed_at": "2026-11-10T22:53:44.275Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -53,8 +72,8 @@
   "history": [
     {
       "date": "2026-11-08",
-      "min_price": 149.92,
-      "observations": 2
+      "min_price": 145.42,
+      "observations": 3
     },
     {
       "date": "2026-11-09",
@@ -64,16 +83,16 @@
     {
       "date": "2026-11-10",
       "min_price": 141.12,
-      "observations": 6
+      "observations": 7
     },
     {
       "date": "2026-11-07",
-      "min_price": 149.92,
-      "observations": 2
+      "min_price": 145.42,
+      "observations": 3
     }
   ],
   "stats": {
-    "median_90d": 145.52,
+    "median_90d": 143.27,
     "min_ever": 141.12,
     "min_ever_at": "2026-11-09",
     "distinct_days": 4,
@@ -81,8 +100,8 @@
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 3,
+    "pct_below_median": 1.5,
     "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
   },
-  "score": 56
+  "score": 60
 }
