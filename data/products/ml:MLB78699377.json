@@ -32,7 +32,32 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB78699377",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T17:48:43.810Z",
+      "last_observed_at": "2026-11-11T21:42:22.298Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5230432083",
+      "condition": "new",
+      "category_slug": "informatica-2",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1158756553",
+        "name": null,
+        "reputation": null
+      },
+      "price": 9628.93,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB78699377",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T21:42:22.298Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -43,38 +68,38 @@
       "date": "2026-11-08",
       "min_price": 8999,
       "max_price": 8999,
-      "observations": 1
+      "observations": 2
     },
     {
       "date": "2026-11-09",
       "min_price": 8699,
-      "max_price": 8999,
-      "observations": 6
+      "max_price": 10599,
+      "observations": 12
     },
     {
       "date": "2026-11-10",
       "min_price": 8699,
-      "max_price": 8699,
-      "observations": 3
+      "max_price": 10599,
+      "observations": 7
     },
     {
       "date": "2026-11-11",
       "min_price": 8999,
-      "max_price": 8999,
-      "observations": 1
+      "max_price": 9628.93,
+      "observations": 2
     },
     {
       "date": "2026-11-07",
       "min_price": 8999,
       "max_price": 8999,
-      "observations": 1
+      "observations": 2
     }
   ],
   "stats": {
     "median_90d": 8999,
     "min_ever": 8699,
     "min_ever_at": "2026-11-09",
-    "max_ever": 8999,
+    "max_ever": 10599,
     "distinct_days": 5,
     "window_days": 14
   },
@@ -83,5 +108,5 @@
     "pct_below_median": 0,
     "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
   },
-  "score": 49
+  "score": 45
 }

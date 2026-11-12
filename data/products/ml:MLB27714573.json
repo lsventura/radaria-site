@@ -23,7 +23,7 @@
         "name": null,
         "reputation": null
       },
-      "price": 4302.33,
+      "price": 4543.52,
       "currency": "BRL",
       "store_reference_price": null,
       "official_store": true,
@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB27714573",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T17:33:44.322Z",
+      "last_observed_at": "2026-11-12T01:08:20.616Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -61,7 +61,7 @@
       "date": "2026-11-11",
       "min_price": 4302.33,
       "max_price": 4588.21,
-      "observations": 2
+      "observations": 3
     },
     {
       "date": "2026-11-07",
@@ -80,7 +80,7 @@
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 6.2,
+    "pct_below_median": 1,
     "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
   },
   "score": 56

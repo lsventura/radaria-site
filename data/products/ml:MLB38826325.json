@@ -23,7 +23,7 @@
         "name": null,
         "reputation": null
       },
-      "price": 387,
+      "price": 399,
       "currency": "BRL",
       "store_reference_price": 797.9,
       "official_store": true,
@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB38826325",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T18:05:46.921Z",
+      "last_observed_at": "2026-11-11T21:51:19.610Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -60,8 +60,8 @@
     {
       "date": "2026-11-11",
       "min_price": 387,
-      "max_price": 387,
-      "observations": 1
+      "max_price": 399,
+      "observations": 2
     },
     {
       "date": "2026-11-06",
@@ -74,14 +74,14 @@
     "median_90d": 387,
     "min_ever": 387,
     "min_ever_at": "2026-11-06",
-    "max_ever": 387,
+    "max_ever": 399,
     "distinct_days": 5,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 0,
+    "pct_below_median": -3.1,
     "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
   },
-  "score": 64
+  "score": 60
 }

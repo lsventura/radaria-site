@@ -1,0 +1,1 @@
+import{r as a,a as o,b as c}from"./personal-radar.CdfEw4uV.js";if(a()){const r=document.querySelector("[data-radar-view-category]")?.dataset.radarViewCategory;r&&o(r)}document.addEventListener("submit",t=>{if(!a())return;const r=t.target;if(!(r instanceof HTMLFormElement)||r.getAttribute("role")!=="search")return;const e=new FormData(r).get("q");typeof e=="string"&&c(e)},!0);

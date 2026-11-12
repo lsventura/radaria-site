@@ -1,0 +1,74 @@
+{
+  "id": "ml:MLB36869402",
+  "slug": "kit-spa-dos-pes-musa-4-produtos-mlb36869402",
+  "title": "Kit Spa Dos Pés Musa 4 Produtos",
+  "brand": "Musa",
+  "model": null,
+  "category_slug": "geral",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_801871-MLU76344936095_052024-F.jpg"
+  ],
+  "attributes": {
+    "GTIN": "7896205910137",
+    "NAME": "spá dos Pés",
+    "BRAND": "Musa",
+    "SKIN_TYPE": "Todo tipo de pele",
+    "UNIT_WEIGHT": "100 g",
+    "MANUAL_TITLE": "Kit Spa Dos Pés Musa 4 Produtos",
+    "PRODUCT_FORMAT": "Creme",
+    "APPLICATION_ZONES": "Pés",
+    "PRODUCT_FUNCTIONS": "Kit spa para os pés",
+    "IS_HYPOALLERGENIC_PRODUCT": "Sim"
+  },
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB5255023525",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "92634064",
+        "name": null,
+        "reputation": null
+      },
+      "price": 75.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB36869402",
+      "affiliate": false,
+      "last_observed_at": "2026-11-12T00:20:44.119Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-11",
+      "min_price": 75.99,
+      "max_price": 75.99,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 75.99,
+    "min_ever": 75.99,
+    "min_ever_at": "2026-11-11",
+    "max_ever": 75.99,
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 39
+}

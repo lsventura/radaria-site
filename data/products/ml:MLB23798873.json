@@ -1,0 +1,80 @@
+{
+  "id": "ml:MLB23798873",
+  "slug": "scooter-moto-eletrica-2000w-60v-20ah-cor-variados-mlb23798873",
+  "title": "Scooter Moto Elétrica 2000w 60v 20ah Cor Variados",
+  "brand": "Glorious",
+  "model": "SE-GLO-B1",
+  "category_slug": "geral",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_632330-MLA93861075352_102025-F.jpg"
+  ],
+  "attributes": {
+    "GTIN": "7894721670139",
+    "BRAND": "Glorious",
+    "COLOR": "Variados",
+    "MODEL": "SE-GLO-B1",
+    "WIDTH": "35 cm",
+    "HEIGHT": "1.2 m",
+    "LENGTH": "1.8 m",
+    "WEIGHT": "70 kg",
+    "MAX_SPEED": "60 km/h",
+    "IS_FOLDABLE": "Não",
+    "MOTOR_POWER": "2000 W",
+    "BATTERY_TYPE": "Lítio",
+    "BATTERY_VOLTAGE": "60V",
+    "BATTERY_CAPACITY": "20 Ah",
+    "MAX_WEIGHT_SUPPORTED": "130 kg",
+    "RECOMMENDED_AGE_GROUP": "14 anos ou mais"
+  },
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB3766280365",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "206259439",
+        "name": null,
+        "reputation": null
+      },
+      "price": 10700,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB23798873",
+      "affiliate": false,
+      "last_observed_at": "2026-11-12T00:56:07.623Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-11",
+      "min_price": 10700,
+      "max_price": 10700,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 10700,
+    "min_ever": 10700,
+    "min_ever_at": "2026-11-11",
+    "max_ever": 10700,
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 47
+}

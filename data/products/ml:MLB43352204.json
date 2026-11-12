@@ -32,7 +32,32 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB43352204",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T16:40:43.549Z",
+      "last_observed_at": "2026-11-12T00:17:19.732Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7593634656",
+      "condition": "new",
+      "category_slug": "acessorios-e-wearables-8",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3534263441",
+        "name": null,
+        "reputation": null
+      },
+      "price": 89,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB43352204",
+      "affiliate": false,
+      "last_observed_at": "2026-11-12T00:17:19.732Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -57,7 +82,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB43352204",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T16:40:43.549Z",
+      "last_observed_at": "2026-11-12T00:17:19.732Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,7 +107,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB43352204",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T16:40:43.549Z",
+      "last_observed_at": "2026-11-12T00:17:19.732Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -98,7 +123,7 @@
         "name": null,
         "reputation": null
       },
-      "price": 162,
+      "price": 157.14,
       "currency": "BRL",
       "store_reference_price": 195.6,
       "official_store": false,
@@ -107,7 +132,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB43352204",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T16:40:43.549Z",
+      "last_observed_at": "2026-11-12T00:17:19.732Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -116,15 +141,15 @@
   "history": [
     {
       "date": "2026-11-08",
-      "min_price": 152.84,
+      "min_price": 96,
       "max_price": 170.17,
-      "observations": 8
+      "observations": 10
     },
     {
       "date": "2026-11-09",
-      "min_price": 152.84,
+      "min_price": 96,
       "max_price": 170.17,
-      "observations": 16
+      "observations": 19
     },
     {
       "date": "2026-11-10",
@@ -134,22 +159,22 @@
     },
     {
       "date": "2026-11-11",
-      "min_price": 152.84,
+      "min_price": 89,
       "max_price": 162,
-      "observations": 4
+      "observations": 6
     }
   ],
   "stats": {
-    "median_90d": 152.84,
-    "min_ever": 152.84,
-    "min_ever_at": "2026-11-08",
+    "median_90d": 96,
+    "min_ever": 89,
+    "min_ever_at": "2026-11-11",
     "max_ever": 170.17,
     "distinct_days": 4,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 0,
+    "pct_below_median": 7.3,
     "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
   },
   "score": 47

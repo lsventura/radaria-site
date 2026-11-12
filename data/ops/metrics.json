@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-11T18:30:44.513Z",
+  "generated_at": "2026-11-12T01:24:45.218Z",
   "schema_version": "radaria-ops/v1",
   "funnel": {
-    "discovered": 105341,
-    "distinct": 50777,
-    "with_photo": 50545,
-    "audited_approved": 13743,
-    "with_affiliate": 8860,
+    "discovered": 105380,
+    "distinct": 50802,
+    "with_photo": 50570,
+    "audited_approved": 13765,
+    "with_affiliate": 9661,
     "published": 0,
     "fresh_history_24h": 0
   },
@@ -25,14 +25,14 @@
     "by_status.pending": "Revisão e qualquer status fora de approved, rejected e source_unavailable, na mesma base. Catálogo só com decisão e sem anúncio não entra."
   },
   "activity_24h": {
-    "telegram_posted": 17,
-    "affiliate_links_generated": 1191
+    "telegram_posted": 2,
+    "affiliate_links_generated": 2014
   },
   "by_status": {
-    "approved": 13749,
+    "approved": 13770,
     "rejected": 0,
-    "source_unavailable": 422,
-    "pending": 4
+    "source_unavailable": 471,
+    "pending": 6
   },
   "status_check": {
     "audited_approved_lte_by_status_approved": true
@@ -41,7 +41,7 @@
     {
       "slug": "geral",
       "name": "Geral",
-      "count": 2646
+      "count": 2671
     },
     {
       "slug": "celulares",
@@ -238,7 +238,7 @@
     {
       "from": "discovered",
       "to": "distinct",
-      "ratio": 0.482
+      "ratio": 0.4821
     },
     {
       "from": "distinct",
@@ -248,12 +248,12 @@
     {
       "from": "with_photo",
       "to": "audited_approved",
-      "ratio": 0.2719
+      "ratio": 0.2722
     },
     {
       "from": "audited_approved",
       "to": "with_affiliate",
-      "ratio": 0.6447
+      "ratio": 0.7019
     },
     {
       "from": "with_affiliate",
@@ -267,9 +267,8 @@
     }
   ],
   "queues": {
-    "affiliate": 11,
-    "audit": 111,
-    "curate": 1,
+    "affiliate": 32,
+    "audit": 1,
     "discover": 1,
     "refresh": 85
   },
@@ -277,12 +276,12 @@
     {
       "source": "mercadolivre",
       "http_status": 400,
-      "count_24h": 8
+      "count_24h": 12
     },
     {
       "source": "mercadolivre",
       "http_status": 404,
-      "count_24h": 7183
+      "count_24h": 16274
     },
     {
       "source": "mercadolivre",
@@ -291,56 +290,56 @@
     }
   ],
   "last_success": {
-    "affiliate": "2026-11-11T18:29:49.521Z",
-    "audit": "2026-11-11T18:29:56.414Z",
-    "coupons": "2026-11-11T18:27:39.816Z",
-    "curate": "2026-11-11T18:30:35.460Z",
-    "discover": "2026-11-11T18:30:33.649Z",
-    "export": "2026-11-11T18:13:47.807Z",
+    "affiliate": "2026-11-12T01:22:54.522Z",
+    "audit": "2026-11-12T01:23:47.416Z",
+    "coupons": "2026-11-12T01:09:14.734Z",
+    "curate": "2026-11-12T01:23:49.307Z",
+    "discover": "2026-11-12T01:23:46.933Z",
+    "export": "2026-11-12T01:14:01.010Z",
     "publish-telegram": "2026-11-11T12:15:13.280Z",
-    "refresh": "2026-11-11T18:30:44.172Z"
+    "refresh": "2026-11-12T01:24:35.528Z"
   },
   "last_run": {
     "affiliate": {
-      "at": "2026-11-11T18:31:54.011Z",
-      "status": "failed"
+      "at": "2026-11-12T01:24:55.230Z",
+      "status": "success"
     },
     "audit": {
-      "at": "2026-11-11T18:31:31.813Z",
+      "at": "2026-11-12T01:26:32.723Z",
       "status": "success"
     },
     "coupons": {
-      "at": "2026-11-11T18:27:39.816Z",
+      "at": "2026-11-12T01:09:14.734Z",
       "status": "success"
     },
     "curate": {
-      "at": "2026-11-11T18:30:35.460Z",
+      "at": "2026-11-12T01:26:07.024Z",
       "status": "success"
     },
     "discover": {
-      "at": "2026-11-11T18:32:06.317Z",
+      "at": "2026-11-12T01:26:04.017Z",
       "status": "success"
     },
     "export": {
-      "at": "2026-11-11T18:13:47.807Z",
+      "at": "2026-11-12T01:14:01.010Z",
       "status": "success"
     },
     "publish-telegram": {
-      "at": "2026-11-11T18:31:53.952Z",
-      "status": "empty"
+      "at": "2026-11-12T01:25:39.210Z",
+      "status": "skipped"
     },
     "refresh": {
-      "at": "2026-11-11T18:32:01.419Z",
+      "at": "2026-11-12T01:26:33.933Z",
       "status": "success"
     }
   },
   "throughput_per_hour": {
-    "affiliate": 69,
-    "audit": 859,
+    "affiliate": 30,
+    "audit": 880,
     "coupons": 3,
-    "curate": 60,
-    "discover": 59,
-    "export": 3,
-    "refresh": 3566
+    "curate": 59,
+    "discover": 58,
+    "export": 2,
+    "refresh": 3560
   }
 }

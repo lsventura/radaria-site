@@ -32,32 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB69447462",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T15:35:44.028Z",
-      "payment_context": "channel_marketplace",
-      "payment_method": null
-    },
-    {
-      "offer_id": "ml:MLB5319542141",
-      "condition": "new",
-      "category_slug": "cozinha-14",
-      "trust_tier": "check_seller",
-      "link_scope": "catalog",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "2484653775",
-        "name": null,
-        "reputation": null
-      },
-      "price": 514.7,
-      "currency": "BRL",
-      "store_reference_price": 559.9,
-      "official_store": false,
-      "shipping_price": 0,
-      "free_shipping": true,
-      "available": true,
-      "url": "https://www.mercadolivre.com.br/p/MLB69447462",
-      "affiliate": false,
-      "last_observed_at": "2026-11-11T15:35:44.028Z",
+      "last_observed_at": "2026-11-11T23:10:19.625Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,7 +57,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB69447462",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T15:35:44.028Z",
+      "last_observed_at": "2026-11-11T23:10:19.625Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -107,7 +82,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB69447462",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T15:35:44.028Z",
+      "last_observed_at": "2026-11-11T23:10:19.625Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -132,7 +107,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB69447462",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T15:35:44.028Z",
+      "last_observed_at": "2026-11-11T23:10:19.625Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -157,7 +132,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB69447462",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T15:35:44.028Z",
+      "last_observed_at": "2026-11-11T23:10:19.625Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -166,40 +141,40 @@
   "history": [
     {
       "date": "2026-11-08",
-      "min_price": 519.9,
+      "min_price": 537,
       "max_price": 629,
-      "observations": 6
+      "observations": 5
     },
     {
       "date": "2026-11-09",
-      "min_price": 519.9,
+      "min_price": 537,
       "max_price": 629,
-      "observations": 24
+      "observations": 20
     },
     {
       "date": "2026-11-10",
-      "min_price": 514.7,
+      "min_price": 537,
       "max_price": 629,
-      "observations": 19
+      "observations": 15
     },
     {
       "date": "2026-11-11",
-      "min_price": 514.7,
+      "min_price": 537,
       "max_price": 629,
-      "observations": 6
+      "observations": 5
     }
   ],
   "stats": {
-    "median_90d": 517.3,
-    "min_ever": 514.7,
-    "min_ever_at": "2026-11-10",
+    "median_90d": 537,
+    "min_ever": 537,
+    "min_ever_at": "2026-11-08",
     "max_ever": 629,
     "distinct_days": 4,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 0.5,
+    "pct_below_median": 0,
     "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
   },
   "score": 43

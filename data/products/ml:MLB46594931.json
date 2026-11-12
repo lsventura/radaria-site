@@ -32,32 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB46594931",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T14:14:32.612Z",
-      "payment_context": "channel_marketplace",
-      "payment_method": null
-    },
-    {
-      "offer_id": "ml:MLB4860815113",
-      "condition": "new",
-      "category_slug": "informatica-12",
-      "trust_tier": "recommended",
-      "link_scope": "catalog",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "3393687005",
-        "name": null,
-        "reputation": "5_green"
-      },
-      "price": 1050,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "official_store": false,
-      "shipping_price": 0,
-      "free_shipping": true,
-      "available": true,
-      "url": "https://www.mercadolivre.com.br/p/MLB46594931",
-      "affiliate": false,
-      "last_observed_at": "2026-11-11T14:14:32.612Z",
+      "last_observed_at": "2026-11-11T22:27:19.637Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,7 +57,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB46594931",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T14:14:32.612Z",
+      "last_observed_at": "2026-11-11T22:27:19.637Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -92,39 +67,39 @@
     {
       "date": "2026-11-08",
       "min_price": 959,
-      "max_price": 1050,
-      "observations": 6
+      "max_price": 969.19,
+      "observations": 4
     },
     {
       "date": "2026-11-09",
       "min_price": 959,
-      "max_price": 1050,
-      "observations": 12
+      "max_price": 969.19,
+      "observations": 8
     },
     {
       "date": "2026-11-10",
       "min_price": 959,
-      "max_price": 1050,
-      "observations": 9
+      "max_price": 969.19,
+      "observations": 6
     },
     {
       "date": "2026-11-11",
       "min_price": 959,
-      "max_price": 1050,
-      "observations": 3
+      "max_price": 969.19,
+      "observations": 2
     },
     {
       "date": "2026-11-07",
       "min_price": 959,
-      "max_price": 1050,
-      "observations": 3
+      "max_price": 969.19,
+      "observations": 2
     }
   ],
   "stats": {
     "median_90d": 959,
     "min_ever": 959,
     "min_ever_at": "2026-11-07",
-    "max_ever": 1050,
+    "max_ever": 969.19,
     "distinct_days": 5,
     "window_days": 14
   },

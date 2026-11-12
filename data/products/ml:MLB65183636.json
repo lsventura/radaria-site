@@ -23,7 +23,7 @@
         "name": null,
         "reputation": "5_green"
       },
-      "price": 775.36,
+      "price": 822.58,
       "currency": "BRL",
       "store_reference_price": 1098,
       "official_store": false,
@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB65183636",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T15:56:45.913Z",
+      "last_observed_at": "2026-11-11T23:32:19.798Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -60,8 +60,8 @@
     {
       "date": "2026-11-11",
       "min_price": 730.85,
-      "max_price": 775.36,
-      "observations": 2
+      "max_price": 822.58,
+      "observations": 3
     },
     {
       "date": "2026-11-07",
@@ -74,14 +74,14 @@
     "median_90d": 709.56,
     "min_ever": 709.56,
     "min_ever_at": "2026-11-07",
-    "max_ever": 775.36,
+    "max_ever": 822.58,
     "distinct_days": 5,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": -9.3,
+    "pct_below_median": -15.9,
     "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
   },
-  "score": 60
+  "score": 64
 }

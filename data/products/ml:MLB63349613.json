@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB63349613",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T16:06:44.119Z",
+      "last_observed_at": "2026-11-11T23:42:21.121Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -57,7 +57,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB63349613",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T16:06:44.119Z",
+      "last_observed_at": "2026-11-11T23:42:21.121Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,7 +82,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB63349613",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T16:06:44.119Z",
+      "last_observed_at": "2026-11-11T23:42:21.121Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -107,7 +107,32 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB63349613",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T16:06:44.119Z",
+      "last_observed_at": "2026-11-11T23:42:21.121Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7174137048",
+      "condition": "new",
+      "category_slug": "livros-e-papelaria-3",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "454874108",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 194.79,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB63349613",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T23:42:21.121Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -132,7 +157,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB63349613",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T16:06:44.119Z",
+      "last_observed_at": "2026-11-11T23:42:21.121Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -157,7 +182,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB63349613",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T16:06:44.119Z",
+      "last_observed_at": "2026-11-11T23:42:21.121Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -182,7 +207,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB63349613",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T16:06:44.119Z",
+      "last_observed_at": "2026-11-11T23:42:21.121Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -193,25 +218,25 @@
       "date": "2026-11-08",
       "min_price": 129,
       "max_price": 249,
-      "observations": 14
+      "observations": 16
     },
     {
       "date": "2026-11-09",
       "min_price": 129,
       "max_price": 249,
-      "observations": 28
+      "observations": 32
     },
     {
       "date": "2026-11-10",
       "min_price": 129,
       "max_price": 249,
-      "observations": 21
+      "observations": 24
     },
     {
       "date": "2026-11-11",
       "min_price": 129,
       "max_price": 249,
-      "observations": 7
+      "observations": 8
     }
   ],
   "stats": {
@@ -227,5 +252,5 @@
     "pct_below_median": 0,
     "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
   },
-  "score": 43
+  "score": 47
 }

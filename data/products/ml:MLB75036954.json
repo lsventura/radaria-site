@@ -32,32 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB75036954",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T18:12:48.945Z",
-      "payment_context": "channel_marketplace",
-      "payment_method": null
-    },
-    {
-      "offer_id": "ml:MLB7151455744",
-      "condition": "new",
-      "category_slug": "arte-e-artesanato-20",
-      "trust_tier": "check_both",
-      "link_scope": "catalog",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "251254981",
-        "name": null,
-        "reputation": null
-      },
-      "price": 57.89,
-      "currency": "BRL",
-      "store_reference_price": 76.99,
-      "official_store": false,
-      "shipping_price": null,
-      "free_shipping": false,
-      "available": true,
-      "url": "https://www.mercadolivre.com.br/p/MLB75036954",
-      "affiliate": false,
-      "last_observed_at": "2026-11-11T18:12:48.945Z",
+      "last_observed_at": "2026-11-11T21:59:19.840Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -66,40 +41,40 @@
   "history": [
     {
       "date": "2026-11-08",
-      "min_price": 57.89,
+      "min_price": 67.22,
       "max_price": 67.22,
-      "observations": 2
+      "observations": 1
     },
     {
       "date": "2026-11-09",
-      "min_price": 57.89,
+      "min_price": 67.22,
       "max_price": 67.22,
-      "observations": 8
+      "observations": 4
     },
     {
       "date": "2026-11-10",
-      "min_price": 57.89,
+      "min_price": 67.22,
       "max_price": 67.22,
-      "observations": 6
+      "observations": 3
     },
     {
       "date": "2026-11-11",
-      "min_price": 57.89,
+      "min_price": 67.22,
       "max_price": 67.22,
-      "observations": 2
+      "observations": 1
     },
     {
       "date": "2026-11-07",
       "min_price": 67.22,
-      "max_price": 76.99,
-      "observations": 2
+      "max_price": 67.22,
+      "observations": 1
     }
   ],
   "stats": {
-    "median_90d": 57.89,
-    "min_ever": 57.89,
-    "min_ever_at": "2026-11-08",
-    "max_ever": 76.99,
+    "median_90d": 67.22,
+    "min_ever": 67.22,
+    "min_ever_at": "2026-11-07",
+    "max_ever": 67.22,
     "distinct_days": 5,
     "window_days": 14
   },
@@ -108,5 +83,5 @@
     "pct_below_median": 0,
     "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
   },
-  "score": 39
+  "score": 35
 }

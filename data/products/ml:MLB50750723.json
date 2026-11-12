@@ -23,7 +23,7 @@
         "name": null,
         "reputation": null
       },
-      "price": 2967.04,
+      "price": 3176.45,
       "currency": "BRL",
       "store_reference_price": null,
       "official_store": true,
@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB50750723",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T14:07:32.913Z",
+      "last_observed_at": "2026-11-11T22:16:20.220Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -60,8 +60,8 @@
     {
       "date": "2026-11-11",
       "min_price": 2967.04,
-      "max_price": 2967.04,
-      "observations": 1
+      "max_price": 3176.45,
+      "observations": 2
     }
   ],
   "stats": {
@@ -74,7 +74,7 @@
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 3.4,
+    "pct_below_median": -3.4,
     "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
   },
   "score": 52

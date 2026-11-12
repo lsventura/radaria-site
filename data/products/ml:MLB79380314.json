@@ -15,7 +15,7 @@
       "offer_id": "ml:MLB7752778446",
       "condition": "new",
       "category_slug": "eletrodomesticos-10",
-      "trust_tier": "check_shipping",
+      "trust_tier": "recommended",
       "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
@@ -27,12 +27,12 @@
       "currency": "BRL",
       "store_reference_price": null,
       "official_store": true,
-      "shipping_price": null,
+      "shipping_price": 0,
       "free_shipping": false,
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB79380314",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T17:54:47.024Z",
+      "last_observed_at": "2026-11-11T21:40:19.620Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -61,7 +61,7 @@
       "date": "2026-11-11",
       "min_price": 1409,
       "max_price": 1409,
-      "observations": 1
+      "observations": 2
     },
     {
       "date": "2026-11-07",
@@ -83,5 +83,5 @@
     "pct_below_median": 0,
     "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
   },
-  "score": 56
+  "score": 60
 }

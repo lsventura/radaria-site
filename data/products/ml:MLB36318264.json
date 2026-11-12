@@ -32,32 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB36318264",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T14:44:34.933Z",
-      "payment_context": "channel_marketplace",
-      "payment_method": null
-    },
-    {
-      "offer_id": "ml:MLB7272781844",
-      "condition": "new",
-      "category_slug": "acessorios-e-wearables-3",
-      "trust_tier": "recommended",
-      "link_scope": "catalog",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "2212699533",
-        "name": null,
-        "reputation": "5_green"
-      },
-      "price": 824,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "official_store": false,
-      "shipping_price": 0,
-      "free_shipping": true,
-      "available": true,
-      "url": "https://www.mercadolivre.com.br/p/MLB36318264",
-      "affiliate": false,
-      "last_observed_at": "2026-11-11T14:44:34.933Z",
+      "last_observed_at": "2026-11-11T22:11:22.813Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -66,38 +41,38 @@
   "history": [
     {
       "date": "2026-11-08",
-      "min_price": 824,
-      "max_price": 880,
-      "observations": 4
-    },
-    {
-      "date": "2026-11-09",
-      "min_price": 824,
-      "max_price": 880,
-      "observations": 6
-    },
-    {
-      "date": "2026-11-10",
-      "min_price": 824,
-      "max_price": 880,
-      "observations": 6
-    },
-    {
-      "date": "2026-11-11",
-      "min_price": 824,
+      "min_price": 880,
       "max_price": 880,
       "observations": 2
     },
     {
-      "date": "2026-11-06",
-      "min_price": 824,
+      "date": "2026-11-09",
+      "min_price": 880,
       "max_price": 880,
       "observations": 3
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 880,
+      "max_price": 880,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 880,
+      "max_price": 880,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-06",
+      "min_price": 880,
+      "max_price": 880,
+      "observations": 2
     }
   ],
   "stats": {
-    "median_90d": 824,
-    "min_ever": 824,
+    "median_90d": 880,
+    "min_ever": 880,
     "min_ever_at": "2026-11-06",
     "max_ever": 880,
     "distinct_days": 5,

@@ -12,31 +12,6 @@
   "catalog_link": null,
   "offers": [
     {
-      "offer_id": "ml:MLB5830690154",
-      "condition": "new",
-      "category_slug": "arte-e-artesanato-6",
-      "trust_tier": "recommended",
-      "link_scope": "catalog",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "169033958",
-        "name": null,
-        "reputation": null
-      },
-      "price": 134.9,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "official_store": true,
-      "shipping_price": 0,
-      "free_shipping": true,
-      "available": true,
-      "url": "https://www.mercadolivre.com.br/p/MLB35897343",
-      "affiliate": false,
-      "last_observed_at": "2026-11-11T14:50:33.132Z",
-      "payment_context": "channel_marketplace",
-      "payment_method": null
-    },
-    {
       "offer_id": "ml:MLB4266105917",
       "condition": "new",
       "category_slug": "arte-e-artesanato-6",
@@ -57,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB35897343",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T14:50:33.132Z",
+      "last_observed_at": "2026-11-11T22:40:19.614Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,7 +57,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB35897343",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T14:50:33.132Z",
+      "last_observed_at": "2026-11-11T22:40:19.614Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -92,33 +67,33 @@
     {
       "date": "2026-11-08",
       "min_price": 127.95,
-      "max_price": 134.9,
-      "observations": 6
+      "max_price": 129.95,
+      "observations": 4
     },
     {
       "date": "2026-11-09",
       "min_price": 127.95,
-      "max_price": 134.9,
-      "observations": 9
+      "max_price": 129.95,
+      "observations": 6
     },
     {
       "date": "2026-11-10",
       "min_price": 127.95,
-      "max_price": 134.9,
-      "observations": 9
+      "max_price": 129.95,
+      "observations": 6
     },
     {
       "date": "2026-11-11",
       "min_price": 127.95,
-      "max_price": 134.9,
-      "observations": 3
+      "max_price": 129.95,
+      "observations": 2
     }
   ],
   "stats": {
     "median_90d": 127.95,
     "min_ever": 127.95,
     "min_ever_at": "2026-11-08",
-    "max_ever": 134.9,
+    "max_ever": 129.95,
     "distinct_days": 4,
     "window_days": 14
   },

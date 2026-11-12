@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB59651657",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T15:59:43.754Z",
+      "last_observed_at": "2026-11-11T23:37:18.918Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -57,7 +57,32 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB59651657",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T15:59:43.754Z",
+      "last_observed_at": "2026-11-11T23:37:18.918Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7932430158",
+      "condition": "new",
+      "category_slug": "moveis-12",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "781212906",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 249,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB59651657",
+      "affiliate": false,
+      "last_observed_at": "2026-11-11T23:37:18.918Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -68,45 +93,45 @@
       "date": "2026-11-08",
       "min_price": 254.44,
       "max_price": 349.81,
-      "observations": 2
+      "observations": 3
     },
     {
       "date": "2026-11-09",
       "min_price": 254.44,
       "max_price": 349.81,
-      "observations": 8
+      "observations": 12
     },
     {
       "date": "2026-11-10",
-      "min_price": 254.44,
+      "min_price": 249,
       "max_price": 349.81,
-      "observations": 6
+      "observations": 10
     },
     {
       "date": "2026-11-11",
-      "min_price": 254.44,
+      "min_price": 249,
       "max_price": 349.81,
-      "observations": 2
+      "observations": 3
     },
     {
       "date": "2026-11-07",
       "min_price": 254.44,
       "max_price": 349.81,
-      "observations": 2
+      "observations": 3
     }
   ],
   "stats": {
     "median_90d": 254.44,
-    "min_ever": 254.44,
-    "min_ever_at": "2026-11-07",
+    "min_ever": 249,
+    "min_ever_at": "2026-11-10",
     "max_ever": 349.81,
     "distinct_days": 5,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 0,
+    "pct_below_median": 2.1,
     "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
   },
-  "score": 52
+  "score": 64
 }

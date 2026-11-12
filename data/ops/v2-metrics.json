@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-11T18:30:44.513Z",
-  "measured_at": "2026-11-11T18:32:00.020Z",
+  "generated_at": "2026-11-12T01:24:45.218Z",
+  "measured_at": "2026-11-12T01:26:00.018Z",
   "stale": false,
   "error": null,
   "funnel": {
-    "discovered": 54976,
-    "distinct": 53320,
-    "with_photo": 53304,
-    "audited_approved": 4553,
+    "discovered": 55385,
+    "distinct": 53727,
+    "with_photo": 53711,
+    "audited_approved": 4593,
     "with_affiliate": 1860,
     "published": 1855
   },
@@ -16,7 +16,7 @@
     "publication_checks": 0
   },
   "queues": {
-    "affiliate": 2693,
-    "publication": 0
+    "affiliate": 2733,
+    "publication": 1
   }
 }

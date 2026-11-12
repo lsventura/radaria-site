@@ -32,7 +32,32 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB26648661",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T17:35:43.335Z",
+      "last_observed_at": "2026-11-12T01:11:21.588Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB3602334631",
+      "condition": "new",
+      "category_slug": "arte-e-artesanato-7",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "169033958",
+        "name": null,
+        "reputation": null
+      },
+      "price": 50.29,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB26648661",
+      "affiliate": false,
+      "last_observed_at": "2026-11-12T01:11:21.588Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -57,7 +82,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB26648661",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T17:35:43.335Z",
+      "last_observed_at": "2026-11-12T01:11:21.588Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,7 +107,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB26648661",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T17:35:43.335Z",
+      "last_observed_at": "2026-11-12T01:11:21.588Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -107,7 +132,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB26648661",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T17:35:43.335Z",
+      "last_observed_at": "2026-11-12T01:11:21.588Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -132,7 +157,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB26648661",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T17:35:43.335Z",
+      "last_observed_at": "2026-11-12T01:11:21.588Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -157,7 +182,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB26648661",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T17:35:43.335Z",
+      "last_observed_at": "2026-11-12T01:11:21.588Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -166,38 +191,38 @@
   "history": [
     {
       "date": "2026-11-08",
-      "min_price": 64.8,
+      "min_price": 50.29,
       "max_price": 95,
-      "observations": 6
+      "observations": 7
     },
     {
       "date": "2026-11-09",
-      "min_price": 64.8,
+      "min_price": 50.29,
       "max_price": 95,
-      "observations": 30
+      "observations": 35
     },
     {
       "date": "2026-11-10",
-      "min_price": 64.8,
+      "min_price": 50.29,
       "max_price": 95,
-      "observations": 12
+      "observations": 14
     },
     {
       "date": "2026-11-11",
-      "min_price": 64.8,
+      "min_price": 50.29,
       "max_price": 95,
-      "observations": 6
+      "observations": 7
     },
     {
       "date": "2026-11-06",
-      "min_price": 64.8,
+      "min_price": 50.29,
       "max_price": 95,
-      "observations": 6
+      "observations": 7
     }
   ],
   "stats": {
-    "median_90d": 64.8,
-    "min_ever": 64.8,
+    "median_90d": 50.29,
+    "min_ever": 50.29,
     "min_ever_at": "2026-11-06",
     "max_ever": 95,
     "distinct_days": 5,
@@ -208,5 +233,5 @@
     "pct_below_median": 0,
     "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
   },
-  "score": 39
+  "score": 56
 }

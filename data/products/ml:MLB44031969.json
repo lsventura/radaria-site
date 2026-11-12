@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB44031969",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T17:44:43.039Z",
+      "last_observed_at": "2026-11-12T01:12:22.820Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -57,32 +57,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB44031969",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T17:44:43.039Z",
-      "payment_context": "channel_marketplace",
-      "payment_method": null
-    },
-    {
-      "offer_id": "ml:MLB5536884768",
-      "condition": "new",
-      "category_slug": "brinquedos-10",
-      "trust_tier": "recommended",
-      "link_scope": "catalog",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "763160903",
-        "name": null,
-        "reputation": "5_green"
-      },
-      "price": 39.99,
-      "currency": "BRL",
-      "store_reference_price": 46.99,
-      "official_store": false,
-      "shipping_price": 0,
-      "free_shipping": true,
-      "available": true,
-      "url": "https://www.mercadolivre.com.br/p/MLB44031969",
-      "affiliate": false,
-      "last_observed_at": "2026-11-11T17:44:43.039Z",
+      "last_observed_at": "2026-11-12T01:12:22.820Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -107,7 +82,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB44031969",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T17:44:43.039Z",
+      "last_observed_at": "2026-11-12T01:12:22.820Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -132,7 +107,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB44031969",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T17:44:43.039Z",
+      "last_observed_at": "2026-11-12T01:12:22.820Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -141,38 +116,38 @@
   "history": [
     {
       "date": "2026-11-08",
-      "min_price": 39.99,
+      "min_price": 56.99,
       "max_price": 89.46,
-      "observations": 20
+      "observations": 16
     },
     {
       "date": "2026-11-09",
-      "min_price": 39.99,
+      "min_price": 56.99,
       "max_price": 89.46,
-      "observations": 20
+      "observations": 16
     },
     {
       "date": "2026-11-10",
-      "min_price": 39.99,
+      "min_price": 56.99,
       "max_price": 89.46,
-      "observations": 15
+      "observations": 12
     },
     {
       "date": "2026-11-11",
-      "min_price": 39.99,
+      "min_price": 56.99,
       "max_price": 89.46,
-      "observations": 5
+      "observations": 4
     },
     {
       "date": "2026-11-07",
-      "min_price": 39.99,
+      "min_price": 56.99,
       "max_price": 89.46,
-      "observations": 5
+      "observations": 4
     }
   ],
   "stats": {
-    "median_90d": 39.99,
-    "min_ever": 39.99,
+    "median_90d": 56.99,
+    "min_ever": 56.99,
     "min_ever_at": "2026-11-07",
     "max_ever": 89.46,
     "distinct_days": 5,
@@ -183,5 +158,5 @@
     "pct_below_median": 0,
     "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
   },
-  "score": 64
+  "score": 39
 }
