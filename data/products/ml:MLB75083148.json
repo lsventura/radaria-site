@@ -60,7 +60,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB75083148",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T00:54:58.322Z",
+      "last_observed_at": "2026-11-12T09:15:39.420Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -76,16 +76,16 @@
         "name": null,
         "reputation": "5_green"
       },
-      "price": 242.95,
+      "price": 269.95,
       "currency": "BRL",
-      "store_reference_price": 269.95,
+      "store_reference_price": null,
       "official_store": false,
       "shipping_price": 0,
       "free_shipping": true,
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB75083148",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T00:54:58.322Z",
+      "last_observed_at": "2026-11-12T09:15:39.420Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -110,7 +110,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB75083148",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T00:54:58.322Z",
+      "last_observed_at": "2026-11-12T09:15:39.420Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -135,7 +135,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB75083148",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T00:54:58.322Z",
+      "last_observed_at": "2026-11-12T09:15:39.420Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -151,16 +151,16 @@
         "name": null,
         "reputation": "5_green"
       },
-      "price": 224.95,
+      "price": 249.95,
       "currency": "BRL",
-      "store_reference_price": 249.95,
+      "store_reference_price": null,
       "official_store": false,
       "shipping_price": 0,
       "free_shipping": true,
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB75083148",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T00:54:58.322Z",
+      "last_observed_at": "2026-11-12T09:15:39.420Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -176,16 +176,16 @@
         "name": null,
         "reputation": "5_green"
       },
-      "price": 341.1,
+      "price": 379,
       "currency": "BRL",
-      "store_reference_price": 379,
+      "store_reference_price": null,
       "official_store": false,
       "shipping_price": 0,
       "free_shipping": true,
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB75083148",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T00:54:58.322Z",
+      "last_observed_at": "2026-11-12T09:15:39.420Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -209,6 +209,12 @@
       "min_price": 224.95,
       "max_price": 341.1,
       "observations": 6
+    },
+    {
+      "date": "2026-11-12",
+      "min_price": 249.95,
+      "max_price": 379,
+      "observations": 6
     }
   ],
   "stats": {
@@ -216,13 +222,13 @@
     "min_ever": 224.95,
     "min_ever_at": "2026-11-11",
     "max_ever": 379,
-    "distinct_days": 3,
+    "distinct_days": 4,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 10,
-    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
   },
   "score": 64
 }

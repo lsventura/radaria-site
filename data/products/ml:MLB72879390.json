@@ -23,16 +23,16 @@
         "name": null,
         "reputation": null
       },
-      "price": 289.28,
+      "price": 355.45,
       "currency": "BRL",
-      "store_reference_price": 355.45,
+      "store_reference_price": null,
       "official_store": false,
       "shipping_price": 0,
       "free_shipping": true,
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB72879390",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T21:46:19.524Z",
+      "last_observed_at": "2026-11-12T09:16:21.557Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -62,20 +62,26 @@
       "min_price": 289.28,
       "max_price": 289.28,
       "observations": 1
+    },
+    {
+      "date": "2026-11-12",
+      "min_price": 355.45,
+      "max_price": 355.45,
+      "observations": 1
     }
   ],
   "stats": {
     "median_90d": 289.28,
     "min_ever": 289.28,
     "min_ever_at": "2026-11-08",
-    "max_ever": 289.28,
-    "distinct_days": 4,
+    "max_ever": 355.45,
+    "distinct_days": 5,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 0,
-    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+    "pct_below_median": -22.9,
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
   },
-  "score": 43
+  "score": 47
 }

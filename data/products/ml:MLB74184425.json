@@ -23,16 +23,16 @@
         "name": null,
         "reputation": null
       },
-      "price": 46.19,
+      "price": 47.62,
       "currency": "BRL",
-      "store_reference_price": 47.62,
+      "store_reference_price": null,
       "official_store": true,
       "shipping_price": null,
       "free_shipping": false,
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB74184425",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T23:23:19.012Z",
+      "last_observed_at": "2026-11-12T07:02:22.114Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -48,16 +48,16 @@
         "name": null,
         "reputation": null
       },
-      "price": 50.74,
+      "price": 52.31,
       "currency": "BRL",
-      "store_reference_price": 52.31,
+      "store_reference_price": null,
       "official_store": true,
       "shipping_price": null,
       "free_shipping": false,
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB74184425",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T23:23:19.012Z",
+      "last_observed_at": "2026-11-12T07:02:22.114Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -73,16 +73,16 @@
         "name": null,
         "reputation": "5_green"
       },
-      "price": 42.82,
+      "price": 44.93,
       "currency": "BRL",
-      "store_reference_price": 44.93,
+      "store_reference_price": null,
       "official_store": false,
       "shipping_price": null,
       "free_shipping": false,
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB74184425",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T23:23:19.012Z",
+      "last_observed_at": "2026-11-12T07:02:22.114Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -98,16 +98,16 @@
         "name": null,
         "reputation": null
       },
-      "price": 43.58,
+      "price": 44.93,
       "currency": "BRL",
-      "store_reference_price": 44.93,
+      "store_reference_price": null,
       "official_store": true,
       "shipping_price": null,
       "free_shipping": false,
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB74184425",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T23:23:19.012Z",
+      "last_observed_at": "2026-11-12T07:02:22.114Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -137,20 +137,26 @@
       "min_price": 42.82,
       "max_price": 50.74,
       "observations": 4
+    },
+    {
+      "date": "2026-11-12",
+      "min_price": 44.93,
+      "max_price": 52.31,
+      "observations": 4
     }
   ],
   "stats": {
     "median_90d": 42.82,
     "min_ever": 42.82,
     "min_ever_at": "2026-11-09",
-    "max_ever": 50.74,
-    "distinct_days": 4,
+    "max_ever": 52.31,
+    "distinct_days": 5,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 0,
-    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+    "pct_below_median": -4.9,
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
   },
   "score": 52
 }

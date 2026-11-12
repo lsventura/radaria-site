@@ -23,16 +23,16 @@
         "name": null,
         "reputation": "5_green"
       },
-      "price": 767.97,
+      "price": 861.65,
       "currency": "BRL",
-      "store_reference_price": 861.65,
+      "store_reference_price": null,
       "official_store": false,
       "shipping_price": 0,
       "free_shipping": true,
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB59124319",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T22:09:19.610Z",
+      "last_observed_at": "2026-11-12T05:47:21.410Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -64,6 +64,12 @@
       "observations": 1
     },
     {
+      "date": "2026-11-12",
+      "min_price": 861.65,
+      "max_price": 861.65,
+      "observations": 1
+    },
+    {
       "date": "2026-11-07",
       "min_price": 767.97,
       "max_price": 767.97,
@@ -74,14 +80,14 @@
     "median_90d": 767.97,
     "min_ever": 767.97,
     "min_ever_at": "2026-11-07",
-    "max_ever": 767.97,
-    "distinct_days": 5,
+    "max_ever": 861.65,
+    "distinct_days": 6,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 0,
-    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
+    "pct_below_median": -12.2,
+    "explanation": "Histórico em formação: 6 de 7 dias distintos na janela de 14."
   },
   "score": 60
 }

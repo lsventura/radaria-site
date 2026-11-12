@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB61628967",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T21:39:19.639Z",
+      "last_observed_at": "2026-11-12T09:08:21.328Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -48,16 +48,16 @@
         "name": null,
         "reputation": null
       },
-      "price": 202.35,
+      "price": 240.9,
       "currency": "BRL",
-      "store_reference_price": 240.9,
+      "store_reference_price": null,
       "official_store": false,
       "shipping_price": 0,
       "free_shipping": true,
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB61628967",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T21:39:19.639Z",
+      "last_observed_at": "2026-11-12T09:08:21.328Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,7 +82,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB61628967",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T21:39:19.639Z",
+      "last_observed_at": "2026-11-12T09:08:21.328Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -98,7 +98,7 @@
         "name": null,
         "reputation": null
       },
-      "price": 194.4,
+      "price": 201.97,
       "currency": "BRL",
       "store_reference_price": 252.47,
       "official_store": false,
@@ -107,7 +107,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB61628967",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T21:39:19.639Z",
+      "last_observed_at": "2026-11-12T09:08:21.328Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -123,16 +123,16 @@
         "name": null,
         "reputation": null
       },
-      "price": 211.6,
+      "price": 251.91,
       "currency": "BRL",
-      "store_reference_price": 251.91,
+      "store_reference_price": null,
       "official_store": false,
       "shipping_price": 0,
       "free_shipping": true,
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB61628967",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T21:39:19.639Z",
+      "last_observed_at": "2026-11-12T09:08:21.328Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -157,7 +157,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB61628967",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T21:39:19.639Z",
+      "last_observed_at": "2026-11-12T09:08:21.328Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -173,7 +173,7 @@
         "name": null,
         "reputation": null
       },
-      "price": 165.32,
+      "price": 167.16,
       "currency": "BRL",
       "store_reference_price": 199,
       "official_store": false,
@@ -182,7 +182,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB61628967",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T21:39:19.639Z",
+      "last_observed_at": "2026-11-12T09:08:21.328Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -212,20 +212,26 @@
       "min_price": 165.32,
       "max_price": 211.6,
       "observations": 7
+    },
+    {
+      "date": "2026-11-12",
+      "min_price": 167.16,
+      "max_price": 251.91,
+      "observations": 7
     }
   ],
   "stats": {
-    "median_90d": 166.24,
+    "median_90d": 167.16,
     "min_ever": 165.32,
     "min_ever_at": "2026-11-10",
-    "max_ever": 211.6,
-    "distinct_days": 4,
+    "max_ever": 251.91,
+    "distinct_days": 5,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 0.6,
-    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
   },
-  "score": 43
+  "score": 47
 }

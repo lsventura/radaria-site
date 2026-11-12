@@ -23,16 +23,16 @@
         "name": null,
         "reputation": null
       },
-      "price": 42,
+      "price": 35.69,
       "currency": "BRL",
-      "store_reference_price": null,
+      "store_reference_price": 42,
       "official_store": false,
       "shipping_price": null,
       "free_shipping": false,
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB53018984",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T23:28:18.822Z",
+      "last_observed_at": "2026-11-12T07:07:21.419Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -48,7 +48,7 @@
         "name": null,
         "reputation": null
       },
-      "price": 38.69,
+      "price": 40.73,
       "currency": "BRL",
       "store_reference_price": 41.99,
       "official_store": false,
@@ -57,7 +57,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB53018984",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T23:28:18.822Z",
+      "last_observed_at": "2026-11-12T07:07:21.419Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,7 +82,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB53018984",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T23:28:18.822Z",
+      "last_observed_at": "2026-11-12T07:07:21.419Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -112,20 +112,26 @@
       "min_price": 38.69,
       "max_price": 42,
       "observations": 3
+    },
+    {
+      "date": "2026-11-12",
+      "min_price": 35.69,
+      "max_price": 40.73,
+      "observations": 3
     }
   ],
   "stats": {
     "median_90d": 38.69,
-    "min_ever": 38.69,
-    "min_ever_at": "2026-11-08",
+    "min_ever": 35.69,
+    "min_ever_at": "2026-11-12",
     "max_ever": 42,
-    "distinct_days": 4,
+    "distinct_days": 5,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 0,
-    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+    "pct_below_median": 7.8,
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
   },
-  "score": 39
+  "score": 35
 }

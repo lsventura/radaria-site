@@ -23,7 +23,7 @@
         "name": null,
         "reputation": null
       },
-      "price": 57.01,
+      "price": 60.62,
       "currency": "BRL",
       "store_reference_price": 62.5,
       "official_store": false,
@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB32633506",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T22:31:25.750Z",
+      "last_observed_at": "2026-11-12T06:10:21.311Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -48,7 +48,7 @@
         "name": null,
         "reputation": null
       },
-      "price": 61.5,
+      "price": 62.2,
       "currency": "BRL",
       "store_reference_price": 67.5,
       "official_store": false,
@@ -57,7 +57,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB32633506",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T22:31:25.750Z",
+      "last_observed_at": "2026-11-12T06:10:21.311Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,7 +82,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB32633506",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T22:31:25.750Z",
+      "last_observed_at": "2026-11-12T06:10:21.311Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -107,7 +107,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB32633506",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T22:31:25.750Z",
+      "last_observed_at": "2026-11-12T06:10:21.311Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -132,7 +132,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB32633506",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T22:31:25.750Z",
+      "last_observed_at": "2026-11-12T06:10:21.311Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -164,6 +164,12 @@
       "observations": 5
     },
     {
+      "date": "2026-11-12",
+      "min_price": 60.62,
+      "max_price": 76.21,
+      "observations": 5
+    },
+    {
       "date": "2026-11-07",
       "min_price": 57.01,
       "max_price": 76.21,
@@ -175,13 +181,13 @@
     "min_ever": 57.01,
     "min_ever_at": "2026-11-07",
     "max_ever": 76.21,
-    "distinct_days": 5,
+    "distinct_days": 6,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 0,
-    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
+    "pct_below_median": -6.3,
+    "explanation": "Histórico em formação: 6 de 7 dias distintos na janela de 14."
   },
   "score": 35
 }

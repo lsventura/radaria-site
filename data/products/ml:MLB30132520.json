@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB30132520",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T21:43:20.330Z",
+      "last_observed_at": "2026-11-12T09:13:24.135Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -57,7 +57,32 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB30132520",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T21:43:20.330Z",
+      "last_observed_at": "2026-11-12T09:13:24.135Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7956476778",
+      "condition": "new",
+      "category_slug": "notebooks-19",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3517429484",
+        "name": null,
+        "reputation": null
+      },
+      "price": 79.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB30132520",
+      "affiliate": false,
+      "last_observed_at": "2026-11-12T09:13:24.135Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,7 +107,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB30132520",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T21:43:20.330Z",
+      "last_observed_at": "2026-11-12T09:13:24.135Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -107,7 +132,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB30132520",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T21:43:20.330Z",
+      "last_observed_at": "2026-11-12T09:13:24.135Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -132,7 +157,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB30132520",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T21:43:20.330Z",
+      "last_observed_at": "2026-11-12T09:13:24.135Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -143,25 +168,31 @@
       "date": "2026-11-08",
       "min_price": 15.25,
       "max_price": 92.79,
-      "observations": 55
+      "observations": 66
     },
     {
       "date": "2026-11-09",
       "min_price": 15.25,
       "max_price": 92.79,
-      "observations": 15
+      "observations": 18
     },
     {
       "date": "2026-11-10",
       "min_price": 15.25,
       "max_price": 92.79,
-      "observations": 15
+      "observations": 18
     },
     {
       "date": "2026-11-11",
       "min_price": 15.25,
       "max_price": 92.79,
       "observations": 5
+    },
+    {
+      "date": "2026-11-12",
+      "min_price": 15.25,
+      "max_price": 92.79,
+      "observations": 6
     }
   ],
   "stats": {
@@ -169,13 +200,13 @@
     "min_ever": 15.25,
     "min_ever_at": "2026-11-08",
     "max_ever": 92.79,
-    "distinct_days": 4,
+    "distinct_days": 5,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
   },
-  "score": 52
+  "score": 56
 }

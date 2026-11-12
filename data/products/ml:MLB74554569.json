@@ -23,7 +23,7 @@
         "name": null,
         "reputation": null
       },
-      "price": 81,
+      "price": 81.26,
       "currency": "BRL",
       "store_reference_price": 83.77,
       "official_store": false,
@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB74554569",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T00:51:22.799Z",
+      "last_observed_at": "2026-11-12T08:32:22.111Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -62,20 +62,26 @@
       "min_price": 81,
       "max_price": 81,
       "observations": 1
+    },
+    {
+      "date": "2026-11-12",
+      "min_price": 81.26,
+      "max_price": 81.26,
+      "observations": 1
     }
   ],
   "stats": {
     "median_90d": 81,
     "min_ever": 81,
     "min_ever_at": "2026-11-08",
-    "max_ever": 81,
-    "distinct_days": 4,
+    "max_ever": 81.26,
+    "distinct_days": 5,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 0,
-    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+    "pct_below_median": -0.3,
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
   },
   "score": 47
 }

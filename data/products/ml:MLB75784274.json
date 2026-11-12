@@ -23,16 +23,16 @@
         "name": null,
         "reputation": null
       },
-      "price": 299,
+      "price": 284.03,
       "currency": "BRL",
-      "store_reference_price": null,
+      "store_reference_price": 299,
       "official_store": true,
       "shipping_price": 0,
       "free_shipping": true,
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB75784274",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T23:33:19.105Z",
+      "last_observed_at": "2026-11-12T07:11:21.441Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -48,16 +48,16 @@
         "name": null,
         "reputation": null
       },
-      "price": 284.82,
+      "price": 303,
       "currency": "BRL",
-      "store_reference_price": 303,
+      "store_reference_price": null,
       "official_store": true,
       "shipping_price": 0,
       "free_shipping": true,
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB75784274",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T23:33:19.105Z",
+      "last_observed_at": "2026-11-12T07:11:21.441Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -89,6 +89,12 @@
       "observations": 2
     },
     {
+      "date": "2026-11-12",
+      "min_price": 284.03,
+      "max_price": 303,
+      "observations": 2
+    },
+    {
       "date": "2026-11-07",
       "min_price": 284.82,
       "max_price": 299,
@@ -97,16 +103,16 @@
   ],
   "stats": {
     "median_90d": 284.82,
-    "min_ever": 284.82,
-    "min_ever_at": "2026-11-07",
-    "max_ever": 299,
-    "distinct_days": 5,
+    "min_ever": 284.03,
+    "min_ever_at": "2026-11-12",
+    "max_ever": 303,
+    "distinct_days": 6,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 0,
-    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
+    "pct_below_median": 0.3,
+    "explanation": "Histórico em formação: 6 de 7 dias distintos na janela de 14."
   },
-  "score": 64
+  "score": 60
 }

@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB77331159",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T22:40:19.614Z",
+      "last_observed_at": "2026-11-12T06:18:21.209Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -57,7 +57,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB77331159",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T22:40:19.614Z",
+      "last_observed_at": "2026-11-12T06:18:21.209Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,7 +82,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB77331159",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T22:40:19.614Z",
+      "last_observed_at": "2026-11-12T06:18:21.209Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -107,7 +107,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB77331159",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T22:40:19.614Z",
+      "last_observed_at": "2026-11-12T06:18:21.209Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -137,20 +137,26 @@
       "min_price": 659.99,
       "max_price": 799,
       "observations": 4
+    },
+    {
+      "date": "2026-11-12",
+      "min_price": 659.99,
+      "max_price": 799,
+      "observations": 4
     }
   ],
   "stats": {
-    "median_90d": 629.95,
+    "median_90d": 659.99,
     "min_ever": 599.9,
     "min_ever_at": "2026-11-09",
     "max_ever": 799,
-    "distinct_days": 4,
+    "distinct_days": 5,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": -4.8,
-    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
   },
   "score": 60
 }

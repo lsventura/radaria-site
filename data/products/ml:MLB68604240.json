@@ -23,7 +23,7 @@
         "name": null,
         "reputation": null
       },
-      "price": 218.31,
+      "price": 218.41,
       "currency": "BRL",
       "store_reference_price": 264.9,
       "official_store": true,
@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB68604240",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T01:16:21.562Z",
+      "last_observed_at": "2026-11-12T08:57:21.520Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -64,6 +64,12 @@
       "observations": 1
     },
     {
+      "date": "2026-11-12",
+      "min_price": 218.41,
+      "max_price": 218.41,
+      "observations": 1
+    },
+    {
       "date": "2026-11-06",
       "min_price": 218.31,
       "max_price": 218.31,
@@ -74,14 +80,14 @@
     "median_90d": 218.31,
     "min_ever": 218.31,
     "min_ever_at": "2026-11-06",
-    "max_ever": 218.31,
-    "distinct_days": 5,
+    "max_ever": 218.41,
+    "distinct_days": 6,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 6 de 7 dias distintos na janela de 14."
   },
   "score": 64
 }

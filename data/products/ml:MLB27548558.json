@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB27548558",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T18:12:48.945Z",
+      "last_observed_at": "2026-11-12T09:14:21.816Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -57,7 +57,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB27548558",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T18:12:48.945Z",
+      "last_observed_at": "2026-11-12T09:14:21.816Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,7 +82,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB27548558",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T18:12:48.945Z",
+      "last_observed_at": "2026-11-12T09:14:21.816Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -107,7 +107,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB27548558",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T18:12:48.945Z",
+      "last_observed_at": "2026-11-12T09:14:21.816Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -139,6 +139,12 @@
       "observations": 4
     },
     {
+      "date": "2026-11-12",
+      "min_price": 870,
+      "max_price": 980,
+      "observations": 4
+    },
+    {
       "date": "2026-11-07",
       "min_price": 870,
       "max_price": 1030,
@@ -150,13 +156,13 @@
     "min_ever": 870,
     "min_ever_at": "2026-11-07",
     "max_ever": 1030,
-    "distinct_days": 5,
+    "distinct_days": 6,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 6 de 7 dias distintos na janela de 14."
   },
-  "score": 56
+  "score": 64
 }

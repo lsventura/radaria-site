@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB72428759",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T23:34:18.902Z",
+      "last_observed_at": "2026-11-12T07:13:23.624Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -57,7 +57,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB72428759",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T23:34:18.902Z",
+      "last_observed_at": "2026-11-12T07:13:23.624Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,7 +82,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB72428759",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T23:34:18.902Z",
+      "last_observed_at": "2026-11-12T07:13:23.624Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -107,7 +107,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB72428759",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T23:34:18.902Z",
+      "last_observed_at": "2026-11-12T07:13:23.624Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -132,57 +132,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB72428759",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T23:34:18.902Z",
-      "payment_context": "channel_marketplace",
-      "payment_method": null
-    },
-    {
-      "offer_id": "ml:MLB5431874483",
-      "condition": "new",
-      "category_slug": "arte-e-artesanato-18",
-      "trust_tier": "recommended",
-      "link_scope": "catalog",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "27500503",
-        "name": null,
-        "reputation": "5_green"
-      },
-      "price": 79.9,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "official_store": false,
-      "shipping_price": 0,
-      "free_shipping": true,
-      "available": true,
-      "url": "https://www.mercadolivre.com.br/p/MLB72428759",
-      "affiliate": false,
-      "last_observed_at": "2026-11-11T23:34:18.902Z",
-      "payment_context": "channel_marketplace",
-      "payment_method": null
-    },
-    {
-      "offer_id": "ml:MLB7809021614",
-      "condition": "new",
-      "category_slug": "arte-e-artesanato-18",
-      "trust_tier": "check_shipping",
-      "link_scope": "catalog",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "1044249879",
-        "name": null,
-        "reputation": "5_green"
-      },
-      "price": 77.5,
-      "currency": "BRL",
-      "store_reference_price": 79.9,
-      "official_store": false,
-      "shipping_price": null,
-      "free_shipping": false,
-      "available": true,
-      "url": "https://www.mercadolivre.com.br/p/MLB72428759",
-      "affiliate": false,
-      "last_observed_at": "2026-11-11T23:34:18.902Z",
+      "last_observed_at": "2026-11-12T07:13:23.624Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -207,7 +157,32 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB72428759",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T23:34:18.902Z",
+      "last_observed_at": "2026-11-12T07:13:23.624Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5492652203",
+      "condition": "new",
+      "category_slug": "arte-e-artesanato-18",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3517429484",
+        "name": null,
+        "reputation": null
+      },
+      "price": 79.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB72428759",
+      "affiliate": false,
+      "last_observed_at": "2026-11-12T07:13:23.624Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -218,25 +193,31 @@
       "date": "2026-11-08",
       "min_price": 19,
       "max_price": 79.9,
-      "observations": 8
+      "observations": 7
     },
     {
       "date": "2026-11-09",
       "min_price": 19,
       "max_price": 79.9,
-      "observations": 30
+      "observations": 28
     },
     {
       "date": "2026-11-10",
       "min_price": 19,
       "max_price": 79.9,
-      "observations": 22
+      "observations": 21
     },
     {
       "date": "2026-11-11",
       "min_price": 19,
       "max_price": 79.9,
-      "observations": 8
+      "observations": 7
+    },
+    {
+      "date": "2026-11-12",
+      "min_price": 19,
+      "max_price": 79.9,
+      "observations": 7
     }
   ],
   "stats": {
@@ -244,13 +225,13 @@
     "min_ever": 19,
     "min_ever_at": "2026-11-08",
     "max_ever": 79.9,
-    "distinct_days": 4,
+    "distinct_days": 5,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
   },
-  "score": 39
+  "score": 35
 }

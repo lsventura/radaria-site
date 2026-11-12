@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB18569931",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T00:21:19.812Z",
+      "last_observed_at": "2026-11-12T08:02:21.410Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -57,7 +57,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB18569931",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T00:21:19.812Z",
+      "last_observed_at": "2026-11-12T08:02:21.410Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,23 +82,23 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB18569931",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T00:21:19.812Z",
+      "last_observed_at": "2026-11-12T08:02:21.410Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
-      "offer_id": "ml:MLB5266882842",
+      "offer_id": "ml:MLB7078234694",
       "condition": "new",
       "category_slug": "games-15",
-      "trust_tier": "recommended",
+      "trust_tier": "check_seller",
       "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
-        "id": "1970534198",
+        "id": "3393167146",
         "name": null,
-        "reputation": "5_green"
+        "reputation": null
       },
-      "price": 1659.98,
+      "price": 1500,
       "currency": "BRL",
       "store_reference_price": null,
       "official_store": false,
@@ -107,7 +107,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB18569931",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T00:21:19.812Z",
+      "last_observed_at": "2026-11-12T08:02:21.410Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -132,7 +132,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB18569931",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T00:21:19.812Z",
+      "last_observed_at": "2026-11-12T08:02:21.410Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -157,7 +157,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB18569931",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T00:21:19.812Z",
+      "last_observed_at": "2026-11-12T08:02:21.410Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -182,7 +182,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB18569931",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T00:21:19.812Z",
+      "last_observed_at": "2026-11-12T08:02:21.410Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -207,7 +207,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB18569931",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T00:21:19.812Z",
+      "last_observed_at": "2026-11-12T08:02:21.410Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -232,7 +232,32 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB18569931",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T00:21:19.812Z",
+      "last_observed_at": "2026-11-12T08:02:21.410Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6478946922",
+      "condition": "new",
+      "category_slug": "games-15",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2550521339",
+        "name": null,
+        "reputation": null
+      },
+      "price": 1500,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB18569931",
+      "affiliate": false,
+      "last_observed_at": "2026-11-12T08:02:21.410Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -257,7 +282,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB18569931",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T00:21:19.812Z",
+      "last_observed_at": "2026-11-12T08:02:21.410Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -282,7 +307,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB18569931",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T00:21:19.812Z",
+      "last_observed_at": "2026-11-12T08:02:21.410Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -293,25 +318,31 @@
       "date": "2026-11-08",
       "min_price": 900,
       "max_price": 1739,
-      "observations": 33
+      "observations": 34
     },
     {
       "date": "2026-11-09",
       "min_price": 900,
       "max_price": 1739,
-      "observations": 44
+      "observations": 40
     },
     {
       "date": "2026-11-10",
       "min_price": 900,
       "max_price": 1739,
-      "observations": 33
+      "observations": 32
     },
     {
       "date": "2026-11-11",
       "min_price": 900,
       "max_price": 1739,
-      "observations": 11
+      "observations": 12
+    },
+    {
+      "date": "2026-11-12",
+      "min_price": 900,
+      "max_price": 1739,
+      "observations": 12
     }
   ],
   "stats": {
@@ -319,13 +350,13 @@
     "min_ever": 900,
     "min_ever_at": "2026-11-08",
     "max_ever": 1739,
-    "distinct_days": 4,
+    "distinct_days": 5,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
   },
   "score": 47
 }

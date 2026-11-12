@@ -23,7 +23,7 @@
         "name": null,
         "reputation": null
       },
-      "price": 63.81,
+      "price": 63.77,
       "currency": "BRL",
       "store_reference_price": 70.9,
       "official_store": true,
@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB52723545",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T22:39:20.650Z",
+      "last_observed_at": "2026-11-12T06:18:21.209Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -64,6 +64,12 @@
       "observations": 1
     },
     {
+      "date": "2026-11-12",
+      "min_price": 63.77,
+      "max_price": 63.77,
+      "observations": 1
+    },
+    {
       "date": "2026-11-06",
       "min_price": 63.81,
       "max_price": 63.81,
@@ -72,16 +78,16 @@
   ],
   "stats": {
     "median_90d": 63.81,
-    "min_ever": 63.81,
-    "min_ever_at": "2026-11-06",
+    "min_ever": 63.77,
+    "min_ever_at": "2026-11-12",
     "max_ever": 63.81,
-    "distinct_days": 5,
+    "distinct_days": 6,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 0,
-    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
+    "pct_below_median": 0.1,
+    "explanation": "Histórico em formação: 6 de 7 dias distintos na janela de 14."
   },
   "score": 52
 }

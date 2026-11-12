@@ -1,0 +1,143 @@
+{
+  "id": "ml:MLB53609858",
+  "slug": "fonte-carregador-notebook-com-adaptador-universal-mlb53609858",
+  "title": "Fonte Carregador Notebook Com Adaptador Universal",
+  "brand": null,
+  "model": null,
+  "category_slug": "notebooks-20",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_979891-MLA99939227139_112025-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB6189021164",
+      "condition": "new",
+      "category_slug": "notebooks-20",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2133780118",
+        "name": null,
+        "reputation": null
+      },
+      "price": 52.15,
+      "currency": "BRL",
+      "store_reference_price": 54.9,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB53609858",
+      "affiliate": false,
+      "last_observed_at": "2026-11-12T08:41:21.512Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5829919676",
+      "condition": "new",
+      "category_slug": "notebooks-20",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "92034538",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 55,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB53609858",
+      "affiliate": false,
+      "last_observed_at": "2026-11-12T08:41:21.512Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4710053793",
+      "condition": "new",
+      "category_slug": "notebooks-20",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "55076195",
+        "name": null,
+        "reputation": null
+      },
+      "price": 70,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB53609858",
+      "affiliate": false,
+      "last_observed_at": "2026-11-12T08:41:21.512Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 52.15,
+      "max_price": 70,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 52.15,
+      "max_price": 70,
+      "observations": 12
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 52.15,
+      "max_price": 70,
+      "observations": 6
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 55,
+      "max_price": 70,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-12",
+      "min_price": 52.15,
+      "max_price": 70,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 54.9,
+      "max_price": 70,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 52.15,
+    "min_ever": 52.15,
+    "min_ever_at": "2026-11-08",
+    "max_ever": 70,
+    "distinct_days": 6,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 6 de 7 dias distintos na janela de 14."
+  },
+  "score": 39
+}

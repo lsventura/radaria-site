@@ -23,7 +23,7 @@
         "name": null,
         "reputation": null
       },
-      "price": 16.14,
+      "price": 15.23,
       "currency": "BRL",
       "store_reference_price": 17.52,
       "official_store": true,
@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB61981396",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T23:40:18.946Z",
+      "last_observed_at": "2026-11-12T07:18:21.239Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -62,20 +62,26 @@
       "min_price": 16.14,
       "max_price": 16.14,
       "observations": 1
+    },
+    {
+      "date": "2026-11-12",
+      "min_price": 15.23,
+      "max_price": 15.23,
+      "observations": 1
     }
   ],
   "stats": {
     "median_90d": 16.14,
-    "min_ever": 16.14,
-    "min_ever_at": "2026-11-08",
+    "min_ever": 15.23,
+    "min_ever_at": "2026-11-12",
     "max_ever": 16.14,
-    "distinct_days": 4,
+    "distinct_days": 5,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 0,
-    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+    "pct_below_median": 5.6,
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
   },
-  "score": 56
+  "score": 52
 }

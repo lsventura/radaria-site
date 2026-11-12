@@ -23,7 +23,7 @@
         "name": null,
         "reputation": "5_green"
       },
-      "price": 319.86,
+      "price": 315.92,
       "currency": "BRL",
       "store_reference_price": 394.9,
       "official_store": false,
@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB27072564",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T00:17:19.732Z",
+      "last_observed_at": "2026-11-12T07:58:21.421Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -57,7 +57,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB27072564",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T00:17:19.732Z",
+      "last_observed_at": "2026-11-12T07:58:21.421Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,7 +82,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB27072564",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T00:17:19.732Z",
+      "last_observed_at": "2026-11-12T07:58:21.421Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -107,7 +107,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB27072564",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T00:17:19.732Z",
+      "last_observed_at": "2026-11-12T07:58:21.421Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -132,7 +132,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB27072564",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T00:17:19.732Z",
+      "last_observed_at": "2026-11-12T07:58:21.421Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -157,7 +157,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB27072564",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T00:17:19.732Z",
+      "last_observed_at": "2026-11-12T07:58:21.421Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -182,7 +182,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB27072564",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T00:17:19.732Z",
+      "last_observed_at": "2026-11-12T07:58:21.421Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -207,7 +207,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB27072564",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T00:17:19.732Z",
+      "last_observed_at": "2026-11-12T07:58:21.421Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -232,7 +232,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB27072564",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T00:17:19.732Z",
+      "last_observed_at": "2026-11-12T07:58:21.421Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -257,7 +257,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB27072564",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T00:17:19.732Z",
+      "last_observed_at": "2026-11-12T07:58:21.421Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -289,6 +289,12 @@
       "observations": 10
     },
     {
+      "date": "2026-11-12",
+      "min_price": 294,
+      "max_price": 404.25,
+      "observations": 10
+    },
+    {
       "date": "2026-11-07",
       "min_price": 294,
       "max_price": 404.25,
@@ -300,13 +306,13 @@
     "min_ever": 294,
     "min_ever_at": "2026-11-07",
     "max_ever": 404.25,
-    "distinct_days": 5,
+    "distinct_days": 6,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 6 de 7 dias distintos na janela de 14."
   },
   "score": 64
 }

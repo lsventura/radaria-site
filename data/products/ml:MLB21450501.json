@@ -23,41 +23,16 @@
         "name": null,
         "reputation": null
       },
-      "price": 59.75,
+      "price": 65.9,
       "currency": "BRL",
-      "store_reference_price": 65.9,
+      "store_reference_price": null,
       "official_store": true,
       "shipping_price": 0,
       "free_shipping": true,
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB21450501",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T00:23:19.720Z",
-      "payment_context": "channel_marketplace",
-      "payment_method": null
-    },
-    {
-      "offer_id": "ml:MLB3201860140",
-      "condition": "new",
-      "category_slug": "jardim-e-piscina-15",
-      "trust_tier": "check_both",
-      "link_scope": "catalog",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "736313281",
-        "name": null,
-        "reputation": null
-      },
-      "price": 39.9,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "official_store": false,
-      "shipping_price": null,
-      "free_shipping": false,
-      "available": true,
-      "url": "https://www.mercadolivre.com.br/p/MLB21450501",
-      "affiliate": false,
-      "last_observed_at": "2026-11-12T00:23:19.720Z",
+      "last_observed_at": "2026-11-12T08:03:21.616Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,7 +57,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB21450501",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T00:23:19.720Z",
+      "last_observed_at": "2026-11-12T08:03:21.616Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -107,7 +82,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB21450501",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T00:23:19.720Z",
+      "last_observed_at": "2026-11-12T08:03:21.616Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -132,32 +107,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB21450501",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T00:23:19.720Z",
-      "payment_context": "channel_marketplace",
-      "payment_method": null
-    },
-    {
-      "offer_id": "ml:MLB3186120745",
-      "condition": "new",
-      "category_slug": "jardim-e-piscina-15",
-      "trust_tier": "check_both",
-      "link_scope": "catalog",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "736313281",
-        "name": null,
-        "reputation": null
-      },
-      "price": 32.66,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "official_store": false,
-      "shipping_price": null,
-      "free_shipping": false,
-      "available": true,
-      "url": "https://www.mercadolivre.com.br/p/MLB21450501",
-      "affiliate": false,
-      "last_observed_at": "2026-11-12T00:23:19.720Z",
+      "last_observed_at": "2026-11-12T08:03:21.616Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -182,7 +132,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB21450501",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T00:23:19.720Z",
+      "last_observed_at": "2026-11-12T08:03:21.616Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -207,7 +157,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB21450501",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T00:23:19.720Z",
+      "last_observed_at": "2026-11-12T08:03:21.616Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -232,7 +182,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB21450501",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T00:23:19.720Z",
+      "last_observed_at": "2026-11-12T08:03:21.616Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -257,7 +207,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB21450501",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T00:23:19.720Z",
+      "last_observed_at": "2026-11-12T08:03:21.616Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -282,7 +232,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB21450501",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T00:23:19.720Z",
+      "last_observed_at": "2026-11-12T08:03:21.616Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -291,41 +241,47 @@
   "history": [
     {
       "date": "2026-11-08",
-      "min_price": 32.66,
+      "min_price": 35,
       "max_price": 99.9,
-      "observations": 33
+      "observations": 27
     },
     {
       "date": "2026-11-09",
-      "min_price": 32.66,
+      "min_price": 35,
       "max_price": 99.9,
-      "observations": 44
+      "observations": 36
     },
     {
       "date": "2026-11-10",
-      "min_price": 32.66,
+      "min_price": 35,
       "max_price": 99.9,
-      "observations": 33
+      "observations": 27
     },
     {
       "date": "2026-11-11",
-      "min_price": 32.66,
+      "min_price": 35,
       "max_price": 99.9,
-      "observations": 11
+      "observations": 9
+    },
+    {
+      "date": "2026-11-12",
+      "min_price": 35,
+      "max_price": 99.9,
+      "observations": 9
     }
   ],
   "stats": {
-    "median_90d": 32.66,
-    "min_ever": 32.66,
+    "median_90d": 35,
+    "min_ever": 35,
     "min_ever_at": "2026-11-08",
     "max_ever": 99.9,
-    "distinct_days": 4,
+    "distinct_days": 5,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
   },
-  "score": 39
+  "score": 56
 }

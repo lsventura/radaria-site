@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T01:24:45.218Z",
+  "generated_at": "2026-11-12T09:32:21.853Z",
   "timezone": "America/Sao_Paulo",
   "series": [
     {
@@ -81,7 +81,7 @@
       "date": "2026-11-11",
       "version": "v2",
       "stages": {
-        "audited_approved": 4593,
+        "audited_approved": 4613,
         "discovered": 55385,
         "distinct": 53727,
         "published": 1855,
@@ -93,13 +93,38 @@
       "date": "2026-11-11",
       "version": "v3",
       "stages": {
-        "audited_approved": 13765,
-        "discovered": 105380,
-        "distinct": 50802,
+        "audited_approved": 13762,
+        "discovered": 105394,
+        "distinct": 50809,
         "fresh_history_24h": 0,
         "published": 0,
-        "with_affiliate": 9661,
-        "with_photo": 50570
+        "with_affiliate": 9819,
+        "with_photo": 50577
+      }
+    },
+    {
+      "date": "2026-11-12",
+      "version": "v2",
+      "stages": {
+        "audited_approved": 4613,
+        "discovered": 55794,
+        "distinct": 54125,
+        "published": 1855,
+        "with_affiliate": 1860,
+        "with_photo": 54109
+      }
+    },
+    {
+      "date": "2026-11-12",
+      "version": "v3",
+      "stages": {
+        "audited_approved": 13733,
+        "discovered": 107863,
+        "distinct": 50833,
+        "fresh_history_24h": 0,
+        "published": 0,
+        "with_affiliate": 10548,
+        "with_photo": 50598
       }
     }
   ]

@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB73145660",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T23:42:21.121Z",
+      "last_observed_at": "2026-11-12T07:20:22.342Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -57,7 +57,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB73145660",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T23:42:21.121Z",
+      "last_observed_at": "2026-11-12T07:20:22.342Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,7 +82,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB73145660",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T23:42:21.121Z",
+      "last_observed_at": "2026-11-12T07:20:22.342Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -107,7 +107,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB73145660",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T23:42:21.121Z",
+      "last_observed_at": "2026-11-12T07:20:22.342Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -132,7 +132,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB73145660",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T23:42:21.121Z",
+      "last_observed_at": "2026-11-12T07:20:22.342Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -157,7 +157,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB73145660",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T23:42:21.121Z",
+      "last_observed_at": "2026-11-12T07:20:22.342Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -182,7 +182,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB73145660",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T23:42:21.121Z",
+      "last_observed_at": "2026-11-12T07:20:22.342Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -207,7 +207,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB73145660",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T23:42:21.121Z",
+      "last_observed_at": "2026-11-12T07:20:22.342Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -232,7 +232,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB73145660",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T23:42:21.121Z",
+      "last_observed_at": "2026-11-12T07:20:22.342Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -257,7 +257,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB73145660",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T23:42:21.121Z",
+      "last_observed_at": "2026-11-12T07:20:22.342Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -287,20 +287,26 @@
       "min_price": 1099,
       "max_price": 1499.99,
       "observations": 10
+    },
+    {
+      "date": "2026-11-12",
+      "min_price": 1099,
+      "max_price": 1499.99,
+      "observations": 10
     }
   ],
   "stats": {
-    "median_90d": 1094.5,
+    "median_90d": 1099,
     "min_ever": 1090,
     "min_ever_at": "2026-11-08",
     "max_ever": 1499.99,
-    "distinct_days": 4,
+    "distinct_days": 5,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": -0.4,
-    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
   },
-  "score": 47
+  "score": 43
 }

@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB74094993",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T23:10:19.625Z",
+      "last_observed_at": "2026-11-12T06:49:21.322Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -57,32 +57,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB74094993",
       "affiliate": false,
-      "last_observed_at": "2026-11-11T23:10:19.625Z",
-      "payment_context": "channel_marketplace",
-      "payment_method": null
-    },
-    {
-      "offer_id": "ml:MLB5478145841",
-      "condition": "new",
-      "category_slug": "celulares-2",
-      "trust_tier": "recommended",
-      "link_scope": "catalog",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "1710243872",
-        "name": null,
-        "reputation": "5_green"
-      },
-      "price": 2359,
-      "currency": "BRL",
-      "store_reference_price": 2499,
-      "official_store": false,
-      "shipping_price": 0,
-      "free_shipping": true,
-      "available": true,
-      "url": "https://www.mercadolivre.com.br/p/MLB74094993",
-      "affiliate": false,
-      "last_observed_at": "2026-11-11T23:10:19.625Z",
+      "last_observed_at": "2026-11-12T06:49:21.322Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -93,31 +68,37 @@
       "date": "2026-11-08",
       "min_price": 2319.67,
       "max_price": 3797,
-      "observations": 3
+      "observations": 2
     },
     {
       "date": "2026-11-09",
       "min_price": 2319.67,
       "max_price": 3797,
-      "observations": 11
+      "observations": 8
     },
     {
       "date": "2026-11-10",
       "min_price": 2319.67,
       "max_price": 3797,
-      "observations": 9
+      "observations": 6
     },
     {
       "date": "2026-11-11",
       "min_price": 2319.67,
       "max_price": 3797,
-      "observations": 3
+      "observations": 2
+    },
+    {
+      "date": "2026-11-12",
+      "min_price": 2319.67,
+      "max_price": 3797,
+      "observations": 2
     },
     {
       "date": "2026-11-07",
       "min_price": 2319.67,
       "max_price": 3797,
-      "observations": 3
+      "observations": 2
     }
   ],
   "stats": {
@@ -125,13 +106,13 @@
     "min_ever": 2319.67,
     "min_ever_at": "2026-11-07",
     "max_ever": 3797,
-    "distinct_days": 5,
+    "distinct_days": 6,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 6 de 7 dias distintos na janela de 14."
   },
   "score": 43
 }

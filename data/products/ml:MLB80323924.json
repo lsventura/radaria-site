@@ -39,16 +39,16 @@
         "name": null,
         "reputation": null
       },
-      "price": 24.89,
+      "price": 25.66,
       "currency": "BRL",
-      "store_reference_price": 25.66,
+      "store_reference_price": null,
       "official_store": false,
       "shipping_price": null,
       "free_shipping": false,
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB80323924",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T01:22:28.218Z",
+      "last_observed_at": "2026-11-12T08:52:48.016Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -72,20 +72,26 @@
       "min_price": 24.89,
       "max_price": 24.89,
       "observations": 1
+    },
+    {
+      "date": "2026-11-12",
+      "min_price": 25.66,
+      "max_price": 25.66,
+      "observations": 1
     }
   ],
   "stats": {
     "median_90d": 24.89,
     "min_ever": 24.89,
     "min_ever_at": "2026-11-09",
-    "max_ever": 24.89,
-    "distinct_days": 3,
+    "max_ever": 25.66,
+    "distinct_days": 4,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 0,
-    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+    "pct_below_median": -3.1,
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
   },
   "score": 39
 }
