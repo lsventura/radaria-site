@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB57384861",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T08:54:21.312Z",
+      "last_observed_at": "2026-11-12T23:03:15.515Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -40,7 +40,7 @@
       "offer_id": "ml:MLB4712771859",
       "condition": "new",
       "category_slug": "celulares-6",
-      "trust_tier": "check_seller",
+      "trust_tier": "check_both",
       "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
@@ -48,16 +48,16 @@
         "name": null,
         "reputation": null
       },
-      "price": 79.9,
+      "price": 75.1,
       "currency": "BRL",
-      "store_reference_price": null,
+      "store_reference_price": 79.9,
       "official_store": false,
-      "shipping_price": 0,
+      "shipping_price": null,
       "free_shipping": false,
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB57384861",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T08:54:21.312Z",
+      "last_observed_at": "2026-11-12T23:03:15.515Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -92,7 +92,7 @@
       "date": "2026-11-12",
       "min_price": 50,
       "max_price": 79.9,
-      "observations": 3
+      "observations": 4
     }
   ],
   "stats": {

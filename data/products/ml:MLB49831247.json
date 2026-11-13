@@ -32,7 +32,32 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB49831247",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T08:13:22.114Z",
+      "last_observed_at": "2026-11-12T22:38:15.198Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4549875757",
+      "condition": "new",
+      "category_slug": "moda-feminina-4",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "40521234",
+        "name": null,
+        "reputation": null
+      },
+      "price": 219,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB49831247",
+      "affiliate": false,
+      "last_observed_at": "2026-11-12T22:38:15.198Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -57,7 +82,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB49831247",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T08:13:22.114Z",
+      "last_observed_at": "2026-11-12T22:38:15.198Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,7 +107,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB49831247",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T08:13:22.114Z",
+      "last_observed_at": "2026-11-12T22:38:15.198Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -107,7 +132,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB49831247",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T08:13:22.114Z",
+      "last_observed_at": "2026-11-12T22:38:15.198Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -117,20 +142,20 @@
     {
       "date": "2026-11-08",
       "min_price": 125.35,
-      "max_price": 212.43,
-      "observations": 4
+      "max_price": 219,
+      "observations": 5
     },
     {
       "date": "2026-11-09",
       "min_price": 125.35,
-      "max_price": 212.43,
-      "observations": 16
+      "max_price": 219,
+      "observations": 20
     },
     {
       "date": "2026-11-10",
       "min_price": 125.35,
-      "max_price": 212.43,
-      "observations": 12
+      "max_price": 219,
+      "observations": 15
     },
     {
       "date": "2026-11-11",
@@ -141,21 +166,21 @@
     {
       "date": "2026-11-12",
       "min_price": 125.35,
-      "max_price": 212.43,
-      "observations": 4
+      "max_price": 219,
+      "observations": 5
     },
     {
       "date": "2026-11-07",
       "min_price": 125.35,
-      "max_price": 212.43,
-      "observations": 4
+      "max_price": 219,
+      "observations": 5
     }
   ],
   "stats": {
     "median_90d": 125.35,
     "min_ever": 125.35,
     "min_ever_at": "2026-11-07",
-    "max_ever": 212.43,
+    "max_ever": 219,
     "distinct_days": 6,
     "window_days": 14
   },

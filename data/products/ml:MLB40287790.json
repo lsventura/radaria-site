@@ -109,7 +109,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB40287790",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T09:22:37.022Z",
+      "last_observed_at": "2026-11-12T23:47:37.931Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -134,7 +134,32 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB40287790",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T09:22:37.022Z",
+      "last_observed_at": "2026-11-12T23:47:37.931Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4077430923",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "296064033",
+        "name": null,
+        "reputation": null
+      },
+      "price": 6099,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB40287790",
+      "affiliate": false,
+      "last_observed_at": "2026-11-12T23:47:37.931Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -159,7 +184,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB40287790",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T09:22:37.022Z",
+      "last_observed_at": "2026-11-12T23:47:37.931Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -170,25 +195,25 @@
       "date": "2026-11-09",
       "min_price": 5830.92,
       "max_price": 11172,
-      "observations": 63
+      "observations": 84
     },
     {
       "date": "2026-11-10",
       "min_price": 5830.92,
       "max_price": 11172,
-      "observations": 57
+      "observations": 76
     },
     {
       "date": "2026-11-11",
       "min_price": 5830.92,
       "max_price": 11172,
-      "observations": 3
+      "observations": 4
     },
     {
       "date": "2026-11-12",
       "min_price": 5830.92,
       "max_price": 11172,
-      "observations": 3
+      "observations": 4
     }
   ],
   "stats": {

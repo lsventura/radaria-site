@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB56155387",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T07:11:21.441Z",
+      "last_observed_at": "2026-11-12T21:46:03.516Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -57,7 +57,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB56155387",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T07:11:21.441Z",
+      "last_observed_at": "2026-11-12T21:46:03.516Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,7 +82,82 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB56155387",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T07:11:21.441Z",
+      "last_observed_at": "2026-11-12T21:46:03.516Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4573164329",
+      "condition": "new",
+      "category_slug": "jardim-e-piscina-8",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1506934316",
+        "name": null,
+        "reputation": null
+      },
+      "price": 20.1,
+      "currency": "BRL",
+      "store_reference_price": 26.8,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB56155387",
+      "affiliate": false,
+      "last_observed_at": "2026-11-12T21:46:03.516Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4692029909",
+      "condition": "new",
+      "category_slug": "jardim-e-piscina-8",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1506934316",
+        "name": null,
+        "reputation": null
+      },
+      "price": 20.4,
+      "currency": "BRL",
+      "store_reference_price": 27.2,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB56155387",
+      "affiliate": false,
+      "last_observed_at": "2026-11-12T21:46:03.516Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4276132053",
+      "condition": "new",
+      "category_slug": "jardim-e-piscina-8",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1506391700",
+        "name": null,
+        "reputation": null
+      },
+      "price": 19.8,
+      "currency": "BRL",
+      "store_reference_price": 26.4,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB56155387",
+      "affiliate": false,
+      "last_observed_at": "2026-11-12T21:46:03.516Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -107,7 +182,32 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB56155387",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T07:11:21.441Z",
+      "last_observed_at": "2026-11-12T21:46:03.516Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4692030311",
+      "condition": "new",
+      "category_slug": "jardim-e-piscina-8",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1506391700",
+        "name": null,
+        "reputation": null
+      },
+      "price": 20.3,
+      "currency": "BRL",
+      "store_reference_price": 27.07,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB56155387",
+      "affiliate": false,
+      "last_observed_at": "2026-11-12T21:46:03.516Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -118,37 +218,37 @@
       "date": "2026-11-08",
       "min_price": 19,
       "max_price": 26,
-      "observations": 4
+      "observations": 8
     },
     {
       "date": "2026-11-09",
       "min_price": 19,
       "max_price": 26,
-      "observations": 16
+      "observations": 32
     },
     {
       "date": "2026-11-10",
       "min_price": 19,
       "max_price": 26,
-      "observations": 12
+      "observations": 20
     },
     {
       "date": "2026-11-11",
       "min_price": 19,
       "max_price": 26,
-      "observations": 4
+      "observations": 8
     },
     {
       "date": "2026-11-12",
       "min_price": 19,
       "max_price": 26,
-      "observations": 4
+      "observations": 8
     },
     {
       "date": "2026-11-07",
       "min_price": 19,
       "max_price": 26,
-      "observations": 4
+      "observations": 8
     }
   ],
   "stats": {

@@ -32,7 +32,32 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB30681935",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T09:15:22.222Z",
+      "last_observed_at": "2026-11-12T23:27:20.115Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6423524000",
+      "condition": "new",
+      "category_slug": "beleza-12",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3162816339",
+        "name": null,
+        "reputation": null
+      },
+      "price": 297,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB30681935",
+      "affiliate": false,
+      "last_observed_at": "2026-11-12T23:27:20.115Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -57,7 +82,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB30681935",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T09:15:22.222Z",
+      "last_observed_at": "2026-11-12T23:27:20.115Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -68,31 +93,31 @@
       "date": "2026-11-08",
       "min_price": 257.14,
       "max_price": 299,
-      "observations": 18
+      "observations": 27
     },
     {
       "date": "2026-11-09",
       "min_price": 257.14,
       "max_price": 299,
-      "observations": 6
+      "observations": 8
     },
     {
       "date": "2026-11-10",
       "min_price": 257.14,
       "max_price": 299,
-      "observations": 6
+      "observations": 8
     },
     {
       "date": "2026-11-11",
       "min_price": 257.14,
       "max_price": 299,
-      "observations": 2
+      "observations": 3
     },
     {
       "date": "2026-11-12",
       "min_price": 257.14,
       "max_price": 299,
-      "observations": 2
+      "observations": 3
     }
   ],
   "stats": {

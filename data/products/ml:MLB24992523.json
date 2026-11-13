@@ -23,16 +23,16 @@
         "name": null,
         "reputation": null
       },
-      "price": 202.98,
+      "price": 196.89,
       "currency": "BRL",
-      "store_reference_price": null,
+      "store_reference_price": 202.98,
       "official_store": true,
       "shipping_price": null,
       "free_shipping": false,
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB24992523",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T08:40:21.511Z",
+      "last_observed_at": "2026-11-12T22:48:15.322Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -57,7 +57,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB24992523",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T08:40:21.511Z",
+      "last_observed_at": "2026-11-12T22:48:15.322Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,32 +82,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB24992523",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T08:40:21.511Z",
-      "payment_context": "channel_marketplace",
-      "payment_method": null
-    },
-    {
-      "offer_id": "ml:MLB4503550166",
-      "condition": "new",
-      "category_slug": "livros-e-papelaria-17",
-      "trust_tier": "check_shipping",
-      "link_scope": "catalog",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "707841877",
-        "name": null,
-        "reputation": "5_green"
-      },
-      "price": 56.99,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "official_store": false,
-      "shipping_price": null,
-      "free_shipping": false,
-      "available": true,
-      "url": "https://www.mercadolivre.com.br/p/MLB24992523",
-      "affiliate": false,
-      "last_observed_at": "2026-11-12T08:40:21.511Z",
+      "last_observed_at": "2026-11-12T22:48:15.322Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -123,41 +98,16 @@
         "name": null,
         "reputation": null
       },
-      "price": 210.94,
+      "price": 204.61,
       "currency": "BRL",
-      "store_reference_price": null,
+      "store_reference_price": 210.94,
       "official_store": true,
       "shipping_price": null,
       "free_shipping": false,
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB24992523",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T08:40:21.511Z",
-      "payment_context": "channel_marketplace",
-      "payment_method": null
-    },
-    {
-      "offer_id": "ml:MLB5626258128",
-      "condition": "new",
-      "category_slug": "livros-e-papelaria-17",
-      "trust_tier": "check_both",
-      "link_scope": "catalog",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "2284430125",
-        "name": null,
-        "reputation": null
-      },
-      "price": 62.99,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "official_store": false,
-      "shipping_price": null,
-      "free_shipping": false,
-      "available": true,
-      "url": "https://www.mercadolivre.com.br/p/MLB24992523",
-      "affiliate": false,
-      "last_observed_at": "2026-11-12T08:40:21.511Z",
+      "last_observed_at": "2026-11-12T22:48:15.322Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -168,25 +118,25 @@
       "date": "2026-11-08",
       "min_price": 52.99,
       "max_price": 200.39,
-      "observations": 6
+      "observations": 4
     },
     {
       "date": "2026-11-09",
       "min_price": 52.99,
       "max_price": 200.39,
-      "observations": 30
+      "observations": 20
     },
     {
       "date": "2026-11-10",
       "min_price": 52.99,
       "max_price": 200.39,
-      "observations": 12
+      "observations": 8
     },
     {
       "date": "2026-11-11",
       "min_price": 52.99,
       "max_price": 200.39,
-      "observations": 6
+      "observations": 4
     },
     {
       "date": "2026-11-12",
@@ -198,7 +148,7 @@
       "date": "2026-11-06",
       "min_price": 52.99,
       "max_price": 200.39,
-      "observations": 7
+      "observations": 5
     }
   ],
   "stats": {

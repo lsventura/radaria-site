@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB49656044",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T08:44:21.410Z",
+      "last_observed_at": "2026-11-12T23:01:15.248Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -57,32 +57,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB49656044",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T08:44:21.410Z",
-      "payment_context": "channel_marketplace",
-      "payment_method": null
-    },
-    {
-      "offer_id": "ml:MLB4357344951",
-      "condition": "new",
-      "category_slug": "beleza-8",
-      "trust_tier": "check_seller",
-      "link_scope": "catalog",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "408933163",
-        "name": null,
-        "reputation": null
-      },
-      "price": 189,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "official_store": false,
-      "shipping_price": 0,
-      "free_shipping": true,
-      "available": true,
-      "url": "https://www.mercadolivre.com.br/p/MLB49656044",
-      "affiliate": false,
-      "last_observed_at": "2026-11-12T08:44:21.410Z",
+      "last_observed_at": "2026-11-12T23:01:15.248Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -107,7 +82,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB49656044",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T08:44:21.410Z",
+      "last_observed_at": "2026-11-12T23:01:15.248Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -117,39 +92,39 @@
     {
       "date": "2026-11-08",
       "min_price": 112,
-      "max_price": 189,
-      "observations": 4
+      "max_price": 179.8,
+      "observations": 3
     },
     {
       "date": "2026-11-09",
       "min_price": 112,
-      "max_price": 189,
-      "observations": 20
+      "max_price": 179.8,
+      "observations": 15
     },
     {
       "date": "2026-11-10",
       "min_price": 112,
-      "max_price": 189,
-      "observations": 8
+      "max_price": 179.8,
+      "observations": 6
     },
     {
       "date": "2026-11-11",
       "min_price": 112,
-      "max_price": 189,
-      "observations": 4
+      "max_price": 179.8,
+      "observations": 3
     },
     {
       "date": "2026-11-12",
       "min_price": 112,
-      "max_price": 189,
-      "observations": 4
+      "max_price": 179.8,
+      "observations": 3
     }
   ],
   "stats": {
     "median_90d": 112,
     "min_ever": 112,
     "min_ever_at": "2026-11-08",
-    "max_ever": 189,
+    "max_ever": 179.8,
     "distinct_days": 5,
     "window_days": 14
   },

@@ -32,32 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB34079094",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T09:09:21.814Z",
-      "payment_context": "channel_marketplace",
-      "payment_method": null
-    },
-    {
-      "offer_id": "ml:MLB4587539145",
-      "condition": "new",
-      "category_slug": "celulares-3",
-      "trust_tier": "recommended",
-      "link_scope": "catalog",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "2639968981",
-        "name": null,
-        "reputation": "5_green"
-      },
-      "price": 1225,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "official_store": false,
-      "shipping_price": 0,
-      "free_shipping": true,
-      "available": true,
-      "url": "https://www.mercadolivre.com.br/p/MLB34079094",
-      "affiliate": false,
-      "last_observed_at": "2026-11-12T09:09:21.814Z",
+      "last_observed_at": "2026-11-12T23:19:20.121Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,7 +57,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB34079094",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T09:09:21.814Z",
+      "last_observed_at": "2026-11-12T23:19:20.121Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -91,38 +66,38 @@
   "history": [
     {
       "date": "2026-11-08",
-      "min_price": 1225,
+      "min_price": 1399,
       "max_price": 1447,
-      "observations": 12
+      "observations": 8
     },
     {
       "date": "2026-11-09",
-      "min_price": 1225,
+      "min_price": 1399,
       "max_price": 1447,
-      "observations": 9
+      "observations": 6
     },
     {
       "date": "2026-11-10",
-      "min_price": 1225,
+      "min_price": 1399,
       "max_price": 1447,
-      "observations": 9
+      "observations": 6
     },
     {
       "date": "2026-11-11",
-      "min_price": 1225,
+      "min_price": 1399,
       "max_price": 1447,
-      "observations": 3
+      "observations": 2
     },
     {
       "date": "2026-11-12",
-      "min_price": 1225,
+      "min_price": 1399,
       "max_price": 1447,
-      "observations": 3
+      "observations": 2
     }
   ],
   "stats": {
-    "median_90d": 1225,
-    "min_ever": 1225,
+    "median_90d": 1399,
+    "min_ever": 1399,
     "min_ever_at": "2026-11-08",
     "max_ever": 1447,
     "distinct_days": 5,

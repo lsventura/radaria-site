@@ -23,7 +23,7 @@
         "name": null,
         "reputation": "5_green"
       },
-      "price": 2379.9,
+      "price": 2539.9,
       "currency": "BRL",
       "store_reference_price": 3607.75,
       "official_store": false,
@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB61694994",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T09:21:21.362Z",
+      "last_observed_at": "2026-11-12T23:25:19.315Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -57,7 +57,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB61694994",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T09:21:21.362Z",
+      "last_observed_at": "2026-11-12T23:25:19.315Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -73,7 +73,7 @@
         "name": null,
         "reputation": "5_green"
       },
-      "price": 2539.9,
+      "price": 2719.9,
       "currency": "BRL",
       "store_reference_price": 3914.08,
       "official_store": false,
@@ -82,7 +82,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB61694994",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T09:21:21.362Z",
+      "last_observed_at": "2026-11-12T23:25:19.315Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -98,7 +98,7 @@
         "name": null,
         "reputation": null
       },
-      "price": 2329.9,
+      "price": 2369.9,
       "currency": "BRL",
       "store_reference_price": 3807.23,
       "official_store": true,
@@ -107,7 +107,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB61694994",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T09:21:21.362Z",
+      "last_observed_at": "2026-11-12T23:25:19.315Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -141,8 +141,8 @@
     {
       "date": "2026-11-12",
       "min_price": 2133.9,
-      "max_price": 2539.9,
-      "observations": 4
+      "max_price": 2719.9,
+      "observations": 7
     },
     {
       "date": "2026-11-07",
@@ -155,7 +155,7 @@
     "median_90d": 2179.9,
     "min_ever": 2133.9,
     "min_ever_at": "2026-11-11",
-    "max_ever": 2539.9,
+    "max_ever": 2719.9,
     "distinct_days": 6,
     "window_days": 14
   },

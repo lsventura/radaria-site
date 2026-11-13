@@ -1,0 +1,137 @@
+{
+  "id": "ml:MLB24325810",
+  "slug": "bebedouro-comedouro-automatico-500ml-p-aves-distribuipet-12un-mlb24325810",
+  "title": "Bebedouro Comedouro Automático 500ml p/ Aves Distribuipet 12un",
+  "brand": null,
+  "model": null,
+  "category_slug": "pets-14",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_639212-MLA96078306313_102025-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB5079988390",
+      "condition": "new",
+      "category_slug": "pets-14",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "391288269",
+        "name": null,
+        "reputation": null
+      },
+      "price": 78.4,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB24325810",
+      "affiliate": false,
+      "last_observed_at": "2026-11-12T22:30:09.923Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5121592722",
+      "condition": "new",
+      "category_slug": "pets-14",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1660416930",
+        "name": null,
+        "reputation": null
+      },
+      "price": 78.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB24325810",
+      "affiliate": false,
+      "last_observed_at": "2026-11-12T22:30:09.923Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7109841544",
+      "condition": "new",
+      "category_slug": "pets-14",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2945369167",
+        "name": null,
+        "reputation": null
+      },
+      "price": 75,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB24325810",
+      "affiliate": false,
+      "last_observed_at": "2026-11-12T22:30:09.923Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 75,
+      "max_price": 78.9,
+      "observations": 6
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 75,
+      "max_price": 78.9,
+      "observations": 12
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 75,
+      "max_price": 78.9,
+      "observations": 9
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 75,
+      "max_price": 78.9,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-12",
+      "min_price": 75,
+      "max_price": 78.9,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 75,
+    "min_ever": 75,
+    "min_ever_at": "2026-11-08",
+    "max_ever": 78.9,
+    "distinct_days": 5,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
+  },
+  "score": 39
+}

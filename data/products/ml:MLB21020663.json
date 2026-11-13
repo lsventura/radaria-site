@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB21020663",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T07:44:21.310Z",
+      "last_observed_at": "2026-11-12T22:19:08.111Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -48,7 +48,7 @@
         "name": null,
         "reputation": null
       },
-      "price": 830.58,
+      "price": 816.42,
       "currency": "BRL",
       "store_reference_price": null,
       "official_store": true,
@@ -57,7 +57,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB21020663",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T07:44:21.310Z",
+      "last_observed_at": "2026-11-12T22:19:08.111Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -73,7 +73,7 @@
         "name": null,
         "reputation": null
       },
-      "price": 528.6,
+      "price": 526.59,
       "currency": "BRL",
       "store_reference_price": 588.91,
       "official_store": true,
@@ -82,7 +82,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB21020663",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T07:44:21.310Z",
+      "last_observed_at": "2026-11-12T22:19:08.111Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -115,22 +115,22 @@
     },
     {
       "date": "2026-11-12",
-      "min_price": 528.6,
+      "min_price": 526.59,
       "max_price": 830.58,
-      "observations": 3
+      "observations": 5
     }
   ],
   "stats": {
     "median_90d": 528.6,
-    "min_ever": 528.6,
-    "min_ever_at": "2026-11-08",
+    "min_ever": 526.59,
+    "min_ever_at": "2026-11-12",
     "max_ever": 830.58,
     "distinct_days": 5,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 0,
+    "pct_below_median": 0.4,
     "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
   },
   "score": 56

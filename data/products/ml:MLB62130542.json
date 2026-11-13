@@ -23,7 +23,7 @@
         "name": null,
         "reputation": null
       },
-      "price": 168.99,
+      "price": 175.49,
       "currency": "BRL",
       "store_reference_price": 259,
       "official_store": true,
@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB62130542",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T09:26:21.258Z",
+      "last_observed_at": "2026-11-12T22:41:15.025Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -66,8 +66,8 @@
     {
       "date": "2026-11-12",
       "min_price": 168.99,
-      "max_price": 168.99,
-      "observations": 1
+      "max_price": 175.49,
+      "observations": 2
     },
     {
       "date": "2026-11-07",
@@ -86,7 +86,7 @@
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 3.7,
+    "pct_below_median": 0,
     "explanation": "Histórico em formação: 6 de 7 dias distintos na janela de 14."
   },
   "score": 64

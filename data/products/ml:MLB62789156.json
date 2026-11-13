@@ -12,6 +12,31 @@
   "catalog_link": null,
   "offers": [
     {
+      "offer_id": "ml:MLB4440122483",
+      "condition": "new",
+      "category_slug": "eletrodomesticos-19",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "677326175",
+        "name": null,
+        "reputation": null
+      },
+      "price": 599,
+      "currency": "BRL",
+      "store_reference_price": 679,
+      "official_store": true,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB62789156",
+      "affiliate": false,
+      "last_observed_at": "2026-11-12T21:31:02.603Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
       "offer_id": "ml:MLB5221595923",
       "condition": "new",
       "category_slug": "eletrodomesticos-19",
@@ -32,7 +57,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB62789156",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T07:01:22.621Z",
+      "last_observed_at": "2026-11-12T21:31:02.603Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -57,7 +82,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB62789156",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T07:01:22.621Z",
+      "last_observed_at": "2026-11-12T21:31:02.603Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,7 +107,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB62789156",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T07:01:22.621Z",
+      "last_observed_at": "2026-11-12T21:31:02.603Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -107,7 +132,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB62789156",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T07:01:22.621Z",
+      "last_observed_at": "2026-11-12T21:31:02.603Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -132,7 +157,32 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB62789156",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T07:01:22.621Z",
+      "last_observed_at": "2026-11-12T21:31:02.603Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4440122537",
+      "condition": "new",
+      "category_slug": "eletrodomesticos-19",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "677326175",
+        "name": null,
+        "reputation": null
+      },
+      "price": 609,
+      "currency": "BRL",
+      "store_reference_price": 699,
+      "official_store": true,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB62789156",
+      "affiliate": false,
+      "last_observed_at": "2026-11-12T21:31:02.603Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -143,37 +193,37 @@
       "date": "2026-11-08",
       "min_price": 529.99,
       "max_price": 899,
-      "observations": 5
+      "observations": 7
     },
     {
       "date": "2026-11-09",
       "min_price": 529.99,
       "max_price": 899,
-      "observations": 20
+      "observations": 28
     },
     {
       "date": "2026-11-10",
       "min_price": 529.99,
       "max_price": 899,
-      "observations": 12
+      "observations": 16
     },
     {
       "date": "2026-11-11",
-      "min_price": 699.99,
+      "min_price": 599,
       "max_price": 899,
-      "observations": 5
+      "observations": 7
     },
     {
       "date": "2026-11-12",
-      "min_price": 699.99,
+      "min_price": 599,
       "max_price": 899,
-      "observations": 5
+      "observations": 7
     },
     {
       "date": "2026-11-07",
       "min_price": 529.99,
       "max_price": 899,
-      "observations": 5
+      "observations": 8
     }
   ],
   "stats": {
@@ -186,8 +236,8 @@
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": -32.1,
+    "pct_below_median": -13,
     "explanation": "Histórico em formação: 6 de 7 dias distintos na janela de 14."
   },
-  "score": 52
+  "score": 60
 }

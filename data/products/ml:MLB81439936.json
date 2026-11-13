@@ -23,7 +23,7 @@
         "name": null,
         "reputation": "5_green"
       },
-      "price": 1439.48,
+      "price": 1530,
       "currency": "BRL",
       "store_reference_price": 3599,
       "official_store": false,
@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB81439936",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T07:23:21.510Z",
+      "last_observed_at": "2026-11-12T21:56:03.616Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -66,8 +66,8 @@
     {
       "date": "2026-11-12",
       "min_price": 1439.48,
-      "max_price": 1439.48,
-      "observations": 1
+      "max_price": 1530,
+      "observations": 2
     }
   ],
   "stats": {
@@ -80,7 +80,7 @@
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 3,
+    "pct_below_median": -3.1,
     "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
   },
   "score": 60

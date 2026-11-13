@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB58765012",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T09:00:21.617Z",
+      "last_observed_at": "2026-11-12T21:37:03.515Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -57,7 +57,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB58765012",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T09:00:21.617Z",
+      "last_observed_at": "2026-11-12T21:37:03.515Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,7 +82,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB58765012",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T09:00:21.617Z",
+      "last_observed_at": "2026-11-12T21:37:03.515Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -107,7 +107,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB58765012",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T09:00:21.617Z",
+      "last_observed_at": "2026-11-12T21:37:03.515Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -132,7 +132,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB58765012",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T09:00:21.617Z",
+      "last_observed_at": "2026-11-12T21:37:03.515Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -148,16 +148,16 @@
         "name": null,
         "reputation": "5_green"
       },
-      "price": 402.99,
+      "price": 332.79,
       "currency": "BRL",
-      "store_reference_price": null,
+      "store_reference_price": 402.99,
       "official_store": true,
       "shipping_price": 0,
       "free_shipping": true,
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB58765012",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T09:00:21.617Z",
+      "last_observed_at": "2026-11-12T21:37:03.515Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -190,9 +190,9 @@
     },
     {
       "date": "2026-11-12",
-      "min_price": 333.63,
+      "min_price": 332.79,
       "max_price": 402.99,
-      "observations": 6
+      "observations": 7
     }
   ],
   "stats": {
@@ -205,8 +205,8 @@
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 0,
+    "pct_below_median": 0.3,
     "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
   },
-  "score": 64
+  "score": 60
 }

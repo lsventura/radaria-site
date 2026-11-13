@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB53657760",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T08:32:22.111Z",
+      "last_observed_at": "2026-11-12T22:49:16.521Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -48,7 +48,7 @@
         "name": null,
         "reputation": null
       },
-      "price": 74.95,
+      "price": 64.41,
       "currency": "BRL",
       "store_reference_price": 78.9,
       "official_store": true,
@@ -57,7 +57,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB53657760",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T08:32:22.111Z",
+      "last_observed_at": "2026-11-12T22:49:16.521Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,32 +82,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB53657760",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T08:32:22.111Z",
-      "payment_context": "channel_marketplace",
-      "payment_method": null
-    },
-    {
-      "offer_id": "ml:MLB5561578172",
-      "condition": "new",
-      "category_slug": "organizacao-e-limpeza-8",
-      "trust_tier": "check_shipping",
-      "link_scope": "catalog",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "262002608",
-        "name": null,
-        "reputation": null
-      },
-      "price": 73.77,
-      "currency": "BRL",
-      "store_reference_price": 78.9,
-      "official_store": true,
-      "shipping_price": null,
-      "free_shipping": false,
-      "available": true,
-      "url": "https://www.mercadolivre.com.br/p/MLB53657760",
-      "affiliate": false,
-      "last_observed_at": "2026-11-12T08:32:22.111Z",
+      "last_observed_at": "2026-11-12T22:49:16.521Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -132,7 +107,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB53657760",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T08:32:22.111Z",
+      "last_observed_at": "2026-11-12T22:49:16.521Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -157,7 +132,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB53657760",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T08:32:22.111Z",
+      "last_observed_at": "2026-11-12T22:49:16.521Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -168,29 +143,29 @@
       "date": "2026-11-08",
       "min_price": 70,
       "max_price": 160,
-      "observations": 6
+      "observations": 5
     },
     {
       "date": "2026-11-09",
       "min_price": 70,
       "max_price": 160,
-      "observations": 24
+      "observations": 20
     },
     {
       "date": "2026-11-10",
       "min_price": 70,
       "max_price": 160,
-      "observations": 12
+      "observations": 10
     },
     {
       "date": "2026-11-11",
       "min_price": 70,
       "max_price": 160,
-      "observations": 6
+      "observations": 5
     },
     {
       "date": "2026-11-12",
-      "min_price": 70,
+      "min_price": 64.41,
       "max_price": 160,
       "observations": 6
     },
@@ -198,21 +173,21 @@
       "date": "2026-11-06",
       "min_price": 70,
       "max_price": 160,
-      "observations": 7
+      "observations": 6
     }
   ],
   "stats": {
     "median_90d": 70,
-    "min_ever": 70,
-    "min_ever_at": "2026-11-06",
+    "min_ever": 64.41,
+    "min_ever_at": "2026-11-12",
     "max_ever": 160,
     "distinct_days": 6,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 0,
+    "pct_below_median": 8,
     "explanation": "Histórico em formação: 6 de 7 dias distintos na janela de 14."
   },
-  "score": 39
+  "score": 56
 }

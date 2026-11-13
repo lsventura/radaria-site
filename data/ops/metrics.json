@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-12T09:32:21.853Z",
+  "generated_at": "2026-11-13T00:01:07.915Z",
   "schema_version": "radaria-ops/v1",
   "funnel": {
-    "discovered": 107863,
-    "distinct": 50833,
-    "with_photo": 50598,
-    "audited_approved": 13733,
-    "with_affiliate": 10548,
+    "discovered": 107950,
+    "distinct": 50880,
+    "with_photo": 50645,
+    "audited_approved": 13630,
+    "with_affiliate": 11775,
     "published": 0,
     "fresh_history_24h": 0
   },
@@ -25,14 +25,14 @@
     "by_status.pending": "Revisão e qualquer status fora de approved, rejected e source_unavailable, na mesma base. Catálogo só com decisão e sem anúncio não entra."
   },
   "activity_24h": {
-    "telegram_posted": 2,
-    "affiliate_links_generated": 2910
+    "telegram_posted": 0,
+    "affiliate_links_generated": 2348
   },
   "by_status": {
-    "approved": 13742,
+    "approved": 13635,
     "rejected": 0,
-    "source_unavailable": 506,
-    "pending": 3
+    "source_unavailable": 618,
+    "pending": 7
   },
   "status_check": {
     "audited_approved_lte_by_status_approved": true
@@ -41,7 +41,7 @@
     {
       "slug": "geral",
       "name": "Geral",
-      "count": 2702
+      "count": 2749
     },
     {
       "slug": "celulares",
@@ -248,12 +248,12 @@
     {
       "from": "with_photo",
       "to": "audited_approved",
-      "ratio": 0.2714
+      "ratio": 0.2691
     },
     {
       "from": "audited_approved",
       "to": "with_affiliate",
-      "ratio": 0.7681
+      "ratio": 0.8639
     },
     {
       "from": "with_affiliate",
@@ -267,78 +267,90 @@
     }
   ],
   "queues": {
-    "affiliate": 110,
+    "discover": 1,
     "curate": 1,
-    "refresh": 35
+    "affiliate": 335,
+    "refresh": 1825,
+    "audit": 1
   },
   "errors_by_source": [
     {
       "source": "mercadolivre",
       "http_status": 400,
-      "count_24h": 11
+      "count_24h": 5
     },
     {
       "source": "mercadolivre",
       "http_status": 404,
-      "count_24h": 15760
+      "count_24h": 274
     },
     {
       "source": "mercadolivre",
       "http_status": 429,
-      "count_24h": 3
+      "count_24h": 2
+    },
+    {
+      "source": "mercadolivre",
+      "http_status": 503,
+      "count_24h": 2
+    },
+    {
+      "source": "mercadolivre",
+      "http_status": 504,
+      "count_24h": 2
     }
   ],
   "last_success": {
-    "affiliate": "2026-11-12T09:31:22.626Z",
-    "audit": "2026-11-12T09:32:15.667Z",
-    "coupons": "2026-11-12T09:19:07.514Z",
-    "curate": "2026-11-12T09:32:06.967Z",
-    "discover": "2026-11-12T09:31:48.970Z",
-    "export": "2026-11-12T09:13:46.149Z",
+    "affiliate": "2026-11-12T23:59:15.046Z",
+    "audit": "2026-11-12T23:59:54.431Z",
+    "coupons": "2026-11-12T23:55:48.921Z",
+    "curate": "2026-11-13T00:00:55.772Z",
+    "discover": "2026-11-13T00:00:21.743Z",
+    "export": "2026-11-12T23:35:58.718Z",
     "publish-telegram": "2026-11-11T12:15:13.280Z",
-    "refresh": "2026-11-12T09:32:21.839Z"
+    "refresh": "2026-11-13T00:01:07.847Z"
   },
   "last_run": {
     "affiliate": {
-      "at": "2026-11-12T09:33:22.717Z",
+      "at": "2026-11-13T00:01:15.116Z",
       "status": "failed"
     },
     "audit": {
-      "at": "2026-11-12T09:34:01.615Z",
+      "at": "2026-11-13T00:03:02.537Z",
       "status": "success"
     },
     "coupons": {
-      "at": "2026-11-12T09:19:07.514Z",
+      "at": "2026-11-12T23:55:48.921Z",
       "status": "success"
     },
     "curate": {
-      "at": "2026-11-12T09:33:38.534Z",
+      "at": "2026-11-13T00:03:03.117Z",
       "status": "success"
     },
     "discover": {
-      "at": "2026-11-12T09:34:03.335Z",
+      "at": "2026-11-13T00:03:08.573Z",
       "status": "success"
     },
     "export": {
-      "at": "2026-11-12T09:13:46.149Z",
+      "at": "2026-11-12T23:35:58.718Z",
       "status": "success"
     },
     "publish-telegram": {
-      "at": "2026-11-12T09:30:30.675Z",
-      "status": "skipped"
+      "at": "2026-11-12T23:55:31.623Z",
+      "status": "empty"
     },
     "refresh": {
-      "at": "2026-11-12T09:34:07.041Z",
+      "at": "2026-11-13T00:03:08.326Z",
       "status": "success"
     }
   },
   "throughput_per_hour": {
-    "affiliate": 53,
-    "audit": 872,
+    "affiliate": 11,
+    "audit": 820,
     "coupons": 3,
     "curate": 60,
-    "discover": 60,
-    "export": 2,
-    "refresh": 3615
+    "discover": 58,
+    "export": 1,
+    "refresh": 3434
   }
 }

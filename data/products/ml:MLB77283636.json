@@ -1,0 +1,112 @@
+{
+  "id": "ml:MLB77283636",
+  "slug": "suporte-celular-de-mesa-giratorio-360-dobravel-universal-mlb77283636",
+  "title": "Suporte Celular De Mesa Giratório 360º Dobrável Universal",
+  "brand": null,
+  "model": null,
+  "category_slug": "celulares-6",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_794988-MLA116137382747_082026-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB7410937660",
+      "condition": "new",
+      "category_slug": "celulares-6",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "321381131",
+        "name": null,
+        "reputation": null
+      },
+      "price": 39.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB77283636",
+      "affiliate": false,
+      "last_observed_at": "2026-11-12T20:32:46.918Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5101502241",
+      "condition": "new",
+      "category_slug": "celulares-6",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1358539714",
+        "name": null,
+        "reputation": null
+      },
+      "price": 34,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB77283636",
+      "affiliate": false,
+      "last_observed_at": "2026-11-12T20:32:46.918Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 34,
+      "max_price": 39.99,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 34,
+      "max_price": 39.99,
+      "observations": 8
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 34,
+      "max_price": 39.99,
+      "observations": 6
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 34,
+      "max_price": 39.99,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-12",
+      "min_price": 34,
+      "max_price": 39.99,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 34,
+    "min_ever": 34,
+    "min_ever_at": "2026-11-08",
+    "max_ever": 39.99,
+    "distinct_days": 5,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
+  },
+  "score": 35
+}

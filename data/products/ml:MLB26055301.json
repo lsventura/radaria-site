@@ -23,16 +23,16 @@
         "name": null,
         "reputation": null
       },
-      "price": 568.31,
+      "price": 736.89,
       "currency": "BRL",
-      "store_reference_price": 736.89,
+      "store_reference_price": null,
       "official_store": true,
       "shipping_price": null,
       "free_shipping": false,
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB26055301",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T05:48:21.310Z",
+      "last_observed_at": "2026-11-12T20:28:47.938Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -57,7 +57,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB26055301",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T05:48:21.310Z",
+      "last_observed_at": "2026-11-12T20:28:47.938Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -92,7 +92,7 @@
       "date": "2026-11-12",
       "min_price": 568.31,
       "max_price": 736.89,
-      "observations": 2
+      "observations": 3
     },
     {
       "date": "2026-11-07",
@@ -111,7 +111,7 @@
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 0,
+    "pct_below_median": -29.7,
     "explanation": "Histórico em formação: 6 de 7 dias distintos na janela de 14."
   },
   "score": 52

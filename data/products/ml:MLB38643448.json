@@ -32,32 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB38643448",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T08:53:21.950Z",
-      "payment_context": "channel_marketplace",
-      "payment_method": null
-    },
-    {
-      "offer_id": "ml:MLB5847353730",
-      "condition": "new",
-      "category_slug": "casa-e-reforma-5",
-      "trust_tier": "check_seller",
-      "link_scope": "catalog",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "3003808",
-        "name": null,
-        "reputation": null
-      },
-      "price": 1499,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "official_store": false,
-      "shipping_price": 0,
-      "free_shipping": true,
-      "available": true,
-      "url": "https://www.mercadolivre.com.br/p/MLB38643448",
-      "affiliate": false,
-      "last_observed_at": "2026-11-12T08:53:21.950Z",
+      "last_observed_at": "2026-11-12T23:02:15.316Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -67,39 +42,39 @@
     {
       "date": "2026-11-08",
       "min_price": 416.5,
-      "max_price": 1499,
-      "observations": 4
+      "max_price": 416.5,
+      "observations": 2
     },
     {
       "date": "2026-11-09",
       "min_price": 416.5,
-      "max_price": 1499,
-      "observations": 8
+      "max_price": 416.5,
+      "observations": 4
     },
     {
       "date": "2026-11-10",
       "min_price": 416.5,
-      "max_price": 1499,
-      "observations": 4
+      "max_price": 416.5,
+      "observations": 2
     },
     {
       "date": "2026-11-11",
       "min_price": 416.5,
-      "max_price": 1499,
-      "observations": 2
+      "max_price": 416.5,
+      "observations": 1
     },
     {
       "date": "2026-11-12",
       "min_price": 416.5,
-      "max_price": 1499,
-      "observations": 2
+      "max_price": 416.5,
+      "observations": 1
     }
   ],
   "stats": {
     "median_90d": 416.5,
     "min_ever": 416.5,
     "min_ever_at": "2026-11-08",
-    "max_ever": 1499,
+    "max_ever": 416.5,
     "distinct_days": 5,
     "window_days": 14
   },

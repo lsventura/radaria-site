@@ -39,16 +39,16 @@
         "name": null,
         "reputation": null
       },
-      "price": 139.99,
+      "price": 90.99,
       "currency": "BRL",
-      "store_reference_price": null,
+      "store_reference_price": 139.99,
       "official_store": false,
       "shipping_price": 0,
       "free_shipping": true,
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB80159922",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T09:31:56.633Z",
+      "last_observed_at": "2026-11-12T23:57:30.023Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -75,9 +75,9 @@
     },
     {
       "date": "2026-11-12",
-      "min_price": 139.99,
+      "min_price": 90.99,
       "max_price": 139.99,
-      "observations": 1
+      "observations": 2
     }
   ],
   "stats": {
@@ -90,7 +90,7 @@
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": -56.3,
+    "pct_below_median": -1.6,
     "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
   },
   "score": 47

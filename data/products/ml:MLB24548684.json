@@ -32,32 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB24548684",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T09:19:21.235Z",
-      "payment_context": "channel_marketplace",
-      "payment_method": null
-    },
-    {
-      "offer_id": "ml:MLB5123080438",
-      "condition": "new",
-      "category_slug": "instrumentos-musicais-8",
-      "trust_tier": "check_seller",
-      "link_scope": "catalog",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "216452465",
-        "name": null,
-        "reputation": null
-      },
-      "price": 2250,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "official_store": false,
-      "shipping_price": 0,
-      "free_shipping": true,
-      "available": true,
-      "url": "https://www.mercadolivre.com.br/p/MLB24548684",
-      "affiliate": false,
-      "last_observed_at": "2026-11-12T09:19:21.235Z",
+      "last_observed_at": "2026-11-12T23:23:19.710Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -66,44 +41,44 @@
   "history": [
     {
       "date": "2026-11-08",
-      "min_price": 2250,
+      "min_price": 2300,
       "max_price": 2300,
-      "observations": 2
+      "observations": 1
     },
     {
       "date": "2026-11-09",
-      "min_price": 2250,
+      "min_price": 2300,
       "max_price": 2300,
-      "observations": 8
+      "observations": 4
     },
     {
       "date": "2026-11-10",
-      "min_price": 2250,
+      "min_price": 2300,
       "max_price": 2300,
-      "observations": 6
+      "observations": 3
     },
     {
       "date": "2026-11-11",
-      "min_price": 2250,
+      "min_price": 2300,
       "max_price": 2300,
-      "observations": 2
+      "observations": 1
     },
     {
       "date": "2026-11-12",
-      "min_price": 2250,
+      "min_price": 2300,
       "max_price": 2300,
-      "observations": 2
+      "observations": 1
     },
     {
       "date": "2026-11-06",
-      "min_price": 2250,
+      "min_price": 2300,
       "max_price": 2300,
-      "observations": 2
+      "observations": 1
     }
   ],
   "stats": {
-    "median_90d": 2250,
-    "min_ever": 2250,
+    "median_90d": 2300,
+    "min_ever": 2300,
     "min_ever_at": "2026-11-06",
     "max_ever": 2300,
     "distinct_days": 6,

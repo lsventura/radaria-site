@@ -32,32 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB50969758",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T05:46:21.501Z",
-      "payment_context": "channel_marketplace",
-      "payment_method": null
-    },
-    {
-      "offer_id": "ml:MLB7684342740",
-      "condition": "new",
-      "category_slug": "ferramentas-19",
-      "trust_tier": "recommended",
-      "link_scope": "catalog",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "3708053218",
-        "name": null,
-        "reputation": null
-      },
-      "price": 212.42,
-      "currency": "BRL",
-      "store_reference_price": 269.99,
-      "official_store": true,
-      "shipping_price": 0,
-      "free_shipping": true,
-      "available": true,
-      "url": "https://www.mercadolivre.com.br/p/MLB50969758",
-      "affiliate": false,
-      "last_observed_at": "2026-11-12T05:46:21.501Z",
+      "last_observed_at": "2026-11-12T20:18:39.921Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -66,39 +41,39 @@
   "history": [
     {
       "date": "2026-11-08",
-      "min_price": 212.42,
+      "min_price": 217.78,
       "max_price": 217.78,
-      "observations": 2
+      "observations": 1
     },
     {
       "date": "2026-11-09",
       "min_price": 207.09,
       "max_price": 217.99,
-      "observations": 8
+      "observations": 4
     },
     {
       "date": "2026-11-10",
       "min_price": 207.09,
-      "max_price": 212.42,
-      "observations": 6
+      "max_price": 207.09,
+      "observations": 3
     },
     {
       "date": "2026-11-11",
       "min_price": 207.09,
-      "max_price": 212.42,
-      "observations": 2
+      "max_price": 207.09,
+      "observations": 1
     },
     {
       "date": "2026-11-12",
       "min_price": 207.09,
-      "max_price": 212.42,
-      "observations": 2
+      "max_price": 207.09,
+      "observations": 1
     },
     {
       "date": "2026-11-07",
-      "min_price": 212.42,
+      "min_price": 217.78,
       "max_price": 217.78,
-      "observations": 2
+      "observations": 1
     }
   ],
   "stats": {

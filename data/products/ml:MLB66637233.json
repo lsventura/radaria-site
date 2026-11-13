@@ -55,7 +55,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB66637233",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T09:13:00.428Z",
+      "last_observed_at": "2026-11-12T23:37:22.920Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -80,7 +80,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB66637233",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T09:13:00.428Z",
+      "last_observed_at": "2026-11-12T23:37:22.920Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -88,7 +88,7 @@
       "offer_id": "ml:MLB7669981984",
       "condition": "new",
       "category_slug": "geral",
-      "trust_tier": "check_seller",
+      "trust_tier": "check_both",
       "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
@@ -96,16 +96,16 @@
         "name": null,
         "reputation": null
       },
-      "price": 100,
+      "price": 61.71,
       "currency": "BRL",
       "store_reference_price": null,
       "official_store": false,
-      "shipping_price": 0,
-      "free_shipping": true,
+      "shipping_price": null,
+      "free_shipping": false,
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB66637233",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T09:13:00.428Z",
+      "last_observed_at": "2026-11-12T23:37:22.920Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -130,7 +130,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB66637233",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T09:13:00.428Z",
+      "last_observed_at": "2026-11-12T23:37:22.920Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -155,7 +155,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB66637233",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T09:13:00.428Z",
+      "last_observed_at": "2026-11-12T23:37:22.920Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -180,7 +180,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB66637233",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T09:13:00.428Z",
+      "last_observed_at": "2026-11-12T23:37:22.920Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -205,7 +205,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB66637233",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T09:13:00.428Z",
+      "last_observed_at": "2026-11-12T23:37:22.920Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -230,7 +230,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB66637233",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T09:13:00.428Z",
+      "last_observed_at": "2026-11-12T23:37:22.920Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -255,7 +255,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB66637233",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T09:13:00.428Z",
+      "last_observed_at": "2026-11-12T23:37:22.920Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -282,13 +282,13 @@
     },
     {
       "date": "2026-11-12",
-      "min_price": 69.9,
+      "min_price": 61.71,
       "max_price": 130,
-      "observations": 9
+      "observations": 10
     }
   ],
   "stats": {
-    "median_90d": 69.9,
+    "median_90d": 65.81,
     "min_ever": 59.9,
     "min_ever_at": "2026-11-11",
     "max_ever": 130,
@@ -297,8 +297,8 @@
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 0,
+    "pct_below_median": 6.2,
     "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
   },
-  "score": 56
+  "score": 39
 }

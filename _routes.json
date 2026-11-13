@@ -1,6 +1,9 @@
 {
   "version": 1,
-  "description": "Só /_img/* invoca a Pages Function (conta na cota de 100 mil/dia do Workers Free). O resto é estático: grátis e sem limite.",
-  "include": ["/_img/*"],
+  "description": "Somente proxy de imagem e API v1 invocam Pages Functions. O site continua estático; API opt-in via CATALOG_EDGE_ENABLED=1.",
+  "include": [
+    "/_img/*",
+    "/api/v1/*"
+  ],
   "exclude": []
 }

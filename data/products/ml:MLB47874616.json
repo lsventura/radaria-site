@@ -47,7 +47,57 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB47874616",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T08:49:46.019Z",
+      "last_observed_at": "2026-11-12T23:13:32.118Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4499077633",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2424718573",
+        "name": null,
+        "reputation": null
+      },
+      "price": 5000,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB47874616",
+      "affiliate": false,
+      "last_observed_at": "2026-11-12T23:13:32.118Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4499129347",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2424718573",
+        "name": null,
+        "reputation": null
+      },
+      "price": 4999,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB47874616",
+      "affiliate": false,
+      "last_observed_at": "2026-11-12T23:13:32.118Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -75,15 +125,15 @@
     {
       "date": "2026-11-12",
       "min_price": 4265.67,
-      "max_price": 4265.67,
-      "observations": 1
+      "max_price": 5000,
+      "observations": 3
     }
   ],
   "stats": {
     "median_90d": 4265.67,
     "min_ever": 4265.67,
     "min_ever_at": "2026-11-09",
-    "max_ever": 4265.67,
+    "max_ever": 5000,
     "distinct_days": 4,
     "window_days": 14
   },

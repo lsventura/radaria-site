@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB60968045",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T03:04:21.546Z",
+      "last_observed_at": "2026-11-12T21:25:51.418Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -57,7 +57,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB60968045",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T03:04:21.546Z",
+      "last_observed_at": "2026-11-12T21:25:51.418Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -73,7 +73,7 @@
         "name": null,
         "reputation": null
       },
-      "price": 168.8,
+      "price": 162.47,
       "currency": "BRL",
       "store_reference_price": 211,
       "official_store": true,
@@ -82,7 +82,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB60968045",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T03:04:21.546Z",
+      "last_observed_at": "2026-11-12T21:25:51.418Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -107,7 +107,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB60968045",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T03:04:21.546Z",
+      "last_observed_at": "2026-11-12T21:25:51.418Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -132,7 +132,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB60968045",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T03:04:21.546Z",
+      "last_observed_at": "2026-11-12T21:25:51.418Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -157,7 +157,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB60968045",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T03:04:21.546Z",
+      "last_observed_at": "2026-11-12T21:25:51.418Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -190,9 +190,9 @@
     },
     {
       "date": "2026-11-12",
-      "min_price": 168.8,
+      "min_price": 162.47,
       "max_price": 297.45,
-      "observations": 6
+      "observations": 7
     },
     {
       "date": "2026-11-07",
@@ -211,8 +211,8 @@
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": -23.1,
+    "pct_below_median": -18.5,
     "explanation": "Histórico em formação: 6 de 7 dias distintos na janela de 14."
   },
-  "score": 56
+  "score": 60
 }

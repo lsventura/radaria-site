@@ -23,7 +23,7 @@
         "name": null,
         "reputation": null
       },
-      "price": 38.59,
+      "price": 36.99,
       "currency": "BRL",
       "store_reference_price": 100,
       "official_store": false,
@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB81276093",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T09:26:21.258Z",
+      "last_observed_at": "2026-11-12T22:40:15.911Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -65,9 +65,9 @@
     },
     {
       "date": "2026-11-12",
-      "min_price": 38.59,
+      "min_price": 36.99,
       "max_price": 43,
-      "observations": 2
+      "observations": 3
     },
     {
       "date": "2026-11-07",
@@ -78,15 +78,15 @@
   ],
   "stats": {
     "median_90d": 39.5,
-    "min_ever": 38,
-    "min_ever_at": "2026-11-11",
+    "min_ever": 36.99,
+    "min_ever_at": "2026-11-12",
     "max_ever": 43,
     "distinct_days": 6,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 2.3,
+    "pct_below_median": 6.4,
     "explanation": "Histórico em formação: 6 de 7 dias distintos na janela de 14."
   },
   "score": 39

@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB26601085",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T05:52:21.818Z",
+      "last_observed_at": "2026-11-12T20:47:51.118Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -57,7 +57,32 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB26601085",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T05:52:21.818Z",
+      "last_observed_at": "2026-11-12T20:47:51.118Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB3429460937",
+      "condition": "new",
+      "category_slug": "ferramentas-10",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "700791314",
+        "name": null,
+        "reputation": null
+      },
+      "price": 167.64,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB26601085",
+      "affiliate": false,
+      "last_observed_at": "2026-11-12T20:47:51.118Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -85,27 +110,27 @@
     {
       "date": "2026-11-11",
       "min_price": 109.99,
-      "max_price": 115.99,
-      "observations": 2
+      "max_price": 167.64,
+      "observations": 3
     },
     {
       "date": "2026-11-12",
       "min_price": 109.99,
-      "max_price": 115.99,
-      "observations": 2
+      "max_price": 167.64,
+      "observations": 3
     },
     {
       "date": "2026-11-07",
       "min_price": 109.99,
-      "max_price": 119.99,
-      "observations": 2
+      "max_price": 167.64,
+      "observations": 3
     }
   ],
   "stats": {
     "median_90d": 109.99,
     "min_ever": 109.99,
     "min_ever_at": "2026-11-07",
-    "max_ever": 119.99,
+    "max_ever": 167.64,
     "distinct_days": 6,
     "window_days": 14
   },

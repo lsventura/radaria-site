@@ -1,0 +1,87 @@
+{
+  "id": "ml:MLB38525209",
+  "slug": "colchao-espuma-d33-san-diego-solteiro-96x203x29-branco-mlb38525209",
+  "title": "Colchão Espuma D33 San Diego Solteiro 96x203x29 Branco",
+  "brand": null,
+  "model": null,
+  "category_slug": "moveis-12",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_937368-MLA100019410907_122025-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB3788633279",
+      "condition": "new",
+      "category_slug": "moveis-12",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1026459505",
+        "name": null,
+        "reputation": null
+      },
+      "price": 813.73,
+      "currency": "BRL",
+      "store_reference_price": 1033.89,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB38525209",
+      "affiliate": false,
+      "last_observed_at": "2026-11-12T21:10:52.514Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 768.12,
+      "max_price": 768.12,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 768.12,
+      "max_price": 768.12,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 768.12,
+      "max_price": 768.12,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 768.12,
+      "max_price": 768.12,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-12",
+      "min_price": 813.73,
+      "max_price": 813.73,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 768.12,
+    "min_ever": 768.12,
+    "min_ever_at": "2026-11-08",
+    "max_ever": 813.73,
+    "distinct_days": 5,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": -5.9,
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
+  },
+  "score": 52
+}

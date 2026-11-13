@@ -27,12 +27,12 @@
       "currency": "BRL",
       "store_reference_price": 99.89,
       "official_store": true,
-      "shipping_price": null,
+      "shipping_price": 0,
       "free_shipping": true,
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB66404581",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T05:49:21.310Z",
+      "last_observed_at": "2026-11-12T20:49:51.314Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -67,7 +67,7 @@
       "date": "2026-11-12",
       "min_price": 94.89,
       "max_price": 94.89,
-      "observations": 1
+      "observations": 2
     },
     {
       "date": "2026-11-07",
@@ -89,5 +89,5 @@
     "pct_below_median": -32.8,
     "explanation": "Histórico em formação: 6 de 7 dias distintos na janela de 14."
   },
-  "score": 52
+  "score": 60
 }
