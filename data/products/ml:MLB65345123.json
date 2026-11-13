@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB65345123",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T20:38:47.015Z",
+      "last_observed_at": "2026-11-13T17:33:44.014Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -57,7 +57,32 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB65345123",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T20:38:47.015Z",
+      "last_observed_at": "2026-11-13T17:33:44.014Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4465850693",
+      "condition": "new",
+      "category_slug": "beleza-20",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "416656935",
+        "name": null,
+        "reputation": null
+      },
+      "price": 29.41,
+      "currency": "BRL",
+      "store_reference_price": 35.29,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB65345123",
+      "affiliate": false,
+      "last_observed_at": "2026-11-13T17:33:44.014Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,7 +107,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB65345123",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T20:38:47.015Z",
+      "last_observed_at": "2026-11-13T17:33:44.014Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -107,7 +132,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB65345123",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T20:38:47.015Z",
+      "last_observed_at": "2026-11-13T17:33:44.014Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -116,21 +141,21 @@
   "history": [
     {
       "date": "2026-11-08",
-      "min_price": 33.19,
+      "min_price": 29.41,
       "max_price": 66.82,
-      "observations": 4
+      "observations": 5
     },
     {
       "date": "2026-11-09",
-      "min_price": 33.19,
+      "min_price": 29.41,
       "max_price": 66.82,
-      "observations": 16
+      "observations": 20
     },
     {
       "date": "2026-11-10",
-      "min_price": 33.19,
+      "min_price": 29.41,
       "max_price": 66.82,
-      "observations": 10
+      "observations": 13
     },
     {
       "date": "2026-11-11",
@@ -145,24 +170,30 @@
       "observations": 5
     },
     {
-      "date": "2026-11-07",
-      "min_price": 33.19,
+      "date": "2026-11-13",
+      "min_price": 29.41,
       "max_price": 66.82,
-      "observations": 4
+      "observations": 5
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 29.41,
+      "max_price": 66.82,
+      "observations": 5
     }
   ],
   "stats": {
-    "median_90d": 33.19,
-    "min_ever": 32.15,
-    "min_ever_at": "2026-11-12",
+    "median_90d": 29.41,
+    "min_ever": 29.41,
+    "min_ever_at": "2026-11-07",
     "max_ever": 66.82,
-    "distinct_days": 6,
+    "distinct_days": 7,
     "window_days": 14
   },
   "deal": {
-    "label": "insufficient_history",
-    "pct_below_median": 3.1,
-    "explanation": "Histórico em formação: 6 de 7 dias distintos na janela de 14."
+    "label": "none",
+    "pct_below_median": 0,
+    "explanation": "Preço não está abaixo da mediana observada na janela de 14 dias."
   },
-  "score": 35
+  "score": 60
 }

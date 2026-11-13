@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB62332432",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T22:53:15.110Z",
+      "last_observed_at": "2026-11-13T19:05:48.715Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -57,7 +57,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB62332432",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T22:53:15.110Z",
+      "last_observed_at": "2026-11-13T19:05:48.715Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,7 +82,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB62332432",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T22:53:15.110Z",
+      "last_observed_at": "2026-11-13T19:05:48.715Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -107,32 +107,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB62332432",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T22:53:15.110Z",
-      "payment_context": "channel_marketplace",
-      "payment_method": null
-    },
-    {
-      "offer_id": "ml:MLB5000386273",
-      "condition": "new",
-      "category_slug": "casa-inteligente-12",
-      "trust_tier": "check_seller",
-      "link_scope": "catalog",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "3336031699",
-        "name": null,
-        "reputation": null
-      },
-      "price": 89.97,
-      "currency": "BRL",
-      "store_reference_price": 229.93,
-      "official_store": false,
-      "shipping_price": 0,
-      "free_shipping": true,
-      "available": true,
-      "url": "https://www.mercadolivre.com.br/p/MLB62332432",
-      "affiliate": false,
-      "last_observed_at": "2026-11-12T22:53:15.110Z",
+      "last_observed_at": "2026-11-13T19:05:48.715Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -140,7 +115,7 @@
       "offer_id": "ml:MLB7440570764",
       "condition": "new",
       "category_slug": "casa-inteligente-12",
-      "trust_tier": "check_seller",
+      "trust_tier": "check_both",
       "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
@@ -148,16 +123,16 @@
         "name": null,
         "reputation": null
       },
-      "price": 87.1,
+      "price": 57.89,
       "currency": "BRL",
       "store_reference_price": null,
       "official_store": false,
-      "shipping_price": 0,
+      "shipping_price": null,
       "free_shipping": false,
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB62332432",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T22:53:15.110Z",
+      "last_observed_at": "2026-11-13T19:05:48.715Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -167,8 +142,8 @@
     {
       "date": "2026-11-08",
       "min_price": 66.98,
-      "max_price": 83,
-      "observations": 6
+      "max_price": 80.95,
+      "observations": 5
     },
     {
       "date": "2026-11-09",
@@ -191,22 +166,28 @@
     {
       "date": "2026-11-12",
       "min_price": 60.7,
-      "max_price": 89.97,
-      "observations": 8
+      "max_price": 87.1,
+      "observations": 7
+    },
+    {
+      "date": "2026-11-13",
+      "min_price": 57.89,
+      "max_price": 87.1,
+      "observations": 6
     }
   ],
   "stats": {
-    "median_90d": 64.29,
-    "min_ever": 60.7,
-    "min_ever_at": "2026-11-12",
-    "max_ever": 89.97,
-    "distinct_days": 5,
+    "median_90d": 64.19,
+    "min_ever": 57.89,
+    "min_ever_at": "2026-11-13",
+    "max_ever": 87.1,
+    "distinct_days": 6,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 5.6,
-    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
+    "pct_below_median": 9.8,
+    "explanation": "Histórico em formação: 6 de 7 dias distintos na janela de 14."
   },
-  "score": 39
+  "score": 35
 }

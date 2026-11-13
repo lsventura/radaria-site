@@ -23,16 +23,16 @@
         "name": null,
         "reputation": "5_green"
       },
-      "price": 5113.25,
+      "price": 5131.35,
       "currency": "BRL",
-      "store_reference_price": 8168.88,
+      "store_reference_price": 8197.8,
       "official_store": false,
       "shipping_price": 0,
       "free_shipping": true,
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB74147011",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T23:15:17.212Z",
+      "last_observed_at": "2026-11-13T17:20:42.812Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -70,6 +70,12 @@
       "observations": 2
     },
     {
+      "date": "2026-11-13",
+      "min_price": 5113.25,
+      "max_price": 5131.35,
+      "observations": 2
+    },
+    {
       "date": "2026-11-06",
       "min_price": 4995.6,
       "max_price": 4995.6,
@@ -77,17 +83,17 @@
     }
   ],
   "stats": {
-    "median_90d": 5009.18,
+    "median_90d": 5022.75,
     "min_ever": 4995.6,
     "min_ever_at": "2026-11-06",
-    "max_ever": 5113.25,
-    "distinct_days": 6,
+    "max_ever": 5131.35,
+    "distinct_days": 7,
     "window_days": 14
   },
   "deal": {
-    "label": "insufficient_history",
-    "pct_below_median": -2.1,
-    "explanation": "Histórico em formação: 6 de 7 dias distintos na janela de 14."
+    "label": "none",
+    "pct_below_median": -2.2,
+    "explanation": "Preço não está abaixo da mediana observada na janela de 14 dias."
   },
-  "score": 64
+  "score": 68
 }

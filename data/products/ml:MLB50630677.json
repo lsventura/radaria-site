@@ -23,7 +23,7 @@
         "name": null,
         "reputation": null
       },
-      "price": 156.01,
+      "price": 145.4,
       "currency": "BRL",
       "store_reference_price": 269.91,
       "official_store": true,
@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB50630677",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T20:30:46.019Z",
+      "last_observed_at": "2026-11-13T15:50:42.811Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -70,6 +70,12 @@
       "observations": 1
     },
     {
+      "date": "2026-11-13",
+      "min_price": 145.4,
+      "max_price": 156.01,
+      "observations": 2
+    },
+    {
       "date": "2026-11-06",
       "min_price": 156.01,
       "max_price": 156.01,
@@ -78,16 +84,16 @@
   ],
   "stats": {
     "median_90d": 156.01,
-    "min_ever": 156.01,
-    "min_ever_at": "2026-11-06",
+    "min_ever": 145.4,
+    "min_ever_at": "2026-11-13",
     "max_ever": 156.01,
-    "distinct_days": 6,
+    "distinct_days": 7,
     "window_days": 14
   },
   "deal": {
-    "label": "insufficient_history",
-    "pct_below_median": 0,
-    "explanation": "Histórico em formação: 6 de 7 dias distintos na janela de 14."
+    "label": "real",
+    "pct_below_median": 6.8,
+    "explanation": "Preço abaixo da mediana observada dos últimos 14 dias (7 dias com leitura)."
   },
-  "score": 60
+  "score": 78
 }

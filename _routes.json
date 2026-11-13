@@ -1,9 +1,13 @@
 {
   "version": 1,
-  "description": "Somente proxy de imagem e API v1 invocam Pages Functions. O site continua estático; API opt-in via CATALOG_EDGE_ENABLED=1.",
+  "description": "API-first com canonicalização e bloqueio de rotas operacionais também nos assets estáticos.",
   "include": [
-    "/_img/*",
-    "/api/v1/*"
+    "/*"
   ],
-  "exclude": []
+  "exclude": [
+    "/_astro/*",
+    "/brand/*",
+    "/fonts/*",
+    "/favicon.ico"
+  ]
 }

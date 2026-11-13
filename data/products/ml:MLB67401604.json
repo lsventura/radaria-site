@@ -57,7 +57,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB67401604",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T23:38:41.728Z",
+      "last_observed_at": "2026-11-13T22:13:34.716Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,7 +82,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB67401604",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T23:38:41.728Z",
+      "last_observed_at": "2026-11-13T22:13:34.716Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -98,16 +98,16 @@
         "name": null,
         "reputation": "5_green"
       },
-      "price": 409.51,
+      "price": 410.96,
       "currency": "BRL",
-      "store_reference_price": 643.82,
+      "store_reference_price": 646.1,
       "official_store": false,
       "shipping_price": 0,
       "free_shipping": true,
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB67401604",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T23:38:41.728Z",
+      "last_observed_at": "2026-11-13T22:13:34.716Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -132,7 +132,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB67401604",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T23:38:41.728Z",
+      "last_observed_at": "2026-11-13T22:13:34.716Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -162,20 +162,26 @@
       "min_price": 272.9,
       "max_price": 409.51,
       "observations": 5
+    },
+    {
+      "date": "2026-11-13",
+      "min_price": 272.9,
+      "max_price": 410.96,
+      "observations": 5
     }
   ],
   "stats": {
     "median_90d": 281.9,
     "min_ever": 272.9,
     "min_ever_at": "2026-11-12",
-    "max_ever": 409.51,
-    "distinct_days": 4,
+    "max_ever": 410.96,
+    "distinct_days": 5,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 3.2,
-    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
   },
   "score": 56
 }

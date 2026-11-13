@@ -1,0 +1,63 @@
+{
+  "id": "ml:MLB26236761",
+  "slug": "cama-hospitalar-motorizada-2-mov-5-posicoes-mlb26236761",
+  "title": "Cama Hospitalar Motorizada 2 Mov 5 posições",
+  "brand": null,
+  "model": null,
+  "category_slug": "casa-inteligente-17",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_769840-MLU71226946139_082023-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB5052628256",
+      "condition": "new",
+      "category_slug": "casa-inteligente-17",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "188524224",
+        "name": null,
+        "reputation": null
+      },
+      "price": 3590,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB26236761",
+      "affiliate": false,
+      "last_observed_at": "2026-11-13T16:43:44.289Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-13",
+      "min_price": 3590,
+      "max_price": 3590,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 3590,
+    "min_ever": 3590,
+    "min_ever_at": "2026-11-13",
+    "max_ever": 3590,
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 35
+}

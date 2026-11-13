@@ -1,0 +1,132 @@
+{
+  "id": "ml:MLB46638611",
+  "slug": "rastreador-veicular-gps-tp300-chip-m2m-app-cor-preto-mlb46638611",
+  "title": "Rastreador Veicular Gps Tp300 + Chip M2m + App Cor Preto",
+  "brand": "Trackplus",
+  "model": "TP7",
+  "category_slug": "geral",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_955987-MLA113449609716_072026-F.jpg"
+  ],
+  "attributes": {
+    "GTIN": "603161089695",
+    "LINE": "m2m multi operadoras",
+    "BRAND": "Trackplus",
+    "COLOR": "Preto",
+    "DEPTH": "2.7 cm",
+    "MODEL": "TP7",
+    "WIDTH": "3.5 cm",
+    "HEIGHT": "8 cm",
+    "GPS_TYPE": "Automotivo",
+    "WITH_WI_FI": "Não",
+    "CONNECTIVITY": "4G, 2G, WCDMA, GSM, GPRS, GPS",
+    "USING_SYSTEM": "Fixo, Integrado",
+    "VEHICLE_TYPE": "Carro/Caminhonete",
+    "ANTENNA_TYPES": "Interna",
+    "WITH_BLUETOOTH": "Não",
+    "WITH_TRANSDUCER": "Não",
+    "WITH_TOUCHSCREEN": "Não",
+    "ALPHANUMERIC_MODEL": "Rastreador Bloqueador Tracker",
+    "INCLUDES_ACCESSORIES": "Sim"
+  },
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB5056557127",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3550638736",
+        "name": null,
+        "reputation": null
+      },
+      "price": 89.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB46638611",
+      "affiliate": false,
+      "last_observed_at": "2026-11-13T21:57:34.323Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4000219035",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "293624117",
+        "name": null,
+        "reputation": null
+      },
+      "price": 83,
+      "currency": "BRL",
+      "store_reference_price": 90,
+      "official_store": true,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB46638611",
+      "affiliate": false,
+      "last_observed_at": "2026-11-13T21:57:34.323Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-09",
+      "min_price": 83,
+      "max_price": 89.9,
+      "observations": 39
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 83,
+      "max_price": 83,
+      "observations": 20
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 83,
+      "max_price": 83,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-12",
+      "min_price": 83,
+      "max_price": 83,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-13",
+      "min_price": 83,
+      "max_price": 89.9,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 83,
+    "min_ever": 83,
+    "min_ever_at": "2026-11-09",
+    "max_ever": 89.9,
+    "distinct_days": 5,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB24630589",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T15:22:42.812Z",
+      "last_observed_at": "2026-11-13T16:52:43.444Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -57,7 +57,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB24630589",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T15:22:42.812Z",
+      "last_observed_at": "2026-11-13T16:52:43.444Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -73,16 +73,16 @@
         "name": null,
         "reputation": null
       },
-      "price": 59.02,
+      "price": 62.7,
       "currency": "BRL",
-      "store_reference_price": 62.7,
+      "store_reference_price": null,
       "official_store": true,
       "shipping_price": null,
       "free_shipping": false,
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB24630589",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T15:22:42.812Z",
+      "last_observed_at": "2026-11-13T16:52:43.444Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -120,6 +120,12 @@
       "observations": 3
     },
     {
+      "date": "2026-11-13",
+      "min_price": 62.7,
+      "max_price": 78.9,
+      "observations": 3
+    },
+    {
       "date": "2026-11-06",
       "min_price": 59.02,
       "max_price": 76,
@@ -131,13 +137,13 @@
     "min_ever": 59.02,
     "min_ever_at": "2026-11-06",
     "max_ever": 78.9,
-    "distinct_days": 6,
+    "distinct_days": 7,
     "window_days": 14
   },
   "deal": {
-    "label": "insufficient_history",
-    "pct_below_median": 0,
-    "explanation": "Histórico em formação: 6 de 7 dias distintos na janela de 14."
+    "label": "none",
+    "pct_below_median": -6.2,
+    "explanation": "Preço não está abaixo da mediana observada na janela de 14 dias."
   },
-  "score": 48
+  "score": 60
 }

@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB45848665",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T21:33:02.237Z",
+      "last_observed_at": "2026-11-13T16:23:43.422Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -57,32 +57,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB45848665",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T21:33:02.237Z",
-      "payment_context": "channel_marketplace",
-      "payment_method": null
-    },
-    {
-      "offer_id": "ml:MLB4493446997",
-      "condition": "new",
-      "category_slug": "livros-e-papelaria-5",
-      "trust_tier": "check_both",
-      "link_scope": "catalog",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "2690028622",
-        "name": null,
-        "reputation": null
-      },
-      "price": 34.2,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "official_store": false,
-      "shipping_price": null,
-      "free_shipping": false,
-      "available": true,
-      "url": "https://www.mercadolivre.com.br/p/MLB45848665",
-      "affiliate": false,
-      "last_observed_at": "2026-11-12T21:33:02.237Z",
+      "last_observed_at": "2026-11-13T16:23:43.422Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -107,7 +82,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB45848665",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T21:33:02.237Z",
+      "last_observed_at": "2026-11-13T16:23:43.422Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -132,7 +107,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB45848665",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T21:33:02.237Z",
+      "last_observed_at": "2026-11-13T16:23:43.422Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -143,37 +118,43 @@
       "date": "2026-11-08",
       "min_price": 32,
       "max_price": 59.9,
-      "observations": 15
+      "observations": 12
     },
     {
       "date": "2026-11-09",
       "min_price": 32,
       "max_price": 59.9,
-      "observations": 20
+      "observations": 16
     },
     {
       "date": "2026-11-10",
       "min_price": 32,
       "max_price": 59.9,
-      "observations": 15
+      "observations": 12
     },
     {
       "date": "2026-11-11",
       "min_price": 32,
       "max_price": 59.9,
-      "observations": 5
+      "observations": 4
     },
     {
       "date": "2026-11-12",
       "min_price": 32,
       "max_price": 59.9,
-      "observations": 5
+      "observations": 4
+    },
+    {
+      "date": "2026-11-13",
+      "min_price": 32,
+      "max_price": 59.9,
+      "observations": 4
     },
     {
       "date": "2026-11-07",
       "min_price": 32,
       "max_price": 59.9,
-      "observations": 5
+      "observations": 4
     }
   ],
   "stats": {
@@ -181,13 +162,13 @@
     "min_ever": 32,
     "min_ever_at": "2026-11-07",
     "max_ever": 59.9,
-    "distinct_days": 6,
+    "distinct_days": 7,
     "window_days": 14
   },
   "deal": {
-    "label": "insufficient_history",
+    "label": "none",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 6 de 7 dias distintos na janela de 14."
+    "explanation": "Preço não está abaixo da mediana observada na janela de 14 dias."
   },
-  "score": 35
+  "score": 39
 }

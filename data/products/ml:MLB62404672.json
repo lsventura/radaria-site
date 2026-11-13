@@ -1,0 +1,88 @@
+{
+  "id": "ml:MLB62404672",
+  "slug": "secador-de-cabelo-5-em-1-gokoco-gd031-escova-hot-air-styler-cor-ouro-127-mlb62404672",
+  "title": "Secador De Cabelo 5 Em 1 Gokoco Gd031 Escova Hot Air Styler Cor Ouro 127",
+  "brand": null,
+  "model": null,
+  "category_slug": "beleza-1",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_867798-MLA99094958473_112025-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB7985907238",
+      "condition": "new",
+      "category_slug": "beleza-1",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "19108773",
+        "name": null,
+        "reputation": null
+      },
+      "price": 840,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB62404672",
+      "affiliate": false,
+      "last_observed_at": "2026-11-13T17:36:45.052Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6973656952",
+      "condition": "new",
+      "category_slug": "beleza-1",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3291136366",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 459,
+      "currency": "BRL",
+      "store_reference_price": 554.5,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB62404672",
+      "affiliate": false,
+      "last_observed_at": "2026-11-13T17:36:45.052Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-13",
+      "min_price": 459,
+      "max_price": 840,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 459,
+    "min_ever": 459,
+    "min_ever_at": "2026-11-13",
+    "max_ever": 840,
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

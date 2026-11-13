@@ -48,7 +48,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB80323924",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T23:16:54.514Z",
+      "last_observed_at": "2026-11-13T21:51:57.618Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -78,6 +78,12 @@
       "min_price": 25.66,
       "max_price": 25.66,
       "observations": 1
+    },
+    {
+      "date": "2026-11-13",
+      "min_price": 25.66,
+      "max_price": 25.66,
+      "observations": 1
     }
   ],
   "stats": {
@@ -85,13 +91,13 @@
     "min_ever": 24.89,
     "min_ever_at": "2026-11-09",
     "max_ever": 25.66,
-    "distinct_days": 4,
+    "distinct_days": 5,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": -3.1,
-    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
   },
   "score": 39
 }

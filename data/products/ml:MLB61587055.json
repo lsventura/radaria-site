@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB61587055",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T21:07:51.316Z",
+      "last_observed_at": "2026-11-13T18:44:44.113Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -57,7 +57,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB61587055",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T21:07:51.316Z",
+      "last_observed_at": "2026-11-13T18:44:44.113Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,7 +82,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB61587055",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T21:07:51.316Z",
+      "last_observed_at": "2026-11-13T18:44:44.113Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -107,7 +107,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB61587055",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T21:07:51.316Z",
+      "last_observed_at": "2026-11-13T18:44:44.113Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -145,6 +145,12 @@
       "observations": 4
     },
     {
+      "date": "2026-11-13",
+      "min_price": 50,
+      "max_price": 54.44,
+      "observations": 4
+    },
+    {
       "date": "2026-11-07",
       "min_price": 47.5,
       "max_price": 54.44,
@@ -152,17 +158,17 @@
     }
   ],
   "stats": {
-    "median_90d": 48.75,
+    "median_90d": 50,
     "min_ever": 47.5,
     "min_ever_at": "2026-11-07",
     "max_ever": 54.44,
-    "distinct_days": 6,
+    "distinct_days": 7,
     "window_days": 14
   },
   "deal": {
-    "label": "insufficient_history",
-    "pct_below_median": -2.6,
-    "explanation": "Histórico em formação: 6 de 7 dias distintos na janela de 14."
+    "label": "none",
+    "pct_below_median": 0,
+    "explanation": "Preço não está abaixo da mediana observada na janela de 14 dias."
   },
-  "score": 53
+  "score": 61
 }

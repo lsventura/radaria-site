@@ -23,7 +23,7 @@
         "name": null,
         "reputation": null
       },
-      "price": 17.39,
+      "price": 19,
       "currency": "BRL",
       "store_reference_price": 31.66,
       "official_store": true,
@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB69646055",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T21:32:02.718Z",
+      "last_observed_at": "2026-11-13T17:30:43.813Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -70,6 +70,12 @@
       "observations": 2
     },
     {
+      "date": "2026-11-13",
+      "min_price": 19,
+      "max_price": 19,
+      "observations": 1
+    },
+    {
       "date": "2026-11-07",
       "min_price": 19,
       "max_price": 19,
@@ -81,13 +87,13 @@
     "min_ever": 17.39,
     "min_ever_at": "2026-11-12",
     "max_ever": 19,
-    "distinct_days": 6,
+    "distinct_days": 7,
     "window_days": 14
   },
   "deal": {
-    "label": "insufficient_history",
-    "pct_below_median": 8.5,
-    "explanation": "Histórico em formação: 6 de 7 dias distintos na janela de 14."
+    "label": "none",
+    "pct_below_median": 0,
+    "explanation": "Preço não está abaixo da mediana observada na janela de 14 dias."
   },
-  "score": 52
+  "score": 60
 }

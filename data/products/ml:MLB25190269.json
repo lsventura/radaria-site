@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB25190269",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T19:40:39.139Z",
+      "last_observed_at": "2026-11-13T17:22:43.289Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -57,7 +57,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB25190269",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T19:40:39.139Z",
+      "last_observed_at": "2026-11-13T17:22:43.289Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,7 +82,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB25190269",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T19:40:39.139Z",
+      "last_observed_at": "2026-11-13T17:22:43.289Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -107,7 +107,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB25190269",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T19:40:39.139Z",
+      "last_observed_at": "2026-11-13T17:22:43.289Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -145,6 +145,12 @@
       "observations": 6
     },
     {
+      "date": "2026-11-13",
+      "min_price": 58,
+      "max_price": 89.23,
+      "observations": 4
+    },
+    {
       "date": "2026-11-06",
       "min_price": 63.88,
       "max_price": 89.23,
@@ -156,13 +162,13 @@
     "min_ever": 58,
     "min_ever_at": "2026-11-12",
     "max_ever": 89.23,
-    "distinct_days": 6,
+    "distinct_days": 7,
     "window_days": 14
   },
   "deal": {
-    "label": "insufficient_history",
+    "label": "real",
     "pct_below_median": 9.2,
-    "explanation": "Histórico em formação: 6 de 7 dias distintos na janela de 14."
+    "explanation": "Preço abaixo da mediana observada dos últimos 14 dias (7 dias com leitura)."
   },
-  "score": 35
+  "score": 60
 }

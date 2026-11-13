@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB77262367",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T21:57:02.634Z",
+      "last_observed_at": "2026-11-13T18:02:46.921Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -48,7 +48,7 @@
         "name": null,
         "reputation": "5_green"
       },
-      "price": 1225,
+      "price": 1200,
       "currency": "BRL",
       "store_reference_price": 1900,
       "official_store": false,
@@ -57,7 +57,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB77262367",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T21:57:02.634Z",
+      "last_observed_at": "2026-11-13T18:02:46.921Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,7 +82,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB77262367",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T21:57:02.634Z",
+      "last_observed_at": "2026-11-13T18:02:46.921Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -107,7 +107,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB77262367",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T21:57:02.634Z",
+      "last_observed_at": "2026-11-13T18:02:46.921Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -132,7 +132,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB77262367",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T21:57:02.634Z",
+      "last_observed_at": "2026-11-13T18:02:46.921Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -157,7 +157,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB77262367",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T21:57:02.634Z",
+      "last_observed_at": "2026-11-13T18:02:46.921Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -182,7 +182,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB77262367",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T21:57:02.634Z",
+      "last_observed_at": "2026-11-13T18:02:46.921Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -207,7 +207,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB77262367",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T21:57:02.634Z",
+      "last_observed_at": "2026-11-13T18:02:46.921Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -232,7 +232,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB77262367",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T21:57:02.634Z",
+      "last_observed_at": "2026-11-13T18:02:46.921Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -270,6 +270,12 @@
       "observations": 14
     },
     {
+      "date": "2026-11-13",
+      "min_price": 1200,
+      "max_price": 1579.9,
+      "observations": 9
+    },
+    {
       "date": "2026-11-07",
       "min_price": 1249,
       "max_price": 1579.9,
@@ -278,16 +284,16 @@
   ],
   "stats": {
     "median_90d": 1249,
-    "min_ever": 1225,
-    "min_ever_at": "2026-11-12",
+    "min_ever": 1200,
+    "min_ever_at": "2026-11-13",
     "max_ever": 1579.9,
-    "distinct_days": 6,
+    "distinct_days": 7,
     "window_days": 14
   },
   "deal": {
-    "label": "insufficient_history",
-    "pct_below_median": 1.9,
-    "explanation": "Histórico em formação: 6 de 7 dias distintos na janela de 14."
+    "label": "real",
+    "pct_below_median": 3.9,
+    "explanation": "Preço abaixo da mediana observada dos últimos 14 dias (7 dias com leitura)."
   },
-  "score": 60
+  "score": 79
 }

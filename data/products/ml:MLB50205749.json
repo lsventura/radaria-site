@@ -32,32 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB50205749",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T23:20:19.620Z",
-      "payment_context": "channel_marketplace",
-      "payment_method": null
-    },
-    {
-      "offer_id": "ml:MLB6142801992",
-      "condition": "new",
-      "category_slug": "celulares-9",
-      "trust_tier": "check_seller",
-      "link_scope": "catalog",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "419504128",
-        "name": null,
-        "reputation": null
-      },
-      "price": 1599,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "official_store": false,
-      "shipping_price": 0,
-      "free_shipping": true,
-      "available": true,
-      "url": "https://www.mercadolivre.com.br/p/MLB50205749",
-      "affiliate": false,
-      "last_observed_at": "2026-11-12T23:20:19.620Z",
+      "last_observed_at": "2026-11-13T17:25:44.608Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,7 +57,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB50205749",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T23:20:19.620Z",
+      "last_observed_at": "2026-11-13T17:25:44.608Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -107,7 +82,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB50205749",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T23:20:19.620Z",
+      "last_observed_at": "2026-11-13T17:25:44.608Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -132,7 +107,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB50205749",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T23:20:19.620Z",
+      "last_observed_at": "2026-11-13T17:25:44.608Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -141,53 +116,59 @@
   "history": [
     {
       "date": "2026-11-08",
-      "min_price": 1599,
+      "min_price": 1600,
       "max_price": 3000,
-      "observations": 5
+      "observations": 4
     },
     {
       "date": "2026-11-09",
-      "min_price": 1599,
+      "min_price": 1600,
       "max_price": 3000,
-      "observations": 20
+      "observations": 16
     },
     {
       "date": "2026-11-10",
-      "min_price": 1599,
+      "min_price": 1600,
       "max_price": 3000,
-      "observations": 15
+      "observations": 12
     },
     {
       "date": "2026-11-11",
-      "min_price": 1599,
+      "min_price": 1600,
       "max_price": 3000,
-      "observations": 5
+      "observations": 4
     },
     {
       "date": "2026-11-12",
-      "min_price": 1599,
+      "min_price": 1600,
       "max_price": 3000,
-      "observations": 5
+      "observations": 4
+    },
+    {
+      "date": "2026-11-13",
+      "min_price": 1600,
+      "max_price": 3000,
+      "observations": 4
     },
     {
       "date": "2026-11-07",
-      "min_price": 1599,
+      "min_price": 1600,
       "max_price": 3000,
-      "observations": 5
+      "observations": 4
     }
   ],
   "stats": {
-    "median_90d": 1599,
-    "min_ever": 1599,
+    "median_90d": 1600,
+    "min_ever": 1600,
     "min_ever_at": "2026-11-07",
     "max_ever": 3000,
-    "distinct_days": 6,
+    "distinct_days": 7,
     "window_days": 14
   },
   "deal": {
-    "label": "insufficient_history",
+    "label": "none",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 6 de 7 dias distintos na janela de 14."
+    "explanation": "Preço não está abaixo da mediana observada na janela de 14 dias."
   },
-  "score": 47
+  "score": 51
 }

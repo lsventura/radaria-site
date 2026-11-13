@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB53904053",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T22:58:15.027Z",
+      "last_observed_at": "2026-11-13T14:35:30.912Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -48,7 +48,7 @@
         "name": null,
         "reputation": "5_green"
       },
-      "price": 2215.65,
+      "price": 2223.49,
       "currency": "BRL",
       "store_reference_price": null,
       "official_store": false,
@@ -57,7 +57,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB53904053",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T22:58:15.027Z",
+      "last_observed_at": "2026-11-13T14:35:30.912Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,7 +82,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB53904053",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T22:58:15.027Z",
+      "last_observed_at": "2026-11-13T14:35:30.912Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -120,6 +120,12 @@
       "observations": 4
     },
     {
+      "date": "2026-11-13",
+      "min_price": 2215.65,
+      "max_price": 3533.9,
+      "observations": 4
+    },
+    {
       "date": "2026-11-06",
       "min_price": 2156.82,
       "max_price": 3533.9,
@@ -127,17 +133,17 @@
     }
   ],
   "stats": {
-    "median_90d": 2170.55,
+    "median_90d": 2176.43,
     "min_ever": 2156.82,
     "min_ever_at": "2026-11-06",
     "max_ever": 3533.9,
-    "distinct_days": 6,
+    "distinct_days": 7,
     "window_days": 14
   },
   "deal": {
-    "label": "insufficient_history",
-    "pct_below_median": -2.1,
-    "explanation": "Histórico em formação: 6 de 7 dias distintos na janela de 14."
+    "label": "none",
+    "pct_below_median": -2.2,
+    "explanation": "Preço não está abaixo da mediana observada na janela de 14 dias."
   },
   "score": 64
 }

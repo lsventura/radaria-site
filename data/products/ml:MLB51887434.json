@@ -1,0 +1,103 @@
+{
+  "id": "ml:MLB51887434",
+  "slug": "beholder-3-ps5-mlb51887434",
+  "title": "Beholder 3 - Ps5",
+  "brand": null,
+  "model": null,
+  "category_slug": "geral",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_861373-MLA99525904772_122025-F.jpg"
+  ],
+  "attributes": {
+    "GTIN": "850047777140",
+    "FORMAT": "Físico",
+    "GENRES": "Aventura",
+    "REGION": "Global",
+    "IS_ONLINE": "Sim",
+    "COLLECTION": "Beholder",
+    "DEVELOPERS": "Gs2games",
+    "IS_OFFLINE": "Sim",
+    "PUBLISHERS": "gs2 games",
+    "RELEASE_YEAR": "2023",
+    "IS_MULTIPLAYER": "Sim",
+    "VIDEO_GAME_TITLE": "Beholder 3",
+    "VIDEO_GAME_PLATFORM": "Sony",
+    "US_GAME_CLASSIFICATION": "RP"
+  },
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB6455252004",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2559997435",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 259,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB51887434",
+      "affiliate": false,
+      "last_observed_at": "2026-11-13T22:13:50.309Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6455426064",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2559997435",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 229.99,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB51887434",
+      "affiliate": false,
+      "last_observed_at": "2026-11-13T22:13:50.309Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-13",
+      "min_price": 229.99,
+      "max_price": 259,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 229.99,
+    "min_ever": 229.99,
+    "min_ever_at": "2026-11-13",
+    "max_ever": 259,
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 64
+}

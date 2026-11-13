@@ -32,32 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB40234176",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T19:48:27.632Z",
-      "payment_context": "channel_marketplace",
-      "payment_method": null
-    },
-    {
-      "offer_id": "ml:MLB7580156614",
-      "condition": "new",
-      "category_slug": "jardim-e-piscina-19",
-      "trust_tier": "recommended",
-      "link_scope": "catalog",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "2653699753",
-        "name": null,
-        "reputation": "5_green"
-      },
-      "price": 1234.99,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "official_store": false,
-      "shipping_price": 0,
-      "free_shipping": true,
-      "available": true,
-      "url": "https://www.mercadolivre.com.br/p/MLB40234176",
-      "affiliate": false,
-      "last_observed_at": "2026-11-12T19:48:27.632Z",
+      "last_observed_at": "2026-11-13T15:06:33.826Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -67,52 +42,58 @@
     {
       "date": "2026-11-08",
       "min_price": 1229.99,
-      "max_price": 1234.99,
-      "observations": 8
+      "max_price": 1229.99,
+      "observations": 4
     },
     {
       "date": "2026-11-09",
       "min_price": 1229.99,
-      "max_price": 1234.99,
-      "observations": 6
+      "max_price": 1229.99,
+      "observations": 3
     },
     {
       "date": "2026-11-10",
       "min_price": 1229.99,
-      "max_price": 1234.99,
-      "observations": 6
+      "max_price": 1229.99,
+      "observations": 3
     },
     {
       "date": "2026-11-11",
       "min_price": 1229.99,
-      "max_price": 1234.99,
-      "observations": 2
+      "max_price": 1229.99,
+      "observations": 1
     },
     {
       "date": "2026-11-12",
       "min_price": 1229.99,
-      "max_price": 1234.99,
-      "observations": 2
+      "max_price": 1229.99,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-13",
+      "min_price": 1229.99,
+      "max_price": 1229.99,
+      "observations": 1
     },
     {
       "date": "2026-11-07",
       "min_price": 1229.99,
-      "max_price": 1234.99,
-      "observations": 2
+      "max_price": 1229.99,
+      "observations": 1
     }
   ],
   "stats": {
     "median_90d": 1229.99,
     "min_ever": 1229.99,
     "min_ever_at": "2026-11-07",
-    "max_ever": 1234.99,
-    "distinct_days": 6,
+    "max_ever": 1229.99,
+    "distinct_days": 7,
     "window_days": 14
   },
   "deal": {
-    "label": "insufficient_history",
+    "label": "none",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 6 de 7 dias distintos na janela de 14."
+    "explanation": "Preço não está abaixo da mediana observada na janela de 14 dias."
   },
-  "score": 60
+  "score": 64
 }

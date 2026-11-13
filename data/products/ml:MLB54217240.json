@@ -23,7 +23,7 @@
         "name": null,
         "reputation": null
       },
-      "price": 118.8,
+      "price": 132.78,
       "currency": "BRL",
       "store_reference_price": 139.77,
       "official_store": true,
@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB54217240",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T23:19:20.121Z",
+      "last_observed_at": "2026-11-13T15:18:33.822Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -66,7 +66,13 @@
     {
       "date": "2026-11-12",
       "min_price": 118.8,
-      "max_price": 118.8,
+      "max_price": 132.78,
+      "observations": 2
+    },
+    {
+      "date": "2026-11-13",
+      "min_price": 132.78,
+      "max_price": 132.78,
       "observations": 1
     },
     {
@@ -81,13 +87,13 @@
     "min_ever": 118.8,
     "min_ever_at": "2026-11-09",
     "max_ever": 132.78,
-    "distinct_days": 6,
+    "distinct_days": 7,
     "window_days": 14
   },
   "deal": {
-    "label": "insufficient_history",
-    "pct_below_median": 0,
-    "explanation": "Histórico em formação: 6 de 7 dias distintos na janela de 14."
+    "label": "none",
+    "pct_below_median": -11.8,
+    "explanation": "Preço não está abaixo da mediana observada na janela de 14 dias."
   },
   "score": 64
 }

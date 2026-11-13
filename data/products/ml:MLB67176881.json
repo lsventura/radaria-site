@@ -1,0 +1,88 @@
+{
+  "id": "ml:MLB67176881",
+  "slug": "oculos-infantil-de-natacao-xbase-decathlon-azul-marinho-mlb67176881",
+  "title": "Óculos Infantil De Natação Xbase Decathlon Azul-marinho",
+  "brand": null,
+  "model": null,
+  "category_slug": "esportes-9",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_694546-MLA111795440606_062026-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB6773322118",
+      "condition": "new",
+      "category_slug": "esportes-9",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "546392726",
+        "name": null,
+        "reputation": null
+      },
+      "price": 34.03,
+      "currency": "BRL",
+      "store_reference_price": 73.99,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB67176881",
+      "affiliate": false,
+      "last_observed_at": "2026-11-13T18:03:43.110Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4679320531",
+      "condition": "new",
+      "category_slug": "esportes-9",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "546392726",
+        "name": null,
+        "reputation": null
+      },
+      "price": 33.29,
+      "currency": "BRL",
+      "store_reference_price": 73.99,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB67176881",
+      "affiliate": false,
+      "last_observed_at": "2026-11-13T18:03:43.110Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-13",
+      "min_price": 33.29,
+      "max_price": 34.03,
+      "observations": 2
+    }
+  ],
+  "stats": {
+    "median_90d": 33.29,
+    "min_ever": 33.29,
+    "min_ever_at": "2026-11-13",
+    "max_ever": 34.03,
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 52
+}

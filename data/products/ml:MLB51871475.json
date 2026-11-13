@@ -23,16 +23,16 @@
         "name": null,
         "reputation": "5_green"
       },
-      "price": 183.29,
+      "price": 157.92,
       "currency": "BRL",
-      "store_reference_price": null,
+      "store_reference_price": 183.29,
       "official_store": false,
       "shipping_price": 0,
       "free_shipping": true,
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB51871475",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T23:07:19.919Z",
+      "last_observed_at": "2026-11-13T15:09:33.010Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -48,16 +48,16 @@
         "name": null,
         "reputation": "5_green"
       },
-      "price": 195.84,
+      "price": 166.59,
       "currency": "BRL",
-      "store_reference_price": null,
+      "store_reference_price": 195.84,
       "official_store": false,
       "shipping_price": 0,
       "free_shipping": true,
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB51871475",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T23:07:19.919Z",
+      "last_observed_at": "2026-11-13T15:09:33.010Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -95,6 +95,12 @@
       "observations": 2
     },
     {
+      "date": "2026-11-13",
+      "min_price": 157.92,
+      "max_price": 195.84,
+      "observations": 4
+    },
+    {
       "date": "2026-11-07",
       "min_price": 157.92,
       "max_price": 166.59,
@@ -106,13 +112,13 @@
     "min_ever": 157.92,
     "min_ever_at": "2026-11-07",
     "max_ever": 195.84,
-    "distinct_days": 6,
+    "distinct_days": 7,
     "window_days": 14
   },
   "deal": {
-    "label": "insufficient_history",
-    "pct_below_median": -16.1,
-    "explanation": "Histórico em formação: 6 de 7 dias distintos na janela de 14."
+    "label": "none",
+    "pct_below_median": 0,
+    "explanation": "Preço não está abaixo da mediana observada na janela de 14 dias."
   },
   "score": 64
 }

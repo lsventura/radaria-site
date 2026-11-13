@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB67652541",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T21:50:05.938Z",
+      "last_observed_at": "2026-11-13T14:54:31.792Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -57,7 +57,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB67652541",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T21:50:05.938Z",
+      "last_observed_at": "2026-11-13T14:54:31.792Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,7 +82,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB67652541",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T21:50:05.938Z",
+      "last_observed_at": "2026-11-13T14:54:31.792Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -107,7 +107,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB67652541",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T21:50:05.938Z",
+      "last_observed_at": "2026-11-13T14:54:31.792Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -143,20 +143,26 @@
       "min_price": 949,
       "max_price": 2400,
       "observations": 7
+    },
+    {
+      "date": "2026-11-13",
+      "min_price": 949,
+      "max_price": 2400,
+      "observations": 4
     }
   ],
   "stats": {
-    "median_90d": 1099,
+    "median_90d": 1024,
     "min_ever": 949,
     "min_ever_at": "2026-11-11",
     "max_ever": 2400,
-    "distinct_days": 5,
+    "distinct_days": 6,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 13.6,
-    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
+    "pct_below_median": 7.3,
+    "explanation": "Histórico em formação: 6 de 7 dias distintos na janela de 14."
   },
-  "score": 60
+  "score": 56
 }

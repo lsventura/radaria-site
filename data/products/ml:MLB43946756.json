@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB43946756",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T20:41:51.829Z",
+      "last_observed_at": "2026-11-13T15:47:43.012Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -57,7 +57,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB43946756",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T20:41:51.829Z",
+      "last_observed_at": "2026-11-13T15:47:43.012Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,7 +82,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB43946756",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T20:41:51.829Z",
+      "last_observed_at": "2026-11-13T15:47:43.012Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -107,7 +107,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB43946756",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T20:41:51.829Z",
+      "last_observed_at": "2026-11-13T15:47:43.012Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -145,6 +145,12 @@
       "observations": 6
     },
     {
+      "date": "2026-11-13",
+      "min_price": 1624.95,
+      "max_price": 1732.4,
+      "observations": 4
+    },
+    {
       "date": "2026-11-06",
       "min_price": 1608.7,
       "max_price": 1728.95,
@@ -156,13 +162,13 @@
     "min_ever": 1608.7,
     "min_ever_at": "2026-11-06",
     "max_ever": 1732.4,
-    "distinct_days": 6,
+    "distinct_days": 7,
     "window_days": 14
   },
   "deal": {
-    "label": "insufficient_history",
+    "label": "none",
     "pct_below_median": -1,
-    "explanation": "Histórico em formação: 6 de 7 dias distintos na janela de 14."
+    "explanation": "Preço não está abaixo da mediana observada na janela de 14 dias."
   },
-  "score": 60
+  "score": 64
 }

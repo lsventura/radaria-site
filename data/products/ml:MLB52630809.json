@@ -23,16 +23,16 @@
         "name": null,
         "reputation": null
       },
-      "price": 732.95,
+      "price": 876.9,
       "currency": "BRL",
-      "store_reference_price": 832.9,
+      "store_reference_price": null,
       "official_store": true,
       "shipping_price": null,
       "free_shipping": false,
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB52630809",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T19:13:23.325Z",
+      "last_observed_at": "2026-11-13T18:29:43.390Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -68,20 +68,26 @@
       "min_price": 732.95,
       "max_price": 732.95,
       "observations": 1
+    },
+    {
+      "date": "2026-11-13",
+      "min_price": 876.9,
+      "max_price": 876.9,
+      "observations": 1
     }
   ],
   "stats": {
     "median_90d": 710.96,
     "min_ever": 710.96,
     "min_ever_at": "2026-11-08",
-    "max_ever": 732.95,
-    "distinct_days": 5,
+    "max_ever": 876.9,
+    "distinct_days": 6,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": -3.1,
-    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
+    "pct_below_median": -23.3,
+    "explanation": "Histórico em formação: 6 de 7 dias distintos na janela de 14."
   },
   "score": 52
 }

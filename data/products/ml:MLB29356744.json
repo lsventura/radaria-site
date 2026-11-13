@@ -32,32 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB29356744",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T20:48:51.218Z",
-      "payment_context": "channel_marketplace",
-      "payment_method": null
-    },
-    {
-      "offer_id": "ml:MLB5288718911",
-      "condition": "new",
-      "category_slug": "instrumentos-musicais-19",
-      "trust_tier": "recommended",
-      "link_scope": "catalog",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "232221111",
-        "name": null,
-        "reputation": "5_green"
-      },
-      "price": 635,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "official_store": false,
-      "shipping_price": 0,
-      "free_shipping": true,
-      "available": true,
-      "url": "https://www.mercadolivre.com.br/p/MLB29356744",
-      "affiliate": false,
-      "last_observed_at": "2026-11-12T20:48:51.218Z",
+      "last_observed_at": "2026-11-13T15:47:43.012Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,7 +57,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB29356744",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T20:48:51.218Z",
+      "last_observed_at": "2026-11-13T15:47:43.012Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -107,32 +82,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB29356744",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T20:48:51.218Z",
-      "payment_context": "channel_marketplace",
-      "payment_method": null
-    },
-    {
-      "offer_id": "ml:MLB5288782977",
-      "condition": "new",
-      "category_slug": "instrumentos-musicais-19",
-      "trust_tier": "recommended",
-      "link_scope": "catalog",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "232221111",
-        "name": null,
-        "reputation": "5_green"
-      },
-      "price": 662.4,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "official_store": false,
-      "shipping_price": 0,
-      "free_shipping": true,
-      "available": true,
-      "url": "https://www.mercadolivre.com.br/p/MLB29356744",
-      "affiliate": false,
-      "last_observed_at": "2026-11-12T20:48:51.218Z",
+      "last_observed_at": "2026-11-13T15:47:43.012Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -141,53 +91,59 @@
   "history": [
     {
       "date": "2026-11-08",
-      "min_price": 635,
+      "min_price": 686,
       "max_price": 740,
-      "observations": 5
+      "observations": 3
     },
     {
       "date": "2026-11-09",
-      "min_price": 635,
+      "min_price": 686,
       "max_price": 740,
-      "observations": 20
+      "observations": 12
     },
     {
       "date": "2026-11-10",
-      "min_price": 635,
+      "min_price": 686,
       "max_price": 740,
-      "observations": 18
+      "observations": 9
     },
     {
       "date": "2026-11-11",
-      "min_price": 635,
+      "min_price": 686,
       "max_price": 740,
-      "observations": 8
+      "observations": 3
     },
     {
       "date": "2026-11-12",
-      "min_price": 635,
+      "min_price": 686,
       "max_price": 749,
-      "observations": 8
+      "observations": 3
+    },
+    {
+      "date": "2026-11-13",
+      "min_price": 686,
+      "max_price": 749,
+      "observations": 3
     },
     {
       "date": "2026-11-07",
-      "min_price": 635,
+      "min_price": 686,
       "max_price": 740,
-      "observations": 5
+      "observations": 3
     }
   ],
   "stats": {
-    "median_90d": 635,
-    "min_ever": 635,
+    "median_90d": 686,
+    "min_ever": 686,
     "min_ever_at": "2026-11-07",
     "max_ever": 749,
-    "distinct_days": 6,
+    "distinct_days": 7,
     "window_days": 14
   },
   "deal": {
-    "label": "insufficient_history",
+    "label": "none",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 6 de 7 dias distintos na janela de 14."
+    "explanation": "Preço não está abaixo da mediana observada na janela de 14 dias."
   },
-  "score": 60
+  "score": 64
 }

@@ -46,7 +46,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB67506030",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T23:57:23.924Z",
+      "last_observed_at": "2026-11-13T21:40:50.513Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -76,6 +76,12 @@
       "min_price": 53.99,
       "max_price": 53.99,
       "observations": 1
+    },
+    {
+      "date": "2026-11-13",
+      "min_price": 53.99,
+      "max_price": 53.99,
+      "observations": 1
     }
   ],
   "stats": {
@@ -83,13 +89,13 @@
     "min_ever": 53.99,
     "min_ever_at": "2026-11-09",
     "max_ever": 53.99,
-    "distinct_days": 4,
+    "distinct_days": 5,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
   },
   "score": 56
 }

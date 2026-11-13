@@ -32,32 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB15392880",
       "affiliate": false,
-      "last_observed_at": "2026-11-12T15:21:34.920Z",
-      "payment_context": "channel_marketplace",
-      "payment_method": null
-    },
-    {
-      "offer_id": "ml:MLB7895177276",
-      "condition": "new",
-      "category_slug": "casa-inteligente-19",
-      "trust_tier": "check_seller",
-      "link_scope": "catalog",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "451212675",
-        "name": null,
-        "reputation": null
-      },
-      "price": 377,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "official_store": false,
-      "shipping_price": 0,
-      "free_shipping": true,
-      "available": true,
-      "url": "https://www.mercadolivre.com.br/p/MLB15392880",
-      "affiliate": false,
-      "last_observed_at": "2026-11-12T15:21:34.920Z",
+      "last_observed_at": "2026-11-13T16:52:43.444Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -67,46 +42,52 @@
     {
       "date": "2026-11-08",
       "min_price": 340,
-      "max_price": 377,
-      "observations": 6
+      "max_price": 340,
+      "observations": 3
     },
     {
       "date": "2026-11-09",
       "min_price": 340,
-      "max_price": 377,
-      "observations": 8
+      "max_price": 340,
+      "observations": 4
     },
     {
       "date": "2026-11-10",
       "min_price": 340,
-      "max_price": 377,
-      "observations": 6
+      "max_price": 340,
+      "observations": 3
     },
     {
       "date": "2026-11-11",
       "min_price": 340,
-      "max_price": 377,
-      "observations": 2
+      "max_price": 340,
+      "observations": 1
     },
     {
       "date": "2026-11-12",
       "min_price": 340,
-      "max_price": 377,
-      "observations": 2
+      "max_price": 340,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-13",
+      "min_price": 340,
+      "max_price": 340,
+      "observations": 1
     }
   ],
   "stats": {
     "median_90d": 340,
     "min_ever": 340,
     "min_ever_at": "2026-11-08",
-    "max_ever": 377,
-    "distinct_days": 5,
+    "max_ever": 340,
+    "distinct_days": 6,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 6 de 7 dias distintos na janela de 14."
   },
-  "score": 39
+  "score": 43
 }
