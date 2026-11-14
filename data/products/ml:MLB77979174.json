@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB77979174",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T22:15:12.310Z",
+      "last_observed_at": "2026-11-14T09:53:11.263Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -56,6 +56,12 @@
       "min_price": 6967.37,
       "max_price": 6967.37,
       "observations": 1
+    },
+    {
+      "date": "2026-11-14",
+      "min_price": 6967.37,
+      "max_price": 6967.37,
+      "observations": 1
     }
   ],
   "stats": {
@@ -63,13 +69,13 @@
     "min_ever": 6967.37,
     "min_ever_at": "2026-11-11",
     "max_ever": 6967.37,
-    "distinct_days": 3,
+    "distinct_days": 4,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 3 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 4 de 7 dias distintos na janela de 14."
   },
-  "score": 52
+  "score": 56
 }

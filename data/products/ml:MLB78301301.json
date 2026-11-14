@@ -41,7 +41,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB78301301",
       "affiliate": false,
-      "last_observed_at": "2026-11-14T00:21:33.517Z",
+      "last_observed_at": "2026-11-14T09:49:17.221Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -77,20 +77,26 @@
       "min_price": 17.82,
       "max_price": 17.82,
       "observations": 1
+    },
+    {
+      "date": "2026-11-14",
+      "min_price": 17.82,
+      "max_price": 17.82,
+      "observations": 1
     }
   ],
   "stats": {
-    "median_90d": 18.13,
+    "median_90d": 17.98,
     "min_ever": 17.82,
     "min_ever_at": "2026-11-12",
     "max_ever": 18.13,
-    "distinct_days": 5,
+    "distinct_days": 6,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 1.7,
-    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
+    "pct_below_median": 0.9,
+    "explanation": "Histórico em formação: 6 de 7 dias distintos na janela de 14."
   },
-  "score": 52
+  "score": 56
 }

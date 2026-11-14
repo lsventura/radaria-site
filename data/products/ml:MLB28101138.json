@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB28101138",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T23:33:29.114Z",
+      "last_observed_at": "2026-11-14T06:25:11.574Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -57,7 +57,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB28101138",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T23:33:29.114Z",
+      "last_observed_at": "2026-11-14T06:25:11.574Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,7 +82,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB28101138",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T23:33:29.114Z",
+      "last_observed_at": "2026-11-14T06:25:11.574Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -107,7 +107,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB28101138",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T23:33:29.114Z",
+      "last_observed_at": "2026-11-14T06:25:11.574Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -132,7 +132,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB28101138",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T23:33:29.114Z",
+      "last_observed_at": "2026-11-14T06:25:11.574Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -157,7 +157,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB28101138",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T23:33:29.114Z",
+      "last_observed_at": "2026-11-14T06:25:11.574Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -182,7 +182,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB28101138",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T23:33:29.114Z",
+      "last_observed_at": "2026-11-14T06:25:11.574Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -207,7 +207,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB28101138",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T23:33:29.114Z",
+      "last_observed_at": "2026-11-14T06:25:11.574Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -232,7 +232,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB28101138",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T23:33:29.114Z",
+      "last_observed_at": "2026-11-14T06:25:11.574Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -257,7 +257,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB28101138",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T23:33:29.114Z",
+      "last_observed_at": "2026-11-14T06:25:11.574Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -282,7 +282,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB28101138",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T23:33:29.114Z",
+      "last_observed_at": "2026-11-14T06:25:11.574Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -307,7 +307,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB28101138",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T23:33:29.114Z",
+      "last_observed_at": "2026-11-14T06:25:11.574Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -332,7 +332,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB28101138",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T23:33:29.114Z",
+      "last_observed_at": "2026-11-14T06:25:11.574Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -376,6 +376,12 @@
       "observations": 14
     },
     {
+      "date": "2026-11-14",
+      "min_price": 94.89,
+      "max_price": 190,
+      "observations": 13
+    },
+    {
       "date": "2026-11-07",
       "min_price": 98,
       "max_price": 190,
@@ -387,13 +393,13 @@
     "min_ever": 94.89,
     "min_ever_at": "2026-11-11",
     "max_ever": 190,
-    "distinct_days": 7,
+    "distinct_days": 8,
     "window_days": 14
   },
   "deal": {
     "label": "real",
     "pct_below_median": 3.2,
-    "explanation": "Preço abaixo da mediana observada dos últimos 14 dias (7 dias com leitura)."
+    "explanation": "Preço abaixo da mediana observada dos últimos 14 dias (8 dias com leitura)."
   },
   "score": 79
 }

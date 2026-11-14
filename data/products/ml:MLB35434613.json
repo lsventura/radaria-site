@@ -1,63 +1,63 @@
 {
-  "id": "ml:MLB23487432",
-  "slug": "ssd-corsair-mp600-pro-lpx-de-1-tb-nvme-com-dissipador-para-ps5-mlb23487432",
-  "title": "SSD Corsair MP600 PRO LPX de 1 TB NVMe com Dissipador para PS5",
+  "id": "ml:MLB35434613",
+  "slug": "interface-de-audio-teyun-q-24-24-bits-2-canais-com-phantom-power-usb-2-0-mlb35434613",
+  "title": "Interface de Áudio Teyun Q-24 24 Bits 2 Canais com Phantom Power USB 2.0",
   "brand": null,
   "model": null,
-  "category_slug": "games-16",
+  "category_slug": "instrumentos-musicais-8",
   "images": [
-    "https://http2.mlstatic.com/D_NQ_NP_655618-MLA99967096325_112025-F.jpg"
+    "https://http2.mlstatic.com/D_NQ_NP_937230-MLA99992634373_112025-F.jpg"
   ],
   "attributes": {},
   "catalog_link": null,
   "offers": [
     {
-      "offer_id": "ml:MLB5125938359",
+      "offer_id": "ml:MLB3872012117",
       "condition": "new",
-      "category_slug": "games-16",
+      "category_slug": "instrumentos-musicais-8",
       "trust_tier": "recommended",
       "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
-        "id": "3595234463",
+        "id": "1872999092",
         "name": null,
-        "reputation": null
+        "reputation": "5_green"
       },
-      "price": 2470.58,
+      "price": 280,
       "currency": "BRL",
       "store_reference_price": null,
-      "official_store": true,
+      "official_store": false,
       "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://www.mercadolivre.com.br/p/MLB23487432",
+      "url": "https://www.mercadolivre.com.br/p/MLB35434613",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T22:47:12.712Z",
+      "last_observed_at": "2026-11-14T08:12:11.354Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
     {
-      "offer_id": "ml:MLB7501619740",
+      "offer_id": "ml:MLB5017973214",
       "condition": "new",
-      "category_slug": "games-16",
+      "category_slug": "instrumentos-musicais-8",
       "trust_tier": "recommended",
       "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
-        "id": "3595234463",
+        "id": "1889181496",
         "name": null,
         "reputation": null
       },
-      "price": 2470.58,
+      "price": 289.8,
       "currency": "BRL",
-      "store_reference_price": null,
+      "store_reference_price": 460,
       "official_store": true,
       "shipping_price": 0,
       "free_shipping": true,
       "available": true,
-      "url": "https://www.mercadolivre.com.br/p/MLB23487432",
+      "url": "https://www.mercadolivre.com.br/p/MLB35434613",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T22:47:12.712Z",
+      "last_observed_at": "2026-11-14T08:12:11.354Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -66,53 +66,53 @@
   "history": [
     {
       "date": "2026-11-08",
-      "min_price": 2470.58,
-      "max_price": 2470.58,
+      "min_price": 266,
+      "max_price": 289.8,
       "observations": 4
     },
     {
       "date": "2026-11-09",
-      "min_price": 2470.58,
-      "max_price": 2470.58,
+      "min_price": 266,
+      "max_price": 289.8,
       "observations": 8
     },
     {
       "date": "2026-11-10",
-      "min_price": 2470.58,
-      "max_price": 2470.58,
+      "min_price": 266,
+      "max_price": 289.8,
       "observations": 6
     },
     {
       "date": "2026-11-11",
-      "min_price": 2470.58,
-      "max_price": 2470.58,
+      "min_price": 289.8,
+      "max_price": 289.8,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-14",
+      "min_price": 280,
+      "max_price": 289.8,
       "observations": 2
     },
     {
-      "date": "2026-11-12",
-      "min_price": 2470.58,
-      "max_price": 2470.58,
-      "observations": 2
-    },
-    {
-      "date": "2026-11-13",
-      "min_price": 2470.58,
-      "max_price": 2470.58,
+      "date": "2026-11-07",
+      "min_price": 266,
+      "max_price": 289.8,
       "observations": 2
     }
   ],
   "stats": {
-    "median_90d": 2470.58,
-    "min_ever": 2470.58,
-    "min_ever_at": "2026-11-08",
-    "max_ever": 2470.58,
+    "median_90d": 266,
+    "min_ever": 266,
+    "min_ever_at": "2026-11-07",
+    "max_ever": 289.8,
     "distinct_days": 6,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 0,
+    "pct_below_median": -5.3,
     "explanation": "Histórico em formação: 6 de 7 dias distintos na janela de 14."
   },
-  "score": 60
+  "score": 64
 }

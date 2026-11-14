@@ -130,7 +130,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB19615334",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T23:48:32.355Z",
+      "last_observed_at": "2026-11-14T09:26:32.519Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -155,7 +155,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB19615334",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T23:48:32.355Z",
+      "last_observed_at": "2026-11-14T09:26:32.519Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -180,7 +180,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB19615334",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T23:48:32.355Z",
+      "last_observed_at": "2026-11-14T09:26:32.519Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -205,7 +205,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB19615334",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T23:48:32.355Z",
+      "last_observed_at": "2026-11-14T09:26:32.519Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -241,20 +241,26 @@
       "min_price": 2900,
       "max_price": 5700,
       "observations": 4
+    },
+    {
+      "date": "2026-11-14",
+      "min_price": 2900,
+      "max_price": 5700,
+      "observations": 4
     }
   ],
   "stats": {
-    "median_90d": 3290,
+    "median_90d": 3095,
     "min_ever": 2900,
     "min_ever_at": "2026-11-10",
     "max_ever": 5700,
-    "distinct_days": 5,
+    "distinct_days": 6,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 11.9,
-    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
+    "pct_below_median": 6.3,
+    "explanation": "Histórico em formação: 6 de 7 dias distintos na janela de 14."
   },
-  "score": 43
+  "score": 47
 }

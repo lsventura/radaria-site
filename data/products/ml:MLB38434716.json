@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB38434716",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T23:48:32.355Z",
+      "last_observed_at": "2026-11-14T07:29:11.208Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -57,7 +57,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB38434716",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T23:48:32.355Z",
+      "last_observed_at": "2026-11-14T07:29:11.208Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,7 +82,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB38434716",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T23:48:32.355Z",
+      "last_observed_at": "2026-11-14T07:29:11.208Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -107,7 +107,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB38434716",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T23:48:32.355Z",
+      "last_observed_at": "2026-11-14T07:29:11.208Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -151,6 +151,12 @@
       "observations": 4
     },
     {
+      "date": "2026-11-14",
+      "min_price": 28368.2,
+      "max_price": 41999,
+      "observations": 4
+    },
+    {
       "date": "2026-11-07",
       "min_price": 32420.8,
       "max_price": 41999,
@@ -158,17 +164,17 @@
     }
   ],
   "stats": {
-    "median_90d": 32420.8,
+    "median_90d": 30394.5,
     "min_ever": 27599.99,
     "min_ever_at": "2026-11-11",
     "max_ever": 41999,
-    "distinct_days": 7,
+    "distinct_days": 8,
     "window_days": 14
   },
   "deal": {
     "label": "real",
-    "pct_below_median": 12.5,
-    "explanation": "Preço abaixo da mediana observada dos últimos 14 dias (7 dias com leitura)."
+    "pct_below_median": 6.7,
+    "explanation": "Preço abaixo da mediana observada dos últimos 14 dias (8 dias com leitura)."
   },
-  "score": 88
+  "score": 82
 }

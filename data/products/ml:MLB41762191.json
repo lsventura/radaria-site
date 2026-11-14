@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB41762191",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T22:54:13.509Z",
+      "last_observed_at": "2026-11-14T06:58:11.067Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -76,6 +76,12 @@
       "observations": 1
     },
     {
+      "date": "2026-11-14",
+      "min_price": 64.69,
+      "max_price": 64.69,
+      "observations": 1
+    },
+    {
       "date": "2026-11-07",
       "min_price": 64.69,
       "max_price": 64.69,
@@ -87,7 +93,7 @@
     "min_ever": 64.69,
     "min_ever_at": "2026-11-07",
     "max_ever": 64.69,
-    "distinct_days": 7,
+    "distinct_days": 8,
     "window_days": 14
   },
   "deal": {

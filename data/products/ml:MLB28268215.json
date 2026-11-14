@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB28268215",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T22:28:13.308Z",
+      "last_observed_at": "2026-11-14T07:36:11.366Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -57,7 +57,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB28268215",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T22:28:13.308Z",
+      "last_observed_at": "2026-11-14T07:36:11.366Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,7 +82,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB28268215",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T22:28:13.308Z",
+      "last_observed_at": "2026-11-14T07:36:11.366Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -107,7 +107,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB28268215",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T22:28:13.308Z",
+      "last_observed_at": "2026-11-14T07:36:11.366Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -151,6 +151,12 @@
       "observations": 5
     },
     {
+      "date": "2026-11-14",
+      "min_price": 249.71,
+      "max_price": 319,
+      "observations": 4
+    },
+    {
       "date": "2026-11-06",
       "min_price": 243.1,
       "max_price": 319,
@@ -158,16 +164,16 @@
     }
   ],
   "stats": {
-    "median_90d": 244.42,
+    "median_90d": 245.3,
     "min_ever": 243.1,
     "min_ever_at": "2026-11-06",
     "max_ever": 319,
-    "distinct_days": 7,
+    "distinct_days": 8,
     "window_days": 14
   },
   "deal": {
     "label": "none",
-    "pct_below_median": -2.2,
+    "pct_below_median": -1.8,
     "explanation": "Preço não está abaixo da mediana observada na janela de 14 dias."
   },
   "score": 68

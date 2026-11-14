@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB23425860",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T21:15:12.912Z",
+      "last_observed_at": "2026-11-14T06:34:11.174Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -57,7 +57,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB23425860",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T21:15:12.912Z",
+      "last_observed_at": "2026-11-14T06:34:11.174Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,7 +82,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB23425860",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T21:15:12.912Z",
+      "last_observed_at": "2026-11-14T06:34:11.174Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -107,7 +107,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB23425860",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T21:15:12.912Z",
+      "last_observed_at": "2026-11-14T06:34:11.174Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -151,6 +151,12 @@
       "observations": 6
     },
     {
+      "date": "2026-11-14",
+      "min_price": 602.49,
+      "max_price": 799,
+      "observations": 4
+    },
+    {
       "date": "2026-11-06",
       "min_price": 709.78,
       "max_price": 799,
@@ -158,17 +164,17 @@
     }
   ],
   "stats": {
-    "median_90d": 672.77,
+    "median_90d": 672.57,
     "min_ever": 602.49,
     "min_ever_at": "2026-11-13",
     "max_ever": 799,
-    "distinct_days": 7,
+    "distinct_days": 8,
     "window_days": 14
   },
   "deal": {
     "label": "real",
     "pct_below_median": 10.4,
-    "explanation": "Preço abaixo da mediana observada dos últimos 14 dias (7 dias com leitura)."
+    "explanation": "Preço abaixo da mediana observada dos últimos 14 dias (8 dias com leitura)."
   },
   "score": 86
 }

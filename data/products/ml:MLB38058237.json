@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB38058237",
       "affiliate": false,
-      "last_observed_at": "2026-11-14T00:01:32.453Z",
+      "last_observed_at": "2026-11-14T08:29:11.452Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -57,7 +57,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB38058237",
       "affiliate": false,
-      "last_observed_at": "2026-11-14T00:01:32.453Z",
+      "last_observed_at": "2026-11-14T08:29:11.452Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,7 +82,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB38058237",
       "affiliate": false,
-      "last_observed_at": "2026-11-14T00:01:32.453Z",
+      "last_observed_at": "2026-11-14T08:29:11.452Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -107,7 +107,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB38058237",
       "affiliate": false,
-      "last_observed_at": "2026-11-14T00:01:32.453Z",
+      "last_observed_at": "2026-11-14T08:29:11.452Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -132,7 +132,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB38058237",
       "affiliate": false,
-      "last_observed_at": "2026-11-14T00:01:32.453Z",
+      "last_observed_at": "2026-11-14T08:29:11.452Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -157,7 +157,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB38058237",
       "affiliate": false,
-      "last_observed_at": "2026-11-14T00:01:32.453Z",
+      "last_observed_at": "2026-11-14T08:29:11.452Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -182,7 +182,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB38058237",
       "affiliate": false,
-      "last_observed_at": "2026-11-14T00:01:32.453Z",
+      "last_observed_at": "2026-11-14T08:29:11.452Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -207,7 +207,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB38058237",
       "affiliate": false,
-      "last_observed_at": "2026-11-14T00:01:32.453Z",
+      "last_observed_at": "2026-11-14T08:29:11.452Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -232,7 +232,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB38058237",
       "affiliate": false,
-      "last_observed_at": "2026-11-14T00:01:32.453Z",
+      "last_observed_at": "2026-11-14T08:29:11.452Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -257,7 +257,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB38058237",
       "affiliate": false,
-      "last_observed_at": "2026-11-14T00:01:32.453Z",
+      "last_observed_at": "2026-11-14T08:29:11.452Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -301,6 +301,12 @@
       "observations": 10
     },
     {
+      "date": "2026-11-14",
+      "min_price": 15.84,
+      "max_price": 189.88,
+      "observations": 10
+    },
+    {
       "date": "2026-11-07",
       "min_price": 16.86,
       "max_price": 202,
@@ -308,17 +314,17 @@
     }
   ],
   "stats": {
-    "median_90d": 16.86,
+    "median_90d": 16.44,
     "min_ever": 15.84,
     "min_ever_at": "2026-11-12",
     "max_ever": 202,
-    "distinct_days": 7,
+    "distinct_days": 8,
     "window_days": 14
   },
   "deal": {
     "label": "real",
-    "pct_below_median": 6,
-    "explanation": "Preço abaixo da mediana observada dos últimos 14 dias (7 dias com leitura)."
+    "pct_below_median": 3.6,
+    "explanation": "Preço abaixo da mediana observada dos últimos 14 dias (8 dias com leitura)."
   },
-  "score": 74
+  "score": 75
 }

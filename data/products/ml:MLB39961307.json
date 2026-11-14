@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB39961307",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T22:49:12.413Z",
+      "last_observed_at": "2026-11-14T10:02:11.761Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -57,7 +57,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB39961307",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T22:49:12.413Z",
+      "last_observed_at": "2026-11-14T10:02:11.761Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,7 +82,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB39961307",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T22:49:12.413Z",
+      "last_observed_at": "2026-11-14T10:02:11.761Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -107,7 +107,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB39961307",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T22:49:12.413Z",
+      "last_observed_at": "2026-11-14T10:02:11.761Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -132,7 +132,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB39961307",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T22:49:12.413Z",
+      "last_observed_at": "2026-11-14T10:02:11.761Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -176,6 +176,12 @@
       "observations": 6
     },
     {
+      "date": "2026-11-14",
+      "min_price": 29.01,
+      "max_price": 38.03,
+      "observations": 5
+    },
+    {
       "date": "2026-11-06",
       "min_price": 30.6,
       "max_price": 38.03,
@@ -187,13 +193,13 @@
     "min_ever": 29.01,
     "min_ever_at": "2026-11-13",
     "max_ever": 38.03,
-    "distinct_days": 7,
+    "distinct_days": 8,
     "window_days": 14
   },
   "deal": {
     "label": "real",
     "pct_below_median": 1.9,
-    "explanation": "Preço abaixo da mediana observada dos últimos 14 dias (7 dias com leitura)."
+    "explanation": "Preço abaixo da mediana observada dos últimos 14 dias (8 dias com leitura)."
   },
-  "score": 52
+  "score": 56
 }

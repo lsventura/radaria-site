@@ -50,7 +50,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB74334873",
       "affiliate": false,
-      "last_observed_at": "2026-11-14T02:46:12.027Z",
+      "last_observed_at": "2026-11-14T10:00:22.415Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -86,6 +86,12 @@
       "min_price": 125,
       "max_price": 125,
       "observations": 1
+    },
+    {
+      "date": "2026-11-14",
+      "min_price": 125,
+      "max_price": 125,
+      "observations": 1
     }
   ],
   "stats": {
@@ -93,13 +99,13 @@
     "min_ever": 125,
     "min_ever_at": "2026-11-09",
     "max_ever": 125,
-    "distinct_days": 5,
+    "distinct_days": 6,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
     "pct_below_median": 0,
-    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
+    "explanation": "Histórico em formação: 6 de 7 dias distintos na janela de 14."
   },
   "score": 64
 }

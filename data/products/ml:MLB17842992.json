@@ -1,0 +1,113 @@
+{
+  "id": "ml:MLB17842992",
+  "slug": "bicicleta-spinning-embreex-315-condominio-preto-vermelho-20kg-mlb17842992",
+  "title": "Bicicleta Spinning Embreex 315 Condomínio Preto/Vermelho 20kg",
+  "brand": null,
+  "model": null,
+  "category_slug": "esportes-11",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_817878-MLA99592979556_122025-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB7990521934",
+      "condition": "new",
+      "category_slug": "esportes-11",
+      "trust_tier": "check_both",
+      "link_scope": "listing",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3244555548",
+        "name": null,
+        "reputation": null
+      },
+      "price": 7879.3,
+      "currency": "BRL",
+      "store_reference_price": 8294,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://meli.la/2wPAHPD",
+      "affiliate": true,
+      "last_observed_at": "2026-11-14T09:48:11.443Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7990245610",
+      "condition": "new",
+      "category_slug": "esportes-11",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1227436249",
+        "name": null,
+        "reputation": null
+      },
+      "price": 8294,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB17842992",
+      "affiliate": false,
+      "last_observed_at": "2026-11-14T09:48:11.443Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4234222993",
+      "condition": "new",
+      "category_slug": "esportes-11",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "201864176",
+        "name": null,
+        "reputation": null
+      },
+      "price": 8294,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB17842992",
+      "affiliate": false,
+      "last_observed_at": "2026-11-14T09:48:11.443Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-14",
+      "min_price": 7879.3,
+      "max_price": 8294,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 7879.3,
+    "min_ever": 7879.3,
+    "min_ever_at": "2026-11-14",
+    "max_ever": 8294,
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 39
+}

@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB43798946",
       "affiliate": false,
-      "last_observed_at": "2026-11-14T00:41:33.015Z",
+      "last_observed_at": "2026-11-14T06:48:11.393Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -76,6 +76,12 @@
       "observations": 1
     },
     {
+      "date": "2026-11-14",
+      "min_price": 164.85,
+      "max_price": 164.85,
+      "observations": 1
+    },
+    {
       "date": "2026-11-07",
       "min_price": 219.8,
       "max_price": 219.8,
@@ -83,17 +89,17 @@
     }
   ],
   "stats": {
-    "median_90d": 219.8,
+    "median_90d": 192.33,
     "min_ever": 164.85,
     "min_ever_at": "2026-11-11",
     "max_ever": 219.8,
-    "distinct_days": 7,
+    "distinct_days": 8,
     "window_days": 14
   },
   "deal": {
     "label": "real",
-    "pct_below_median": 25,
-    "explanation": "Preço abaixo da mediana observada dos últimos 14 dias (7 dias com leitura)."
+    "pct_below_median": 14.3,
+    "explanation": "Preço abaixo da mediana observada dos últimos 14 dias (8 dias com leitura)."
   },
-  "score": 96
+  "score": 90
 }

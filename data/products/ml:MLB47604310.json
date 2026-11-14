@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB47604310",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T20:18:04.514Z",
+      "last_observed_at": "2026-11-14T08:11:11.012Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -57,7 +57,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB47604310",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T20:18:04.514Z",
+      "last_observed_at": "2026-11-14T08:11:11.012Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,7 +82,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB47604310",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T20:18:04.514Z",
+      "last_observed_at": "2026-11-14T08:11:11.012Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -98,7 +98,7 @@
         "name": null,
         "reputation": "5_green"
       },
-      "price": 222,
+      "price": 199.99,
       "currency": "BRL",
       "store_reference_price": null,
       "official_store": false,
@@ -107,7 +107,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB47604310",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T20:18:04.514Z",
+      "last_observed_at": "2026-11-14T08:11:11.012Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -132,7 +132,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB47604310",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T20:18:04.514Z",
+      "last_observed_at": "2026-11-14T08:11:11.012Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -157,7 +157,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB47604310",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T20:18:04.514Z",
+      "last_observed_at": "2026-11-14T08:11:11.012Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -182,7 +182,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB47604310",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T20:18:04.514Z",
+      "last_observed_at": "2026-11-14T08:11:11.012Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -207,7 +207,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB47604310",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T20:18:04.514Z",
+      "last_observed_at": "2026-11-14T08:11:11.012Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -232,7 +232,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB47604310",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T20:18:04.514Z",
+      "last_observed_at": "2026-11-14T08:11:11.012Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -257,7 +257,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB47604310",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T20:18:04.514Z",
+      "last_observed_at": "2026-11-14T08:11:11.012Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -298,6 +298,12 @@
       "date": "2026-11-13",
       "min_price": 192.99,
       "max_price": 401.75,
+      "observations": 11
+    },
+    {
+      "date": "2026-11-14",
+      "min_price": 192.99,
+      "max_price": 401.75,
       "observations": 10
     },
     {
@@ -312,7 +318,7 @@
     "min_ever": 192.99,
     "min_ever_at": "2026-11-07",
     "max_ever": 401.75,
-    "distinct_days": 7,
+    "distinct_days": 8,
     "window_days": 14
   },
   "deal": {
@@ -320,5 +326,5 @@
     "pct_below_median": 0,
     "explanation": "Preço não está abaixo da mediana observada na janela de 14 dias."
   },
-  "score": 43
+  "score": 51
 }

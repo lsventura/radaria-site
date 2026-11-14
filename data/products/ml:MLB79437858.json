@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB79437858",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T23:24:23.611Z",
+      "last_observed_at": "2026-11-14T08:57:11.674Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -76,6 +76,12 @@
       "observations": 1
     },
     {
+      "date": "2026-11-14",
+      "min_price": 398.09,
+      "max_price": 398.09,
+      "observations": 1
+    },
+    {
       "date": "2026-11-07",
       "min_price": 398.09,
       "max_price": 398.09,
@@ -87,7 +93,7 @@
     "min_ever": 398.09,
     "min_ever_at": "2026-11-07",
     "max_ever": 398.09,
-    "distinct_days": 7,
+    "distinct_days": 8,
     "window_days": 14
   },
   "deal": {
@@ -95,5 +101,5 @@
     "pct_below_median": 0,
     "explanation": "Preço não está abaixo da mediana observada na janela de 14 dias."
   },
-  "score": 68
+  "score": 72
 }

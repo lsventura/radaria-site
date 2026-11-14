@@ -62,7 +62,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB15014115",
       "affiliate": false,
-      "last_observed_at": "2026-11-14T02:30:44.135Z",
+      "last_observed_at": "2026-11-14T09:44:13.618Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -87,7 +87,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB15014115",
       "affiliate": false,
-      "last_observed_at": "2026-11-14T02:30:44.135Z",
+      "last_observed_at": "2026-11-14T09:44:13.618Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -112,7 +112,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB15014115",
       "affiliate": false,
-      "last_observed_at": "2026-11-14T02:30:44.135Z",
+      "last_observed_at": "2026-11-14T09:44:13.618Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -137,7 +137,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB15014115",
       "affiliate": false,
-      "last_observed_at": "2026-11-14T02:30:44.135Z",
+      "last_observed_at": "2026-11-14T09:44:13.618Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -162,7 +162,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB15014115",
       "affiliate": false,
-      "last_observed_at": "2026-11-14T02:30:44.135Z",
+      "last_observed_at": "2026-11-14T09:44:13.618Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -187,7 +187,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB15014115",
       "affiliate": false,
-      "last_observed_at": "2026-11-14T02:30:44.135Z",
+      "last_observed_at": "2026-11-14T09:44:13.618Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -212,7 +212,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB15014115",
       "affiliate": false,
-      "last_observed_at": "2026-11-14T02:30:44.135Z",
+      "last_observed_at": "2026-11-14T09:44:13.618Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -237,7 +237,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB15014115",
       "affiliate": false,
-      "last_observed_at": "2026-11-14T02:30:44.135Z",
+      "last_observed_at": "2026-11-14T09:44:13.618Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -262,7 +262,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB15014115",
       "affiliate": false,
-      "last_observed_at": "2026-11-14T02:30:44.135Z",
+      "last_observed_at": "2026-11-14T09:44:13.618Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -287,7 +287,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB15014115",
       "affiliate": false,
-      "last_observed_at": "2026-11-14T02:30:44.135Z",
+      "last_observed_at": "2026-11-14T09:44:13.618Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -323,20 +323,26 @@
       "min_price": 965.01,
       "max_price": 1258.88,
       "observations": 10
+    },
+    {
+      "date": "2026-11-14",
+      "min_price": 965.01,
+      "max_price": 1258.88,
+      "observations": 10
     }
   ],
   "stats": {
-    "median_90d": 969.99,
+    "median_90d": 967.5,
     "min_ever": 965.01,
     "min_ever_at": "2026-11-12",
     "max_ever": 1258.88,
-    "distinct_days": 5,
+    "distinct_days": 6,
     "window_days": 14
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 0.5,
-    "explanation": "Histórico em formação: 5 de 7 dias distintos na janela de 14."
+    "pct_below_median": 0.3,
+    "explanation": "Histórico em formação: 6 de 7 dias distintos na janela de 14."
   },
   "score": 64
 }

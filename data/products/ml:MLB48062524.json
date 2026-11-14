@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB48062524",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T23:21:22.212Z",
+      "last_observed_at": "2026-11-14T08:31:11.454Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -57,7 +57,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB48062524",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T23:21:22.212Z",
+      "last_observed_at": "2026-11-14T08:31:11.454Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,7 +82,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB48062524",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T23:21:22.212Z",
+      "last_observed_at": "2026-11-14T08:31:11.454Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -107,7 +107,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB48062524",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T23:21:22.212Z",
+      "last_observed_at": "2026-11-14T08:31:11.454Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -149,20 +149,26 @@
       "min_price": 122,
       "max_price": 139.9,
       "observations": 5
+    },
+    {
+      "date": "2026-11-14",
+      "min_price": 123.56,
+      "max_price": 139.9,
+      "observations": 4
     }
   ],
   "stats": {
-    "median_90d": 117.86,
+    "median_90d": 120.81,
     "min_ever": 113.99,
     "min_ever_at": "2026-11-12",
     "max_ever": 139.9,
-    "distinct_days": 6,
+    "distinct_days": 7,
     "window_days": 14
   },
   "deal": {
-    "label": "insufficient_history",
-    "pct_below_median": -4.8,
-    "explanation": "Histórico em formação: 6 de 7 dias distintos na janela de 14."
+    "label": "none",
+    "pct_below_median": -2.3,
+    "explanation": "Preço não está abaixo da mediana observada na janela de 14 dias."
   },
-  "score": 60
+  "score": 72
 }

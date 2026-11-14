@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB66044977",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T21:30:14.017Z",
+      "last_observed_at": "2026-11-14T08:37:11.250Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -57,7 +57,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB66044977",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T21:30:14.017Z",
+      "last_observed_at": "2026-11-14T08:37:11.250Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,7 +82,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB66044977",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T21:30:14.017Z",
+      "last_observed_at": "2026-11-14T08:37:11.250Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -107,7 +107,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB66044977",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T21:30:14.017Z",
+      "last_observed_at": "2026-11-14T08:37:11.250Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -151,6 +151,12 @@
       "observations": 4
     },
     {
+      "date": "2026-11-14",
+      "min_price": 126.39,
+      "max_price": 199,
+      "observations": 4
+    },
+    {
       "date": "2026-11-07",
       "min_price": 132.99,
       "max_price": 199,
@@ -158,17 +164,17 @@
     }
   ],
   "stats": {
-    "median_90d": 131,
+    "median_90d": 128.7,
     "min_ever": 115.89,
     "min_ever_at": "2026-11-12",
     "max_ever": 199,
-    "distinct_days": 7,
+    "distinct_days": 8,
     "window_days": 14
   },
   "deal": {
     "label": "real",
-    "pct_below_median": 3.5,
-    "explanation": "Preço abaixo da mediana observada dos últimos 14 dias (7 dias com leitura)."
+    "pct_below_median": 1.8,
+    "explanation": "Preço abaixo da mediana observada dos últimos 14 dias (8 dias com leitura)."
   },
-  "score": 79
+  "score": 81
 }

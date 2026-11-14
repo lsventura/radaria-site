@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB24805932",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T22:42:15.330Z",
+      "last_observed_at": "2026-11-14T09:44:11.556Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -57,7 +57,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB24805932",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T22:42:15.330Z",
+      "last_observed_at": "2026-11-14T09:44:11.556Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,7 +82,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB24805932",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T22:42:15.330Z",
+      "last_observed_at": "2026-11-14T09:44:11.556Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -107,7 +107,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB24805932",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T22:42:15.330Z",
+      "last_observed_at": "2026-11-14T09:44:11.556Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -149,6 +149,12 @@
       "min_price": 69.84,
       "max_price": 100.9,
       "observations": 4
+    },
+    {
+      "date": "2026-11-14",
+      "min_price": 69.84,
+      "max_price": 100.9,
+      "observations": 4
     }
   ],
   "stats": {
@@ -156,13 +162,13 @@
     "min_ever": 54.6,
     "min_ever_at": "2026-11-08",
     "max_ever": 100.9,
-    "distinct_days": 6,
+    "distinct_days": 7,
     "window_days": 14
   },
   "deal": {
-    "label": "insufficient_history",
+    "label": "none",
     "pct_below_median": -27.9,
-    "explanation": "Histórico em formação: 6 de 7 dias distintos na janela de 14."
+    "explanation": "Preço não está abaixo da mediana observada na janela de 14 dias."
   },
-  "score": 35
+  "score": 47
 }

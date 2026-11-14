@@ -23,16 +23,16 @@
         "name": null,
         "reputation": "5_green"
       },
-      "price": 212,
+      "price": 119.89,
       "currency": "BRL",
-      "store_reference_price": null,
+      "store_reference_price": 212,
       "official_store": false,
       "shipping_price": 0,
       "free_shipping": true,
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB68896232",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T22:03:12.668Z",
+      "last_observed_at": "2026-11-14T09:14:11.463Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -57,7 +57,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB68896232",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T22:03:12.668Z",
+      "last_observed_at": "2026-11-14T09:14:11.463Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,7 +82,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB68896232",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T22:03:12.668Z",
+      "last_observed_at": "2026-11-14T09:14:11.463Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -121,8 +121,14 @@
     },
     {
       "date": "2026-11-13",
-      "min_price": 140.71,
+      "min_price": 119.89,
       "max_price": 212,
+      "observations": 4
+    },
+    {
+      "date": "2026-11-14",
+      "min_price": 119.89,
+      "max_price": 200,
       "observations": 3
     },
     {
@@ -133,17 +139,17 @@
     }
   ],
   "stats": {
-    "median_90d": 140.71,
-    "min_ever": 123.3,
-    "min_ever_at": "2026-11-07",
+    "median_90d": 123.3,
+    "min_ever": 119.89,
+    "min_ever_at": "2026-11-13",
     "max_ever": 212,
-    "distinct_days": 7,
+    "distinct_days": 8,
     "window_days": 14
   },
   "deal": {
-    "label": "none",
-    "pct_below_median": 0,
-    "explanation": "Preço não está abaixo da mediana observada na janela de 14 dias."
+    "label": "real",
+    "pct_below_median": 2.8,
+    "explanation": "Preço abaixo da mediana observada dos últimos 14 dias (8 dias com leitura)."
   },
-  "score": 53
+  "score": 82
 }

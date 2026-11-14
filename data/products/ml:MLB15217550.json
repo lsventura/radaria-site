@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB15217550",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T22:48:12.156Z",
+      "last_observed_at": "2026-11-14T10:00:11.459Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -57,7 +57,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB15217550",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T22:48:12.156Z",
+      "last_observed_at": "2026-11-14T10:00:11.459Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,7 +82,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB15217550",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T22:48:12.156Z",
+      "last_observed_at": "2026-11-14T10:00:11.459Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -107,7 +107,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB15217550",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T22:48:12.156Z",
+      "last_observed_at": "2026-11-14T10:00:11.459Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -132,7 +132,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB15217550",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T22:48:12.156Z",
+      "last_observed_at": "2026-11-14T10:00:11.459Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -157,7 +157,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB15217550",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T22:48:12.156Z",
+      "last_observed_at": "2026-11-14T10:00:11.459Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -182,7 +182,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB15217550",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T22:48:12.156Z",
+      "last_observed_at": "2026-11-14T10:00:11.459Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -207,7 +207,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB15217550",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T22:48:12.156Z",
+      "last_observed_at": "2026-11-14T10:00:11.459Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -232,7 +232,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB15217550",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T22:48:12.156Z",
+      "last_observed_at": "2026-11-14T10:00:11.459Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -257,7 +257,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB15217550",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T22:48:12.156Z",
+      "last_observed_at": "2026-11-14T10:00:11.459Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -301,6 +301,12 @@
       "observations": 10
     },
     {
+      "date": "2026-11-14",
+      "min_price": 230,
+      "max_price": 510,
+      "observations": 10
+    },
+    {
       "date": "2026-11-07",
       "min_price": 249,
       "max_price": 510,
@@ -308,17 +314,17 @@
     }
   ],
   "stats": {
-    "median_90d": 239,
+    "median_90d": 234.5,
     "min_ever": 230,
     "min_ever_at": "2026-11-11",
     "max_ever": 510,
-    "distinct_days": 7,
+    "distinct_days": 8,
     "window_days": 14
   },
   "deal": {
     "label": "real",
-    "pct_below_median": 3.8,
-    "explanation": "Preço abaixo da mediana observada dos últimos 14 dias (7 dias com leitura)."
+    "pct_below_median": 1.9,
+    "explanation": "Preço abaixo da mediana observada dos últimos 14 dias (8 dias com leitura)."
   },
-  "score": 79
+  "score": 81
 }

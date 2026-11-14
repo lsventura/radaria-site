@@ -23,16 +23,16 @@
         "name": null,
         "reputation": null
       },
-      "price": 72.67,
+      "price": 78.99,
       "currency": "BRL",
-      "store_reference_price": 78.99,
+      "store_reference_price": null,
       "official_store": false,
       "shipping_price": null,
       "free_shipping": false,
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB26198487",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T23:29:22.616Z",
+      "last_observed_at": "2026-11-14T06:29:11.177Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -57,7 +57,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB26198487",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T23:29:22.616Z",
+      "last_observed_at": "2026-11-14T06:29:11.177Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,7 +82,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB26198487",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T23:29:22.616Z",
+      "last_observed_at": "2026-11-14T06:29:11.177Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -90,7 +90,7 @@
       "offer_id": "ml:MLB4456668026",
       "condition": "new",
       "category_slug": "arte-e-artesanato-17",
-      "trust_tier": "check_both",
+      "trust_tier": "check_seller",
       "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
@@ -98,16 +98,16 @@
         "name": null,
         "reputation": null
       },
-      "price": 72.97,
+      "price": 81.99,
       "currency": "BRL",
-      "store_reference_price": 81.99,
+      "store_reference_price": null,
       "official_store": false,
-      "shipping_price": null,
+      "shipping_price": 0,
       "free_shipping": false,
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB26198487",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T23:29:22.616Z",
+      "last_observed_at": "2026-11-14T06:29:11.177Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -123,16 +123,16 @@
         "name": null,
         "reputation": null
       },
-      "price": 112.19,
+      "price": 131.99,
       "currency": "BRL",
-      "store_reference_price": 131.99,
+      "store_reference_price": null,
       "official_store": true,
       "shipping_price": 0,
       "free_shipping": true,
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB26198487",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T23:29:22.616Z",
+      "last_observed_at": "2026-11-14T06:29:11.177Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -157,7 +157,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB26198487",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T23:29:22.616Z",
+      "last_observed_at": "2026-11-14T06:29:11.177Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -182,7 +182,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB26198487",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T23:29:22.616Z",
+      "last_observed_at": "2026-11-14T06:29:11.177Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -207,7 +207,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB26198487",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T23:29:22.616Z",
+      "last_observed_at": "2026-11-14T06:29:11.177Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -251,6 +251,12 @@
       "observations": 8
     },
     {
+      "date": "2026-11-14",
+      "min_price": 63.61,
+      "max_price": 131.99,
+      "observations": 8
+    },
+    {
       "date": "2026-11-07",
       "min_price": 63.61,
       "max_price": 107.99,
@@ -261,8 +267,8 @@
     "median_90d": 63.61,
     "min_ever": 63.61,
     "min_ever_at": "2026-11-07",
-    "max_ever": 112.19,
-    "distinct_days": 7,
+    "max_ever": 131.99,
+    "distinct_days": 8,
     "window_days": 14
   },
   "deal": {

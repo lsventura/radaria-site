@@ -1,0 +1,155 @@
+{
+  "id": "ml:MLB25854164",
+  "slug": "step-aerobico-60x30x10-mlb25854164",
+  "title": "Step Aeróbico 60x30x10",
+  "brand": null,
+  "model": null,
+  "category_slug": "fitness-12",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_878294-MLA79502685834_102024-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB5379450701",
+      "condition": "new",
+      "category_slug": "fitness-12",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2986235634",
+        "name": null,
+        "reputation": null
+      },
+      "price": 67.99,
+      "currency": "BRL",
+      "store_reference_price": 78.9,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB25854164",
+      "affiliate": false,
+      "last_observed_at": "2026-11-14T06:33:11.655Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4677363467",
+      "condition": "new",
+      "category_slug": "fitness-12",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3160730981",
+        "name": null,
+        "reputation": null
+      },
+      "price": 67.28,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB25854164",
+      "affiliate": false,
+      "last_observed_at": "2026-11-14T06:33:11.655Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB3899917506",
+      "condition": "new",
+      "category_slug": "fitness-12",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "175346493",
+        "name": null,
+        "reputation": null
+      },
+      "price": 131.1,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": true,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB25854164",
+      "affiliate": false,
+      "last_observed_at": "2026-11-14T06:33:11.655Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-08",
+      "min_price": 67.28,
+      "max_price": 131.1,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-09",
+      "min_price": 67.28,
+      "max_price": 131.1,
+      "observations": 15
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 67.28,
+      "max_price": 131.1,
+      "observations": 6
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 67.28,
+      "max_price": 131.1,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-12",
+      "min_price": 67.28,
+      "max_price": 131.1,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-13",
+      "min_price": 67.28,
+      "max_price": 131.1,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-14",
+      "min_price": 67.28,
+      "max_price": 131.1,
+      "observations": 3
+    },
+    {
+      "date": "2026-11-07",
+      "min_price": 67.28,
+      "max_price": 131.1,
+      "observations": 3
+    }
+  ],
+  "stats": {
+    "median_90d": 67.28,
+    "min_ever": 67.28,
+    "min_ever_at": "2026-11-07",
+    "max_ever": 131.1,
+    "distinct_days": 8,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "none",
+    "pct_below_median": 0,
+    "explanation": "Preço não está abaixo da mediana observada na janela de 14 dias."
+  },
+  "score": 43
+}

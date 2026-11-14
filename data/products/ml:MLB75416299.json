@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB75416299",
       "affiliate": false,
-      "last_observed_at": "2026-11-14T00:00:32.518Z",
+      "last_observed_at": "2026-11-14T08:46:11.253Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -76,6 +76,12 @@
       "observations": 1
     },
     {
+      "date": "2026-11-14",
+      "min_price": 799.9,
+      "max_price": 799.9,
+      "observations": 1
+    },
+    {
       "date": "2026-11-07",
       "min_price": 599.9,
       "max_price": 599.9,
@@ -87,7 +93,7 @@
     "min_ever": 599.9,
     "min_ever_at": "2026-11-07",
     "max_ever": 799.9,
-    "distinct_days": 7,
+    "distinct_days": 8,
     "window_days": 14
   },
   "deal": {
@@ -95,5 +101,5 @@
     "pct_below_median": -33.3,
     "explanation": "Preço não está abaixo da mediana observada na janela de 14 dias."
   },
-  "score": 68
+  "score": 72
 }
