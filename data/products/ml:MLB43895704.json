@@ -32,57 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB43895704",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T17:36:45.052Z",
-      "payment_context": "channel_marketplace",
-      "payment_method": null
-    },
-    {
-      "offer_id": "ml:MLB6167460974",
-      "condition": "new",
-      "category_slug": "arte-e-artesanato-13",
-      "trust_tier": "check_seller",
-      "link_scope": "catalog",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "2909500723",
-        "name": null,
-        "reputation": null
-      },
-      "price": 84.97,
-      "currency": "BRL",
-      "store_reference_price": 92.42,
-      "official_store": false,
-      "shipping_price": 0,
-      "free_shipping": true,
-      "available": true,
-      "url": "https://www.mercadolivre.com.br/p/MLB43895704",
-      "affiliate": false,
-      "last_observed_at": "2026-11-13T17:36:45.052Z",
-      "payment_context": "channel_marketplace",
-      "payment_method": null
-    },
-    {
-      "offer_id": "ml:MLB4426692499",
-      "condition": "new",
-      "category_slug": "arte-e-artesanato-13",
-      "trust_tier": "check_seller",
-      "link_scope": "catalog",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "2909500723",
-        "name": null,
-        "reputation": null
-      },
-      "price": 94.43,
-      "currency": "BRL",
-      "store_reference_price": 103.5,
-      "official_store": false,
-      "shipping_price": 0,
-      "free_shipping": true,
-      "available": true,
-      "url": "https://www.mercadolivre.com.br/p/MLB43895704",
-      "affiliate": false,
-      "last_observed_at": "2026-11-13T17:36:45.052Z",
+      "last_observed_at": "2026-11-13T22:16:12.413Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -92,51 +42,51 @@
     {
       "date": "2026-11-08",
       "min_price": 65.55,
-      "max_price": 93.15,
-      "observations": 12
+      "max_price": 65.55,
+      "observations": 4
     },
     {
       "date": "2026-11-09",
       "min_price": 65.55,
-      "max_price": 93.15,
-      "observations": 12
+      "max_price": 65.55,
+      "observations": 4
     },
     {
       "date": "2026-11-10",
       "min_price": 65.55,
-      "max_price": 93.15,
-      "observations": 9
+      "max_price": 65.55,
+      "observations": 3
     },
     {
       "date": "2026-11-11",
       "min_price": 65.55,
-      "max_price": 93.15,
-      "observations": 3
+      "max_price": 65.55,
+      "observations": 1
     },
     {
       "date": "2026-11-12",
       "min_price": 68.71,
-      "max_price": 94.43,
-      "observations": 3
+      "max_price": 68.71,
+      "observations": 1
     },
     {
       "date": "2026-11-13",
       "min_price": 68.71,
-      "max_price": 94.43,
-      "observations": 3
+      "max_price": 68.71,
+      "observations": 1
     },
     {
       "date": "2026-11-07",
       "min_price": 65.55,
-      "max_price": 93.15,
-      "observations": 3
+      "max_price": 65.55,
+      "observations": 1
     }
   ],
   "stats": {
     "median_90d": 65.55,
     "min_ever": 65.55,
     "min_ever_at": "2026-11-07",
-    "max_ever": 94.43,
+    "max_ever": 68.71,
     "distinct_days": 7,
     "window_days": 14
   },

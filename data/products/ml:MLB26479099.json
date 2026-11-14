@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB26479099",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T15:20:33.020Z",
+      "last_observed_at": "2026-11-13T23:09:19.953Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -57,7 +57,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB26479099",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T15:20:33.020Z",
+      "last_observed_at": "2026-11-13T23:09:19.953Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -73,7 +73,7 @@
         "name": null,
         "reputation": "5_green"
       },
-      "price": 127.36,
+      "price": 124.96,
       "currency": "BRL",
       "store_reference_price": null,
       "official_store": false,
@@ -82,7 +82,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB26479099",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T15:20:33.020Z",
+      "last_observed_at": "2026-11-13T23:09:19.953Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -98,7 +98,7 @@
         "name": null,
         "reputation": null
       },
-      "price": 146.01,
+      "price": 143.61,
       "currency": "BRL",
       "store_reference_price": null,
       "official_store": false,
@@ -107,7 +107,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB26479099",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T15:20:33.020Z",
+      "last_observed_at": "2026-11-13T23:09:19.953Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -146,9 +146,9 @@
     },
     {
       "date": "2026-11-13",
-      "min_price": 127.36,
+      "min_price": 124.96,
       "max_price": 146.01,
-      "observations": 4
+      "observations": 6
     },
     {
       "date": "2026-11-07",
@@ -167,8 +167,8 @@
   },
   "deal": {
     "label": "none",
-    "pct_below_median": -1.9,
+    "pct_below_median": 0,
     "explanation": "Preço não está abaixo da mediana observada na janela de 14 dias."
   },
-  "score": 64
+  "score": 68
 }

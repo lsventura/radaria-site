@@ -23,16 +23,16 @@
         "name": null,
         "reputation": "5_green"
       },
-      "price": 98.93,
+      "price": 149.9,
       "currency": "BRL",
-      "store_reference_price": 149.9,
+      "store_reference_price": null,
       "official_store": false,
       "shipping_price": 0,
       "free_shipping": true,
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB73154881",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T15:55:46.415Z",
+      "last_observed_at": "2026-11-13T23:53:32.148Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -72,8 +72,8 @@
     {
       "date": "2026-11-13",
       "min_price": 98.93,
-      "max_price": 98.93,
-      "observations": 1
+      "max_price": 149.9,
+      "observations": 2
     },
     {
       "date": "2026-11-07",
@@ -86,14 +86,14 @@
     "median_90d": 98.93,
     "min_ever": 95,
     "min_ever_at": "2026-11-11",
-    "max_ever": 98.93,
+    "max_ever": 149.9,
     "distinct_days": 7,
     "window_days": 14
   },
   "deal": {
     "label": "none",
-    "pct_below_median": 0,
+    "pct_below_median": -51.5,
     "explanation": "Preço não está abaixo da mediana observada na janela de 14 dias."
   },
-  "score": 64
+  "score": 68
 }

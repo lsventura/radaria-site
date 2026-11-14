@@ -1,0 +1,69 @@
+{
+  "id": "ml:MLB50554213",
+  "slug": "mesinha-escrivaninha-infantil-e-cadeira-charles-eames-wood-cor-branco-rosa-bebe-mlb50554213",
+  "title": "Mesinha Escrivaninha Infantil E Cadeira Charles Eames Wood Cor Branco/rosa-bebê",
+  "brand": null,
+  "model": null,
+  "category_slug": "moveis-15",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_859516-MLA96714126463_102025-F.jpg"
+  ],
+  "attributes": {},
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB5558247788",
+      "condition": "new",
+      "category_slug": "moveis-15",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "1261424868",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 361.02,
+      "currency": "BRL",
+      "store_reference_price": 393.91,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB50554213",
+      "affiliate": false,
+      "last_observed_at": "2026-11-13T22:59:14.711Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-10",
+      "min_price": 319.06,
+      "max_price": 319.06,
+      "observations": 1
+    },
+    {
+      "date": "2026-11-13",
+      "min_price": 361.02,
+      "max_price": 361.02,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 340.04,
+    "min_ever": 319.06,
+    "min_ever_at": "2026-11-10",
+    "max_ever": 361.02,
+    "distinct_days": 2,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": -6.2,
+    "explanation": "Histórico em formação: 2 de 7 dias distintos na janela de 14."
+  },
+  "score": 60
+}

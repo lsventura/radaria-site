@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB50829128",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T16:21:45.919Z",
+      "last_observed_at": "2026-11-14T00:06:32.109Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -48,16 +48,16 @@
         "name": null,
         "reputation": null
       },
-      "price": 602.07,
+      "price": 398.99,
       "currency": "BRL",
-      "store_reference_price": null,
+      "store_reference_price": 602.07,
       "official_store": true,
       "shipping_price": 0,
       "free_shipping": true,
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB50829128",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T16:21:45.919Z",
+      "last_observed_at": "2026-11-14T00:06:32.109Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,7 +82,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB50829128",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T16:21:45.919Z",
+      "last_observed_at": "2026-11-14T00:06:32.109Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -107,7 +107,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB50829128",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T16:21:45.919Z",
+      "last_observed_at": "2026-11-14T00:06:32.109Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -132,7 +132,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB50829128",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T16:21:45.919Z",
+      "last_observed_at": "2026-11-14T00:06:32.109Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -173,7 +173,7 @@
       "date": "2026-11-13",
       "min_price": 398.99,
       "max_price": 602.07,
-      "observations": 6
+      "observations": 7
     },
     {
       "date": "2026-11-06",
@@ -191,9 +191,9 @@
     "window_days": 14
   },
   "deal": {
-    "label": "none",
-    "pct_below_median": -0.7,
-    "explanation": "Preço não está abaixo da mediana observada na janela de 14 dias."
+    "label": "real",
+    "pct_below_median": 4.3,
+    "explanation": "Preço abaixo da mediana observada dos últimos 14 dias (7 dias com leitura)."
   },
-  "score": 56
+  "score": 80
 }

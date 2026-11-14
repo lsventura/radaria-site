@@ -1,0 +1,71 @@
+{
+  "id": "ml:MLB38511634",
+  "slug": "kit-dermachem-vitamina-c-4-produtos-mlb38511634",
+  "title": "Kit Dermachem Vitamina C 4 Produtos",
+  "brand": "Dermachem",
+  "model": null,
+  "category_slug": "geral",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_862988-MLU77637456414_072024-F.jpg"
+  ],
+  "attributes": {
+    "GTIN": "7802151496670",
+    "NAME": "Kit dermachem vitamina c 4 produtos",
+    "BRAND": "Dermachem",
+    "FUNCTIONS": "Limpeza, Esfoliante, Revitalização, Anti-Idade, Demaquilante",
+    "UNITS_PER_PACK": "1",
+    "INGREDIENT_PREFERENCES": "Vitamina C, Ácido hialurônico, Vitamina E, Bambu, Luffa Vegetal",
+    "IS_DERMATOLOGICALLY_TESTED": "Sim"
+  },
+  "catalog_link": null,
+  "offers": [
+    {
+      "offer_id": "ml:MLB5557173331",
+      "condition": "new",
+      "category_slug": "geral",
+      "trust_tier": "check_seller",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3726868531",
+        "name": null,
+        "reputation": null
+      },
+      "price": 77.9,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB38511634",
+      "affiliate": false,
+      "last_observed_at": "2026-11-14T02:45:27.420Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    }
+  ],
+  "payment_offers": [],
+  "history": [
+    {
+      "date": "2026-11-13",
+      "min_price": 77.9,
+      "max_price": 77.9,
+      "observations": 1
+    }
+  ],
+  "stats": {
+    "median_90d": 77.9,
+    "min_ever": 77.9,
+    "min_ever_at": "2026-11-13",
+    "max_ever": 77.9,
+    "distinct_days": 1,
+    "window_days": 14
+  },
+  "deal": {
+    "label": "insufficient_history",
+    "pct_below_median": 0,
+    "explanation": "Histórico em formação: 1 de 7 dias distintos na janela de 14."
+  },
+  "score": 47
+}

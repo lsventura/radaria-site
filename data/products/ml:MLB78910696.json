@@ -15,7 +15,7 @@
       "offer_id": "ml:MLB7614728546",
       "condition": "new",
       "category_slug": "esportes-13",
-      "trust_tier": "check_shipping",
+      "trust_tier": "recommended",
       "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
@@ -23,16 +23,16 @@
         "name": null,
         "reputation": "5_green"
       },
-      "price": 72.99,
+      "price": 76.45,
       "currency": "BRL",
       "store_reference_price": 139,
       "official_store": false,
-      "shipping_price": null,
+      "shipping_price": 0,
       "free_shipping": false,
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB78910696",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T16:31:44.618Z",
+      "last_observed_at": "2026-11-14T00:12:33.819Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -72,8 +72,8 @@
     {
       "date": "2026-11-13",
       "min_price": 72.99,
-      "max_price": 72.99,
-      "observations": 1
+      "max_price": 76.45,
+      "observations": 2
     },
     {
       "date": "2026-11-07",
@@ -91,9 +91,9 @@
     "window_days": 14
   },
   "deal": {
-    "label": "real",
-    "pct_below_median": 1.4,
-    "explanation": "Preço abaixo da mediana observada dos últimos 14 dias (7 dias com leitura)."
+    "label": "none",
+    "pct_below_median": -3.3,
+    "explanation": "Preço não está abaixo da mediana observada na janela de 14 dias."
   },
-  "score": 69
+  "score": 68
 }

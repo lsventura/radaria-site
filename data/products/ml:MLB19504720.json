@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB19504720",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T18:06:43.411Z",
+      "last_observed_at": "2026-11-13T22:08:11.713Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -57,7 +57,32 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB19504720",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T18:06:43.411Z",
+      "last_observed_at": "2026-11-13T22:08:11.713Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB6857962290",
+      "condition": "new",
+      "category_slug": "beleza-10",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3035851465",
+        "name": null,
+        "reputation": null
+      },
+      "price": 23.7,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB19504720",
+      "affiliate": false,
+      "last_observed_at": "2026-11-13T22:08:11.713Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,7 +107,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB19504720",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T18:06:43.411Z",
+      "last_observed_at": "2026-11-13T22:08:11.713Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -107,7 +132,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB19504720",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T18:06:43.411Z",
+      "last_observed_at": "2026-11-13T22:08:11.713Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -132,7 +157,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB19504720",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T18:06:43.411Z",
+      "last_observed_at": "2026-11-13T22:08:11.713Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -141,15 +166,15 @@
   "history": [
     {
       "date": "2026-11-08",
-      "min_price": 26.16,
+      "min_price": 22.51,
       "max_price": 34.9,
-      "observations": 20
+      "observations": 24
     },
     {
       "date": "2026-11-09",
-      "min_price": 26.16,
+      "min_price": 22.51,
       "max_price": 34.9,
-      "observations": 15
+      "observations": 18
     },
     {
       "date": "2026-11-10",
@@ -171,14 +196,14 @@
     },
     {
       "date": "2026-11-13",
-      "min_price": 26.16,
+      "min_price": 23.7,
       "max_price": 34.9,
-      "observations": 5
+      "observations": 6
     }
   ],
   "stats": {
-    "median_90d": 26.16,
-    "min_ever": 26.16,
+    "median_90d": 24.93,
+    "min_ever": 22.51,
     "min_ever_at": "2026-11-08",
     "max_ever": 34.9,
     "distinct_days": 6,
@@ -186,7 +211,7 @@
   },
   "deal": {
     "label": "insufficient_history",
-    "pct_below_median": 0,
+    "pct_below_median": 4.9,
     "explanation": "Histórico em formação: 6 de 7 dias distintos na janela de 14."
   },
   "score": 35

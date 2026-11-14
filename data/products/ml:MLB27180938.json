@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB27180938",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T17:17:43.521Z",
+      "last_observed_at": "2026-11-14T00:35:33.413Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -57,7 +57,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB27180938",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T17:17:43.521Z",
+      "last_observed_at": "2026-11-14T00:35:33.413Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,32 +82,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB27180938",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T17:17:43.521Z",
-      "payment_context": "channel_marketplace",
-      "payment_method": null
-    },
-    {
-      "offer_id": "ml:MLB5519156868",
-      "condition": "new",
-      "category_slug": "casa-inteligente-9",
-      "trust_tier": "check_both",
-      "link_scope": "catalog",
-      "store": "mercadolivre",
-      "seller": {
-        "id": "2416300063",
-        "name": null,
-        "reputation": null
-      },
-      "price": 26.71,
-      "currency": "BRL",
-      "store_reference_price": null,
-      "official_store": false,
-      "shipping_price": null,
-      "free_shipping": false,
-      "available": true,
-      "url": "https://www.mercadolivre.com.br/p/MLB27180938",
-      "affiliate": false,
-      "last_observed_at": "2026-11-13T17:17:43.521Z",
+      "last_observed_at": "2026-11-14T00:35:33.413Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -117,51 +92,51 @@
     {
       "date": "2026-11-08",
       "min_price": 24.26,
-      "max_price": 26.71,
-      "observations": 4
+      "max_price": 26,
+      "observations": 3
     },
     {
       "date": "2026-11-09",
       "min_price": 24.26,
-      "max_price": 26.71,
-      "observations": 20
+      "max_price": 26,
+      "observations": 15
     },
     {
       "date": "2026-11-10",
       "min_price": 24.26,
-      "max_price": 26.71,
-      "observations": 8
+      "max_price": 26,
+      "observations": 6
     },
     {
       "date": "2026-11-11",
       "min_price": 24.26,
-      "max_price": 26.71,
-      "observations": 4
+      "max_price": 26,
+      "observations": 3
     },
     {
       "date": "2026-11-12",
       "min_price": 24.26,
-      "max_price": 26.71,
-      "observations": 4
+      "max_price": 26,
+      "observations": 3
     },
     {
       "date": "2026-11-13",
       "min_price": 24.26,
-      "max_price": 26.71,
-      "observations": 4
+      "max_price": 26,
+      "observations": 3
     },
     {
       "date": "2026-11-07",
       "min_price": 24.26,
-      "max_price": 26.71,
-      "observations": 4
+      "max_price": 26,
+      "observations": 3
     }
   ],
   "stats": {
     "median_90d": 24.26,
     "min_ever": 24.26,
     "min_ever_at": "2026-11-07",
-    "max_ever": 26.71,
+    "max_ever": 26,
     "distinct_days": 7,
     "window_days": 14
   },

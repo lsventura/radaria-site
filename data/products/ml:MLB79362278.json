@@ -32,7 +32,32 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB79362278",
       "affiliate": false,
-      "last_observed_at": "2026-11-13T17:49:46.636Z",
+      "last_observed_at": "2026-11-13T21:55:12.738Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB5506557155",
+      "condition": "new",
+      "category_slug": "esportes-18",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3533000953",
+        "name": null,
+        "reputation": null
+      },
+      "price": 32.16,
+      "currency": "BRL",
+      "store_reference_price": 69.9,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB79362278",
+      "affiliate": false,
+      "last_observed_at": "2026-11-13T21:55:12.738Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -41,21 +66,21 @@
   "history": [
     {
       "date": "2026-11-08",
-      "min_price": 33.52,
+      "min_price": 32.16,
       "max_price": 33.52,
-      "observations": 1
+      "observations": 2
     },
     {
       "date": "2026-11-09",
-      "min_price": 33.52,
+      "min_price": 32.16,
       "max_price": 33.52,
-      "observations": 4
+      "observations": 8
     },
     {
       "date": "2026-11-10",
-      "min_price": 33.52,
+      "min_price": 32.16,
       "max_price": 33.52,
-      "observations": 3
+      "observations": 6
     },
     {
       "date": "2026-11-11",
@@ -71,14 +96,14 @@
     },
     {
       "date": "2026-11-13",
-      "min_price": 33.52,
+      "min_price": 32.16,
       "max_price": 33.52,
-      "observations": 1
+      "observations": 2
     }
   ],
   "stats": {
-    "median_90d": 33.52,
-    "min_ever": 33.52,
+    "median_90d": 32.16,
+    "min_ever": 32.16,
     "min_ever_at": "2026-11-08",
     "max_ever": 33.52,
     "distinct_days": 6,
@@ -89,5 +114,5 @@
     "pct_below_median": 0,
     "explanation": "Histórico em formação: 6 de 7 dias distintos na janela de 14."
   },
-  "score": 45
+  "score": 35
 }
