@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-14T10:06:40.911Z",
+  "generated_at": "2026-11-14T16:54:53.833Z",
   "schema_version": "radaria-ops/v1",
   "funnel": {
-    "discovered": 112938,
-    "distinct": 50934,
+    "discovered": 112941,
+    "distinct": 50935,
     "with_photo": 50693,
-    "audited_approved": 13659,
+    "audited_approved": 13674,
     "with_affiliate": 11893,
-    "published": 1,
-    "fresh_history_24h": 1
+    "published": 2,
+    "fresh_history_24h": 2
   },
   "basis": "latest_listing_decision_rolled_up_to_product",
   "definitions": {
@@ -26,12 +26,12 @@
   },
   "activity_24h": {
     "telegram_posted": 0,
-    "affiliate_links_generated": 145
+    "affiliate_links_generated": 109
   },
   "by_status": {
-    "approved": 13668,
+    "approved": 13683,
     "rejected": 0,
-    "source_unavailable": 733,
+    "source_unavailable": 742,
     "pending": 3
   },
   "status_check": {
@@ -41,7 +41,7 @@
     {
       "slug": "geral",
       "name": "Geral",
-      "count": 2803
+      "count": 2804
     },
     {
       "slug": "celulares",
@@ -243,22 +243,22 @@
     {
       "from": "distinct",
       "to": "with_photo",
-      "ratio": 0.9953
+      "ratio": 0.9952
     },
     {
       "from": "with_photo",
       "to": "audited_approved",
-      "ratio": 0.2694
+      "ratio": 0.2697
     },
     {
       "from": "audited_approved",
       "to": "with_affiliate",
-      "ratio": 0.8707
+      "ratio": 0.8698
     },
     {
       "from": "with_affiliate",
       "to": "published",
-      "ratio": 0.0001
+      "ratio": 0.0002
     },
     {
       "from": "published",
@@ -267,78 +267,76 @@
     }
   ],
   "queues": {
-    "audit": 17,
     "curate": 1,
-    "discover": 1,
-    "refresh": 135
+    "refresh": 60
   },
   "errors_by_source": [
     {
       "source": "mercadolivre",
       "http_status": 400,
-      "count_24h": 7
+      "count_24h": 8
     },
     {
       "source": "mercadolivre",
       "http_status": 404,
-      "count_24h": 21238
+      "count_24h": 4109
     },
     {
       "source": "mercadolivre",
       "http_status": 429,
-      "count_24h": 3
+      "count_24h": 4
     }
   ],
   "last_success": {
-    "affiliate": "2026-11-14T09:08:23.223Z",
-    "audit": "2026-11-14T10:06:40.216Z",
-    "coupons": "2026-11-14T09:56:56.075Z",
-    "curate": "2026-11-14T10:05:39.130Z",
-    "discover": "2026-11-14T10:06:40.650Z",
-    "export": "2026-11-14T02:59:48.610Z",
+    "affiliate": "2026-11-14T16:24:45.840Z",
+    "audit": "2026-11-14T16:54:52.867Z",
+    "coupons": "2026-11-14T16:45:57.334Z",
+    "curate": "2026-11-14T16:54:11.324Z",
+    "discover": "2026-11-14T16:54:00.126Z",
+    "export": "2026-11-14T10:08:56.465Z",
     "publish-telegram": "2026-11-11T12:15:13.280Z",
-    "refresh": "2026-11-14T10:06:37.560Z"
+    "refresh": "2026-11-14T16:54:31.475Z"
   },
   "last_run": {
     "affiliate": {
-      "at": "2026-11-14T10:07:48.335Z",
+      "at": "2026-11-14T16:55:58.233Z",
       "status": "skipped"
     },
     "audit": {
-      "at": "2026-11-14T10:07:53.143Z",
+      "at": "2026-11-14T16:55:15.115Z",
       "status": "success"
     },
     "coupons": {
-      "at": "2026-11-14T09:56:56.075Z",
+      "at": "2026-11-14T16:45:57.334Z",
       "status": "success"
     },
     "curate": {
-      "at": "2026-11-14T10:07:45.724Z",
+      "at": "2026-11-14T16:55:59.108Z",
       "status": "success"
     },
     "discover": {
-      "at": "2026-11-14T10:07:50.715Z",
+      "at": "2026-11-14T16:56:14.945Z",
       "status": "success"
     },
     "export": {
-      "at": "2026-11-14T02:59:48.610Z",
+      "at": "2026-11-14T10:08:56.465Z",
       "status": "success"
     },
     "publish-telegram": {
-      "at": "2026-11-14T09:58:21.135Z",
-      "status": "skipped"
+      "at": "2026-11-14T16:46:28.091Z",
+      "status": "empty"
     },
     "refresh": {
-      "at": "2026-11-14T10:08:19.217Z",
+      "at": "2026-11-14T16:56:18.648Z",
       "status": "success"
     }
   },
   "throughput_per_hour": {
     "affiliate": 2,
-    "audit": 879,
+    "audit": 887,
     "coupons": 3,
     "curate": 59,
-    "discover": 60,
-    "refresh": 3546
+    "discover": 58,
+    "refresh": 3577
   }
 }

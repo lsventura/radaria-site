@@ -23,16 +23,16 @@
         "name": null,
         "reputation": "5_green"
       },
-      "price": 1442.48,
+      "price": 1898,
       "currency": "BRL",
-      "store_reference_price": 1898,
+      "store_reference_price": null,
       "official_store": false,
       "shipping_price": 0,
       "free_shipping": true,
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB68774437",
       "affiliate": false,
-      "last_observed_at": "2026-11-14T09:10:11.262Z",
+      "last_observed_at": "2026-11-14T13:12:45.949Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -57,7 +57,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB68774437",
       "affiliate": false,
-      "last_observed_at": "2026-11-14T09:10:11.262Z",
+      "last_observed_at": "2026-11-14T13:12:45.949Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,7 +82,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB68774437",
       "affiliate": false,
-      "last_observed_at": "2026-11-14T09:10:11.262Z",
+      "last_observed_at": "2026-11-14T13:12:45.949Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -107,7 +107,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB68774437",
       "affiliate": false,
-      "last_observed_at": "2026-11-14T09:10:11.262Z",
+      "last_observed_at": "2026-11-14T13:12:45.949Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -153,8 +153,8 @@
     {
       "date": "2026-11-14",
       "min_price": 1442.48,
-      "max_price": 1499.9,
-      "observations": 4
+      "max_price": 1898,
+      "observations": 5
     },
     {
       "date": "2026-11-07",
@@ -173,8 +173,8 @@
   },
   "deal": {
     "label": "none",
-    "pct_below_median": 0,
+    "pct_below_median": -3.8,
     "explanation": "Preço não está abaixo da mediana observada na janela de 14 dias."
   },
-  "score": 72
+  "score": 68
 }

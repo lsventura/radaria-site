@@ -34,7 +34,7 @@
         "name": null,
         "reputation": null
       },
-      "price": 70.02,
+      "price": 70,
       "currency": "BRL",
       "store_reference_price": null,
       "official_store": true,
@@ -43,7 +43,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB74241128",
       "affiliate": false,
-      "last_observed_at": "2026-11-14T09:30:11.651Z",
+      "last_observed_at": "2026-11-14T16:09:38.922Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -82,13 +82,13 @@
     },
     {
       "date": "2026-11-14",
-      "min_price": 70.02,
+      "min_price": 70,
       "max_price": 70.02,
-      "observations": 1
+      "observations": 2
     }
   ],
   "stats": {
-    "median_90d": 70.02,
+    "median_90d": 70.01,
     "min_ever": 69.97,
     "min_ever_at": "2026-11-12",
     "max_ever": 70.04,

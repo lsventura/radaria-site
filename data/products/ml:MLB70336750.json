@@ -23,7 +23,7 @@
         "name": null,
         "reputation": "5_green"
       },
-      "price": 279.99,
+      "price": 258,
       "currency": "BRL",
       "store_reference_price": 593.01,
       "official_store": false,
@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB70336750",
       "affiliate": false,
-      "last_observed_at": "2026-11-14T08:16:11.363Z",
+      "last_observed_at": "2026-11-14T16:17:33.152Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -77,9 +77,9 @@
     },
     {
       "date": "2026-11-14",
-      "min_price": 279.99,
+      "min_price": 258,
       "max_price": 279.99,
-      "observations": 1
+      "observations": 2
     },
     {
       "date": "2026-11-07",
@@ -89,7 +89,7 @@
     }
   ],
   "stats": {
-    "median_90d": 277.27,
+    "median_90d": 271.28,
     "min_ever": 258,
     "min_ever_at": "2026-11-11",
     "max_ever": 289,
@@ -97,9 +97,9 @@
     "window_days": 14
   },
   "deal": {
-    "label": "none",
-    "pct_below_median": -1,
-    "explanation": "Preço não está abaixo da mediana observada na janela de 14 dias."
+    "label": "real",
+    "pct_below_median": 4.9,
+    "explanation": "Preço abaixo da mediana observada dos últimos 14 dias (8 dias com leitura)."
   },
-  "score": 72
+  "score": 84
 }

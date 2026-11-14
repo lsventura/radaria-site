@@ -60,7 +60,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB75494824",
       "affiliate": false,
-      "last_observed_at": "2026-11-14T09:58:18.433Z",
+      "last_observed_at": "2026-11-14T16:41:53.720Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -68,7 +68,7 @@
       "offer_id": "ml:MLB5114093041",
       "condition": "new",
       "category_slug": "geral",
-      "trust_tier": "check_shipping",
+      "trust_tier": "recommended",
       "link_scope": "catalog",
       "store": "mercadolivre",
       "seller": {
@@ -80,12 +80,12 @@
       "currency": "BRL",
       "store_reference_price": 71.52,
       "official_store": true,
-      "shipping_price": null,
-      "free_shipping": false,
+      "shipping_price": 0,
+      "free_shipping": true,
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB75494824",
       "affiliate": false,
-      "last_observed_at": "2026-11-14T09:58:18.433Z",
+      "last_observed_at": "2026-11-14T16:41:53.720Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -126,7 +126,7 @@
       "date": "2026-11-14",
       "min_price": 60.79,
       "max_price": 84.15,
-      "observations": 2
+      "observations": 3
     }
   ],
   "stats": {
@@ -142,5 +142,5 @@
     "pct_below_median": 0,
     "explanation": "Histórico em formação: 6 de 7 dias distintos na janela de 14."
   },
-  "score": 56
+  "score": 64
 }

@@ -32,7 +32,32 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB62978763",
       "affiliate": false,
-      "last_observed_at": "2026-11-14T08:36:11.564Z",
+      "last_observed_at": "2026-11-14T16:43:38.552Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB7955125608",
+      "condition": "new",
+      "category_slug": "brinquedos-2",
+      "trust_tier": "check_both",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "3397632026",
+        "name": null,
+        "reputation": null
+      },
+      "price": 43.95,
+      "currency": "BRL",
+      "store_reference_price": 65,
+      "official_store": false,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB62978763",
+      "affiliate": false,
+      "last_observed_at": "2026-11-14T16:43:38.552Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -42,57 +67,57 @@
     {
       "date": "2026-11-08",
       "min_price": 35.55,
-      "max_price": 35.55,
-      "observations": 1
+      "max_price": 43.95,
+      "observations": 2
     },
     {
       "date": "2026-11-09",
       "min_price": 35.55,
-      "max_price": 35.55,
-      "observations": 4
+      "max_price": 43.95,
+      "observations": 8
     },
     {
       "date": "2026-11-10",
       "min_price": 35.55,
-      "max_price": 35.55,
-      "observations": 3
+      "max_price": 43.95,
+      "observations": 6
     },
     {
       "date": "2026-11-11",
       "min_price": 35.55,
-      "max_price": 35.55,
-      "observations": 1
+      "max_price": 43.95,
+      "observations": 2
     },
     {
       "date": "2026-11-12",
       "min_price": 35.55,
-      "max_price": 35.55,
-      "observations": 1
+      "max_price": 43.95,
+      "observations": 2
     },
     {
       "date": "2026-11-13",
       "min_price": 35.55,
-      "max_price": 35.55,
-      "observations": 1
+      "max_price": 43.95,
+      "observations": 2
     },
     {
       "date": "2026-11-14",
       "min_price": 35.55,
-      "max_price": 35.55,
-      "observations": 1
+      "max_price": 43.95,
+      "observations": 2
     },
     {
       "date": "2026-11-07",
       "min_price": 35.55,
-      "max_price": 35.55,
-      "observations": 1
+      "max_price": 43.95,
+      "observations": 2
     }
   ],
   "stats": {
     "median_90d": 35.55,
     "min_ever": 35.55,
     "min_ever_at": "2026-11-07",
-    "max_ever": 35.55,
+    "max_ever": 43.95,
     "distinct_days": 8,
     "window_days": 14
   },

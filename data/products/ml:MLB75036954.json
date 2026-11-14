@@ -23,7 +23,7 @@
         "name": null,
         "reputation": null
       },
-      "price": 62.42,
+      "price": 65.14,
       "currency": "BRL",
       "store_reference_price": 69.3,
       "official_store": false,
@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB75036954",
       "affiliate": false,
-      "last_observed_at": "2026-11-14T07:32:11.307Z",
+      "last_observed_at": "2026-11-14T15:32:21.717Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -78,8 +78,8 @@
     {
       "date": "2026-11-14",
       "min_price": 62.42,
-      "max_price": 62.42,
-      "observations": 1
+      "max_price": 65.14,
+      "observations": 2
     },
     {
       "date": "2026-11-07",
@@ -98,7 +98,7 @@
   },
   "deal": {
     "label": "real",
-    "pct_below_median": 7.1,
+    "pct_below_median": 3.1,
     "explanation": "Preço abaixo da mediana observada dos últimos 14 dias (8 dias com leitura)."
   },
   "score": 58

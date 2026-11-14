@@ -32,7 +32,32 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB75428687",
       "affiliate": false,
-      "last_observed_at": "2026-11-14T08:08:11.565Z",
+      "last_observed_at": "2026-11-14T16:09:36.456Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4478718095",
+      "condition": "new",
+      "category_slug": "tv-e-audio-15",
+      "trust_tier": "check_shipping",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "2336392512",
+        "name": null,
+        "reputation": null
+      },
+      "price": 49.12,
+      "currency": "BRL",
+      "store_reference_price": 68.7,
+      "official_store": true,
+      "shipping_price": null,
+      "free_shipping": false,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB75428687",
+      "affiliate": false,
+      "last_observed_at": "2026-11-14T16:09:36.456Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -43,7 +68,7 @@
       "date": "2026-11-08",
       "min_price": 49.05,
       "max_price": 49.05,
-      "observations": 1
+      "observations": 2
     },
     {
       "date": "2026-11-09",
@@ -55,13 +80,13 @@
       "date": "2026-11-10",
       "min_price": 49.05,
       "max_price": 49.05,
-      "observations": 3
+      "observations": 4
     },
     {
       "date": "2026-11-11",
       "min_price": 49.05,
       "max_price": 49.05,
-      "observations": 1
+      "observations": 2
     },
     {
       "date": "2026-11-12",
@@ -78,21 +103,21 @@
     {
       "date": "2026-11-14",
       "min_price": 49.05,
-      "max_price": 49.05,
-      "observations": 1
+      "max_price": 49.12,
+      "observations": 2
     },
     {
       "date": "2026-11-07",
       "min_price": 49.05,
       "max_price": 49.05,
-      "observations": 1
+      "observations": 2
     }
   ],
   "stats": {
     "median_90d": 49.05,
     "min_ever": 49.05,
     "min_ever_at": "2026-11-07",
-    "max_ever": 49.05,
+    "max_ever": 49.12,
     "distinct_days": 8,
     "window_days": 14
   },

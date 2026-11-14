@@ -23,7 +23,7 @@
         "name": null,
         "reputation": null
       },
-      "price": 379.9,
+      "price": 368.5,
       "currency": "BRL",
       "store_reference_price": 617.53,
       "official_store": true,
@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB55846066",
       "affiliate": false,
-      "last_observed_at": "2026-11-14T08:01:10.948Z",
+      "last_observed_at": "2026-11-14T16:02:33.261Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -77,23 +77,23 @@
     },
     {
       "date": "2026-11-14",
-      "min_price": 379.9,
+      "min_price": 368.5,
       "max_price": 379.9,
-      "observations": 1
+      "observations": 2
     }
   ],
   "stats": {
     "median_90d": 379.9,
-    "min_ever": 370,
-    "min_ever_at": "2026-11-11",
+    "min_ever": 368.5,
+    "min_ever_at": "2026-11-14",
     "max_ever": 446.01,
     "distinct_days": 7,
     "window_days": 14
   },
   "deal": {
-    "label": "none",
-    "pct_below_median": 0,
-    "explanation": "Preço não está abaixo da mediana observada na janela de 14 dias."
+    "label": "real",
+    "pct_below_median": 3,
+    "explanation": "Preço abaixo da mediana observada dos últimos 14 dias (7 dias com leitura)."
   },
-  "score": 68
+  "score": 83
 }

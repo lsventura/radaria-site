@@ -23,7 +23,7 @@
         "name": null,
         "reputation": null
       },
-      "price": 16254.43,
+      "price": 16757.14,
       "currency": "BRL",
       "store_reference_price": 18619.05,
       "official_store": true,
@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB45262698",
       "affiliate": false,
-      "last_observed_at": "2026-11-14T07:30:11.454Z",
+      "last_observed_at": "2026-11-14T15:29:18.965Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -57,7 +57,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB45262698",
       "affiliate": false,
-      "last_observed_at": "2026-11-14T07:30:11.454Z",
+      "last_observed_at": "2026-11-14T15:29:18.965Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -73,7 +73,7 @@
         "name": null,
         "reputation": null
       },
-      "price": 17490.15,
+      "price": 18031.08,
       "currency": "BRL",
       "store_reference_price": 19599,
       "official_store": true,
@@ -82,7 +82,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB45262698",
       "affiliate": false,
-      "last_observed_at": "2026-11-14T07:30:11.454Z",
+      "last_observed_at": "2026-11-14T15:29:18.965Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -107,7 +107,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB45262698",
       "affiliate": false,
-      "last_observed_at": "2026-11-14T07:30:11.454Z",
+      "last_observed_at": "2026-11-14T15:29:18.965Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -154,7 +154,7 @@
       "date": "2026-11-14",
       "min_price": 16254.43,
       "max_price": 19599,
-      "observations": 4
+      "observations": 6
     },
     {
       "date": "2026-11-06",
@@ -173,8 +173,8 @@
   },
   "deal": {
     "label": "none",
-    "pct_below_median": 0,
+    "pct_below_median": -3.1,
     "explanation": "Preço não está abaixo da mediana observada na janela de 14 dias."
   },
-  "score": 60
+  "score": 64
 }

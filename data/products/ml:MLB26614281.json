@@ -32,7 +32,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB26614281",
       "affiliate": false,
-      "last_observed_at": "2026-11-14T06:31:11.179Z",
+      "last_observed_at": "2026-11-14T14:26:05.472Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -57,7 +57,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB26614281",
       "affiliate": false,
-      "last_observed_at": "2026-11-14T06:31:11.179Z",
+      "last_observed_at": "2026-11-14T14:26:05.472Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -82,7 +82,7 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB26614281",
       "affiliate": false,
-      "last_observed_at": "2026-11-14T06:31:11.179Z",
+      "last_observed_at": "2026-11-14T14:26:05.472Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     },
@@ -107,7 +107,32 @@
       "available": true,
       "url": "https://www.mercadolivre.com.br/p/MLB26614281",
       "affiliate": false,
-      "last_observed_at": "2026-11-14T06:31:11.179Z",
+      "last_observed_at": "2026-11-14T14:26:05.472Z",
+      "payment_context": "channel_marketplace",
+      "payment_method": null
+    },
+    {
+      "offer_id": "ml:MLB4592711512",
+      "condition": "new",
+      "category_slug": "brinquedos-12",
+      "trust_tier": "recommended",
+      "link_scope": "catalog",
+      "store": "mercadolivre",
+      "seller": {
+        "id": "816377915",
+        "name": null,
+        "reputation": "5_green"
+      },
+      "price": 135,
+      "currency": "BRL",
+      "store_reference_price": null,
+      "official_store": false,
+      "shipping_price": 0,
+      "free_shipping": true,
+      "available": true,
+      "url": "https://www.mercadolivre.com.br/p/MLB26614281",
+      "affiliate": false,
+      "last_observed_at": "2026-11-14T14:26:05.472Z",
       "payment_context": "channel_marketplace",
       "payment_method": null
     }
@@ -116,33 +141,33 @@
   "history": [
     {
       "date": "2026-11-08",
-      "min_price": 169,
-      "max_price": 189,
-      "observations": 4
-    },
-    {
-      "date": "2026-11-09",
-      "min_price": 169,
-      "max_price": 189,
-      "observations": 14
-    },
-    {
-      "date": "2026-11-10",
-      "min_price": 169,
+      "min_price": 124,
       "max_price": 189,
       "observations": 5
     },
     {
-      "date": "2026-11-11",
-      "min_price": 169,
+      "date": "2026-11-09",
+      "min_price": 124,
       "max_price": 189,
-      "observations": 4
+      "observations": 18
+    },
+    {
+      "date": "2026-11-10",
+      "min_price": 124,
+      "max_price": 189,
+      "observations": 7
+    },
+    {
+      "date": "2026-11-11",
+      "min_price": 124,
+      "max_price": 189,
+      "observations": 5
     },
     {
       "date": "2026-11-12",
-      "min_price": 169,
+      "min_price": 124,
       "max_price": 189,
-      "observations": 4
+      "observations": 5
     },
     {
       "date": "2026-11-13",
@@ -152,20 +177,20 @@
     },
     {
       "date": "2026-11-14",
-      "min_price": 169,
+      "min_price": 135,
       "max_price": 189,
-      "observations": 4
+      "observations": 5
     },
     {
       "date": "2026-11-07",
-      "min_price": 169,
+      "min_price": 124,
       "max_price": 189,
-      "observations": 4
+      "observations": 5
     }
   ],
   "stats": {
-    "median_90d": 169,
-    "min_ever": 169,
+    "median_90d": 124,
+    "min_ever": 124,
     "min_ever_at": "2026-11-07",
     "max_ever": 189,
     "distinct_days": 8,
@@ -173,7 +198,7 @@
   },
   "deal": {
     "label": "none",
-    "pct_below_median": 0,
+    "pct_below_median": -8.9,
     "explanation": "Preço não está abaixo da mediana observada na janela de 14 dias."
   },
   "score": 68
